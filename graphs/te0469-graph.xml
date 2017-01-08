@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="Don Antonio." label="Don Antonio." />
+      <node id="Don Martin." label="Don Martin." />
+      <node id="Mon Martin." label="Mon Martin." />
+      <node id="Gil." label="Gil." />
+      <node id="Vn Alguazil." label="Vn Alguazil." />
+      <node id="Caramanchel." label="Caramanchel." />
+      <node id="Celio." label="Celio." />
+      <node id="Quintana." label="Quintana." />
+      <node id="Ossorio." label="Ossorio." />
+      <node id="Don Pedro." label="Don Pedro." />
+      <node id="Don Diego." label="Don Diego." />
+      <node id="(unknown)" label="(unknown)" />
+      <node id="Doña Ynes." label="Doña Ynes." />
+      <node id="Vn criado." label="Vn criado." />
+      <node id="Dec." label="Dec." />
+      <node id="Doña Clara." label="Doña Clara." />
+      <node id="Valdiviesso escudero." label="Valdiviesso escudero." />
+      <node id="Doña Iuana." label="Doña Iuana." />
+      <node id="Fab." label="Fab." />
+    </nodes>
+    <edges>
+      <edge id="0" source="Don Antonio." target="Celio." weight="15" />
+      <edge id="1" source="Don Antonio." target="Don Martin." weight="54" />
+      <edge id="2" source="Don Antonio." target="Doña Clara." weight="10" />
+      <edge id="3" source="Don Antonio." target="Don Diego." weight="21" />
+      <edge id="4" source="Don Martin." target="Vn Alguazil." weight="87" />
+      <edge id="5" source="Don Martin." target="Caramanchel." weight="74" />
+      <edge id="6" source="Don Martin." target="Celio." weight="2" />
+      <edge id="7" source="Don Martin." target="Quintana." weight="1321" />
+      <edge id="8" source="Don Martin." target="Ossorio." weight="731" />
+      <edge id="9" source="Don Martin." target="Don Pedro." weight="792" />
+      <edge id="10" source="Don Martin." target="Don Diego." weight="163" />
+      <edge id="11" source="Don Martin." target="Doña Iuana." weight="784" />
+      <edge id="12" source="Don Martin." target="Dec." weight="12" />
+      <edge id="13" source="Don Martin." target="Doña Ynes." weight="197" />
+      <edge id="14" source="Don Martin." target="Fab." weight="30" />
+      <edge id="15" source="Mon Martin." target="Quintana." weight="22" />
+      <edge id="16" source="Gil." target="Doña Ynes." weight="5" />
+      <edge id="17" source="Vn Alguazil." target="Celio." weight="4" />
+      <edge id="18" source="Vn Alguazil." target="Quintana." weight="4" />
+      <edge id="19" source="Vn Alguazil." target="Ossorio." weight="12" />
+      <edge id="20" source="Vn Alguazil." target="Don Diego." weight="46" />
+      <edge id="21" source="Vn Alguazil." target="Fab." weight="9" />
+      <edge id="22" source="Caramanchel." target="Doña Iuana." weight="2943" />
+      <edge id="23" source="Caramanchel." target="(unknown)" weight="15" />
+      <edge id="24" source="Caramanchel." target="Quintana." weight="44" />
+      <edge id="25" source="Caramanchel." target="Ossorio." weight="6" />
+      <edge id="26" source="Caramanchel." target="Doña Clara." weight="66" />
+      <edge id="27" source="Caramanchel." target="Doña Ynes." weight="646" />
+      <edge id="28" source="Celio." target="Don Diego." weight="42" />
+      <edge id="29" source="Quintana." target="Doña Ynes." weight="16" />
+      <edge id="30" source="Quintana." target="Don Diego." weight="26" />
+      <edge id="31" source="Quintana." target="Doña Clara." weight="46" />
+      <edge id="32" source="Quintana." target="Doña Iuana." weight="2214" />
+      <edge id="33" source="Ossorio." target="Don Pedro." weight="20" />
+      <edge id="34" source="Ossorio." target="Doña Ynes." weight="3" />
+      <edge id="35" source="Don Pedro." target="Doña Iuana." weight="214" />
+      <edge id="36" source="Don Pedro." target="Don Diego." weight="11" />
+      <edge id="37" source="Don Pedro." target="Doña Clara." weight="22" />
+      <edge id="38" source="Don Pedro." target="Doña Ynes." weight="1103" />
+      <edge id="39" source="Don Diego." target="Doña Iuana." weight="20" />
+      <edge id="40" source="(unknown)" target="Doña Clara." weight="42" />
+      <edge id="41" source="(unknown)" target="Doña Ynes." weight="193" />
+      <edge id="42" source="Doña Ynes." target="Doña Clara." weight="207" />
+      <edge id="43" source="Doña Ynes." target="Doña Iuana." weight="3118" />
+      <edge id="44" source="Doña Ynes." target="Vn criado." weight="25" />
+      <edge id="45" source="Dec." target="Fab." weight="17" />
+      <edge id="46" source="Doña Clara." target="Doña Iuana." weight="604" />
+      <edge id="47" source="Valdiviesso escudero." target="Doña Iuana." weight="54" />
+    </edges>
+  </graph>
+</gexf>

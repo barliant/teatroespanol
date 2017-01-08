@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="Aurora." label="Aurora." />
+      <node id="Licanoro." label="Licanoro." />
+      <node id="(unknown)" label="(unknown)" />
+      <node id="Clariana." label="Clariana." />
+      <node id="Vnos." label="Vnos." />
+      <node id="Celto." label="Celto." />
+      <node id="Milor." label="Milor." />
+      <node id="Estela." label="Estela." />
+      <node id="Lisidante." label="Lisidante." />
+      <node id="Merlin." label="Merlin." />
+      <node id="Vn Sargento." label="Vn Sargento." />
+      <node id="Coro." label="Coro." />
+      <node id="Auristela." label="Auristela." />
+      <node id="Cintia." label="Cintia." />
+      <node id="Soldados, y Musicos." label="Soldados, y Musicos." />
+      <node id="Voz." label="Voz." />
+      <node id="Brunel." label="Brunel." />
+      <node id="Timantes, viejo." label="Timantes, viejo." />
+      <node id="Flerida." label="Flerida." />
+      <node id="Arsidas." label="Arsidas." />
+    </nodes>
+    <edges>
+      <edge id="0" source="Aurora." target="Voz." weight="9" />
+      <edge id="1" source="Aurora." target="Licanoro." weight="364" />
+      <edge id="2" source="Aurora." target="(unknown)" weight="158" />
+      <edge id="3" source="Aurora." target="Clariana." weight="962" />
+      <edge id="4" source="Aurora." target="Milor." weight="59" />
+      <edge id="5" source="Aurora." target="Estela." weight="7" />
+      <edge id="6" source="Aurora." target="Lisidante." weight="1307" />
+      <edge id="7" source="Aurora." target="Merlin." weight="21" />
+      <edge id="8" source="Aurora." target="Auristela." weight="162" />
+      <edge id="9" source="Aurora." target="Cintia." weight="352" />
+      <edge id="10" source="Aurora." target="Soldados, y Musicos." weight="31" />
+      <edge id="11" source="Aurora." target="Timantes, viejo." weight="213" />
+      <edge id="12" source="Aurora." target="Brunel." weight="58" />
+      <edge id="13" source="Aurora." target="Celto." weight="110" />
+      <edge id="14" source="Aurora." target="Flerida." weight="451" />
+      <edge id="15" source="Aurora." target="Arsidas." weight="185" />
+      <edge id="16" source="Licanoro." target="Celto." weight="34" />
+      <edge id="17" source="Licanoro." target="Timantes, viejo." weight="21" />
+      <edge id="18" source="Licanoro." target="Clariana." weight="23" />
+      <edge id="19" source="Licanoro." target="(unknown)" weight="87" />
+      <edge id="20" source="Licanoro." target="Auristela." weight="33" />
+      <edge id="21" source="Licanoro." target="Vnos." weight="138" />
+      <edge id="22" source="Licanoro." target="Milor." weight="318" />
+      <edge id="23" source="Licanoro." target="Estela." weight="8" />
+      <edge id="24" source="Licanoro." target="Lisidante." weight="785" />
+      <edge id="25" source="Licanoro." target="Merlin." weight="38" />
+      <edge id="26" source="(unknown)" target="Clariana." weight="83" />
+      <edge id="27" source="(unknown)" target="Vnos." weight="39" />
+      <edge id="28" source="(unknown)" target="Milor." weight="376" />
+      <edge id="29" source="(unknown)" target="Lisidante." weight="247" />
+      <edge id="30" source="(unknown)" target="Arsidas." weight="76" />
+      <edge id="31" source="(unknown)" target="Coro." weight="2" />
+      <edge id="32" source="(unknown)" target="Auristela." weight="54" />
+      <edge id="33" source="(unknown)" target="Cintia." weight="2" />
+      <edge id="34" source="(unknown)" target="Soldados, y Musicos." weight="11" />
+      <edge id="35" source="(unknown)" target="Voz." weight="14" />
+      <edge id="36" source="(unknown)" target="Brunel." weight="14" />
+      <edge id="37" source="(unknown)" target="Timantes, viejo." weight="357" />
+      <edge id="38" source="(unknown)" target="Flerida." weight="19" />
+      <edge id="39" source="(unknown)" target="Merlin." weight="19" />
+      <edge id="40" source="Clariana." target="Milor." weight="187" />
+      <edge id="41" source="Clariana." target="Estela." weight="725" />
+      <edge id="42" source="Clariana." target="Lisidante." weight="199" />
+      <edge id="43" source="Clariana." target="Arsidas." weight="839" />
+      <edge id="44" source="Clariana." target="Auristela." weight="597" />
+      <edge id="45" source="Clariana." target="Cintia." weight="132" />
+      <edge id="46" source="Clariana." target="Soldados, y Musicos." weight="23" />
+      <edge id="47" source="Clariana." target="Brunel." weight="60" />
+      <edge id="48" source="Clariana." target="Timantes, viejo." weight="404" />
+      <edge id="49" source="Clariana." target="Flerida." weight="17" />
+      <edge id="50" source="Clariana." target="Merlin." weight="2" />
+      <edge id="51" source="Vnos." target="Soldados, y Musicos." weight="2" />
+      <edge id="52" source="Vnos." target="Celto." weight="14" />
+      <edge id="53" source="Vnos." target="Milor." weight="22" />
+      <edge id="54" source="Vnos." target="Merlin." weight="14" />
+      <edge id="55" source="Vnos." target="Lisidante." weight="28" />
+      <edge id="56" source="Celto." target="Timantes, viejo." weight="9" />
+      <edge id="57" source="Celto." target="Milor." weight="18" />
+      <edge id="58" source="Celto." target="Arsidas." weight="54" />
+      <edge id="59" source="Celto." target="Lisidante." weight="3" />
+      <edge id="60" source="Celto." target="Merlin." weight="4" />
+      <edge id="61" source="Milor." target="Lisidante." weight="220" />
+      <edge id="62" source="Milor." target="Auristela." weight="81" />
+      <edge id="63" source="Milor." target="Cintia." weight="5" />
+      <edge id="64" source="Milor." target="Brunel." weight="183" />
+      <edge id="65" source="Milor." target="Timantes, viejo." weight="2" />
+      <edge id="66" source="Milor." target="Arsidas." weight="420" />
+      <edge id="67" source="Estela." target="Auristela." weight="13" />
+      <edge id="68" source="Estela." target="Lisidante." weight="54" />
+      <edge id="69" source="Estela." target="Timantes, viejo." weight="3" />
+      <edge id="70" source="Estela." target="Flerida." weight="4" />
+      <edge id="71" source="Lisidante." target="Merlin." weight="1674" />
+      <edge id="72" source="Lisidante." target="Vn Sargento." weight="21" />
+      <edge id="73" source="Lisidante." target="Voz." weight="11" />
+      <edge id="74" source="Lisidante." target="Auristela." weight="597" />
+      <edge id="75" source="Lisidante." target="Cintia." weight="6" />
+      <edge id="76" source="Lisidante." target="Soldados, y Musicos." weight="81" />
+      <edge id="77" source="Lisidante." target="Timantes, viejo." weight="283" />
+      <edge id="78" source="Lisidante." target="Brunel." weight="181" />
+      <edge id="79" source="Lisidante." target="Flerida." weight="89" />
+      <edge id="80" source="Lisidante." target="Arsidas." weight="2728" />
+      <edge id="81" source="Merlin." target="Auristela." weight="35" />
+      <edge id="82" source="Merlin." target="Soldados, y Musicos." weight="136" />
+      <edge id="83" source="Merlin." target="Brunel." weight="312" />
+      <edge id="84" source="Merlin." target="Timantes, viejo." weight="33" />
+      <edge id="85" source="Merlin." target="Arsidas." weight="278" />
+      <edge id="86" source="Vn Sargento." target="Soldados, y Musicos." weight="12" />
+      <edge id="87" source="Coro." target="Voz." weight="54" />
+      <edge id="88" source="Auristela." target="Arsidas." weight="42" />
+      <edge id="89" source="Auristela." target="Cintia." weight="68" />
+      <edge id="90" source="Auristela." target="Timantes, viejo." weight="6" />
+      <edge id="91" source="Auristela." target="Flerida." weight="16" />
+      <edge id="92" source="Cintia." target="Brunel." weight="80" />
+      <edge id="93" source="Cintia." target="Soldados, y Musicos." weight="7" />
+      <edge id="94" source="Cintia." target="Timantes, viejo." weight="105" />
+      <edge id="95" source="Cintia." target="Arsidas." weight="48" />
+      <edge id="96" source="Soldados, y Musicos." target="Brunel." weight="26" />
+      <edge id="97" source="Soldados, y Musicos." target="Voz." weight="54" />
+      <edge id="98" source="Soldados, y Musicos." target="Arsidas." weight="168" />
+      <edge id="99" source="Voz." target="Arsidas." weight="8" />
+      <edge id="100" source="Brunel." target="Timantes, viejo." weight="19" />
+      <edge id="101" source="Brunel." target="Arsidas." weight="1286" />
+      <edge id="102" source="Timantes, viejo." target="Flerida." weight="34" />
+      <edge id="103" source="Timantes, viejo." target="Arsidas." weight="583" />
+      <edge id="104" source="Flerida." target="Arsidas." weight="2" />
+    </edges>
+  </graph>
+</gexf>

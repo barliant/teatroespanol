@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="El Demonio." label="El Demonio." />
+      <node id="El Rey Polemon." label="El Rey Polemon." />
+      <node id="Liron, Villano." label="Liron, Villano." />
+      <node id="Flora, Dama." label="Flora, Dama." />
+      <node id="Irene, hija del Rey." label="Irene, hija del Rey." />
+      <node id="(unknown)" label="(unknown)" />
+      <node id="Ceusis, Principe." label="Ceusis, Principe." />
+      <node id="Vn Sacerdote de Astarot." label="Vn Sacerdote de Astarot." />
+      <node id="Lesbia, Villana." label="Lesbia, Villana." />
+      <node id="Siluia, Dama." label="Siluia, Dama." />
+      <node id="San Bartolomè." label="San Bartolomè." />
+      <node id="Licanoro, Principe." label="Licanoro, Principe." />
+      <node id="Criados, y Musicos." label="Criados, y Musicos." />
+    </nodes>
+    <edges>
+      <edge id="0" source="El Demonio." target="El Rey Polemon." weight="143" />
+      <edge id="1" source="El Demonio." target="Licanoro, Principe." weight="239" />
+      <edge id="2" source="El Demonio." target="Liron, Villano." weight="67" />
+      <edge id="3" source="El Demonio." target="Irene, hija del Rey." weight="1585" />
+      <edge id="4" source="El Demonio." target="(unknown)" weight="29" />
+      <edge id="5" source="El Demonio." target="Lesbia, Villana." weight="5" />
+      <edge id="6" source="El Demonio." target="Criados, y Musicos." weight="85" />
+      <edge id="7" source="El Demonio." target="Ceusis, Principe." weight="690" />
+      <edge id="8" source="El Demonio." target="Vn Sacerdote de Astarot." weight="303" />
+      <edge id="9" source="El Demonio." target="San Bartolomè." weight="1153" />
+      <edge id="10" source="El Rey Polemon." target="Irene, hija del Rey." weight="223" />
+      <edge id="11" source="El Rey Polemon." target="Liron, Villano." weight="198" />
+      <edge id="12" source="El Rey Polemon." target="Siluia, Dama." weight="26" />
+      <edge id="13" source="El Rey Polemon." target="Licanoro, Principe." weight="230" />
+      <edge id="14" source="El Rey Polemon." target="(unknown)" weight="4" />
+      <edge id="15" source="El Rey Polemon." target="Lesbia, Villana." weight="50" />
+      <edge id="16" source="El Rey Polemon." target="Criados, y Musicos." weight="72" />
+      <edge id="17" source="El Rey Polemon." target="Ceusis, Principe." weight="235" />
+      <edge id="18" source="El Rey Polemon." target="Vn Sacerdote de Astarot." weight="237" />
+      <edge id="19" source="El Rey Polemon." target="San Bartolomè." weight="1176" />
+      <edge id="20" source="Liron, Villano." target="Irene, hija del Rey." weight="55" />
+      <edge id="21" source="Liron, Villano." target="San Bartolomè." weight="45" />
+      <edge id="22" source="Liron, Villano." target="(unknown)" weight="258" />
+      <edge id="23" source="Liron, Villano." target="Lesbia, Villana." weight="772" />
+      <edge id="24" source="Liron, Villano." target="Licanoro, Principe." weight="31" />
+      <edge id="25" source="Liron, Villano." target="Ceusis, Principe." weight="99" />
+      <edge id="26" source="Liron, Villano." target="Vn Sacerdote de Astarot." weight="152" />
+      <edge id="27" source="Flora, Dama." target="Irene, hija del Rey." weight="60" />
+      <edge id="28" source="Flora, Dama." target="Siluia, Dama." weight="5" />
+      <edge id="29" source="Irene, hija del Rey." target="Siluia, Dama." weight="122" />
+      <edge id="30" source="Irene, hija del Rey." target="Licanoro, Principe." weight="1149" />
+      <edge id="31" source="Irene, hija del Rey." target="(unknown)" weight="3" />
+      <edge id="32" source="Irene, hija del Rey." target="Criados, y Musicos." weight="59" />
+      <edge id="33" source="Irene, hija del Rey." target="Ceusis, Principe." weight="482" />
+      <edge id="34" source="Irene, hija del Rey." target="Vn Sacerdote de Astarot." weight="9" />
+      <edge id="35" source="Irene, hija del Rey." target="San Bartolomè." weight="534" />
+      <edge id="36" source="(unknown)" target="Licanoro, Principe." weight="214" />
+      <edge id="37" source="(unknown)" target="Vn Sacerdote de Astarot." weight="20" />
+      <edge id="38" source="(unknown)" target="Lesbia, Villana." weight="5" />
+      <edge id="39" source="(unknown)" target="Criados, y Musicos." weight="154" />
+      <edge id="40" source="(unknown)" target="Ceusis, Principe." weight="167" />
+      <edge id="41" source="(unknown)" target="San Bartolomè." weight="15" />
+      <edge id="42" source="Ceusis, Principe." target="Licanoro, Principe." weight="771" />
+      <edge id="43" source="Ceusis, Principe." target="Criados, y Musicos." weight="193" />
+      <edge id="44" source="Ceusis, Principe." target="Vn Sacerdote de Astarot." weight="22" />
+      <edge id="45" source="Ceusis, Principe." target="San Bartolomè." weight="193" />
+      <edge id="46" source="Vn Sacerdote de Astarot." target="Lesbia, Villana." weight="49" />
+      <edge id="47" source="Vn Sacerdote de Astarot." target="Licanoro, Principe." weight="302" />
+      <edge id="48" source="Vn Sacerdote de Astarot." target="San Bartolomè." weight="29" />
+      <edge id="49" source="Lesbia, Villana." target="Licanoro, Principe." weight="13" />
+      <edge id="50" source="Lesbia, Villana." target="San Bartolomè." weight="2" />
+      <edge id="51" source="San Bartolomè." target="Licanoro, Principe." weight="136" />
+      <edge id="52" source="San Bartolomè." target="Criados, y Musicos." weight="36" />
+      <edge id="53" source="Licanoro, Principe." target="Criados, y Musicos." weight="115" />
+    </edges>
+  </graph>
+</gexf>

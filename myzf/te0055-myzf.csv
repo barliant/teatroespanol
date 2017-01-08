@@ -1,0 +1,1006 @@
+num	id	name	numlines	numwords
+1	te0055-00	Don Felix.	8	38
+2	te0055-08	Hernando.	3	13
+3	te0055-00	Don Felix.	2	13
+4	te0055-08	Hernando.	5	26
+5	te0055-00	Don Felix.	13	65
+6	te0055-08	Hernando.	11	52
+7	te0055-00	Don Felix.	5	25
+8	te0055-08	Hernando.	3	16
+9	te0055-00	Don Felix.	4	15
+10	te0055-98	(unknown)	2	7
+11	te0055-00	Don Felix.	1	6
+12	te0055-08	Hernando.	5	25
+13	te0055-00	Don Felix.	3	10
+14	te0055-08	Hernando.	3	12
+15	te0055-98	(unknown)	1	2
+16	te0055-98	(unknown)	1	2
+17	te0055-08	Hernando.	1	1
+18	te0055-00	Don Felix.	1	1
+19	te0055-01	Violante.	5	18
+20	te0055-00	Don Felix.	2	7
+21	te0055-01	Violante.	5	29
+22	te0055-00	Don Felix.	3	11
+23	te0055-08	Hernando.	3	13
+24	te0055-01	Violante.	1	5
+25	te0055-08	Hernando.	1	6
+26	te0055-07	Juana.	2	8
+27	te0055-08	Hernando.	6	26
+28	te0055-98	(unknown)	2	10
+29	te0055-00	Don Felix.	3	11
+30	te0055-04	Don Carlos.	4	18
+31	te0055-00	Don Felix.	2	7
+32	te0055-04	Don Carlos.	2	8
+33	te0055-08	Hernando.	3	15
+34	te0055-00	Don Felix.	1	2
+35	te0055-07	Juana.	2	5
+36	te0055-08	Hernando.	4	18
+37	te0055-04	Don Carlos.	2	11
+38	te0055-00	Don Felix.	7	33
+39	te0055-04	Don Carlos.	10	44
+40	te0055-01	Violante.	12	58
+41	te0055-00	Don Felix.	5	21
+42	te0055-01	Violante.	23	117
+43	te0055-00	Don Felix.	1	2
+44	te0055-04	Don Carlos.	2	10
+45	te0055-00	Don Felix.	7	29
+46	te0055-04	Don Carlos.	5	18
+47	te0055-08	Hernando.	8	42
+48	te0055-04	Don Carlos.	2	10
+49	te0055-00	Don Felix.	7	30
+50	te0055-04	Don Carlos.	6	31
+51	te0055-08	Hernando.	3	11
+52	te0055-04	Don Carlos.	2	8
+53	te0055-08	Hernando.	2	4
+54	te0055-00	Don Felix.	1	7
+55	te0055-08	Hernando.	5	23
+56	te0055-00	Don Felix.	6	28
+57	te0055-04	Don Carlos.	2	9
+58	te0055-00	Don Felix.	3	12
+59	te0055-04	Don Carlos.	10	43
+60	te0055-00	Don Felix.	6	32
+61	te0055-04	Don Carlos.	4	15
+62	te0055-08	Hernando.	5	23
+63	te0055-04	Don Carlos.	4	12
+64	te0055-00	Don Felix.	9	42
+65	te0055-04	Don Carlos.	3	13
+66	te0055-00	Don Felix.	2	7
+67	te0055-04	Don Carlos.	152	706
+68	te0055-98	(unknown)	1	1
+69	te0055-00	Don Felix.	1	1
+70	te0055-08	Hernando.	1	1
+71	te0055-00	Don Felix.	4	18
+72	te0055-04	Don Carlos.	90	433
+73	te0055-01	Violante.	1	3
+74	te0055-08	Hernando.	2	7
+75	te0055-04	Don Carlos.	1	7
+76	te0055-93	(unknown)	1	2
+77	te0055-00	Don Felix.	2	7
+78	te0055-93	(unknown)	2	9
+79	te0055-00	Don Felix.	1	3
+80	te0055-93	(unknown)	4	15
+81	te0055-00	Don Felix.	3	13
+82	te0055-93	(unknown)	2	12
+83	te0055-04	Don Carlos.	1	4
+84	te0055-01	Violante.	4	15
+85	te0055-04	Don Carlos.	1	4
+86	te0055-93	(unknown)	1	4
+87	te0055-08	Hernando.	1	6
+88	te0055-01	Violante.	1	5
+89	te0055-08	Hernando.	1	3
+90	te0055-00	Don Felix.	1	2
+91	te0055-08	Hernando.	1	2
+92	te0055-93	(unknown)	4	16
+93	te0055-08	Hernando.	2	11
+94	te0055-93	(unknown)	1	5
+95	te0055-04	Don Carlos.	2	11
+96	te0055-00	Don Felix.	1	2
+97	te0055-08	Hernando.	2	10
+98	te0055-00	Don Felix.	1	3
+99	te0055-04	Don Carlos.	3	13
+100	te0055-00	Don Felix.	3	15
+101	te0055-04	Don Carlos.	7	37
+102	te0055-00	Don Felix.	2	9
+103	te0055-04	Don Carlos.	2	9
+104	te0055-00	Don Felix.	2	9
+105	te0055-08	Hernando.	3	8
+106	te0055-97	(unknown)	1	3
+107	te0055-04	Don Carlos.	1	4
+108	te0055-08	Hernando.	3	15
+109	te0055-00	Don Felix.	1	2
+110	te0055-08	Hernando.	1	7
+111	te0055-04	Don Carlos.	1	2
+112	te0055-08	Hernando.	2	10
+113	te0055-04	Don Carlos.	1	5
+114	te0055-00	Don Felix.	1	5
+115	te0055-08	Hernando.	1	5
+116	te0055-02	Simon.	1	3
+117	te0055-09	Don Enrique.	14	63
+118	te0055-07	Juana.	1	5
+119	te0055-09	Don Enrique.	1	7
+120	te0055-02	Simon.	1	4
+121	te0055-09	Don Enrique.	1	3
+122	te0055-07	Juana.	2	8
+123	te0055-09	Don Enrique.	3	14
+124	te0055-07	Juana.	7	32
+125	te0055-09	Don Enrique.	5	23
+126	te0055-07	Juana.	1	5
+127	te0055-02	Simon.	1	6
+128	te0055-09	Don Enrique.	1	6
+129	te0055-07	Juana.	7	37
+130	te0055-09	Don Enrique.	3	16
+131	te0055-07	Juana.	4	19
+132	te0055-09	Don Enrique.	1	2
+133	te0055-05	Inès.	4	15
+134	te0055-09	Don Enrique.	12	54
+135	te0055-07	Juana.	5	26
+136	te0055-09	Don Enrique.	1	3
+137	te0055-07	Juana.	1	4
+138	te0055-09	Don Enrique.	1	2
+139	te0055-07	Juana.	1	4
+140	te0055-09	Don Enrique.	2	6
+141	te0055-07	Juana.	6	25
+142	te0055-09	Don Enrique.	1	4
+143	te0055-07	Juana.	4	18
+144	te0055-09	Don Enrique.	2	5
+145	te0055-07	Juana.	1	3
+146	te0055-09	Don Enrique.	1	1
+147	te0055-07	Juana.	4	19
+148	te0055-09	Don Enrique.	1	3
+149	te0055-07	Juana.	1	4
+150	te0055-09	Don Enrique.	18	85
+151	te0055-07	Juana.	10	48
+152	te0055-09	Don Enrique.	4	20
+153	te0055-00	Don Felix.	2	10
+154	te0055-09	Don Enrique.	3	14
+155	te0055-07	Juana.	4	19
+156	te0055-02	Simon.	1	4
+157	te0055-07	Juana.	6	27
+158	te0055-02	Simon.	4	12
+159	te0055-07	Juana.	1	3
+160	te0055-02	Simon.	2	7
+161	te0055-07	Juana.	5	29
+162	te0055-08	Hernando.	11	56
+163	te0055-02	Simon.	3	15
+164	te0055-08	Hernando.	7	36
+165	te0055-02	Simon.	1	5
+166	te0055-08	Hernando.	1	4
+167	te0055-02	Simon.	1	5
+168	te0055-08	Hernando.	1	5
+169	te0055-98	(unknown)	1	1
+170	te0055-98	(unknown)	1	1
+171	te0055-02	Simon.	1	6
+172	te0055-08	Hernando.	3	13
+173	te0055-07	Juana.	8	44
+174	te0055-98	(unknown)	4	19
+175	te0055-07	Juana.	2	9
+176	te0055-08	Hernando.	20	102
+177	te0055-07	Juana.	1	2
+178	te0055-08	Hernando.	43	208
+179	te0055-07	Juana.	5	24
+180	te0055-08	Hernando.	1	2
+181	te0055-07	Juana.	1	5
+182	te0055-08	Hernando.	2	9
+183	te0055-07	Juana.	16	86
+184	te0055-08	Hernando.	5	24
+185	te0055-07	Juana.	2	9
+186	te0055-98	(unknown)	3	10
+187	te0055-08	Hernando.	2	11
+188	te0055-03	Leonor.	1	6
+189	te0055-08	Hernando.	4	23
+190	te0055-03	Leonor.	6	33
+191	te0055-08	Hernando.	2	10
+192	te0055-03	Leonor.	1	1
+193	te0055-08	Hernando.	4	20
+194	te0055-03	Leonor.	2	12
+195	te0055-08	Hernando.	3	13
+196	te0055-03	Leonor.	6	32
+197	te0055-08	Hernando.	2	11
+198	te0055-07	Juana.	2	11
+199	te0055-03	Leonor.	8	40
+200	te0055-00	Don Felix.	11	53
+201	te0055-03	Leonor.	7	24
+202	te0055-00	Don Felix.	2	7
+203	te0055-03	Leonor.	9	43
+204	te0055-00	Don Felix.	9	43
+205	te0055-03	Leonor.	4	19
+206	te0055-08	Hernando.	1	1
+207	te0055-07	Juana.	1	1
+208	te0055-03	Leonor.	1	3
+209	te0055-00	Don Felix.	1	3
+210	te0055-07	Juana.	1	3
+211	te0055-08	Hernando.	1	3
+212	te0055-07	Juana.	1	3
+213	te0055-08	Hernando.	1	5
+214	te0055-07	Juana.	1	5
+215	te0055-08	Hernando.	1	5
+216	te0055-00	Don Felix.	1	3
+217	te0055-03	Leonor.	1	3
+218	te0055-07	Juana.	1	4
+219	te0055-08	Hernando.	1	6
+220	te0055-00	Don Felix.	1	4
+221	te0055-03	Leonor.	4	15
+222	te0055-00	Don Felix.	1	2
+223	te0055-08	Hernando.	2	10
+224	te0055-00	Don Felix.	1	2
+225	te0055-10	Don Diego.	1	3
+226	te0055-03	Leonor.	7	29
+227	te0055-10	Don Diego.	19	91
+228	te0055-00	Don Felix.	4	13
+229	te0055-03	Leonor.	1	2
+230	te0055-08	Hernando.	4	24
+231	te0055-10	Don Diego.	4	17
+232	te0055-03	Leonor.	5	19
+233	te0055-10	Don Diego.	3	13
+234	te0055-03	Leonor.	1	3
+235	te0055-10	Don Diego.	24	124
+236	te0055-03	Leonor.	1	2
+237	te0055-07	Juana.	1	3
+238	te0055-08	Hernando.	2	8
+239	te0055-00	Don Felix.	1	4
+240	te0055-08	Hernando.	1	5
+241	te0055-10	Don Diego.	4	16
+242	te0055-08	Hernando.	1	3
+243	te0055-00	Don Felix.	2	8
+244	te0055-03	Leonor.	1	8
+245	te0055-10	Don Diego.	1	5
+246	te0055-07	Juana.	1	5
+247	te0055-10	Don Diego.	4	18
+248	te0055-00	Don Felix.	1	2
+249	te0055-08	Hernando.	1	5
+250	te0055-10	Don Diego.	14	71
+251	te0055-00	Don Felix.	1	3
+252	te0055-03	Leonor.	2	8
+253	te0055-00	Don Felix.	1	2
+254	te0055-03	Leonor.	1	2
+255	te0055-08	Hernando.	2	10
+256	te0055-00	Don Felix.	9	41
+257	te0055-03	Leonor.	1	2
+258	te0055-08	Hernando.	2	9
+259	te0055-00	Don Felix.	1	4
+260	te0055-03	Leonor.	1	6
+261	te0055-00	Don Felix.	1	3
+262	te0055-03	Leonor.	1	3
+263	te0055-00	Don Felix.	6	31
+264	te0055-03	Leonor.	1	4
+265	te0055-00	Don Felix.	6	36
+266	te0055-03	Leonor.	3	11
+267	te0055-00	Don Felix.	7	30
+268	te0055-03	Leonor.	5	24
+269	te0055-00	Don Felix.	4	19
+270	te0055-03	Leonor.	1	4
+271	te0055-08	Hernando.	1	3
+272	te0055-03	Leonor.	2	8
+273	te0055-07	Juana.	1	5
+274	te0055-00	Don Felix.	1	1
+275	te0055-07	Juana.	3	17
+276	te0055-00	Don Felix.	2	10
+277	te0055-08	Hernando.	1	4
+278	te0055-07	Juana.	1	2
+279	te0055-08	Hernando.	1	2
+280	te0055-03	Leonor.	3	12
+281	te0055-00	Don Felix.	4	23
+282	te0055-03	Leonor.	4	16
+283	te0055-00	Don Felix.	1	2
+284	te0055-03	Leonor.	1	3
+285	te0055-00	Don Felix.	1	2
+286	te0055-03	Leonor.	1	1
+287	te0055-00	Don Felix.	1	5
+288	te0055-03	Leonor.	3	13
+289	te0055-00	Don Felix.	2	5
+290	te0055-03	Leonor.	1	1
+291	te0055-00	Don Felix.	1	5
+292	te0055-03	Leonor.	6	29
+293	te0055-00	Don Felix.	1	2
+294	te0055-03	Leonor.	1	1
+295	te0055-00	Don Felix.	6	31
+296	te0055-03	Leonor.	2	7
+297	te0055-00	Don Felix.	9	37
+298	te0055-03	Leonor.	1	6
+299	te0055-00	Don Felix.	1	2
+300	te0055-03	Leonor.	1	4
+301	te0055-00	Don Felix.	1	2
+302	te0055-03	Leonor.	1	2
+303	te0055-00	Don Felix.	19	87
+304	te0055-03	Leonor.	5	19
+305	te0055-00	Don Felix.	9	41
+306	te0055-00	Don Felix.	2	6
+307	te0055-08	Hernando.	3	11
+308	te0055-00	Don Felix.	2	7
+309	te0055-03	Leonor.	1	2
+310	te0055-00	Don Felix.	1	2
+311	te0055-03	Leonor.	1	6
+312	te0055-00	Don Felix.	1	6
+313	te0055-03	Leonor.	3	12
+314	te0055-00	Don Felix.	8	42
+315	te0055-03	Leonor.	1	2
+316	te0055-00	Don Felix.	4	19
+317	te0055-09	Don Enrique.	1	7
+318	te0055-03	Leonor.	1	4
+319	te0055-00	Don Felix.	3	13
+320	te0055-03	Leonor.	2	8
+321	te0055-00	Don Felix.	1	4
+322	te0055-07	Juana.	1	5
+323	te0055-09	Don Enrique.	4	17
+324	te0055-00	Don Felix.	2	8
+325	te0055-03	Leonor.	1	2
+326	te0055-00	Don Felix.	1	4
+327	te0055-09	Don Enrique.	3	17
+328	te0055-00	Don Felix.	1	4
+329	te0055-03	Leonor.	1	3
+330	te0055-00	Don Felix.	1	3
+331	te0055-03	Leonor.	1	2
+332	te0055-00	Don Felix.	1	3
+333	te0055-03	Leonor.	1	5
+334	te0055-00	Don Felix.	5	23
+335	te0055-09	Don Enrique.	1	5
+336	te0055-03	Leonor.	2	8
+337	te0055-09	Don Enrique.	4	18
+338	te0055-10	Don Diego.	2	13
+339	te0055-03	Leonor.	1	7
+340	te0055-00	Don Felix.	1	5
+341	te0055-03	Leonor.	2	13
+342	te0055-07	Juana.	1	3
+343	te0055-09	Don Enrique.	1	2
+344	te0055-00	Don Felix.	1	2
+345	te0055-03	Leonor.	1	2
+346	te0055-09	Don Enrique.	2	11
+347	te0055-10	Don Diego.	2	9
+348	te0055-03	Leonor.	1	4
+349	te0055-00	Don Felix.	2	10
+350	te0055-10	Don Diego.	3	16
+351	te0055-03	Leonor.	1	4
+352	te0055-10	Don Diego.	7	34
+353	te0055-03	Leonor.	2	6
+354	te0055-10	Don Diego.	3	13
+355	te0055-03	Leonor.	6	24
+356	te0055-00	Don Felix.	1	4
+357	te0055-08	Hernando.	1	1
+358	te0055-00	Don Felix.	5	28
+359	te0055-08	Hernando.	1	6
+360	te0055-03	Leonor.	16	73
+361	te0055-08	Hernando.	3	12
+362	te0055-09	Don Enrique.	5	18
+363	te0055-03	Leonor.	1	5
+364	te0055-09	Don Enrique.	2	8
+365	te0055-03	Leonor.	1	6
+366	te0055-00	Don Felix.	1	4
+367	te0055-03	Leonor.	4	18
+368	te0055-09	Don Enrique.	2	12
+369	te0055-00	Don Felix.	2	11
+370	te0055-09	Don Enrique.	2	13
+371	te0055-00	Don Felix.	2	9
+372	te0055-09	Don Enrique.	3	16
+373	te0055-00	Don Felix.	12	53
+374	te0055-09	Don Enrique.	3	13
+375	te0055-00	Don Felix.	1	1
+376	te0055-09	Don Enrique.	6	26
+377	te0055-00	Don Felix.	7	28
+378	te0055-09	Don Enrique.	1	4
+379	te0055-00	Don Felix.	1	2
+380	te0055-09	Don Enrique.	5	20
+381	te0055-00	Don Felix.	1	3
+382	te0055-09	Don Enrique.	27	129
+383	te0055-00	Don Felix.	1	1
+384	te0055-09	Don Enrique.	2	11
+385	te0055-98	(unknown)	1	1
+386	te0055-09	Don Enrique.	1	2
+387	te0055-02	Simon.	3	12
+388	te0055-09	Don Enrique.	3	12
+389	te0055-00	Don Felix.	3	13
+390	te0055-98	(unknown)	1	5
+391	te0055-00	Don Felix.	2	5
+392	te0055-08	Hernando.	1	1
+393	te0055-00	Don Felix.	1	2
+394	te0055-08	Hernando.	35	164
+395	te0055-00	Don Felix.	2	8
+396	te0055-08	Hernando.	1	5
+397	te0055-00	Don Felix.	6	30
+398	te0055-08	Hernando.	1	6
+399	te0055-00	Don Felix.	4	15
+400	te0055-08	Hernando.	2	10
+401	te0055-00	Don Felix.	6	30
+402	te0055-08	Hernando.	8	37
+403	te0055-00	Don Felix.	1	2
+404	te0055-08	Hernando.	1	4
+405	te0055-00	Don Felix.	1	1
+406	te0055-08	Hernando.	15	71
+407	te0055-00	Don Felix.	1	5
+408	te0055-08	Hernando.	7	33
+409	te0055-00	Don Felix.	5	25
+410	te0055-08	Hernando.	3	19
+411	te0055-00	Don Felix.	4	14
+412	te0055-08	Hernando.	2	4
+413	te0055-00	Don Felix.	2	10
+414	te0055-08	Hernando.	6	31
+415	te0055-00	Don Felix.	3	15
+416	te0055-09	Don Enrique.	3	13
+417	te0055-00	Don Felix.	1	4
+418	te0055-09	Don Enrique.	3	12
+419	te0055-00	Don Felix.	1	6
+420	te0055-09	Don Enrique.	4	20
+421	te0055-00	Don Felix.	3	14
+422	te0055-09	Don Enrique.	8	35
+423	te0055-00	Don Felix.	1	2
+424	te0055-09	Don Enrique.	2	8
+425	te0055-00	Don Felix.	5	22
+426	te0055-09	Don Enrique.	4	20
+427	te0055-00	Don Felix.	2	6
+428	te0055-09	Don Enrique.	1	2
+429	te0055-08	Hernando.	1	3
+430	te0055-00	Don Felix.	1	2
+431	te0055-08	Hernando.	1	3
+432	te0055-00	Don Felix.	1	2
+433	te0055-09	Don Enrique.	8	38
+434	te0055-00	Don Felix.	3	11
+435	te0055-09	Don Enrique.	6	25
+436	te0055-08	Hernando.	1	3
+437	te0055-00	Don Felix.	1	6
+438	te0055-08	Hernando.	7	34
+439	te0055-00	Don Felix.	3	15
+440	te0055-08	Hernando.	1	2
+441	te0055-00	Don Felix.	6	28
+442	te0055-08	Hernando.	1	3
+443	te0055-00	Don Felix.	1	2
+444	te0055-08	Hernando.	1	3
+445	te0055-00	Don Felix.	4	18
+446	te0055-08	Hernando.	1	6
+447	te0055-00	Don Felix.	1	3
+448	te0055-08	Hernando.	1	1
+449	te0055-00	Don Felix.	2	6
+450	te0055-08	Hernando.	1	5
+451	te0055-00	Don Felix.	1	1
+452	te0055-08	Hernando.	4	20
+453	te0055-00	Don Felix.	1	3
+454	te0055-08	Hernando.	1	3
+455	te0055-00	Don Felix.	1	2
+456	te0055-08	Hernando.	1	4
+457	te0055-00	Don Felix.	1	5
+458	te0055-08	Hernando.	3	11
+459	te0055-00	Don Felix.	1	1
+460	te0055-08	Hernando.	3	16
+461	te0055-00	Don Felix.	1	2
+462	te0055-08	Hernando.	1	4
+463	te0055-00	Don Felix.	1	3
+464	te0055-08	Hernando.	1	3
+465	te0055-00	Don Felix.	2	7
+466	te0055-08	Hernando.	1	1
+467	te0055-00	Don Felix.	1	3
+468	te0055-08	Hernando.	1	6
+469	te0055-00	Don Felix.	1	5
+470	te0055-08	Hernando.	1	5
+471	te0055-00	Don Felix.	1	1
+472	te0055-09	Don Enrique.	2	8
+473	te0055-00	Don Felix.	1	3
+474	te0055-08	Hernando.	3	18
+475	te0055-09	Don Enrique.	1	2
+476	te0055-00	Don Felix.	3	11
+477	te0055-09	Don Enrique.	2	5
+478	te0055-00	Don Felix.	2	6
+479	te0055-09	Don Enrique.	1	2
+480	te0055-00	Don Felix.	2	11
+481	te0055-09	Don Enrique.	1	3
+482	te0055-00	Don Felix.	10	50
+483	te0055-09	Don Enrique.	5	24
+484	te0055-00	Don Felix.	13	62
+485	te0055-09	Don Enrique.	2	8
+486	te0055-00	Don Felix.	4	16
+487	te0055-08	Hernando.	1	2
+488	te0055-00	Don Felix.	1	3
+489	te0055-08	Hernando.	1	3
+490	te0055-00	Don Felix.	1	8
+491	te0055-08	Hernando.	1	1
+492	te0055-00	Don Felix.	1	2
+493	te0055-08	Hernando.	4	18
+494	te0055-00	Don Felix.	2	7
+495	te0055-08	Hernando.	3	12
+496	te0055-00	Don Felix.	3	12
+497	te0055-08	Hernando.	2	9
+498	te0055-00	Don Felix.	1	6
+499	te0055-08	Hernando.	1	7
+500	te0055-09	Don Enrique.	2	9
+501	te0055-00	Don Felix.	3	10
+502	te0055-08	Hernando.	6	30
+503	te0055-09	Don Enrique.	11	51
+504	te0055-00	Don Felix.	4	18
+505	te0055-09	Don Enrique.	7	31
+506	te0055-00	Don Felix.	3	18
+507	te0055-02	Simon.	5	23
+508	te0055-08	Hernando.	2	7
+509	te0055-97	(unknown)	1	2
+510	te0055-05	Inès.	1	8
+511	te0055-01	Violante.	2	8
+512	te0055-06	Don Luis.	2	5
+513	te0055-10	Don Diego.	2	7
+514	te0055-01	Violante.	4	23
+515	te0055-03	Leonor.	7	29
+516	te0055-01	Violante.	9	46
+517	te0055-03	Leonor.	5	20
+518	te0055-06	Don Luis.	3	13
+519	te0055-10	Don Diego.	2	10
+520	te0055-06	Don Luis.	1	2
+521	te0055-10	Don Diego.	3	13
+522	te0055-06	Don Luis.	3	15
+523	te0055-10	Don Diego.	2	6
+524	te0055-03	Leonor.	1	3
+525	te0055-10	Don Diego.	9	40
+526	te0055-01	Violante.	2	9
+527	te0055-03	Leonor.	1	1
+528	te0055-01	Violante.	2	12
+529	te0055-03	Leonor.	1	5
+530	te0055-01	Violante.	4	15
+531	te0055-03	Leonor.	9	43
+532	te0055-05	Inès.	5	19
+533	te0055-07	Juana.	2	6
+534	te0055-05	Inès.	1	3
+535	te0055-01	Violante.	4	21
+536	te0055-03	Leonor.	4	17
+537	te0055-01	Violante.	13	63
+538	te0055-03	Leonor.	4	21
+539	te0055-04	Don Carlos.	6	27
+540	te0055-01	Violante.	1	5
+541	te0055-03	Leonor.	1	7
+542	te0055-01	Violante.	3	14
+543	te0055-04	Don Carlos.	4	13
+544	te0055-01	Violante.	1	5
+545	te0055-03	Leonor.	2	12
+546	te0055-01	Violante.	5	20
+547	te0055-04	Don Carlos.	3	14
+548	te0055-01	Violante.	3	12
+549	te0055-04	Don Carlos.	13	66
+550	te0055-01	Violante.	7	30
+551	te0055-03	Leonor.	4	22
+552	te0055-04	Don Carlos.	11	50
+553	te0055-01	Violante.	11	52
+554	te0055-04	Don Carlos.	1	1
+555	te0055-01	Violante.	1	4
+556	te0055-04	Don Carlos.	1	1
+557	te0055-01	Violante.	1	4
+558	te0055-04	Don Carlos.	1	1
+559	te0055-01	Violante.	1	5
+560	te0055-04	Don Carlos.	1	3
+561	te0055-01	Violante.	1	3
+562	te0055-04	Don Carlos.	1	1
+563	te0055-01	Violante.	1	3
+564	te0055-04	Don Carlos.	1	2
+565	te0055-01	Violante.	1	2
+566	te0055-04	Don Carlos.	1	3
+567	te0055-01	Violante.	1	2
+568	te0055-04	Don Carlos.	1	3
+569	te0055-01	Violante.	1	2
+570	te0055-04	Don Carlos.	1	3
+571	te0055-01	Violante.	2	4
+572	te0055-04	Don Carlos.	1	2
+573	te0055-01	Violante.	1	2
+574	te0055-04	Don Carlos.	1	3
+575	te0055-03	Leonor.	3	12
+576	te0055-04	Don Carlos.	1	4
+577	te0055-03	Leonor.	9	45
+578	te0055-04	Don Carlos.	21	103
+579	te0055-98	(unknown)	2	7
+580	te0055-04	Don Carlos.	1	5
+581	te0055-08	Hernando.	1	5
+582	te0055-04	Don Carlos.	36	160
+583	te0055-08	Hernando.	1	5
+584	te0055-04	Don Carlos.	2	11
+585	te0055-08	Hernando.	6	29
+586	te0055-04	Don Carlos.	5	22
+587	te0055-08	Hernando.	1	5
+588	te0055-00	Don Felix.	2	7
+589	te0055-04	Don Carlos.	1	5
+590	te0055-00	Don Felix.	5	24
+591	te0055-04	Don Carlos.	3	18
+592	te0055-09	Don Enrique.	1	5
+593	te0055-04	Don Carlos.	1	5
+594	te0055-09	Don Enrique.	2	8
+595	te0055-04	Don Carlos.	2	10
+596	te0055-00	Don Felix.	2	8
+597	te0055-02	Simon.	2	8
+598	te0055-08	Hernando.	2	8
+599	te0055-09	Don Enrique.	1	2
+600	te0055-04	Don Carlos.	1	2
+601	te0055-00	Don Felix.	1	5
+602	te0055-09	Don Enrique.	1	4
+603	te0055-04	Don Carlos.	1	3
+604	te0055-00	Don Felix.	3	10
+605	te0055-09	Don Enrique.	1	3
+606	te0055-00	Don Felix.	2	9
+607	te0055-09	Don Enrique.	4	21
+608	te0055-04	Don Carlos.	30	149
+609	te0055-09	Don Enrique.	1	2
+610	te0055-00	Don Felix.	4	15
+611	te0055-09	Don Enrique.	4	17
+612	te0055-02	Simon.	2	9
+613	te0055-08	Hernando.	4	20
+614	te0055-00	Don Felix.	1	3
+615	te0055-09	Don Enrique.	1	1
+616	te0055-00	Don Felix.	2	10
+617	te0055-09	Don Enrique.	22	120
+618	te0055-00	Don Felix.	9	48
+619	te0055-02	Simon.	3	8
+620	te0055-08	Hernando.	1	4
+621	te0055-00	Don Felix.	1	3
+622	te0055-09	Don Enrique.	1	5
+623	te0055-09	Don Enrique.	1	2
+624	te0055-09	Don Enrique.	1	3
+625	te0055-00	Don Felix.	6	27
+626	te0055-09	Don Enrique.	1	5
+627	te0055-00	Don Felix.	4	19
+628	te0055-09	Don Enrique.	1	1
+629	te0055-00	Don Felix.	2	4
+630	te0055-09	Don Enrique.	3	10
+631	te0055-00	Don Felix.	3	14
+632	te0055-98	(unknown)	16	68
+633	te0055-00	Don Felix.	1	4
+634	te0055-09	Don Enrique.	3	10
+635	te0055-00	Don Felix.	1	2
+636	te0055-09	Don Enrique.	2	6
+637	te0055-98	(unknown)	2	6
+638	te0055-09	Don Enrique.	1	3
+639	te0055-04	Don Carlos.	15	70
+640	te0055-08	Hernando.	1	3
+641	te0055-00	Don Felix.	2	11
+642	te0055-09	Don Enrique.	6	27
+643	te0055-00	Don Felix.	2	9
+644	te0055-04	Don Carlos.	1	5
+645	te0055-09	Don Enrique.	39	178
+646	te0055-00	Don Felix.	1	5
+647	te0055-08	Hernando.	3	13
+648	te0055-00	Don Felix.	2	6
+649	te0055-04	Don Carlos.	4	16
+650	te0055-08	Hernando.	2	8
+651	te0055-00	Don Felix.	4	20
+652	te0055-04	Don Carlos.	2	7
+653	te0055-00	Don Felix.	3	12
+654	te0055-04	Don Carlos.	2	11
+655	te0055-00	Don Felix.	1	2
+656	te0055-04	Don Carlos.	1	1
+657	te0055-00	Don Felix.	4	19
+658	te0055-04	Don Carlos.	5	20
+659	te0055-00	Don Felix.	1	1
+660	te0055-04	Don Carlos.	4	20
+661	te0055-00	Don Felix.	1	3
+662	te0055-04	Don Carlos.	1	4
+663	te0055-00	Don Felix.	1	2
+664	te0055-04	Don Carlos.	1	2
+665	te0055-00	Don Felix.	1	2
+666	te0055-04	Don Carlos.	1	1
+667	te0055-08	Hernando.	1	3
+668	te0055-04	Don Carlos.	3	17
+669	te0055-00	Don Felix.	1	3
+670	te0055-04	Don Carlos.	2	7
+671	te0055-00	Don Felix.	3	16
+672	te0055-04	Don Carlos.	6	30
+673	te0055-00	Don Felix.	3	13
+674	te0055-04	Don Carlos.	2	10
+675	te0055-01	Violante.	8	42
+676	te0055-03	Leonor.	1	1
+677	te0055-01	Violante.	8	43
+678	te0055-03	Leonor.	1	6
+679	te0055-01	Violante.	1	3
+680	te0055-03	Leonor.	1	5
+681	te0055-01	Violante.	8	46
+682	te0055-03	Leonor.	1	3
+683	te0055-01	Violante.	4	25
+684	te0055-03	Leonor.	1	1
+685	te0055-01	Violante.	4	22
+686	te0055-03	Leonor.	2	13
+687	te0055-01	Violante.	1	7
+688	te0055-03	Leonor.	3	18
+689	te0055-01	Violante.	21	118
+690	te0055-98	(unknown)	1	1
+691	te0055-01	Violante.	2	7
+692	te0055-05	Inès.	1	1
+693	te0055-01	Violante.	1	1
+694	te0055-05	Inès.	2	7
+695	te0055-01	Violante.	8	35
+696	te0055-05	Inès.	10	40
+697	te0055-03	Leonor.	3	10
+698	te0055-05	Inès.	8	40
+699	te0055-00	Don Felix.	3	15
+700	te0055-01	Violante.	5	23
+701	te0055-00	Don Felix.	8	32
+702	te0055-08	Hernando.	1	2
+703	te0055-00	Don Felix.	2	9
+704	te0055-08	Hernando.	2	6
+705	te0055-03	Leonor.	3	12
+706	te0055-01	Violante.	6	28
+707	te0055-00	Don Felix.	5	26
+708	te0055-08	Hernando.	1	7
+709	te0055-00	Don Felix.	10	47
+710	te0055-01	Violante.	3	10
+711	te0055-03	Leonor.	3	11
+712	te0055-01	Violante.	1	6
+713	te0055-03	Leonor.	1	3
+714	te0055-01	Violante.	1	5
+715	te0055-05	Inès.	1	2
+716	te0055-06	Don Luis.	1	4
+717	te0055-01	Violante.	2	8
+718	te0055-06	Don Luis.	1	3
+719	te0055-00	Don Felix.	8	41
+720	te0055-06	Don Luis.	1	2
+721	te0055-00	Don Felix.	1	3
+722	te0055-06	Don Luis.	24	117
+723	te0055-01	Violante.	17	79
+724	te0055-03	Leonor.	1	4
+725	te0055-00	Don Felix.	9	45
+726	te0055-03	Leonor.	6	30
+727	te0055-00	Don Felix.	1	3
+728	te0055-03	Leonor.	4	17
+729	te0055-08	Hernando.	1	5
+730	te0055-00	Don Felix.	3	15
+731	te0055-08	Hernando.	3	15
+732	te0055-00	Don Felix.	4	23
+733	te0055-03	Leonor.	5	23
+734	te0055-00	Don Felix.	5	29
+735	te0055-98	(unknown)	1	4
+736	te0055-07	Juana.	1	4
+737	te0055-03	Leonor.	1	3
+738	te0055-98	(unknown)	4	17
+739	te0055-00	Don Felix.	2	7
+740	te0055-07	Juana.	1	4
+741	te0055-03	Leonor.	3	17
+742	te0055-00	Don Felix.	6	31
+743	te0055-03	Leonor.	2	11
+744	te0055-00	Don Felix.	7	38
+745	te0055-03	Leonor.	1	3
+746	te0055-07	Juana.	1	2
+747	te0055-03	Leonor.	4	21
+748	te0055-08	Hernando.	2	8
+749	te0055-00	Don Felix.	2	7
+750	te0055-03	Leonor.	2	11
+751	te0055-00	Don Felix.	1	2
+752	te0055-03	Leonor.	1	2
+753	te0055-00	Don Felix.	1	2
+754	te0055-03	Leonor.	1	2
+755	te0055-00	Don Felix.	1	2
+756	te0055-03	Leonor.	1	2
+757	te0055-00	Don Felix.	1	2
+758	te0055-03	Leonor.	1	2
+759	te0055-98	(unknown)	1	3
+760	te0055-03	Leonor.	1	5
+761	te0055-00	Don Felix.	1	6
+762	te0055-07	Juana.	1	2
+763	te0055-08	Hernando.	1	2
+764	te0055-00	Don Felix.	1	2
+765	te0055-03	Leonor.	1	3
+766	te0055-10	Don Diego.	2	7
+767	te0055-03	Leonor.	1	3
+768	te0055-10	Don Diego.	1	5
+769	te0055-03	Leonor.	1	2
+770	te0055-00	Don Felix.	1	2
+771	te0055-03	Leonor.	3	13
+772	te0055-10	Don Diego.	1	2
+773	te0055-03	Leonor.	11	51
+774	te0055-01	Violante.	1	4
+775	te0055-06	Don Luis.	2	7
+776	te0055-00	Don Felix.	2	10
+777	te0055-06	Don Luis.	2	8
+778	te0055-10	Don Diego.	1	5
+779	te0055-00	Don Felix.	5	23
+780	te0055-10	Don Diego.	1	5
+781	te0055-00	Don Felix.	1	5
+782	te0055-07	Juana.	1	4
+783	te0055-08	Hernando.	1	4
+784	te0055-01	Violante.	1	3
+785	te0055-03	Leonor.	1	5
+786	te0055-01	Violante.	1	4
+787	te0055-03	Leonor.	1	1
+788	te0055-01	Violante.	1	5
+789	te0055-03	Leonor.	2	12
+790	te0055-01	Violante.	1	1
+791	te0055-96	(unknown)	1	1
+792	te0055-01	Violante.	4	14
+793	te0055-05	Inès.	1	2
+794	te0055-03	Leonor.	1	2
+795	te0055-01	Violante.	15	71
+796	te0055-03	Leonor.	5	18
+797	te0055-01	Violante.	3	8
+798	te0055-03	Leonor.	5	24
+799	te0055-98	(unknown)	1	4
+800	te0055-01	Violante.	1	5
+801	te0055-03	Leonor.	8	37
+802	te0055-05	Inès.	1	8
+803	te0055-03	Leonor.	6	31
+804	te0055-00	Don Felix.	2	6
+805	te0055-08	Hernando.	2	4
+806	te0055-00	Don Felix.	4	21
+807	te0055-08	Hernando.	1	4
+808	te0055-00	Don Felix.	4	19
+809	te0055-98	(unknown)	2	10
+810	te0055-00	Don Felix.	3	15
+811	te0055-08	Hernando.	1	5
+812	te0055-98	(unknown)	9	43
+813	te0055-98	(unknown)	4	17
+814	te0055-98	(unknown)	12	62
+815	te0055-02	Simon.	1	1
+816	te0055-00	Don Felix.	1	3
+817	te0055-02	Simon.	5	18
+818	te0055-00	Don Felix.	7	27
+819	te0055-02	Simon.	1	5
+820	te0055-00	Don Felix.	5	21
+821	te0055-09	Don Enrique.	4	19
+822	te0055-04	Don Carlos.	9	48
+823	te0055-09	Don Enrique.	1	2
+824	te0055-04	Don Carlos.	3	15
+825	te0055-00	Don Felix.	6	25
+826	te0055-09	Don Enrique.	21	100
+827	te0055-04	Don Carlos.	8	35
+828	te0055-09	Don Enrique.	3	19
+829	te0055-04	Don Carlos.	20	93
+830	te0055-09	Don Enrique.	3	12
+831	te0055-04	Don Carlos.	13	62
+832	te0055-00	Don Felix.	2	12
+833	te0055-09	Don Enrique.	14	70
+834	te0055-04	Don Carlos.	9	43
+835	te0055-09	Don Enrique.	1	2
+836	te0055-04	Don Carlos.	3	13
+837	te0055-09	Don Enrique.	7	33
+838	te0055-04	Don Carlos.	1	2
+839	te0055-00	Don Felix.	2	9
+840	te0055-09	Don Enrique.	6	27
+841	te0055-04	Don Carlos.	1	1
+842	te0055-09	Don Enrique.	7	32
+843	te0055-00	Don Felix.	2	11
+844	te0055-09	Don Enrique.	7	31
+845	te0055-00	Don Felix.	2	10
+846	te0055-09	Don Enrique.	3	13
+847	te0055-04	Don Carlos.	42	203
+848	te0055-09	Don Enrique.	14	64
+849	te0055-00	Don Felix.	2	10
+850	te0055-09	Don Enrique.	9	40
+851	te0055-00	Don Felix.	2	7
+852	te0055-09	Don Enrique.	5	19
+853	te0055-04	Don Carlos.	4	18
+854	te0055-09	Don Enrique.	4	20
+855	te0055-04	Don Carlos.	3	12
+856	te0055-98	(unknown)	6	27
+857	te0055-04	Don Carlos.	2	7
+858	te0055-09	Don Enrique.	2	7
+859	te0055-00	Don Felix.	1	2
+860	te0055-04	Don Carlos.	1	4
+861	te0055-09	Don Enrique.	1	3
+862	te0055-00	Don Felix.	1	6
+863	te0055-04	Don Carlos.	1	5
+864	te0055-00	Don Felix.	10	54
+865	te0055-04	Don Carlos.	2	9
+866	te0055-00	Don Felix.	1	5
+867	te0055-09	Don Enrique.	5	27
+868	te0055-00	Don Felix.	6	27
+869	te0055-04	Don Carlos.	4	18
+870	te0055-00	Don Felix.	3	16
+871	te0055-09	Don Enrique.	3	11
+872	te0055-04	Don Carlos.	1	4
+873	te0055-09	Don Enrique.	1	6
+874	te0055-00	Don Felix.	6	33
+875	te0055-09	Don Enrique.	2	9
+876	te0055-04	Don Carlos.	2	7
+877	te0055-00	Don Felix.	3	16
+878	te0055-96	(unknown)	1	3
+879	te0055-00	Don Felix.	3	12
+880	te0055-09	Don Enrique.	2	9
+881	te0055-04	Don Carlos.	2	12
+882	te0055-98	(unknown)	2	10
+883	te0055-98	(unknown)	1	4
+884	te0055-04	Don Carlos.	2	12
+885	te0055-00	Don Felix.	1	3
+886	te0055-09	Don Enrique.	2	8
+887	te0055-00	Don Felix.	1	7
+888	te0055-04	Don Carlos.	1	7
+889	te0055-00	Don Felix.	2	12
+890	te0055-02	Simon.	1	5
+891	te0055-03	Leonor.	11	64
+892	te0055-07	Juana.	2	8
+893	te0055-03	Leonor.	3	17
+894	te0055-98	(unknown)	8	43
+895	te0055-03	Leonor.	9	51
+896	te0055-00	Don Felix.	3	16
+897	te0055-03	Leonor.	1	3
+898	te0055-00	Don Felix.	1	6
+899	te0055-03	Leonor.	6	40
+900	te0055-00	Don Felix.	3	11
+901	te0055-03	Leonor.	1	1
+902	te0055-03	Leonor.	4	16
+903	te0055-00	Don Felix.	2	12
+904	te0055-01	Violante.	4	29
+905	te0055-03	Leonor.	1	5
+906	te0055-01	Violante.	1	2
+907	te0055-03	Leonor.	3	12
+908	te0055-01	Violante.	1	2
+909	te0055-03	Leonor.	2	11
+910	te0055-01	Violante.	1	4
+911	te0055-03	Leonor.	1	1
+912	te0055-00	Don Felix.	2	10
+913	te0055-01	Violante.	1	5
+914	te0055-03	Leonor.	1	7
+915	te0055-05	Inès.	1	7
+916	te0055-07	Juana.	1	5
+917	te0055-01	Violante.	8	44
+918	te0055-01	Violante.	2	14
+919	te0055-03	Leonor.	1	1
+920	te0055-01	Violante.	3	8
+921	te0055-00	Don Felix.	10	47
+922	te0055-01	Violante.	2	10
+923	te0055-03	Leonor.	2	12
+924	te0055-01	Violante.	1	1
+925	te0055-03	Leonor.	1	5
+926	te0055-01	Violante.	3	10
+927	te0055-03	Leonor.	1	2
+928	te0055-01	Violante.	1	5
+929	te0055-03	Leonor.	4	22
+930	te0055-01	Violante.	4	20
+931	te0055-98	(unknown)	6	27
+932	te0055-01	Violante.	4	18
+933	te0055-04	Don Carlos.	10	44
+934	te0055-01	Violante.	3	7
+935	te0055-03	Leonor.	1	3
+936	te0055-04	Don Carlos.	1	1
+937	te0055-03	Leonor.	2	9
+938	te0055-00	Don Felix.	2	11
+939	te0055-04	Don Carlos.	8	34
+940	te0055-98	(unknown)	1	4
+941	te0055-03	Leonor.	1	7
+942	te0055-04	Don Carlos.	2	9
+943	te0055-01	Violante.	3	18
+944	te0055-04	Don Carlos.	1	5
+945	te0055-01	Violante.	1	4
+946	te0055-03	Leonor.	1	2
+947	te0055-01	Violante.	3	11
+948	te0055-03	Leonor.	6	26
+949	te0055-01	Violante.	4	19
+950	te0055-09	Don Enrique.	4	19
+951	te0055-03	Leonor.	1	3
+952	te0055-01	Violante.	1	3
+953	te0055-09	Don Enrique.	13	61
+954	te0055-03	Leonor.	2	6
+955	te0055-09	Don Enrique.	3	11
+956	te0055-01	Violante.	1	2
+957	te0055-98	(unknown)	5	20
+958	te0055-04	Don Carlos.	2	9
+959	te0055-10	Don Diego.	4	15
+960	te0055-09	Don Enrique.	1	3
+961	te0055-98	(unknown)	1	3
+962	te0055-09	Don Enrique.	2	8
+963	te0055-06	Don Luis.	2	8
+964	te0055-10	Don Diego.	2	8
+965	te0055-06	Don Luis.	1	1
+966	te0055-10	Don Diego.	5	24
+967	te0055-06	Don Luis.	4	18
+968	te0055-10	Don Diego.	8	40
+969	te0055-03	Leonor.	2	12
+970	te0055-10	Don Diego.	2	8
+971	te0055-03	Leonor.	1	2
+972	te0055-10	Don Diego.	2	7
+973	te0055-00	Don Felix.	1	7
+974	te0055-10	Don Diego.	1	3
+975	te0055-00	Don Felix.	2	7
+976	te0055-10	Don Diego.	2	8
+977	te0055-03	Leonor.	4	17
+978	te0055-10	Don Diego.	1	7
+979	te0055-06	Don Luis.	1	2
+980	te0055-09	Don Enrique.	1	1
+981	te0055-06	Don Luis.	4	15
+982	te0055-09	Don Enrique.	6	26
+983	te0055-06	Don Luis.	1	3
+984	te0055-01	Violante.	2	13
+985	te0055-06	Don Luis.	2	8
+986	te0055-01	Violante.	1	2
+987	te0055-06	Don Luis.	1	5
+988	te0055-04	Don Carlos.	3	16
+989	te0055-06	Don Luis.	2	10
+990	te0055-09	Don Enrique.	4	25
+991	te0055-10	Don Diego.	3	13
+992	te0055-06	Don Luis.	2	14
+993	te0055-00	Don Felix.	1	6
+994	te0055-03	Leonor.	2	6
+995	te0055-04	Don Carlos.	2	6
+996	te0055-01	Violante.	1	2
+997	te0055-02	Simon.	2	7
+998	te0055-07	Juana.	2	8
+999	te0055-02	Simon.	1	1
+1000	te0055-08	Hernando.	2	14
+1001	te0055-02	Simon.	2	13
+1002	te0055-00	Don Felix.	2	11
+1003	te0055-08	Hernando.	2	9
+1004	te0055-00	Don Felix.	1	1
+1005	te0055-99	(unknown)	3	9

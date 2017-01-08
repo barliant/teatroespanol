@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="Arnesto viejo." label="Arnesto viejo." />
+      <node id="Sigismundo." label="Sigismundo." />
+      <node id="Soldados." label="Soldados." />
+      <node id="3." label="3." />
+      <node id="Turin." label="Turin." />
+      <node id="Otros." label="Otros." />
+      <node id="(unknown)" label="(unknown)" />
+      <node id="Lesbia." label="Lesbia." />
+      <node id="Federìco." label="Federìco." />
+      <node id="Auristela." label="Auristela." />
+      <node id="Flora criada." label="Flora criada." />
+      <node id="Christerna." label="Christerna." />
+      <node id="Tar." label="Tar." />
+      <node id="Roberto." label="Roberto." />
+      <node id="Casimiro." label="Casimiro." />
+      <node id="Vnos." label="Vnos." />
+      <node id="2." label="2." />
+      <node id="Nise criada." label="Nise criada." />
+    </nodes>
+    <edges>
+      <edge id="0" source="Arnesto viejo." target="Federìco." weight="172" />
+      <edge id="1" source="Arnesto viejo." target="Auristela." weight="321" />
+      <edge id="2" source="Arnesto viejo." target="Christerna." weight="238" />
+      <edge id="3" source="Arnesto viejo." target="(unknown)" weight="55" />
+      <edge id="4" source="Arnesto viejo." target="Sigismundo." weight="95" />
+      <edge id="5" source="Arnesto viejo." target="Casimiro." weight="64" />
+      <edge id="6" source="Arnesto viejo." target="Turin." weight="9" />
+      <edge id="7" source="Sigismundo." target="Soldados." weight="34" />
+      <edge id="8" source="Sigismundo." target="Lesbia." weight="399" />
+      <edge id="9" source="Sigismundo." target="Federìco." weight="631" />
+      <edge id="10" source="Sigismundo." target="Auristela." weight="676" />
+      <edge id="11" source="Sigismundo." target="Christerna." weight="1320" />
+      <edge id="12" source="Sigismundo." target="(unknown)" weight="32" />
+      <edge id="13" source="Sigismundo." target="Tar." weight="13" />
+      <edge id="14" source="Sigismundo." target="Casimiro." weight="273" />
+      <edge id="15" source="Sigismundo." target="Turin." weight="150" />
+      <edge id="16" source="Soldados." target="Lesbia." weight="10" />
+      <edge id="17" source="Soldados." target="3." weight="3" />
+      <edge id="18" source="Soldados." target="Auristela." weight="201" />
+      <edge id="19" source="Soldados." target="Christerna." weight="278" />
+      <edge id="20" source="Soldados." target="Turin." weight="5" />
+      <edge id="21" source="Soldados." target="(unknown)" weight="110" />
+      <edge id="22" source="Soldados." target="Casimiro." weight="37" />
+      <edge id="23" source="Soldados." target="Federìco." weight="3" />
+      <edge id="24" source="3." target="2." weight="2" />
+      <edge id="25" source="Turin." target="Lesbia." weight="117" />
+      <edge id="26" source="Turin." target="Federìco." weight="78" />
+      <edge id="27" source="Turin." target="Auristela." weight="544" />
+      <edge id="28" source="Turin." target="Christerna." weight="681" />
+      <edge id="29" source="Turin." target="(unknown)" weight="41" />
+      <edge id="30" source="Turin." target="Roberto." weight="18" />
+      <edge id="31" source="Turin." target="Casimiro." weight="726" />
+      <edge id="32" source="Turin." target="Otros." weight="2" />
+      <edge id="33" source="Otros." target="Vnos." weight="9" />
+      <edge id="34" source="Otros." target="Casimiro." weight="2" />
+      <edge id="35" source="Otros." target="Christerna." weight="2" />
+      <edge id="36" source="(unknown)" target="Federìco." weight="143" />
+      <edge id="37" source="(unknown)" target="Auristela." weight="82" />
+      <edge id="38" source="(unknown)" target="Tar." weight="4" />
+      <edge id="39" source="(unknown)" target="Christerna." weight="383" />
+      <edge id="40" source="(unknown)" target="Roberto." weight="7" />
+      <edge id="41" source="(unknown)" target="Casimiro." weight="277" />
+      <edge id="42" source="(unknown)" target="2." weight="2" />
+      <edge id="43" source="Lesbia." target="Federìco." weight="46" />
+      <edge id="44" source="Lesbia." target="Auristela." weight="211" />
+      <edge id="45" source="Lesbia." target="Flora criada." weight="5" />
+      <edge id="46" source="Lesbia." target="Christerna." weight="918" />
+      <edge id="47" source="Lesbia." target="Casimiro." weight="62" />
+      <edge id="48" source="Lesbia." target="Nise criada." weight="24" />
+      <edge id="49" source="Federìco." target="Auristela." weight="64" />
+      <edge id="50" source="Federìco." target="Christerna." weight="852" />
+      <edge id="51" source="Federìco." target="Casimiro." weight="512" />
+      <edge id="52" source="Federìco." target="Vnos." weight="6" />
+      <edge id="53" source="Auristela." target="Christerna." weight="765" />
+      <edge id="54" source="Auristela." target="Casimiro." weight="3161" />
+      <edge id="55" source="Flora criada." target="Christerna." weight="157" />
+      <edge id="56" source="Flora criada." target="Nise criada." weight="22" />
+      <edge id="57" source="Christerna." target="Tar." weight="13" />
+      <edge id="58" source="Christerna." target="Casimiro." weight="2895" />
+      <edge id="59" source="Christerna." target="Nise criada." weight="61" />
+      <edge id="60" source="Tar." target="Casimiro." weight="45" />
+      <edge id="61" source="Roberto." target="Casimiro." weight="283" />
+      <edge id="62" source="Casimiro." target="Vnos." weight="110" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="Doña Blanca." label="Doña Blanca." />
+      <node id="Pri." label="Pri." />
+      <node id="Don Garcia." label="Don Garcia." />
+      <node id="Doña Eluira." label="Doña Eluira." />
+      <node id="Don Lope." label="Don Lope." />
+      <node id="(unknown)" label="(unknown)" />
+      <node id="Doña Sancha." label="Doña Sancha." />
+      <node id="Don Tello." label="Don Tello." />
+      <node id="Don Melendo." label="Don Melendo." />
+      <node id="Bermudo." label="Bermudo." />
+      <node id="Don Sancho Rey." label="Don Sancho Rey." />
+      <node id="Don Ordoño." label="Don Ordoño." />
+    </nodes>
+    <edges>
+      <edge id="0" source="Doña Blanca." target="Doña Eluira." weight="1043" />
+      <edge id="1" source="Doña Blanca." target="Pri." weight="27" />
+      <edge id="2" source="Doña Blanca." target="Doña Sancha." weight="932" />
+      <edge id="3" source="Doña Blanca." target="(unknown)" weight="40" />
+      <edge id="4" source="Doña Blanca." target="Don Melendo." weight="29" />
+      <edge id="5" source="Doña Blanca." target="Bermudo." weight="334" />
+      <edge id="6" source="Doña Blanca." target="Don Sancho Rey." weight="124" />
+      <edge id="7" source="Doña Blanca." target="Don Lope." weight="1841" />
+      <edge id="8" source="Doña Blanca." target="Don Ordoño." weight="495" />
+      <edge id="9" source="Don Garcia." target="Don Melendo." weight="10" />
+      <edge id="10" source="Doña Eluira." target="Don Melendo." weight="2" />
+      <edge id="11" source="Doña Eluira." target="Bermudo." weight="1572" />
+      <edge id="12" source="Doña Eluira." target="Don Sancho Rey." weight="32" />
+      <edge id="13" source="Doña Eluira." target="Don Lope." weight="2698" />
+      <edge id="14" source="Doña Eluira." target="Don Ordoño." weight="1110" />
+      <edge id="15" source="Don Lope." target="Doña Sancha." weight="7" />
+      <edge id="16" source="Don Lope." target="(unknown)" weight="3" />
+      <edge id="17" source="Don Lope." target="Bermudo." weight="1706" />
+      <edge id="18" source="Don Lope." target="Don Ordoño." weight="1593" />
+      <edge id="19" source="Don Tello." target="Don Melendo." weight="876" />
+      <edge id="20" source="Don Tello." target="Bermudo." weight="25" />
+      <edge id="21" source="Don Tello." target="Don Ordoño." weight="295" />
+      <edge id="22" source="Don Melendo." target="Don Ordoño." weight="574" />
+      <edge id="23" source="Bermudo." target="Don Ordoño." weight="87" />
+      <edge id="24" source="Don Sancho Rey." target="Don Ordoño." weight="170" />
+    </edges>
+  </graph>
+</gexf>

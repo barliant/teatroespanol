@@ -1,0 +1,777 @@
+num	id	name	numlines	numwords
+1	te0054-03	Salomon.	4	15
+2	te0054-04	Adonias.	4	23
+3	te0054-02	Absalon.	4	21
+4	te0054-07	Tamar.	4	23
+5	te0054-00	El Rey Dauid.	28	146
+6	te0054-01	Ioab.	1	4
+7	te0054-09	Aquitofel.	3	18
+8	te0054-00	El Rey Dauid.	16	90
+9	te0054-04	Adonias.	1	5
+10	te0054-00	El Rey Dauid.	3	17
+11	te0054-03	Salomon.	2	12
+12	te0054-02	Absalon.	1	5
+13	te0054-00	El Rey Dauid.	2	12
+14	te0054-07	Tamar.	3	17
+15	te0054-00	El Rey Dauid.	1	7
+16	te0054-09	Aquitofel.	23	138
+17	te0054-00	El Rey Dauid.	24	135
+18	te0054-02	Absalon.	2	16
+19	te0054-00	El Rey Dauid.	1	3
+20	te0054-01	Ioab.	5	24
+21	te0054-07	Tamar.	3	16
+22	te0054-00	El Rey Dauid.	1	1
+23	te0054-05	Amon.	1	3
+24	te0054-00	El Rey Dauid.	1	1
+25	te0054-05	Amon.	1	4
+26	te0054-00	El Rey Dauid.	55	264
+27	te0054-04	Adonias.	1	1
+28	te0054-02	Absalon.	1	1
+29	te0054-03	Salomon.	1	1
+30	te0054-07	Tamar.	1	1
+31	te0054-05	Amon.	1	4
+32	te0054-07	Tamar.	1	2
+33	te0054-03	Salomon.	1	2
+34	te0054-02	Absalon.	2	3
+35	te0054-04	Adonias.	1	4
+36	te0054-00	El Rey Dauid.	1	2
+37	te0054-99	(unknown)	1	2
+38	te0054-05	Amon.	1	5
+39	te0054-00	El Rey Dauid.	10	49
+40	te0054-01	Ioab.	1	3
+41	te0054-09	Aquitofel.	1	4
+42	te0054-04	Adonias.	1	4
+43	te0054-03	Salomon.	1	4
+44	te0054-07	Tamar.	2	8
+45	te0054-02	Absalon.	1	2
+46	te0054-04	Adonias.	1	3
+47	te0054-02	Absalon.	5	29
+48	te0054-07	Tamar.	4	22
+49	te0054-05	Amon.	1	3
+50	te0054-06	Ionadab.	8	41
+51	te0054-05	Amon.	1	6
+52	te0054-06	Ionadab.	2	8
+53	te0054-05	Amon.	5	20
+54	te0054-06	Ionadab.	11	52
+55	te0054-05	Amon.	33	164
+56	te0054-06	Ionadab.	3	14
+57	te0054-04	Adonias.	1	6
+58	te0054-01	Ioab.	1	7
+59	te0054-05	Amon.	1	6
+60	te0054-06	Ionadab.	4	18
+61	te0054-05	Amon.	19	101
+62	te0054-06	Ionadab.	2	8
+63	te0054-05	Amon.	1	2
+64	te0054-01	Ioab.	1	6
+65	te0054-05	Amon.	1	7
+66	te0054-06	Ionadab.	2	11
+67	te0054-05	Amon.	1	2
+68	te0054-06	Ionadab.	5	24
+69	te0054-05	Amon.	11	61
+70	te0054-07	Tamar.	29	146
+71	te0054-05	Amon.	20	106
+72	te0054-07	Tamar.	10	51
+73	te0054-05	Amon.	14	75
+74	te0054-07	Tamar.	4	19
+75	te0054-05	Amon.	3	14
+76	te0054-07	Tamar.	4	18
+77	te0054-05	Amon.	4	24
+78	te0054-07	Tamar.	1	2
+79	te0054-05	Amon.	12	60
+80	te0054-07	Tamar.	11	50
+81	te0054-05	Amon.	1	2
+82	te0054-07	Tamar.	1	2
+83	te0054-05	Amon.	1	4
+84	te0054-07	Tamar.	1	3
+85	te0054-05	Amon.	1	2
+86	te0054-07	Tamar.	1	3
+87	te0054-05	Amon.	1	2
+88	te0054-07	Tamar.	1	1
+89	te0054-05	Amon.	1	4
+90	te0054-07	Tamar.	1	1
+91	te0054-05	Amon.	1	2
+92	te0054-07	Tamar.	1	2
+93	te0054-05	Amon.	1	3
+94	te0054-07	Tamar.	1	5
+95	te0054-05	Amon.	1	1
+96	te0054-07	Tamar.	1	5
+97	te0054-05	Amon.	15	80
+98	te0054-07	Tamar.	4	22
+99	te0054-05	Amon.	16	81
+100	te0054-07	Tamar.	4	19
+101	te0054-05	Amon.	4	21
+102	te0054-07	Tamar.	2	12
+103	te0054-05	Amon.	17	80
+104	te0054-07	Tamar.	3	13
+105	te0054-05	Amon.	7	30
+106	te0054-07	Tamar.	10	46
+107	te0054-05	Amon.	1	3
+108	te0054-07	Tamar.	3	10
+109	te0054-05	Amon.	7	32
+110	te0054-07	Tamar.	20	100
+111	te0054-05	Amon.	5	26
+112	te0054-98	(unknown)	6	28
+113	te0054-05	Amon.	2	10
+114	te0054-06	Ionadab.	2	12
+115	te0054-05	Amon.	1	5
+116	te0054-06	Ionadab.	5	25
+117	te0054-05	Amon.	1	5
+118	te0054-06	Ionadab.	3	14
+119	te0054-05	Amon.	3	15
+120	te0054-06	Ionadab.	4	14
+121	te0054-05	Amon.	3	11
+122	te0054-06	Ionadab.	2	6
+123	te0054-05	Amon.	4	19
+124	te0054-00	El Rey Dauid.	5	20
+125	te0054-05	Amon.	2	6
+126	te0054-00	El Rey Dauid.	3	14
+127	te0054-05	Amon.	3	8
+128	te0054-00	El Rey Dauid.	3	10
+129	te0054-06	Ionadab.	2	5
+130	te0054-05	Amon.	8	29
+131	te0054-00	El Rey Dauid.	3	16
+132	te0054-05	Amon.	1	6
+133	te0054-00	El Rey Dauid.	1	2
+134	te0054-05	Amon.	1	3
+135	te0054-00	El Rey Dauid.	2	11
+136	te0054-05	Amon.	1	4
+137	te0054-00	El Rey Dauid.	2	3
+138	te0054-06	Ionadab.	2	8
+139	te0054-05	Amon.	7	34
+140	te0054-00	El Rey Dauid.	8	34
+141	te0054-06	Ionadab.	4	18
+142	te0054-05	Amon.	4	16
+143	te0054-00	El Rey Dauid.	2	8
+144	te0054-05	Amon.	1	4
+145	te0054-00	El Rey Dauid.	4	19
+146	te0054-05	Amon.	13	56
+147	te0054-06	Ionadab.	4	21
+148	te0054-00	El Rey Dauid.	6	31
+149	te0054-05	Amon.	4	15
+150	te0054-06	Ionadab.	2	6
+151	te0054-05	Amon.	6	27
+152	te0054-00	El Rey Dauid.	4	19
+153	te0054-03	Salomon.	1	3
+154	te0054-00	El Rey Dauid.	1	6
+155	te0054-02	Absalon.	2	10
+156	te0054-01	Ioab.	2	8
+157	te0054-00	El Rey Dauid.	1	2
+158	te0054-09	Aquitofel.	2	7
+159	te0054-11	Semey.	2	7
+160	te0054-00	El Rey Dauid.	3	9
+161	te0054-11	Semey.	17	75
+162	te0054-00	El Rey Dauid.	28	130
+163	te0054-08	Teuia.	10	51
+164	te0054-02	Absalon.	2	8
+165	te0054-03	Salomon.	1	3
+166	te0054-09	Aquitofel.	2	9
+167	te0054-11	Semey.	1	1
+168	te0054-08	Teuia.	2	7
+169	te0054-01	Ioab.	1	1
+170	te0054-08	Teuia.	8	32
+171	te0054-09	Aquitofel.	2	4
+172	te0054-08	Teuia.	5	18
+173	te0054-03	Salomon.	1	1
+174	te0054-08	Teuia.	4	23
+175	te0054-02	Absalon.	2	6
+176	te0054-08	Teuia.	5	24
+177	te0054-03	Salomon.	2	8
+178	te0054-11	Semey.	3	9
+179	te0054-03	Salomon.	1	4
+180	te0054-02	Absalon.	3	17
+181	te0054-03	Salomon.	1	4
+182	te0054-02	Absalon.	3	14
+183	te0054-03	Salomon.	1	4
+184	te0054-02	Absalon.	28	143
+185	te0054-03	Salomon.	6	25
+186	te0054-02	Absalon.	3	13
+187	te0054-03	Salomon.	3	12
+188	te0054-02	Absalon.	5	22
+189	te0054-03	Salomon.	8	41
+190	te0054-01	Ioab.	1	3
+191	te0054-09	Aquitofel.	1	6
+192	te0054-01	Ioab.	2	7
+193	te0054-02	Absalon.	1	3
+194	te0054-09	Aquitofel.	1	5
+195	te0054-02	Absalon.	2	8
+196	te0054-01	Ioab.	2	6
+197	te0054-02	Absalon.	5	26
+198	te0054-01	Ioab.	3	13
+199	te0054-02	Absalon.	1	4
+200	te0054-09	Aquitofel.	6	24
+201	te0054-02	Absalon.	2	7
+202	te0054-09	Aquitofel.	2	7
+203	te0054-02	Absalon.	2	13
+204	te0054-09	Aquitofel.	3	15
+205	te0054-02	Absalon.	5	21
+206	te0054-15	Mus.	8	40
+207	te0054-06	Ionadab.	1	6
+208	te0054-05	Amon.	3	15
+209	te0054-07	Tamar.	4	16
+210	te0054-05	Amon.	3	12
+211	te0054-07	Tamar.	3	11
+212	te0054-05	Amon.	2	7
+213	te0054-07	Tamar.	1	2
+214	te0054-05	Amon.	8	38
+215	te0054-07	Tamar.	6	27
+216	te0054-05	Amon.	4	17
+217	te0054-06	Ionadab.	2	9
+218	te0054-07	Tamar.	1	4
+219	te0054-05	Amon.	1	2
+220	te0054-06	Ionadab.	3	14
+221	te0054-05	Amon.	1	1
+222	te0054-07	Tamar.	1	4
+223	te0054-05	Amon.	1	4
+224	te0054-95	(unknown)	2	7
+225	te0054-05	Amon.	8	35
+226	te0054-07	Tamar.	3	12
+227	te0054-05	Amon.	4	20
+228	te0054-95	(unknown)	2	7
+229	te0054-05	Amon.	4	21
+230	te0054-07	Tamar.	2	5
+231	te0054-05	Amon.	1	3
+232	te0054-07	Tamar.	1	4
+233	te0054-05	Amon.	4	18
+234	te0054-07	Tamar.	3	13
+235	te0054-05	Amon.	2	6
+236	te0054-07	Tamar.	1	1
+237	te0054-05	Amon.	2	5
+238	te0054-07	Tamar.	1	1
+239	te0054-15	Mus.	1	2
+240	te0054-05	Amon.	2	10
+241	te0054-98	(unknown)	1	5
+242	te0054-07	Tamar.	1	3
+243	te0054-05	Amon.	1	3
+244	te0054-07	Tamar.	1	3
+245	te0054-05	Amon.	2	11
+246	te0054-07	Tamar.	1	5
+247	te0054-05	Amon.	1	4
+248	te0054-07	Tamar.	3	14
+249	te0054-05	Amon.	6	30
+250	te0054-95	(unknown)	2	7
+251	te0054-05	Amon.	21	94
+252	te0054-07	Tamar.	7	34
+253	te0054-05	Amon.	3	16
+254	te0054-07	Tamar.	24	125
+255	te0054-05	Amon.	3	13
+256	te0054-07	Tamar.	7	31
+257	te0054-05	Amon.	3	13
+258	te0054-10	Eliazar.	1	1
+259	te0054-05	Amon.	2	7
+260	te0054-10	Eliazar.	1	6
+261	te0054-05	Amon.	2	8
+262	te0054-06	Ionadab.	2	9
+263	te0054-05	Amon.	1	4
+264	te0054-07	Tamar.	5	22
+265	te0054-05	Amon.	1	5
+266	te0054-06	Ionadab.	2	8
+267	te0054-07	Tamar.	2	9
+268	te0054-02	Absalon.	4	23
+269	te0054-04	Adonias.	4	25
+270	te0054-02	Absalon.	8	51
+271	te0054-04	Adonias.	27	182
+272	te0054-02	Absalon.	17	120
+273	te0054-04	Adonias.	3	23
+274	te0054-02	Absalon.	1	5
+275	te0054-04	Adonias.	1	3
+276	te0054-00	El Rey Dauid.	6	39
+277	te0054-03	Salomon.	2	12
+278	te0054-00	El Rey Dauid.	1	1
+279	te0054-02	Absalon.	1	2
+280	te0054-00	El Rey Dauid.	1	4
+281	te0054-04	Adonias.	3	20
+282	te0054-02	Absalon.	4	25
+283	te0054-07	Tamar.	106	465
+284	te0054-00	El Rey Dauid.	10	46
+285	te0054-02	Absalon.	20	98
+286	te0054-07	Tamar.	4	22
+287	te0054-02	Absalon.	4	12
+288	te0054-04	Adonias.	4	19
+289	te0054-03	Salomon.	8	39
+290	te0054-05	Amon.	11	53
+291	te0054-00	El Rey Dauid.	1	1
+292	te0054-05	Amon.	1	4
+293	te0054-00	El Rey Dauid.	17	71
+294	te0054-05	Amon.	1	2
+295	te0054-00	El Rey Dauid.	4	17
+296	te0054-05	Amon.	1	3
+297	te0054-00	El Rey Dauid.	14	63
+298	te0054-05	Amon.	12	51
+299	te0054-02	Absalon.	50	257
+300	te0054-00	El Rey Dauid.	1	2
+301	te0054-02	Absalon.	2	11
+302	te0054-00	El Rey Dauid.	2	11
+303	te0054-02	Absalon.	2	8
+304	te0054-00	El Rey Dauid.	7	31
+305	te0054-02	Absalon.	1	1
+306	te0054-00	El Rey Dauid.	1	4
+307	te0054-02	Absalon.	8	37
+308	te0054-00	El Rey Dauid.	3	10
+309	te0054-02	Absalon.	3	14
+310	te0054-00	El Rey Dauid.	5	27
+311	te0054-02	Absalon.	2	10
+312	te0054-00	El Rey Dauid.	2	8
+313	te0054-02	Absalon.	18	77
+314	te0054-00	El Rey Dauid.	4	18
+315	te0054-02	Absalon.	6	31
+316	te0054-00	El Rey Dauid.	4	17
+317	te0054-02	Absalon.	6	29
+318	te0054-00	El Rey Dauid.	4	19
+319	te0054-02	Absalon.	6	25
+320	te0054-00	El Rey Dauid.	1	5
+321	te0054-02	Absalon.	3	12
+322	te0054-00	El Rey Dauid.	2	10
+323	te0054-02	Absalon.	2	11
+324	te0054-00	El Rey Dauid.	4	19
+325	te0054-02	Absalon.	3	16
+326	te0054-00	El Rey Dauid.	1	5
+327	te0054-02	Absalon.	5	29
+328	te0054-00	El Rey Dauid.	3	19
+329	te0054-02	Absalon.	1	6
+330	te0054-00	El Rey Dauid.	1	5
+331	te0054-02	Absalon.	1	3
+332	te0054-00	El Rey Dauid.	2	6
+333	te0054-02	Absalon.	1	2
+334	te0054-00	El Rey Dauid.	2	9
+335	te0054-02	Absalon.	1	2
+336	te0054-00	El Rey Dauid.	6	28
+337	te0054-13	Pastores.	20	96
+338	te0054-07	Tamar.	1	5
+339	te0054-13	Pastores.	12	59
+340	te0054-07	Tamar.	3	14
+341	te0054-13	Pastores.	12	59
+342	te0054-07	Tamar.	4	20
+343	te0054-13	Pastores.	5	21
+344	te0054-07	Tamar.	1	2
+345	te0054-13	Pastores.	1	3
+346	te0054-07	Tamar.	2	9
+347	te0054-13	Pastores.	2	9
+348	te0054-07	Tamar.	2	11
+349	te0054-13	Pastores.	7	33
+350	te0054-07	Tamar.	1	5
+351	te0054-13	Pastores.	4	20
+352	te0054-08	Teuia.	16	75
+353	te0054-07	Tamar.	4	20
+354	te0054-08	Teuia.	1	6
+355	te0054-07	Tamar.	2	11
+356	te0054-08	Teuia.	1	4
+357	te0054-13	Pastores.	1	4
+358	te0054-07	Tamar.	3	12
+359	te0054-13	Pastores.	1	2
+360	te0054-08	Teuia.	4	17
+361	te0054-13	Pastores.	4	16
+362	te0054-07	Tamar.	1	4
+363	te0054-08	Teuia.	2	5
+364	te0054-07	Tamar.	2	8
+365	te0054-05	Amon.	1	4
+366	te0054-02	Absalon.	2	9
+367	te0054-06	Ionadab.	2	8
+368	te0054-05	Amon.	1	5
+369	te0054-06	Ionadab.	1	7
+370	te0054-02	Absalon.	3	15
+371	te0054-05	Amon.	3	14
+372	te0054-02	Absalon.	4	15
+373	te0054-03	Salomon.	2	5
+374	te0054-05	Amon.	5	21
+375	te0054-02	Absalon.	3	14
+376	te0054-06	Ionadab.	1	4
+377	te0054-05	Amon.	1	3
+378	te0054-02	Absalon.	3	7
+379	te0054-06	Ionadab.	1	2
+380	te0054-05	Amon.	2	10
+381	te0054-08	Teuia.	2	7
+382	te0054-05	Amon.	4	18
+383	te0054-08	Teuia.	5	24
+384	te0054-05	Amon.	2	9
+385	te0054-08	Teuia.	1	2
+386	te0054-05	Amon.	1	3
+387	te0054-08	Teuia.	1	2
+388	te0054-05	Amon.	1	4
+389	te0054-08	Teuia.	5	20
+390	te0054-05	Amon.	1	3
+391	te0054-08	Teuia.	1	3
+392	te0054-05	Amon.	1	5
+393	te0054-08	Teuia.	12	55
+394	te0054-05	Amon.	2	8
+395	te0054-03	Salomon.	1	4
+396	te0054-05	Amon.	2	9
+397	te0054-04	Adonias.	1	6
+398	te0054-08	Teuia.	2	5
+399	te0054-04	Adonias.	1	6
+400	te0054-08	Teuia.	1	5
+401	te0054-05	Amon.	1	2
+402	te0054-08	Teuia.	4	19
+403	te0054-04	Adonias.	1	3
+404	te0054-02	Absalon.	2	7
+405	te0054-03	Salomon.	3	12
+406	te0054-08	Teuia.	7	37
+407	te0054-05	Amon.	1	2
+408	te0054-06	Ionadab.	1	3
+409	te0054-02	Absalon.	1	5
+410	te0054-08	Teuia.	1	2
+411	te0054-02	Absalon.	1	6
+412	te0054-08	Teuia.	13	56
+413	te0054-02	Absalon.	4	21
+414	te0054-05	Amon.	1	3
+415	te0054-06	Ionadab.	1	4
+416	te0054-02	Absalon.	6	28
+417	te0054-13	Pastores.	2	9
+418	te0054-05	Amon.	3	13
+419	te0054-04	Adonias.	1	4
+420	te0054-06	Ionadab.	2	9
+421	te0054-05	Amon.	5	22
+422	te0054-07	Tamar.	3	15
+423	te0054-05	Amon.	1	2
+424	te0054-07	Tamar.	1	2
+425	te0054-05	Amon.	1	2
+426	te0054-07	Tamar.	3	16
+427	te0054-05	Amon.	2	9
+428	te0054-07	Tamar.	1	3
+429	te0054-05	Amon.	1	2
+430	te0054-07	Tamar.	1	5
+431	te0054-05	Amon.	2	7
+432	te0054-07	Tamar.	3	8
+433	te0054-05	Amon.	1	4
+434	te0054-07	Tamar.	2	10
+435	te0054-05	Amon.	2	8
+436	te0054-07	Tamar.	4	18
+437	te0054-05	Amon.	1	5
+438	te0054-07	Tamar.	1	5
+439	te0054-05	Amon.	1	4
+440	te0054-07	Tamar.	1	5
+441	te0054-05	Amon.	1	1
+442	te0054-07	Tamar.	1	3
+443	te0054-05	Amon.	1	7
+444	te0054-07	Tamar.	1	1
+445	te0054-05	Amon.	10	46
+446	te0054-07	Tamar.	7	35
+447	te0054-98	(unknown)	1	4
+448	te0054-98	(unknown)	2	8
+449	te0054-98	(unknown)	1	4
+450	te0054-02	Absalon.	1	5
+451	te0054-02	Absalon.	13	59
+452	te0054-07	Tamar.	11	50
+453	te0054-02	Absalon.	1	4
+454	te0054-07	Tamar.	1	4
+455	te0054-02	Absalon.	4	20
+456	te0054-00	El Rey Dauid.	34	159
+457	te0054-04	Adonias.	1	1
+458	te0054-00	El Rey Dauid.	10	42
+459	te0054-03	Salomon.	1	2
+460	te0054-00	El Rey Dauid.	14	56
+461	te0054-04	Adonias.	1	2
+462	te0054-00	El Rey Dauid.	3	17
+463	te0054-01	Ioab.	1	5
+464	te0054-11	Semey.	2	11
+465	te0054-06	Ionadab.	7	31
+466	te0054-01	Ioab.	3	13
+467	te0054-11	Semey.	4	15
+468	te0054-01	Ioab.	2	10
+469	te0054-11	Semey.	1	7
+470	te0054-01	Ioab.	1	3
+471	te0054-11	Semey.	4	16
+472	te0054-01	Ioab.	9	47
+473	te0054-11	Semey.	3	17
+474	te0054-01	Ioab.	47	234
+475	te0054-11	Semey.	1	3
+476	te0054-01	Ioab.	2	4
+477	te0054-11	Semey.	10	48
+478	te0054-06	Ionadab.	2	12
+479	te0054-11	Semey.	1	6
+480	te0054-09	Aquitofel.	1	4
+481	te0054-00	El Rey Dauid.	3	14
+482	te0054-09	Aquitofel.	2	8
+483	te0054-00	El Rey Dauid.	5	25
+484	te0054-01	Ioab.	2	9
+485	te0054-00	El Rey Dauid.	1	3
+486	te0054-01	Ioab.	3	10
+487	te0054-00	El Rey Dauid.	2	7
+488	te0054-01	Ioab.	1	1
+489	te0054-00	El Rey Dauid.	2	9
+490	te0054-11	Semey.	3	12
+491	te0054-00	El Rey Dauid.	1	2
+492	te0054-01	Ioab.	2	7
+493	te0054-06	Ionadab.	2	9
+494	te0054-08	Teuia.	12	56
+495	te0054-06	Ionadab.	2	10
+496	te0054-00	El Rey Dauid.	1	2
+497	te0054-08	Teuia.	41	199
+498	te0054-00	El Rey Dauid.	9	48
+499	te0054-08	Teuia.	1	2
+500	te0054-00	El Rey Dauid.	4	14
+501	te0054-08	Teuia.	2	6
+502	te0054-00	El Rey Dauid.	1	2
+503	te0054-08	Teuia.	9	45
+504	te0054-00	El Rey Dauid.	6	28
+505	te0054-08	Teuia.	1	2
+506	te0054-00	El Rey Dauid.	2	10
+507	te0054-11	Semey.	2	7
+508	te0054-09	Aquitofel.	1	3
+509	te0054-11	Semey.	1	3
+510	te0054-06	Ionadab.	2	12
+511	te0054-00	El Rey Dauid.	1	1
+512	te0054-01	Ioab.	1	1
+513	te0054-00	El Rey Dauid.	12	64
+514	te0054-01	Ioab.	1	5
+515	te0054-09	Aquitofel.	2	10
+516	te0054-00	El Rey Dauid.	1	2
+517	te0054-09	Aquitofel.	3	14
+518	te0054-00	El Rey Dauid.	3	20
+519	te0054-97	(unknown)	1	6
+520	te0054-00	El Rey Dauid.	1	7
+521	te0054-01	Ioab.	4	18
+522	te0054-00	El Rey Dauid.	5	23
+523	te0054-12	Ensay.	9	44
+524	te0054-00	El Rey Dauid.	6	27
+525	te0054-12	Ensay.	4	24
+526	te0054-04	Adonias.	3	14
+527	te0054-03	Salomon.	2	9
+528	te0054-00	El Rey Dauid.	8	40
+529	te0054-01	Ioab.	3	9
+530	te0054-03	Salomon.	2	6
+531	te0054-02	Absalon.	5	22
+532	te0054-00	El Rey Dauid.	4	17
+533	te0054-03	Salomon.	1	5
+534	te0054-04	Adonias.	1	5
+535	te0054-02	Absalon.	1	5
+536	te0054-00	El Rey Dauid.	68	323
+537	te0054-02	Absalon.	5	26
+538	te0054-09	Aquitofel.	3	13
+539	te0054-02	Absalon.	6	23
+540	te0054-09	Aquitofel.	3	11
+541	te0054-02	Absalon.	1	2
+542	te0054-09	Aquitofel.	15	68
+543	te0054-02	Absalon.	14	63
+544	te0054-09	Aquitofel.	1	3
+545	te0054-02	Absalon.	13	63
+546	te0054-09	Aquitofel.	6	30
+547	te0054-02	Absalon.	15	65
+548	te0054-09	Aquitofel.	6	28
+549	te0054-06	Ionadab.	5	30
+550	te0054-08	Teuia.	1	6
+551	te0054-06	Ionadab.	2	12
+552	te0054-08	Teuia.	4	22
+553	te0054-06	Ionadab.	2	10
+554	te0054-08	Teuia.	5	31
+555	te0054-06	Ionadab.	2	10
+556	te0054-08	Teuia.	3	20
+557	te0054-07	Tamar.	2	10
+558	te0054-06	Ionadab.	2	10
+559	te0054-07	Tamar.	5	28
+560	te0054-06	Ionadab.	2	12
+561	te0054-07	Tamar.	2	11
+562	te0054-06	Ionadab.	5	24
+563	te0054-07	Tamar.	2	7
+564	te0054-06	Ionadab.	1	2
+565	te0054-07	Tamar.	1	2
+566	te0054-08	Teuia.	1	3
+567	te0054-07	Tamar.	1	7
+568	te0054-08	Teuia.	2	15
+569	te0054-07	Tamar.	19	109
+570	te0054-06	Ionadab.	1	2
+571	te0054-97	(unknown)	1	2
+572	te0054-97	(unknown)	1	2
+573	te0054-97	(unknown)	1	3
+574	te0054-07	Tamar.	2	11
+575	te0054-06	Ionadab.	1	7
+576	te0054-08	Teuia.	6	28
+577	te0054-07	Tamar.	7	40
+578	te0054-09	Aquitofel.	1	7
+579	te0054-07	Tamar.	1	2
+580	te0054-09	Aquitofel.	3	14
+581	te0054-07	Tamar.	2	4
+582	te0054-09	Aquitofel.	3	18
+583	te0054-07	Tamar.	21	121
+584	te0054-08	Teuia.	1	4
+585	te0054-07	Tamar.	1	2
+586	te0054-06	Ionadab.	1	8
+587	te0054-07	Tamar.	1	5
+588	te0054-08	Teuia.	2	8
+589	te0054-06	Ionadab.	1	5
+590	te0054-08	Teuia.	1	2
+591	te0054-07	Tamar.	12	67
+592	te0054-06	Ionadab.	1	6
+593	te0054-09	Aquitofel.	2	6
+594	te0054-06	Ionadab.	2	15
+595	te0054-09	Aquitofel.	1	6
+596	te0054-06	Ionadab.	3	16
+597	te0054-09	Aquitofel.	1	1
+598	te0054-08	Teuia.	2	5
+599	te0054-09	Aquitofel.	4	24
+600	te0054-08	Teuia.	6	39
+601	te0054-09	Aquitofel.	8	48
+602	te0054-02	Absalon.	15	70
+603	te0054-12	Ensay.	2	8
+604	te0054-02	Absalon.	3	18
+605	te0054-12	Ensay.	3	13
+606	te0054-02	Absalon.	5	23
+607	te0054-12	Ensay.	2	11
+608	te0054-02	Absalon.	2	13
+609	te0054-12	Ensay.	4	19
+610	te0054-02	Absalon.	9	44
+611	te0054-12	Ensay.	12	59
+612	te0054-02	Absalon.	2	5
+613	te0054-12	Ensay.	5	21
+614	te0054-02	Absalon.	1	6
+615	te0054-12	Ensay.	9	42
+616	te0054-02	Absalon.	9	43
+617	te0054-12	Ensay.	2	3
+618	te0054-02	Absalon.	2	6
+619	te0054-12	Ensay.	2	5
+620	te0054-02	Absalon.	5	23
+621	te0054-03	Salomon.	14	65
+622	te0054-00	El Rey Dauid.	1	6
+623	te0054-03	Salomon.	6	21
+624	te0054-00	El Rey Dauid.	3	14
+625	te0054-03	Salomon.	5	23
+626	te0054-00	El Rey Dauid.	12	59
+627	te0054-03	Salomon.	1	3
+628	te0054-00	El Rey Dauid.	3	10
+629	te0054-03	Salomon.	1	3
+630	te0054-00	El Rey Dauid.	5	16
+631	te0054-98	(unknown)	1	2
+632	te0054-00	El Rey Dauid.	1	9
+633	te0054-03	Salomon.	1	5
+634	te0054-00	El Rey Dauid.	2	11
+635	te0054-12	Ensay.	9	37
+636	te0054-99	(unknown)	1	2
+637	te0054-12	Ensay.	13	66
+638	te0054-00	El Rey Dauid.	1	3
+639	te0054-04	Adonias.	3	17
+640	te0054-11	Semey.	4	18
+641	te0054-00	El Rey Dauid.	2	8
+642	te0054-01	Ioab.	29	124
+643	te0054-00	El Rey Dauid.	2	9
+644	te0054-01	Ioab.	3	12
+645	te0054-03	Salomon.	2	8
+646	te0054-00	El Rey Dauid.	5	22
+647	te0054-01	Ioab.	7	32
+648	te0054-00	El Rey Dauid.	6	28
+649	te0054-14	Vnos.	1	2
+650	te0054-06	Ionadab.	1	2
+651	te0054-93	(unknown)	1	2
+652	te0054-06	Ionadab.	9	47
+653	te0054-02	Absalon.	3	12
+654	te0054-06	Ionadab.	2	7
+655	te0054-09	Aquitofel.	4	20
+656	te0054-02	Absalon.	3	12
+657	te0054-09	Aquitofel.	1	6
+658	te0054-02	Absalon.	1	6
+659	te0054-12	Ensay.	2	10
+660	te0054-02	Absalon.	2	8
+661	te0054-97	(unknown)	2	2
+662	te0054-02	Absalon.	1	3
+663	te0054-09	Aquitofel.	3	11
+664	te0054-12	Ensay.	3	14
+665	te0054-02	Absalon.	3	14
+666	te0054-09	Aquitofel.	15	67
+667	te0054-02	Absalon.	1	4
+668	te0054-12	Ensay.	3	10
+669	te0054-09	Aquitofel.	17	80
+670	te0054-02	Absalon.	8	43
+671	te0054-06	Ionadab.	1	4
+672	te0054-12	Ensay.	3	12
+673	te0054-09	Aquitofel.	5	21
+674	te0054-12	Ensay.	2	9
+675	te0054-09	Aquitofel.	4	15
+676	te0054-12	Ensay.	1	5
+677	te0054-09	Aquitofel.	3	9
+678	te0054-12	Ensay.	3	14
+679	te0054-09	Aquitofel.	2	6
+680	te0054-12	Ensay.	3	12
+681	te0054-02	Absalon.	4	19
+682	te0054-12	Ensay.	1	5
+683	te0054-09	Aquitofel.	3	16
+684	te0054-02	Absalon.	1	6
+685	te0054-09	Aquitofel.	2	7
+686	te0054-12	Ensay.	3	13
+687	te0054-02	Absalon.	1	3
+688	te0054-12	Ensay.	8	31
+689	te0054-02	Absalon.	13	60
+690	te0054-09	Aquitofel.	8	39
+691	te0054-12	Ensay.	25	118
+692	te0054-02	Absalon.	4	15
+693	te0054-09	Aquitofel.	2	6
+694	te0054-02	Absalon.	4	16
+695	te0054-09	Aquitofel.	3	8
+696	te0054-02	Absalon.	6	27
+697	te0054-09	Aquitofel.	30	148
+698	te0054-03	Salomon.	1	8
+699	te0054-04	Adonias.	1	7
+700	te0054-01	Ioab.	2	12
+701	te0054-00	El Rey Dauid.	4	23
+702	te0054-04	Adonias.	2	9
+703	te0054-03	Salomon.	2	10
+704	te0054-01	Ioab.	4	22
+705	te0054-00	El Rey Dauid.	5	30
+706	te0054-01	Ioab.	1	6
+707	te0054-04	Adonias.	1	2
+708	te0054-03	Salomon.	2	10
+709	te0054-00	El Rey Dauid.	8	47
+710	te0054-11	Semey.	3	23
+711	te0054-00	El Rey Dauid.	5	34
+712	te0054-11	Semey.	2	13
+713	te0054-00	El Rey Dauid.	2	11
+714	te0054-11	Semey.	2	14
+715	te0054-12	Ensay.	3	15
+716	te0054-00	El Rey Dauid.	9	64
+717	te0054-12	Ensay.	2	8
+718	te0054-00	El Rey Dauid.	4	20
+719	te0054-12	Ensay.	3	18
+720	te0054-00	El Rey Dauid.	6	40
+721	te0054-12	Ensay.	2	9
+722	te0054-00	El Rey Dauid.	2	8
+723	te0054-12	Ensay.	7	44
+724	te0054-01	Ioab.	1	8
+725	te0054-00	El Rey Dauid.	3	20
+726	te0054-01	Ioab.	2	13
+727	te0054-03	Salomon.	2	10
+728	te0054-00	El Rey Dauid.	10	70
+729	te0054-01	Ioab.	2	8
+730	te0054-03	Salomon.	2	4
+731	te0054-00	El Rey Dauid.	1	6
+732	te0054-04	Adonias.	1	5
+733	te0054-00	El Rey Dauid.	4	23
+734	te0054-01	Ioab.	1	4
+735	te0054-00	El Rey Dauid.	3	9
+736	te0054-03	Salomon.	1	4
+737	te0054-00	El Rey Dauid.	1	5
+738	te0054-04	Adonias.	3	17
+739	te0054-00	El Rey Dauid.	1	1
+740	te0054-01	Ioab.	1	1
+741	te0054-00	El Rey Dauid.	8	51
+742	te0054-01	Ioab.	1	8
+743	te0054-00	El Rey Dauid.	1	7
+744	te0054-02	Absalon.	28	133
+745	te0054-98	(unknown)	1	2
+746	te0054-14	Vnos.	1	2
+747	te0054-93	(unknown)	1	6
+748	te0054-02	Absalon.	18	90
+749	te0054-98	(unknown)	1	2
+750	te0054-98	(unknown)	1	2
+751	te0054-93	(unknown)	1	6
+752	te0054-12	Ensay.	3	17
+753	te0054-01	Ioab.	1	3
+754	te0054-12	Ensay.	3	12
+755	te0054-01	Ioab.	4	19
+756	te0054-12	Ensay.	4	26
+757	te0054-01	Ioab.	10	47
+758	te0054-98	(unknown)	1	2
+759	te0054-01	Ioab.	3	13
+760	te0054-02	Absalon.	1	3
+761	te0054-01	Ioab.	7	32
+762	te0054-02	Absalon.	5	25
+763	te0054-01	Ioab.	4	14
+764	te0054-12	Ensay.	1	4
+765	te0054-08	Teuia.	1	5
+766	te0054-11	Semey.	2	9
+767	te0054-06	Ionadab.	6	30
+768	te0054-07	Tamar.	16	79
+769	te0054-08	Teuia.	4	21
+770	te0054-00	El Rey Dauid.	3	12
+771	te0054-01	Ioab.	2	6
+772	te0054-11	Semey.	2	9
+773	te0054-01	Ioab.	1	1
+774	te0054-00	El Rey Dauid.	5	23
+775	te0054-11	Semey.	1	2
+776	te0054-00	El Rey Dauid.	24	102

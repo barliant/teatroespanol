@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="Inès, criada." label="Inès, criada." />
+      <node id="Don Bernardo viejo." label="Don Bernardo viejo." />
+      <node id="Vno." label="Vno." />
+      <node id="Espinel, criado." label="Espinel, criado." />
+      <node id="(unknown)" label="(unknown)" />
+      <node id="Doña Maria, Dama." label="Doña Maria, Dama." />
+      <node id="Don Diego de Silva, galan." label="Don Diego de Silva, galan." />
+      <node id="Guzmàn, criado." label="Guzmàn, criado." />
+      <node id="Don Juan de Lara, galàn." label="Don Juan de Lara, galàn." />
+      <node id="Juana, criada." label="Juana, criada." />
+      <node id="Don Luis, galàn." label="Don Luis, galàn." />
+      <node id="Doña Ana, Dama." label="Doña Ana, Dama." />
+    </nodes>
+    <edges>
+      <edge id="0" source="Inès, criada." target="Don Diego de Silva, galan." weight="227" />
+      <edge id="1" source="Inès, criada." target="Don Bernardo viejo." weight="17" />
+      <edge id="2" source="Inès, criada." target="(unknown)" weight="226" />
+      <edge id="3" source="Inès, criada." target="Doña Maria, Dama." weight="33" />
+      <edge id="4" source="Inès, criada." target="Don Luis, galàn." weight="81" />
+      <edge id="5" source="Inès, criada." target="Doña Ana, Dama." weight="1126" />
+      <edge id="6" source="Inès, criada." target="Don Juan de Lara, galàn." weight="12" />
+      <edge id="7" source="Don Bernardo viejo." target="Don Diego de Silva, galan." weight="43" />
+      <edge id="8" source="Don Bernardo viejo." target="Don Juan de Lara, galàn." weight="719" />
+      <edge id="9" source="Don Bernardo viejo." target="Espinel, criado." weight="467" />
+      <edge id="10" source="Don Bernardo viejo." target="(unknown)" weight="212" />
+      <edge id="11" source="Don Bernardo viejo." target="Juana, criada." weight="196" />
+      <edge id="12" source="Don Bernardo viejo." target="Don Luis, galàn." weight="179" />
+      <edge id="13" source="Don Bernardo viejo." target="Doña Ana, Dama." weight="260" />
+      <edge id="14" source="Vno." target="Don Luis, galàn." weight="33" />
+      <edge id="15" source="Vno." target="Don Juan de Lara, galàn." weight="5" />
+      <edge id="16" source="Espinel, criado." target="Guzmàn, criado." weight="51" />
+      <edge id="17" source="Espinel, criado." target="Don Diego de Silva, galan." weight="444" />
+      <edge id="18" source="Espinel, criado." target="Juana, criada." weight="73" />
+      <edge id="19" source="Espinel, criado." target="(unknown)" weight="13" />
+      <edge id="20" source="Espinel, criado." target="Doña Maria, Dama." weight="98" />
+      <edge id="21" source="Espinel, criado." target="Don Luis, galàn." weight="523" />
+      <edge id="22" source="Espinel, criado." target="Doña Ana, Dama." weight="78" />
+      <edge id="23" source="Espinel, criado." target="Don Juan de Lara, galàn." weight="917" />
+      <edge id="24" source="(unknown)" target="Doña Ana, Dama." weight="146" />
+      <edge id="25" source="(unknown)" target="Don Juan de Lara, galàn." weight="25" />
+      <edge id="26" source="Doña Maria, Dama." target="Don Diego de Silva, galan." weight="91" />
+      <edge id="27" source="Doña Maria, Dama." target="Don Juan de Lara, galàn." weight="320" />
+      <edge id="28" source="Doña Maria, Dama." target="Juana, criada." weight="9" />
+      <edge id="29" source="Doña Maria, Dama." target="Don Luis, galàn." weight="419" />
+      <edge id="30" source="Doña Maria, Dama." target="Doña Ana, Dama." weight="1912" />
+      <edge id="31" source="Don Diego de Silva, galan." target="Juana, criada." weight="13" />
+      <edge id="32" source="Don Diego de Silva, galan." target="Don Luis, galàn." weight="68" />
+      <edge id="33" source="Don Diego de Silva, galan." target="Doña Ana, Dama." weight="3107" />
+      <edge id="34" source="Don Diego de Silva, galan." target="Don Juan de Lara, galàn." weight="629" />
+      <edge id="35" source="Guzmàn, criado." target="Don Luis, galàn." weight="354" />
+      <edge id="36" source="Don Juan de Lara, galàn." target="Juana, criada." weight="210" />
+      <edge id="37" source="Don Juan de Lara, galàn." target="Don Luis, galàn." weight="241" />
+      <edge id="38" source="Don Juan de Lara, galàn." target="Doña Ana, Dama." weight="640" />
+      <edge id="39" source="Juana, criada." target="Doña Ana, Dama." weight="55" />
+      <edge id="40" source="Don Luis, galàn." target="Doña Ana, Dama." weight="139" />
+    </edges>
+  </graph>
+</gexf>

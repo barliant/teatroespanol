@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="Ines." label="Ines." />
+      <node id="Tabaco lacayo." label="Tabaco lacayo." />
+      <node id="Sancha Dama." label="Sancha Dama." />
+      <node id="Doña Filipa Infanta." label="Doña Filipa Infanta." />
+      <node id="Al." label="Al." />
+      <node id="Vn page." label="Vn page." />
+      <node id="(unknown)" label="(unknown)" />
+      <node id="Acuña Cauallero." label="Acuña Cauallero." />
+      <node id="Don Egas Cauallero." label="Don Egas Cauallero." />
+      <node id="Don Dionis Cauallero." label="Don Dionis Cauallero." />
+      <node id="Ramiro." label="Ramiro." />
+      <node id="El Rey niño." label="El Rey niño." />
+      <node id="El Infante don Pedro." label="El Infante don Pedro." />
+      <node id="Don Duarte Cauallero." label="Don Duarte Cauallero." />
+      <node id="Cabello Pastor." label="Cabello Pastor." />
+      <node id="Don Nuño Cauallero." label="Don Nuño Cauallero." />
+    </nodes>
+    <edges>
+      <edge id="0" source="Ines." target="Doña Filipa Infanta." weight="7" />
+      <edge id="1" source="Ines." target="Sancha Dama." weight="15" />
+      <edge id="2" source="Tabaco lacayo." target="Don Dionis Cauallero." weight="168" />
+      <edge id="3" source="Tabaco lacayo." target="Ramiro." weight="52" />
+      <edge id="4" source="Tabaco lacayo." target="Sancha Dama." weight="323" />
+      <edge id="5" source="Tabaco lacayo." target="El Infante don Pedro." weight="211" />
+      <edge id="6" source="Tabaco lacayo." target="Doña Filipa Infanta." weight="7" />
+      <edge id="7" source="Tabaco lacayo." target="Al." weight="151" />
+      <edge id="8" source="Tabaco lacayo." target="Don Duarte Cauallero." weight="173" />
+      <edge id="9" source="Tabaco lacayo." target="Cabello Pastor." weight="346" />
+      <edge id="10" source="Tabaco lacayo." target="Don Nuño Cauallero." weight="38" />
+      <edge id="11" source="Sancha Dama." target="Don Dionis Cauallero." weight="555" />
+      <edge id="12" source="Sancha Dama." target="Ramiro." weight="2442" />
+      <edge id="13" source="Sancha Dama." target="El Rey niño." weight="106" />
+      <edge id="14" source="Sancha Dama." target="El Infante don Pedro." weight="300" />
+      <edge id="15" source="Sancha Dama." target="Doña Filipa Infanta." weight="949" />
+      <edge id="16" source="Sancha Dama." target="Al." weight="286" />
+      <edge id="17" source="Sancha Dama." target="Vn page." weight="13" />
+      <edge id="18" source="Sancha Dama." target="Don Duarte Cauallero." weight="259" />
+      <edge id="19" source="Sancha Dama." target="Cabello Pastor." weight="1035" />
+      <edge id="20" source="Doña Filipa Infanta." target="Don Dionis Cauallero." weight="576" />
+      <edge id="21" source="Doña Filipa Infanta." target="Ramiro." weight="1830" />
+      <edge id="22" source="Doña Filipa Infanta." target="El Rey niño." weight="63" />
+      <edge id="23" source="Doña Filipa Infanta." target="El Infante don Pedro." weight="317" />
+      <edge id="24" source="Doña Filipa Infanta." target="Al." weight="128" />
+      <edge id="25" source="Doña Filipa Infanta." target="Don Duarte Cauallero." weight="47" />
+      <edge id="26" source="Al." target="Ramiro." weight="34" />
+      <edge id="27" source="Al." target="El Infante don Pedro." weight="1275" />
+      <edge id="28" source="Al." target="El Rey niño." weight="133" />
+      <edge id="29" source="Al." target="Cabello Pastor." weight="46" />
+      <edge id="30" source="Al." target="Don Nuño Cauallero." weight="159" />
+      <edge id="31" source="Vn page." target="Don Dionis Cauallero." weight="51" />
+      <edge id="32" source="Vn page." target="Ramiro." weight="9" />
+      <edge id="33" source="Vn page." target="El Infante don Pedro." weight="18" />
+      <edge id="34" source="(unknown)" target="El Rey niño." weight="19" />
+      <edge id="35" source="Acuña Cauallero." target="Don Dionis Cauallero." weight="166" />
+      <edge id="36" source="Acuña Cauallero." target="El Rey niño." weight="38" />
+      <edge id="37" source="Acuña Cauallero." target="Don Egas Cauallero." weight="27" />
+      <edge id="38" source="Acuña Cauallero." target="El Infante don Pedro." weight="24" />
+      <edge id="39" source="Don Egas Cauallero." target="Don Dionis Cauallero." weight="272" />
+      <edge id="40" source="Don Egas Cauallero." target="Don Duarte Cauallero." weight="52" />
+      <edge id="41" source="Don Egas Cauallero." target="El Rey niño." weight="25" />
+      <edge id="42" source="Don Egas Cauallero." target="El Infante don Pedro." weight="26" />
+      <edge id="43" source="Don Dionis Cauallero." target="Ramiro." weight="1693" />
+      <edge id="44" source="Don Dionis Cauallero." target="El Rey niño." weight="69" />
+      <edge id="45" source="Don Dionis Cauallero." target="El Infante don Pedro." weight="198" />
+      <edge id="46" source="Don Dionis Cauallero." target="Don Duarte Cauallero." weight="572" />
+      <edge id="47" source="Don Dionis Cauallero." target="Cabello Pastor." weight="5" />
+      <edge id="48" source="Ramiro." target="El Rey niño." weight="311" />
+      <edge id="49" source="Ramiro." target="El Infante don Pedro." weight="91" />
+      <edge id="50" source="Ramiro." target="Don Duarte Cauallero." weight="62" />
+      <edge id="51" source="Ramiro." target="Cabello Pastor." weight="70" />
+      <edge id="52" source="El Rey niño." target="El Infante don Pedro." weight="679" />
+      <edge id="53" source="El Rey niño." target="Don Duarte Cauallero." weight="31" />
+      <edge id="54" source="El Rey niño." target="Cabello Pastor." weight="39" />
+      <edge id="55" source="El Infante don Pedro." target="Don Duarte Cauallero." weight="34" />
+      <edge id="56" source="El Infante don Pedro." target="Cabello Pastor." weight="5" />
+      <edge id="57" source="Don Duarte Cauallero." target="Cabello Pastor." weight="3" />
+    </edges>
+  </graph>
+</gexf>

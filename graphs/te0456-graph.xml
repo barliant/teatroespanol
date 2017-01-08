@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="Don Martin." label="Don Martin." />
+      <node id="Don Gonçalo." label="Don Gonçalo." />
+      <node id="(unknown)" label="(unknown)" />
+      <node id="Vn Page." label="Vn Page." />
+      <node id="Doña Geronima." label="Doña Geronima." />
+      <node id="Don Rodrigo." label="Don Rodrigo." />
+      <node id="Delgado." label="Delgado." />
+      <node id="Don Gaspar." label="Don Gaspar." />
+      <node id="El Rei don Manuel." label="El Rei don Manuel." />
+      <node id="Quiteria criada." label="Quiteria criada." />
+      <node id="Tello criado." label="Tello criado." />
+      <node id="Don Iñigo." label="Don Iñigo." />
+      <node id="Doña Estefania." label="Doña Estefania." />
+    </nodes>
+    <edges>
+      <edge id="0" source="Don Martin." target="Don Rodrigo." weight="46" />
+      <edge id="1" source="Don Martin." target="Don Gonçalo." weight="107" />
+      <edge id="2" source="Don Martin." target="Doña Geronima." weight="24" />
+      <edge id="3" source="Don Martin." target="Doña Estefania." weight="17" />
+      <edge id="4" source="Don Gonçalo." target="Quiteria criada." weight="8" />
+      <edge id="5" source="Don Gonçalo." target="Tello criado." weight="69" />
+      <edge id="6" source="Don Gonçalo." target="Doña Geronima." weight="18" />
+      <edge id="7" source="Don Gonçalo." target="Don Gaspar." weight="1905" />
+      <edge id="8" source="(unknown)" target="Tello criado." weight="59" />
+      <edge id="9" source="(unknown)" target="Don Gaspar." weight="49" />
+      <edge id="10" source="Vn Page." target="Quiteria criada." weight="4" />
+      <edge id="11" source="Vn Page." target="Tello criado." weight="27" />
+      <edge id="12" source="Vn Page." target="Doña Estefania." weight="12" />
+      <edge id="13" source="Doña Geronima." target="Don Rodrigo." weight="928" />
+      <edge id="14" source="Doña Geronima." target="Don Gaspar." weight="2545" />
+      <edge id="15" source="Doña Geronima." target="El Rei don Manuel." weight="53" />
+      <edge id="16" source="Doña Geronima." target="Quiteria criada." weight="2651" />
+      <edge id="17" source="Doña Geronima." target="Tello criado." weight="831" />
+      <edge id="18" source="Doña Geronima." target="Don Iñigo." weight="318" />
+      <edge id="19" source="Doña Geronima." target="Doña Estefania." weight="2629" />
+      <edge id="20" source="Don Rodrigo." target="Don Gaspar." weight="646" />
+      <edge id="21" source="Don Rodrigo." target="Quiteria criada." weight="11" />
+      <edge id="22" source="Don Rodrigo." target="Tello criado." weight="50" />
+      <edge id="23" source="Don Rodrigo." target="Don Iñigo." weight="397" />
+      <edge id="24" source="Don Rodrigo." target="Doña Estefania." weight="372" />
+      <edge id="25" source="Delgado." target="Tello criado." weight="127" />
+      <edge id="26" source="Delgado." target="Don Gaspar." weight="27" />
+      <edge id="27" source="Don Gaspar." target="Tello criado." weight="1359" />
+      <edge id="28" source="Don Gaspar." target="Quiteria criada." weight="8" />
+      <edge id="29" source="Don Gaspar." target="Doña Estefania." weight="227" />
+      <edge id="30" source="Don Gaspar." target="Don Iñigo." weight="226" />
+      <edge id="31" source="El Rei don Manuel." target="Tello criado." weight="69" />
+      <edge id="32" source="Quiteria criada." target="Tello criado." weight="220" />
+      <edge id="33" source="Quiteria criada." target="Don Iñigo." weight="23" />
+      <edge id="34" source="Tello criado." target="Don Iñigo." weight="262" />
+      <edge id="35" source="Tello criado." target="Doña Estefania." weight="141" />
+      <edge id="36" source="Don Iñigo." target="Doña Estefania." weight="366" />
+    </edges>
+  </graph>
+</gexf>

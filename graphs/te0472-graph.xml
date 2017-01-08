@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="Fr." label="Fr." />
+      <node id="Ab" label="Ab" />
+      <node id="Iulio criado." label="Iulio criado." />
+      <node id="Sixto" label="Sixto" />
+      <node id="Peroto viejo." label="Peroto viejo." />
+      <node id="Fabio criado." label="Fabio criado." />
+      <node id="Cesaro." label="Cesaro." />
+      <node id="Crenudo." label="Crenudo." />
+      <node id="Asc." label="Asc." />
+      <node id="Marco Antonio Pompeyo." label="Marco Antonio Pompeyo." />
+      <node id="Rodulfo cauallero." label="Rodulfo cauallero." />
+      <node id="Vno." label="Vno." />
+      <node id="Ric." label="Ric." />
+      <node id="(unknown)" label="(unknown)" />
+      <node id="Alexandro." label="Alexandro." />
+      <node id="Emb." label="Emb." />
+      <node id="Decio criado." label="Decio criado." />
+      <node id="Musicos." label="Musicos." />
+      <node id="Sabina." label="Sabina." />
+      <node id="2." label="2." />
+      <node id="1." label="1." />
+      <node id="Camila." label="Camila." />
+    </nodes>
+    <edges>
+      <edge id="0" source="Fr." target="Decio criado." weight="14" />
+      <edge id="1" source="Fr." target="Rodulfo cauallero." weight="70" />
+      <edge id="2" source="Fr." target="2." weight="15" />
+      <edge id="3" source="Fr." target="Peroto viejo." weight="176" />
+      <edge id="4" source="Fr." target="Asc." weight="50" />
+      <edge id="5" source="Fr." target="Sixto" weight="30" />
+      <edge id="6" source="Ab" target="Rodulfo cauallero." weight="635" />
+      <edge id="7" source="Ab" target="Camila." weight="2" />
+      <edge id="8" source="Iulio criado." target="Marco Antonio Pompeyo." weight="8" />
+      <edge id="9" source="Iulio criado." target="Camila." weight="4" />
+      <edge id="10" source="Iulio criado." target="Asc." weight="63" />
+      <edge id="11" source="Iulio criado." target="Ric." weight="104" />
+      <edge id="12" source="Sixto" target="Marco Antonio Pompeyo." weight="468" />
+      <edge id="13" source="Sixto" target="Ric." weight="3" />
+      <edge id="14" source="Sixto" target="Rodulfo cauallero." weight="599" />
+      <edge id="15" source="Sixto" target="Peroto viejo." weight="1914" />
+      <edge id="16" source="Sixto" target="Emb." weight="25" />
+      <edge id="17" source="Sixto" target="Fabio criado." weight="183" />
+      <edge id="18" source="Sixto" target="Cesaro." weight="39" />
+      <edge id="19" source="Sixto" target="Sabina." weight="972" />
+      <edge id="20" source="Sixto" target="Asc." weight="695" />
+      <edge id="21" source="Sixto" target="1." weight="31" />
+      <edge id="22" source="Sixto" target="Camila." weight="579" />
+      <edge id="23" source="Sixto" target="Crenudo." weight="90" />
+      <edge id="24" source="Sixto" target="2." weight="44" />
+      <edge id="25" source="Peroto viejo." target="Decio criado." weight="289" />
+      <edge id="26" source="Peroto viejo." target="(unknown)" weight="25" />
+      <edge id="27" source="Peroto viejo." target="Alexandro." weight="933" />
+      <edge id="28" source="Peroto viejo." target="Emb." weight="9" />
+      <edge id="29" source="Peroto viejo." target="Fabio criado." weight="58" />
+      <edge id="30" source="Peroto viejo." target="Cesaro." weight="447" />
+      <edge id="31" source="Peroto viejo." target="Sabina." weight="1132" />
+      <edge id="32" source="Peroto viejo." target="Asc." weight="66" />
+      <edge id="33" source="Peroto viejo." target="1." weight="29" />
+      <edge id="34" source="Peroto viejo." target="Marco Antonio Pompeyo." weight="188" />
+      <edge id="35" source="Peroto viejo." target="Camila." weight="380" />
+      <edge id="36" source="Peroto viejo." target="Rodulfo cauallero." weight="104" />
+      <edge id="37" source="Peroto viejo." target="2." weight="31" />
+      <edge id="38" source="Fabio criado." target="Cesaro." weight="6" />
+      <edge id="39" source="Fabio criado." target="Marco Antonio Pompeyo." weight="5" />
+      <edge id="40" source="Fabio criado." target="Sabina." weight="45" />
+      <edge id="41" source="Fabio criado." target="Rodulfo cauallero." weight="57" />
+      <edge id="42" source="Fabio criado." target="Camila." weight="39" />
+      <edge id="43" source="Cesaro." target="Decio criado." weight="1055" />
+      <edge id="44" source="Cesaro." target="1." weight="31" />
+      <edge id="45" source="Cesaro." target="Sabina." weight="1252" />
+      <edge id="46" source="Cesaro." target="(unknown)" weight="14" />
+      <edge id="47" source="Cesaro." target="Marco Antonio Pompeyo." weight="12" />
+      <edge id="48" source="Cesaro." target="Camila." weight="342" />
+      <edge id="49" source="Crenudo." target="Camila." weight="10" />
+      <edge id="50" source="Asc." target="Decio criado." weight="13" />
+      <edge id="51" source="Asc." target="Marco Antonio Pompeyo." weight="329" />
+      <edge id="52" source="Marco Antonio Pompeyo." target="Sabina." weight="8" />
+      <edge id="53" source="Marco Antonio Pompeyo." target="2." weight="2" />
+      <edge id="54" source="Marco Antonio Pompeyo." target="(unknown)" weight="54" />
+      <edge id="55" source="Marco Antonio Pompeyo." target="Alexandro." weight="59" />
+      <edge id="56" source="Marco Antonio Pompeyo." target="Camila." weight="627" />
+      <edge id="57" source="Rodulfo cauallero." target="Sabina." weight="3" />
+      <edge id="58" source="Rodulfo cauallero." target="2." weight="6" />
+      <edge id="59" source="Vno." target="(unknown)" weight="84" />
+      <edge id="60" source="Vno." target="Musicos." weight="43" />
+      <edge id="61" source="(unknown)" target="Sabina." weight="157" />
+      <edge id="62" source="(unknown)" target="2." weight="2" />
+      <edge id="63" source="(unknown)" target="1." weight="3" />
+      <edge id="64" source="(unknown)" target="Camila." weight="24" />
+      <edge id="65" source="Alexandro." target="1." weight="8" />
+      <edge id="66" source="Alexandro." target="Sabina." weight="143" />
+      <edge id="67" source="Decio criado." target="Sabina." weight="35" />
+      <edge id="68" source="Musicos." target="Sabina." weight="18" />
+      <edge id="69" source="Musicos." target="2." weight="3" />
+      <edge id="70" source="Sabina." target="Camila." weight="603" />
+      <edge id="71" source="Sabina." target="1." weight="118" />
+      <edge id="72" source="Sabina." target="2." weight="76" />
+      <edge id="73" source="2." target="1." weight="283" />
+      <edge id="74" source="2." target="Camila." weight="28" />
+      <edge id="75" source="1." target="Camila." weight="50" />
+    </edges>
+  </graph>
+</gexf>

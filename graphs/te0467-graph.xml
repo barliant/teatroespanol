@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="Otro" label="Otro" />
+      <node id="Vir." label="Vir." />
+      <node id="Gallardo." label="Gallardo." />
+      <node id="And" label="And" />
+      <node id="Lir." label="Lir." />
+      <node id="(unknown)" label="(unknown)" />
+      <node id="Roberto vandolero." label="Roberto vandolero." />
+      <node id="Niso Pastor viejo." label="Niso Pastor viejo." />
+      <node id="Marbelio, y Lirano, vandoleros." label="Marbelio, y Lirano, vandoleros." />
+      <node id="Pri" label="Pri" />
+      <node id="Corbato Pastor." label="Corbato Pastor." />
+      <node id="Don Gaston Cauallero." label="Don Gaston Cauallero." />
+      <node id="Montano Pastor" label="Montano Pastor" />
+      <node id="Ardenio Pastor." label="Ardenio Pastor." />
+      <node id="Doña Petronila." label="Doña Petronila." />
+      <node id="Don Guillen Comendador de Santiago." label="Don Guillen Comendador de Santiago." />
+      <node id="Laurencia Pastora." label="Laurencia Pastora." />
+      <node id="Maroto Pastor." label="Maroto Pastor." />
+    </nodes>
+    <edges>
+      <edge id="0" source="Otro" target="(unknown)" weight="6" />
+      <edge id="1" source="Otro" target="Lir." weight="1" />
+      <edge id="2" source="Vir." target="Don Gaston Cauallero." weight="179" />
+      <edge id="3" source="Vir." target="Marbelio, y Lirano, vandoleros." weight="1064" />
+      <edge id="4" source="Vir." target="Maroto Pastor." weight="6" />
+      <edge id="5" source="Gallardo." target="Niso Pastor viejo." weight="84" />
+      <edge id="6" source="Gallardo." target="Corbato Pastor." weight="30" />
+      <edge id="7" source="Gallardo." target="Don Gaston Cauallero." weight="179" />
+      <edge id="8" source="Gallardo." target="Marbelio, y Lirano, vandoleros." weight="210" />
+      <edge id="9" source="Gallardo." target="Roberto vandolero." weight="261" />
+      <edge id="10" source="Gallardo." target="Ardenio Pastor." weight="11" />
+      <edge id="11" source="Gallardo." target="Montano Pastor" weight="37" />
+      <edge id="12" source="Gallardo." target="Doña Petronila." weight="44" />
+      <edge id="13" source="Gallardo." target="Don Guillen Comendador de Santiago." weight="883" />
+      <edge id="14" source="Gallardo." target="Laurencia Pastora." weight="503" />
+      <edge id="15" source="And" target="Niso Pastor viejo." weight="14" />
+      <edge id="16" source="Lir." target="Marbelio, y Lirano, vandoleros." weight="93" />
+      <edge id="17" source="Lir." target="Laurencia Pastora." weight="28" />
+      <edge id="18" source="(unknown)" target="Corbato Pastor." weight="40" />
+      <edge id="19" source="(unknown)" target="Don Gaston Cauallero." weight="1" />
+      <edge id="20" source="(unknown)" target="Marbelio, y Lirano, vandoleros." weight="11" />
+      <edge id="21" source="(unknown)" target="Roberto vandolero." weight="3" />
+      <edge id="22" source="(unknown)" target="Ardenio Pastor." weight="8" />
+      <edge id="23" source="(unknown)" target="Niso Pastor viejo." weight="13" />
+      <edge id="24" source="(unknown)" target="Doña Petronila." weight="4" />
+      <edge id="25" source="(unknown)" target="Don Guillen Comendador de Santiago." weight="3" />
+      <edge id="26" source="(unknown)" target="Laurencia Pastora." weight="2" />
+      <edge id="27" source="Roberto vandolero." target="Don Gaston Cauallero." weight="123" />
+      <edge id="28" source="Roberto vandolero." target="Marbelio, y Lirano, vandoleros." weight="27" />
+      <edge id="29" source="Roberto vandolero." target="Doña Petronila." weight="29" />
+      <edge id="30" source="Roberto vandolero." target="Laurencia Pastora." weight="423" />
+      <edge id="31" source="Niso Pastor viejo." target="Corbato Pastor." weight="188" />
+      <edge id="32" source="Niso Pastor viejo." target="Don Gaston Cauallero." weight="174" />
+      <edge id="33" source="Niso Pastor viejo." target="Marbelio, y Lirano, vandoleros." weight="1428" />
+      <edge id="34" source="Niso Pastor viejo." target="Montano Pastor" weight="52" />
+      <edge id="35" source="Niso Pastor viejo." target="Ardenio Pastor." weight="194" />
+      <edge id="36" source="Niso Pastor viejo." target="Don Guillen Comendador de Santiago." weight="94" />
+      <edge id="37" source="Niso Pastor viejo." target="Laurencia Pastora." weight="127" />
+      <edge id="38" source="Niso Pastor viejo." target="Maroto Pastor." weight="1" />
+      <edge id="39" source="Marbelio, y Lirano, vandoleros." target="Corbato Pastor." weight="245" />
+      <edge id="40" source="Marbelio, y Lirano, vandoleros." target="Don Gaston Cauallero." weight="1367" />
+      <edge id="41" source="Marbelio, y Lirano, vandoleros." target="Laurencia Pastora." weight="653" />
+      <edge id="42" source="Marbelio, y Lirano, vandoleros." target="Ardenio Pastor." weight="160" />
+      <edge id="43" source="Marbelio, y Lirano, vandoleros." target="Doña Petronila." weight="70" />
+      <edge id="44" source="Marbelio, y Lirano, vandoleros." target="Don Guillen Comendador de Santiago." weight="669" />
+      <edge id="45" source="Marbelio, y Lirano, vandoleros." target="Montano Pastor" weight="188" />
+      <edge id="46" source="Pri" target="Don Guillen Comendador de Santiago." weight="10" />
+      <edge id="47" source="Pri" target="Laurencia Pastora." weight="33" />
+      <edge id="48" source="Corbato Pastor." target="Don Gaston Cauallero." weight="96" />
+      <edge id="49" source="Corbato Pastor." target="Montano Pastor" weight="195" />
+      <edge id="50" source="Corbato Pastor." target="Ardenio Pastor." weight="162" />
+      <edge id="51" source="Corbato Pastor." target="Doña Petronila." weight="80" />
+      <edge id="52" source="Corbato Pastor." target="Don Guillen Comendador de Santiago." weight="9" />
+      <edge id="53" source="Corbato Pastor." target="Laurencia Pastora." weight="541" />
+      <edge id="54" source="Corbato Pastor." target="Maroto Pastor." weight="9" />
+      <edge id="55" source="Don Gaston Cauallero." target="Ardenio Pastor." weight="6" />
+      <edge id="56" source="Don Gaston Cauallero." target="Doña Petronila." weight="819" />
+      <edge id="57" source="Don Gaston Cauallero." target="Don Guillen Comendador de Santiago." weight="982" />
+      <edge id="58" source="Don Gaston Cauallero." target="Laurencia Pastora." weight="208" />
+      <edge id="59" source="Don Gaston Cauallero." target="Maroto Pastor." weight="208" />
+      <edge id="60" source="Montano Pastor" target="Ardenio Pastor." weight="104" />
+      <edge id="61" source="Montano Pastor" target="Doña Petronila." weight="22" />
+      <edge id="62" source="Ardenio Pastor." target="Don Guillen Comendador de Santiago." weight="16" />
+      <edge id="63" source="Ardenio Pastor." target="Laurencia Pastora." weight="44" />
+      <edge id="64" source="Doña Petronila." target="Don Guillen Comendador de Santiago." weight="596" />
+      <edge id="65" source="Doña Petronila." target="Laurencia Pastora." weight="33" />
+      <edge id="66" source="Doña Petronila." target="Maroto Pastor." weight="173" />
+      <edge id="67" source="Don Guillen Comendador de Santiago." target="Laurencia Pastora." weight="1296" />
+      <edge id="68" source="Don Guillen Comendador de Santiago." target="Maroto Pastor." weight="3" />
+    </edges>
+  </graph>
+</gexf>

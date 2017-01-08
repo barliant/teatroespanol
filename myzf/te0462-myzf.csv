@@ -1,0 +1,1031 @@
+num	id	name	numlines	numwords
+1	te0462-16	Al.	3	11
+2	te0462-04	El Infante don Pedro.	6	25
+3	te0462-16	Al.	1	5
+4	te0462-05	Doña Filipa Infanta.	3	14
+5	te0462-16	Al.	8	35
+6	te0462-05	Doña Filipa Infanta.	4	23
+7	te0462-16	Al.	41	181
+8	te0462-04	El Infante don Pedro.	2	10
+9	te0462-16	Al.	1	3
+10	te0462-04	El Infante don Pedro.	1	1
+11	te0462-01	Sancha Dama.	8	42
+12	te0462-02	Ramiro.	1	3
+13	te0462-01	Sancha Dama.	2	8
+14	te0462-02	Ramiro.	1	2
+15	te0462-01	Sancha Dama.	2	12
+16	te0462-05	Doña Filipa Infanta.	1	5
+17	te0462-02	Ramiro.	2	9
+18	te0462-01	Sancha Dama.	3	12
+19	te0462-02	Ramiro.	1	2
+20	te0462-01	Sancha Dama.	2	6
+21	te0462-02	Ramiro.	3	10
+22	te0462-01	Sancha Dama.	5	25
+23	te0462-02	Ramiro.	1	5
+24	te0462-01	Sancha Dama.	1	4
+25	te0462-02	Ramiro.	1	3
+26	te0462-01	Sancha Dama.	3	10
+27	te0462-02	Ramiro.	1	2
+28	te0462-01	Sancha Dama.	2	10
+29	te0462-02	Ramiro.	1	5
+30	te0462-05	Doña Filipa Infanta.	2	7
+31	te0462-01	Sancha Dama.	1	3
+32	te0462-05	Doña Filipa Infanta.	1	6
+33	te0462-01	Sancha Dama.	1	4
+34	te0462-05	Doña Filipa Infanta.	1	3
+35	te0462-01	Sancha Dama.	3	14
+36	te0462-05	Doña Filipa Infanta.	1	2
+37	te0462-01	Sancha Dama.	1	3
+38	te0462-05	Doña Filipa Infanta.	2	6
+39	te0462-01	Sancha Dama.	2	9
+40	te0462-05	Doña Filipa Infanta.	1	3
+41	te0462-01	Sancha Dama.	2	7
+42	te0462-02	Ramiro.	3	12
+43	te0462-01	Sancha Dama.	1	2
+44	te0462-04	El Infante don Pedro.	15	70
+45	te0462-16	Al.	10	42
+46	te0462-04	El Infante don Pedro.	2	11
+47	te0462-16	Al.	3	12
+48	te0462-04	El Infante don Pedro.	12	55
+49	te0462-01	Sancha Dama.	1	5
+50	te0462-05	Doña Filipa Infanta.	1	6
+51	te0462-02	Ramiro.	1	4
+52	te0462-01	Sancha Dama.	1	3
+53	te0462-02	Ramiro.	1	2
+54	te0462-01	Sancha Dama.	2	8
+55	te0462-05	Doña Filipa Infanta.	2	6
+56	te0462-02	Ramiro.	3	11
+57	te0462-01	Sancha Dama.	3	14
+58	te0462-02	Ramiro.	1	3
+59	te0462-01	Sancha Dama.	2	5
+60	te0462-05	Doña Filipa Infanta.	2	6
+61	te0462-02	Ramiro.	3	13
+62	te0462-01	Sancha Dama.	3	15
+63	te0462-15	Ines.	2	7
+64	te0462-05	Doña Filipa Infanta.	2	5
+65	te0462-02	Ramiro.	6	24
+66	te0462-05	Doña Filipa Infanta.	2	6
+67	te0462-02	Ramiro.	2	4
+68	te0462-01	Sancha Dama.	8	39
+69	te0462-05	Doña Filipa Infanta.	1	4
+70	te0462-01	Sancha Dama.	2	10
+71	te0462-04	El Infante don Pedro.	1	3
+72	te0462-01	Sancha Dama.	3	12
+73	te0462-02	Ramiro.	1	1
+74	te0462-01	Sancha Dama.	2	7
+75	te0462-02	Ramiro.	3	10
+76	te0462-01	Sancha Dama.	2	5
+77	te0462-02	Ramiro.	1	2
+78	te0462-04	El Infante don Pedro.	7	28
+79	te0462-16	Al.	2	7
+80	te0462-04	El Infante don Pedro.	7	33
+81	te0462-16	Al.	3	10
+82	te0462-04	El Infante don Pedro.	17	77
+83	te0462-16	Al.	12	56
+84	te0462-04	El Infante don Pedro.	1	5
+85	te0462-16	Al.	3	15
+86	te0462-04	El Infante don Pedro.	1	6
+87	te0462-16	Al.	10	48
+88	te0462-04	El Infante don Pedro.	1	7
+89	te0462-16	Al.	9	41
+90	te0462-04	El Infante don Pedro.	2	6
+91	te0462-16	Al.	5	19
+92	te0462-04	El Infante don Pedro.	2	4
+93	te0462-16	Al.	1	4
+94	te0462-04	El Infante don Pedro.	4	16
+95	te0462-16	Al.	3	11
+96	te0462-04	El Infante don Pedro.	4	19
+97	te0462-16	Al.	6	26
+98	te0462-04	El Infante don Pedro.	3	12
+99	te0462-02	Ramiro.	7	27
+100	te0462-01	Sancha Dama.	5	27
+101	te0462-05	Doña Filipa Infanta.	1	5
+102	te0462-01	Sancha Dama.	2	13
+103	te0462-02	Ramiro.	1	4
+104	te0462-01	Sancha Dama.	2	8
+105	te0462-02	Ramiro.	2	7
+106	te0462-01	Sancha Dama.	2	9
+107	te0462-04	El Infante don Pedro.	2	7
+108	te0462-16	Al.	8	33
+109	te0462-04	El Infante don Pedro.	1	4
+110	te0462-16	Al.	1	2
+111	te0462-04	El Infante don Pedro.	1	3
+112	te0462-16	Al.	4	14
+113	te0462-04	El Infante don Pedro.	3	10
+114	te0462-05	Doña Filipa Infanta.	1	2
+115	te0462-01	Sancha Dama.	6	25
+116	te0462-16	Al.	1	4
+117	te0462-01	Sancha Dama.	2	6
+118	te0462-16	Al.	3	8
+119	te0462-01	Sancha Dama.	1	6
+120	te0462-16	Al.	1	2
+121	te0462-01	Sancha Dama.	4	17
+122	te0462-16	Al.	1	2
+123	te0462-01	Sancha Dama.	11	48
+124	te0462-04	El Infante don Pedro.	1	4
+125	te0462-16	Al.	1	3
+126	te0462-01	Sancha Dama.	4	16
+127	te0462-16	Al.	2	7
+128	te0462-16	Al.	2	6
+129	te0462-04	El Infante don Pedro.	6	24
+130	te0462-16	Al.	2	7
+131	te0462-04	El Infante don Pedro.	6	21
+132	te0462-05	Doña Filipa Infanta.	4	18
+133	te0462-01	Sancha Dama.	7	40
+134	te0462-02	Ramiro.	2	11
+135	te0462-05	Doña Filipa Infanta.	1	5
+136	te0462-02	Ramiro.	1	1
+137	te0462-01	Sancha Dama.	2	10
+138	te0462-05	Doña Filipa Infanta.	2	9
+139	te0462-01	Sancha Dama.	5	21
+140	te0462-16	Al.	2	4
+141	te0462-05	Doña Filipa Infanta.	1	5
+142	te0462-01	Sancha Dama.	2	9
+143	te0462-04	El Infante don Pedro.	1	6
+144	te0462-16	Al.	2	7
+145	te0462-04	El Infante don Pedro.	8	30
+146	te0462-16	Al.	2	2
+147	te0462-04	El Infante don Pedro.	2	9
+148	te0462-16	Al.	4	19
+149	te0462-04	El Infante don Pedro.	4	16
+150	te0462-16	Al.	1	2
+151	te0462-01	Sancha Dama.	3	10
+152	te0462-16	Al.	7	31
+153	te0462-05	Doña Filipa Infanta.	4	16
+154	te0462-16	Al.	1	6
+155	te0462-02	Ramiro.	1	4
+156	te0462-05	Doña Filipa Infanta.	2	7
+157	te0462-01	Sancha Dama.	2	10
+158	te0462-05	Doña Filipa Infanta.	1	5
+159	te0462-01	Sancha Dama.	1	6
+160	te0462-04	El Infante don Pedro.	2	8
+161	te0462-01	Sancha Dama.	2	7
+162	te0462-04	El Infante don Pedro.	1	1
+163	te0462-01	Sancha Dama.	8	36
+164	te0462-02	Ramiro.	3	12
+165	te0462-01	Sancha Dama.	41	219
+166	te0462-02	Ramiro.	48	237
+167	te0462-01	Sancha Dama.	28	143
+168	te0462-02	Ramiro.	2	8
+169	te0462-01	Sancha Dama.	3	13
+170	te0462-02	Ramiro.	2	7
+171	te0462-01	Sancha Dama.	6	27
+172	te0462-02	Ramiro.	1	5
+173	te0462-01	Sancha Dama.	1	4
+174	te0462-02	Ramiro.	2	9
+175	te0462-01	Sancha Dama.	1	5
+176	te0462-02	Ramiro.	1	2
+177	te0462-01	Sancha Dama.	1	3
+178	te0462-02	Ramiro.	4	14
+179	te0462-01	Sancha Dama.	1	2
+180	te0462-02	Ramiro.	1	2
+181	te0462-01	Sancha Dama.	5	20
+182	te0462-03	Cabello Pastor.	2	9
+183	te0462-02	Ramiro.	1	2
+184	te0462-01	Sancha Dama.	1	4
+185	te0462-02	Ramiro.	1	2
+186	te0462-01	Sancha Dama.	1	2
+187	te0462-02	Ramiro.	1	3
+188	te0462-01	Sancha Dama.	1	2
+189	te0462-02	Ramiro.	1	4
+190	te0462-01	Sancha Dama.	2	4
+191	te0462-02	Ramiro.	1	3
+192	te0462-01	Sancha Dama.	1	3
+193	te0462-02	Ramiro.	1	3
+194	te0462-09	Tabaco lacayo.	6	28
+195	te0462-01	Sancha Dama.	1	6
+196	te0462-09	Tabaco lacayo.	1	4
+197	te0462-01	Sancha Dama.	1	2
+198	te0462-09	Tabaco lacayo.	3	8
+199	te0462-01	Sancha Dama.	1	4
+200	te0462-09	Tabaco lacayo.	6	29
+201	te0462-01	Sancha Dama.	1	2
+202	te0462-09	Tabaco lacayo.	16	77
+203	te0462-01	Sancha Dama.	2	8
+204	te0462-09	Tabaco lacayo.	4	17
+205	te0462-01	Sancha Dama.	2	6
+206	te0462-09	Tabaco lacayo.	5	21
+207	te0462-01	Sancha Dama.	1	3
+208	te0462-09	Tabaco lacayo.	7	28
+209	te0462-01	Sancha Dama.	1	2
+210	te0462-09	Tabaco lacayo.	3	16
+211	te0462-03	Cabello Pastor.	2	12
+212	te0462-09	Tabaco lacayo.	1	4
+213	te0462-03	Cabello Pastor.	1	1
+214	te0462-09	Tabaco lacayo.	1	6
+215	te0462-03	Cabello Pastor.	1	1
+216	te0462-09	Tabaco lacayo.	2	6
+217	te0462-03	Cabello Pastor.	1	5
+218	te0462-09	Tabaco lacayo.	1	1
+219	te0462-03	Cabello Pastor.	2	9
+220	te0462-09	Tabaco lacayo.	1	5
+221	te0462-03	Cabello Pastor.	3	13
+222	te0462-09	Tabaco lacayo.	1	5
+223	te0462-03	Cabello Pastor.	7	33
+224	te0462-09	Tabaco lacayo.	1	3
+225	te0462-01	Sancha Dama.	3	10
+226	te0462-09	Tabaco lacayo.	9	44
+227	te0462-01	Sancha Dama.	10	53
+228	te0462-03	Cabello Pastor.	1	2
+229	te0462-09	Tabaco lacayo.	2	3
+230	te0462-03	Cabello Pastor.	8	28
+231	te0462-09	Tabaco lacayo.	2	5
+232	te0462-03	Cabello Pastor.	1	3
+233	te0462-09	Tabaco lacayo.	3	13
+234	te0462-03	Cabello Pastor.	2	6
+235	te0462-09	Tabaco lacayo.	3	12
+236	te0462-03	Cabello Pastor.	2	5
+237	te0462-09	Tabaco lacayo.	1	1
+238	te0462-03	Cabello Pastor.	1	4
+239	te0462-09	Tabaco lacayo.	1	3
+240	te0462-03	Cabello Pastor.	1	2
+241	te0462-09	Tabaco lacayo.	1	4
+242	te0462-03	Cabello Pastor.	1	3
+243	te0462-09	Tabaco lacayo.	2	10
+244	te0462-03	Cabello Pastor.	1	1
+245	te0462-09	Tabaco lacayo.	1	6
+246	te0462-03	Cabello Pastor.	1	1
+247	te0462-09	Tabaco lacayo.	2	9
+248	te0462-03	Cabello Pastor.	3	15
+249	te0462-09	Tabaco lacayo.	1	5
+250	te0462-03	Cabello Pastor.	1	2
+251	te0462-09	Tabaco lacayo.	6	25
+252	te0462-03	Cabello Pastor.	2	5
+253	te0462-09	Tabaco lacayo.	7	38
+254	te0462-08	Don Nuño Cauallero.	23	120
+255	te0462-16	Al.	5	24
+256	te0462-08	Don Nuño Cauallero.	3	15
+257	te0462-16	Al.	1	4
+258	te0462-01	Sancha Dama.	5	24
+259	te0462-16	Al.	3	11
+260	te0462-01	Sancha Dama.	1	2
+261	te0462-16	Al.	3	14
+262	te0462-02	Ramiro.	13	57
+263	te0462-01	Sancha Dama.	2	9
+264	te0462-02	Ramiro.	2	10
+265	te0462-01	Sancha Dama.	5	22
+266	te0462-16	Al.	2	8
+267	te0462-01	Sancha Dama.	4	15
+268	te0462-16	Al.	2	7
+269	te0462-01	Sancha Dama.	2	10
+270	te0462-02	Ramiro.	1	3
+271	te0462-01	Sancha Dama.	3	11
+272	te0462-02	Ramiro.	1	3
+273	te0462-01	Sancha Dama.	1	5
+274	te0462-02	Ramiro.	1	5
+275	te0462-09	Tabaco lacayo.	1	5
+276	te0462-02	Ramiro.	1	4
+277	te0462-09	Tabaco lacayo.	6	23
+278	te0462-16	Al.	1	2
+279	te0462-09	Tabaco lacayo.	12	59
+280	te0462-16	Al.	1	2
+281	te0462-09	Tabaco lacayo.	2	7
+282	te0462-03	Cabello Pastor.	1	1
+283	te0462-09	Tabaco lacayo.	2	6
+284	te0462-16	Al.	1	3
+285	te0462-02	Ramiro.	1	4
+286	te0462-16	Al.	1	3
+287	te0462-01	Sancha Dama.	1	3
+288	te0462-16	Al.	1	1
+289	te0462-01	Sancha Dama.	2	8
+290	te0462-10	Don Dionis Cauallero.	8	54
+291	te0462-11	Don Duarte Cauallero.	8	48
+292	te0462-12	Don Egas Cauallero.	8	60
+293	te0462-10	Don Dionis Cauallero.	1	2
+294	te0462-12	Don Egas Cauallero.	1	2
+295	te0462-10	Don Dionis Cauallero.	2	9
+296	te0462-11	Don Duarte Cauallero.	6	43
+297	te0462-10	Don Dionis Cauallero.	8	51
+298	te0462-12	Don Egas Cauallero.	8	54
+299	te0462-10	Don Dionis Cauallero.	12	79
+300	te0462-12	Don Egas Cauallero.	4	27
+301	te0462-13	Acuña Cauallero.	24	150
+302	te0462-10	Don Dionis Cauallero.	8	45
+303	te0462-04	El Infante don Pedro.	1	7
+304	te0462-11	Don Duarte Cauallero.	1	3
+305	te0462-04	El Infante don Pedro.	3	13
+306	te0462-10	Don Dionis Cauallero.	8	51
+307	te0462-11	Don Duarte Cauallero.	4	27
+308	te0462-10	Don Dionis Cauallero.	4	24
+309	te0462-12	Don Egas Cauallero.	4	26
+310	te0462-04	El Infante don Pedro.	2	12
+311	te0462-10	Don Dionis Cauallero.	6	37
+312	te0462-04	El Infante don Pedro.	1	7
+313	te0462-10	Don Dionis Cauallero.	3	18
+314	te0462-11	Don Duarte Cauallero.	4	24
+315	te0462-04	El Infante don Pedro.	2	11
+316	te0462-10	Don Dionis Cauallero.	2	16
+317	te0462-13	Acuña Cauallero.	4	24
+318	te0462-04	El Infante don Pedro.	28	178
+319	te0462-14	El Rey niño.	4	25
+320	te0462-12	Don Egas Cauallero.	1	4
+321	te0462-11	Don Duarte Cauallero.	4	24
+322	te0462-10	Don Dionis Cauallero.	4	25
+323	te0462-14	El Rey niño.	4	19
+324	te0462-04	El Infante don Pedro.	12	59
+325	te0462-14	El Rey niño.	12	56
+326	te0462-04	El Infante don Pedro.	12	64
+327	te0462-14	El Rey niño.	2	11
+328	te0462-99	(unknown)	2	8
+329	te0462-14	El Rey niño.	2	9
+330	te0462-11	Don Duarte Cauallero.	2	8
+331	te0462-14	El Rey niño.	4	17
+332	te0462-05	Doña Filipa Infanta.	1	3
+333	te0462-14	El Rey niño.	3	13
+334	te0462-05	Doña Filipa Infanta.	2	8
+335	te0462-14	El Rey niño.	7	36
+336	te0462-10	Don Dionis Cauallero.	2	9
+337	te0462-11	Don Duarte Cauallero.	2	11
+338	te0462-05	Doña Filipa Infanta.	3	14
+339	te0462-14	El Rey niño.	5	21
+340	te0462-13	Acuña Cauallero.	4	17
+341	te0462-14	El Rey niño.	2	8
+342	te0462-04	El Infante don Pedro.	4	16
+343	te0462-10	Don Dionis Cauallero.	5	21
+344	te0462-02	Ramiro.	3	15
+345	te0462-09	Tabaco lacayo.	1	6
+346	te0462-02	Ramiro.	2	6
+347	te0462-04	El Infante don Pedro.	2	4
+348	te0462-09	Tabaco lacayo.	2	5
+349	te0462-02	Ramiro.	1	2
+350	te0462-05	Doña Filipa Infanta.	2	7
+351	te0462-04	El Infante don Pedro.	2	3
+352	te0462-05	Doña Filipa Infanta.	2	7
+353	te0462-09	Tabaco lacayo.	1	1
+354	te0462-02	Ramiro.	1	1
+355	te0462-09	Tabaco lacayo.	8	35
+356	te0462-04	El Infante don Pedro.	4	17
+357	te0462-05	Doña Filipa Infanta.	8	40
+358	te0462-02	Ramiro.	2	10
+359	te0462-04	El Infante don Pedro.	1	5
+360	te0462-10	Don Dionis Cauallero.	3	12
+361	te0462-09	Tabaco lacayo.	3	14
+362	te0462-10	Don Dionis Cauallero.	2	7
+363	te0462-09	Tabaco lacayo.	10	48
+364	te0462-04	El Infante don Pedro.	3	19
+365	te0462-02	Ramiro.	3	13
+366	te0462-10	Don Dionis Cauallero.	2	8
+367	te0462-05	Doña Filipa Infanta.	1	1
+368	te0462-02	Ramiro.	1	4
+369	te0462-09	Tabaco lacayo.	10	43
+370	te0462-04	El Infante don Pedro.	1	2
+371	te0462-04	El Infante don Pedro.	2	6
+372	te0462-02	Ramiro.	1	3
+373	te0462-05	Doña Filipa Infanta.	1	3
+374	te0462-10	Don Dionis Cauallero.	1	3
+375	te0462-04	El Infante don Pedro.	2	5
+376	te0462-02	Ramiro.	1	3
+377	te0462-09	Tabaco lacayo.	3	7
+378	te0462-11	Don Duarte Cauallero.	1	4
+379	te0462-10	Don Dionis Cauallero.	8	39
+380	te0462-11	Don Duarte Cauallero.	3	13
+381	te0462-10	Don Dionis Cauallero.	1	2
+382	te0462-11	Don Duarte Cauallero.	8	36
+383	te0462-10	Don Dionis Cauallero.	3	11
+384	te0462-11	Don Duarte Cauallero.	18	84
+385	te0462-10	Don Dionis Cauallero.	7	32
+386	te0462-11	Don Duarte Cauallero.	1	2
+387	te0462-10	Don Dionis Cauallero.	12	59
+388	te0462-11	Don Duarte Cauallero.	2	8
+389	te0462-10	Don Dionis Cauallero.	1	3
+390	te0462-11	Don Duarte Cauallero.	5	23
+391	te0462-10	Don Dionis Cauallero.	2	11
+392	te0462-09	Tabaco lacayo.	20	107
+393	te0462-11	Don Duarte Cauallero.	1	2
+394	te0462-09	Tabaco lacayo.	16	82
+395	te0462-10	Don Dionis Cauallero.	1	2
+396	te0462-09	Tabaco lacayo.	2	9
+397	te0462-11	Don Duarte Cauallero.	2	9
+398	te0462-09	Tabaco lacayo.	1	4
+399	te0462-10	Don Dionis Cauallero.	1	2
+400	te0462-09	Tabaco lacayo.	3	10
+401	te0462-11	Don Duarte Cauallero.	1	4
+402	te0462-09	Tabaco lacayo.	1	5
+403	te0462-10	Don Dionis Cauallero.	1	5
+404	te0462-09	Tabaco lacayo.	2	4
+405	te0462-10	Don Dionis Cauallero.	1	4
+406	te0462-09	Tabaco lacayo.	1	4
+407	te0462-10	Don Dionis Cauallero.	1	4
+408	te0462-09	Tabaco lacayo.	2	12
+409	te0462-11	Don Duarte Cauallero.	2	10
+410	te0462-09	Tabaco lacayo.	2	8
+411	te0462-10	Don Dionis Cauallero.	1	3
+412	te0462-11	Don Duarte Cauallero.	2	6
+413	te0462-11	Don Duarte Cauallero.	4	15
+414	te0462-10	Don Dionis Cauallero.	2	8
+415	te0462-10	Don Dionis Cauallero.	5	24
+416	te0462-02	Ramiro.	4	13
+417	te0462-14	El Rey niño.	8	33
+418	te0462-02	Ramiro.	1	4
+419	te0462-14	El Rey niño.	2	14
+420	te0462-04	El Infante don Pedro.	3	12
+421	te0462-14	El Rey niño.	2	11
+422	te0462-14	El Rey niño.	1	3
+423	te0462-02	Ramiro.	6	26
+424	te0462-11	Don Duarte Cauallero.	1	3
+425	te0462-10	Don Dionis Cauallero.	3	8
+426	te0462-14	El Rey niño.	2	5
+427	te0462-04	El Infante don Pedro.	2	6
+428	te0462-14	El Rey niño.	7	31
+429	te0462-02	Ramiro.	4	16
+430	te0462-14	El Rey niño.	2	11
+431	te0462-02	Ramiro.	4	16
+432	te0462-10	Don Dionis Cauallero.	9	39
+433	te0462-02	Ramiro.	2	9
+434	te0462-14	El Rey niño.	4	20
+435	te0462-02	Ramiro.	2	10
+436	te0462-14	El Rey niño.	4	19
+437	te0462-04	El Infante don Pedro.	2	11
+438	te0462-02	Ramiro.	8	42
+439	te0462-14	El Rey niño.	5	25
+440	te0462-04	El Infante don Pedro.	2	9
+441	te0462-14	El Rey niño.	1	4
+442	te0462-11	Don Duarte Cauallero.	1	6
+443	te0462-14	El Rey niño.	2	10
+444	te0462-02	Ramiro.	1	1
+445	te0462-14	El Rey niño.	5	23
+446	te0462-02	Ramiro.	2	4
+447	te0462-14	El Rey niño.	3	12
+448	te0462-04	El Infante don Pedro.	6	30
+449	te0462-05	Doña Filipa Infanta.	10	45
+450	te0462-02	Ramiro.	10	37
+451	te0462-10	Don Dionis Cauallero.	12	51
+452	te0462-07	Vn page.	4	18
+453	te0462-04	El Infante don Pedro.	7	30
+454	te0462-14	El Rey niño.	4	14
+455	te0462-03	Cabello Pastor.	6	28
+456	te0462-01	Sancha Dama.	2	10
+457	te0462-03	Cabello Pastor.	3	16
+458	te0462-01	Sancha Dama.	1	4
+459	te0462-03	Cabello Pastor.	5	27
+460	te0462-01	Sancha Dama.	1	5
+461	te0462-04	El Infante don Pedro.	1	5
+462	te0462-01	Sancha Dama.	6	23
+463	te0462-14	El Rey niño.	3	12
+464	te0462-02	Ramiro.	4	18
+465	te0462-03	Cabello Pastor.	1	2
+466	te0462-02	Ramiro.	1	3
+467	te0462-03	Cabello Pastor.	2	8
+468	te0462-01	Sancha Dama.	0	0
+469	te0462-14	El Rey niño.	1	4
+470	te0462-01	Sancha Dama.	4	16
+471	te0462-02	Ramiro.	2	5
+472	te0462-03	Cabello Pastor.	4	20
+473	te0462-02	Ramiro.	1	6
+474	te0462-05	Doña Filipa Infanta.	3	14
+475	te0462-04	El Infante don Pedro.	1	2
+476	te0462-01	Sancha Dama.	5	19
+477	te0462-14	El Rey niño.	1	5
+478	te0462-01	Sancha Dama.	2	7
+479	te0462-14	El Rey niño.	2	7
+480	te0462-01	Sancha Dama.	2	8
+481	te0462-05	Doña Filipa Infanta.	1	3
+482	te0462-01	Sancha Dama.	1	3
+483	te0462-05	Doña Filipa Infanta.	1	7
+484	te0462-01	Sancha Dama.	3	11
+485	te0462-14	El Rey niño.	1	3
+486	te0462-01	Sancha Dama.	3	11
+487	te0462-04	El Infante don Pedro.	2	9
+488	te0462-01	Sancha Dama.	1	4
+489	te0462-04	El Infante don Pedro.	1	5
+490	te0462-01	Sancha Dama.	1	6
+491	te0462-07	Vn page.	1	2
+492	te0462-01	Sancha Dama.	2	7
+493	te0462-04	El Infante don Pedro.	1	4
+494	te0462-01	Sancha Dama.	2	11
+495	te0462-02	Ramiro.	2	10
+496	te0462-03	Cabello Pastor.	4	20
+497	te0462-14	El Rey niño.	1	1
+498	te0462-01	Sancha Dama.	2	8
+499	te0462-14	El Rey niño.	2	8
+500	te0462-01	Sancha Dama.	1	3
+501	te0462-04	El Infante don Pedro.	1	1
+502	te0462-02	Ramiro.	2	11
+503	te0462-01	Sancha Dama.	2	10
+504	te0462-02	Ramiro.	1	3
+505	te0462-03	Cabello Pastor.	1	3
+506	te0462-11	Don Duarte Cauallero.	7	36
+507	te0462-02	Ramiro.	2	9
+508	te0462-10	Don Dionis Cauallero.	10	50
+509	te0462-02	Ramiro.	4	22
+510	te0462-10	Don Dionis Cauallero.	1	5
+511	te0462-02	Ramiro.	1	3
+512	te0462-10	Don Dionis Cauallero.	1	1
+513	te0462-02	Ramiro.	2	10
+514	te0462-10	Don Dionis Cauallero.	2	9
+515	te0462-02	Ramiro.	2	11
+516	te0462-10	Don Dionis Cauallero.	2	8
+517	te0462-02	Ramiro.	1	5
+518	te0462-10	Don Dionis Cauallero.	6	28
+519	te0462-02	Ramiro.	2	9
+520	te0462-10	Don Dionis Cauallero.	3	9
+521	te0462-02	Ramiro.	1	4
+522	te0462-10	Don Dionis Cauallero.	3	16
+523	te0462-02	Ramiro.	1	1
+524	te0462-10	Don Dionis Cauallero.	1	2
+525	te0462-02	Ramiro.	26	121
+526	te0462-01	Sancha Dama.	12	61
+527	te0462-02	Ramiro.	1	5
+528	te0462-01	Sancha Dama.	12	57
+529	te0462-02	Ramiro.	14	71
+530	te0462-01	Sancha Dama.	5	24
+531	te0462-02	Ramiro.	4	16
+532	te0462-01	Sancha Dama.	1	5
+533	te0462-02	Ramiro.	3	15
+534	te0462-01	Sancha Dama.	1	6
+535	te0462-02	Ramiro.	1	1
+536	te0462-01	Sancha Dama.	1	4
+537	te0462-02	Ramiro.	3	13
+538	te0462-01	Sancha Dama.	2	7
+539	te0462-02	Ramiro.	1	1
+540	te0462-01	Sancha Dama.	3	8
+541	te0462-02	Ramiro.	1	2
+542	te0462-01	Sancha Dama.	2	4
+543	te0462-02	Ramiro.	1	3
+544	te0462-01	Sancha Dama.	2	8
+545	te0462-02	Ramiro.	2	2
+546	te0462-01	Sancha Dama.	11	52
+547	te0462-02	Ramiro.	1	5
+548	te0462-01	Sancha Dama.	2	11
+549	te0462-02	Ramiro.	2	7
+550	te0462-01	Sancha Dama.	2	10
+551	te0462-02	Ramiro.	1	2
+552	te0462-01	Sancha Dama.	1	2
+553	te0462-02	Ramiro.	2	6
+554	te0462-01	Sancha Dama.	19	92
+555	te0462-02	Ramiro.	2	11
+556	te0462-01	Sancha Dama.	2	4
+557	te0462-02	Ramiro.	1	3
+558	te0462-01	Sancha Dama.	1	5
+559	te0462-07	Vn page.	1	5
+560	te0462-02	Ramiro.	2	12
+561	te0462-01	Sancha Dama.	2	10
+562	te0462-05	Doña Filipa Infanta.	10	49
+563	te0462-02	Ramiro.	10	48
+564	te0462-05	Doña Filipa Infanta.	1	1
+565	te0462-02	Ramiro.	1	2
+566	te0462-05	Doña Filipa Infanta.	1	2
+567	te0462-02	Ramiro.	2	3
+568	te0462-05	Doña Filipa Infanta.	1	1
+569	te0462-02	Ramiro.	2	6
+570	te0462-05	Doña Filipa Infanta.	1	5
+571	te0462-02	Ramiro.	1	5
+572	te0462-05	Doña Filipa Infanta.	1	5
+573	te0462-02	Ramiro.	1	4
+574	te0462-05	Doña Filipa Infanta.	3	15
+575	te0462-02	Ramiro.	2	6
+576	te0462-05	Doña Filipa Infanta.	4	20
+577	te0462-02	Ramiro.	8	41
+578	te0462-05	Doña Filipa Infanta.	2	9
+579	te0462-02	Ramiro.	5	15
+580	te0462-05	Doña Filipa Infanta.	1	2
+581	te0462-02	Ramiro.	2	6
+582	te0462-05	Doña Filipa Infanta.	1	2
+583	te0462-02	Ramiro.	1	5
+584	te0462-05	Doña Filipa Infanta.	1	6
+585	te0462-02	Ramiro.	1	2
+586	te0462-05	Doña Filipa Infanta.	1	3
+587	te0462-02	Ramiro.	3	14
+588	te0462-05	Doña Filipa Infanta.	2	2
+589	te0462-02	Ramiro.	4	13
+590	te0462-05	Doña Filipa Infanta.	3	11
+591	te0462-02	Ramiro.	1	6
+592	te0462-05	Doña Filipa Infanta.	1	6
+593	te0462-02	Ramiro.	1	3
+594	te0462-05	Doña Filipa Infanta.	1	3
+595	te0462-02	Ramiro.	1	5
+596	te0462-05	Doña Filipa Infanta.	1	3
+597	te0462-02	Ramiro.	2	8
+598	te0462-05	Doña Filipa Infanta.	2	9
+599	te0462-02	Ramiro.	1	4
+600	te0462-05	Doña Filipa Infanta.	2	6
+601	te0462-02	Ramiro.	1	2
+602	te0462-05	Doña Filipa Infanta.	1	4
+603	te0462-02	Ramiro.	12	58
+604	te0462-05	Doña Filipa Infanta.	3	11
+605	te0462-02	Ramiro.	2	6
+606	te0462-05	Doña Filipa Infanta.	1	2
+607	te0462-02	Ramiro.	1	2
+608	te0462-05	Doña Filipa Infanta.	7	35
+609	te0462-02	Ramiro.	4	20
+610	te0462-05	Doña Filipa Infanta.	1	4
+611	te0462-02	Ramiro.	1	3
+612	te0462-05	Doña Filipa Infanta.	6	27
+613	te0462-02	Ramiro.	1	2
+614	te0462-05	Doña Filipa Infanta.	2	7
+615	te0462-02	Ramiro.	1	3
+616	te0462-05	Doña Filipa Infanta.	1	2
+617	te0462-02	Ramiro.	1	2
+618	te0462-05	Doña Filipa Infanta.	1	3
+619	te0462-04	El Infante don Pedro.	4	22
+620	te0462-05	Doña Filipa Infanta.	1	2
+621	te0462-04	El Infante don Pedro.	4	14
+622	te0462-05	Doña Filipa Infanta.	4	14
+623	te0462-04	El Infante don Pedro.	9	38
+624	te0462-05	Doña Filipa Infanta.	1	2
+625	te0462-04	El Infante don Pedro.	5	24
+626	te0462-05	Doña Filipa Infanta.	2	8
+627	te0462-04	El Infante don Pedro.	2	9
+628	te0462-05	Doña Filipa Infanta.	1	4
+629	te0462-04	El Infante don Pedro.	2	6
+630	te0462-05	Doña Filipa Infanta.	6	27
+631	te0462-04	El Infante don Pedro.	1	4
+632	te0462-05	Doña Filipa Infanta.	5	25
+633	te0462-04	El Infante don Pedro.	1	2
+634	te0462-05	Doña Filipa Infanta.	2	6
+635	te0462-01	Sancha Dama.	2	6
+636	te0462-05	Doña Filipa Infanta.	2	4
+637	te0462-01	Sancha Dama.	1	3
+638	te0462-05	Doña Filipa Infanta.	1	3
+639	te0462-01	Sancha Dama.	4	18
+640	te0462-05	Doña Filipa Infanta.	1	2
+641	te0462-01	Sancha Dama.	4	18
+642	te0462-05	Doña Filipa Infanta.	2	9
+643	te0462-01	Sancha Dama.	2	9
+644	te0462-05	Doña Filipa Infanta.	7	38
+645	te0462-01	Sancha Dama.	5	20
+646	te0462-05	Doña Filipa Infanta.	1	5
+647	te0462-01	Sancha Dama.	3	16
+648	te0462-05	Doña Filipa Infanta.	1	5
+649	te0462-01	Sancha Dama.	1	4
+650	te0462-05	Doña Filipa Infanta.	1	8
+651	te0462-01	Sancha Dama.	1	5
+652	te0462-05	Doña Filipa Infanta.	1	1
+653	te0462-01	Sancha Dama.	1	5
+654	te0462-05	Doña Filipa Infanta.	1	2
+655	te0462-01	Sancha Dama.	3	13
+656	te0462-05	Doña Filipa Infanta.	4	18
+657	te0462-01	Sancha Dama.	4	20
+658	te0462-05	Doña Filipa Infanta.	2	10
+659	te0462-01	Sancha Dama.	4	19
+660	te0462-05	Doña Filipa Infanta.	1	3
+661	te0462-01	Sancha Dama.	2	8
+662	te0462-05	Doña Filipa Infanta.	7	33
+663	te0462-01	Sancha Dama.	3	13
+664	te0462-05	Doña Filipa Infanta.	2	12
+665	te0462-10	Don Dionis Cauallero.	1	1
+666	te0462-01	Sancha Dama.	1	1
+667	te0462-10	Don Dionis Cauallero.	2	7
+668	te0462-01	Sancha Dama.	1	2
+669	te0462-10	Don Dionis Cauallero.	4	16
+670	te0462-01	Sancha Dama.	2	13
+671	te0462-10	Don Dionis Cauallero.	4	17
+672	te0462-01	Sancha Dama.	3	11
+673	te0462-10	Don Dionis Cauallero.	10	50
+674	te0462-01	Sancha Dama.	2	8
+675	te0462-10	Don Dionis Cauallero.	2	9
+676	te0462-01	Sancha Dama.	5	25
+677	te0462-02	Ramiro.	5	24
+678	te0462-05	Doña Filipa Infanta.	3	11
+679	te0462-02	Ramiro.	2	4
+680	te0462-05	Doña Filipa Infanta.	4	16
+681	te0462-02	Ramiro.	1	5
+682	te0462-05	Doña Filipa Infanta.	2	9
+683	te0462-02	Ramiro.	3	13
+684	te0462-05	Doña Filipa Infanta.	1	5
+685	te0462-02	Ramiro.	3	14
+686	te0462-05	Doña Filipa Infanta.	2	7
+687	te0462-02	Ramiro.	3	15
+688	te0462-05	Doña Filipa Infanta.	1	5
+689	te0462-02	Ramiro.	1	6
+690	te0462-05	Doña Filipa Infanta.	1	2
+691	te0462-02	Ramiro.	1	3
+692	te0462-05	Doña Filipa Infanta.	1	6
+693	te0462-02	Ramiro.	1	6
+694	te0462-05	Doña Filipa Infanta.	3	14
+695	te0462-02	Ramiro.	1	1
+696	te0462-05	Doña Filipa Infanta.	1	5
+697	te0462-02	Ramiro.	1	6
+698	te0462-05	Doña Filipa Infanta.	2	8
+699	te0462-02	Ramiro.	2	7
+700	te0462-05	Doña Filipa Infanta.	2	9
+701	te0462-02	Ramiro.	2	10
+702	te0462-05	Doña Filipa Infanta.	1	3
+703	te0462-02	Ramiro.	1	3
+704	te0462-05	Doña Filipa Infanta.	1	4
+705	te0462-02	Ramiro.	2	7
+706	te0462-05	Doña Filipa Infanta.	20	99
+707	te0462-02	Ramiro.	1	3
+708	te0462-05	Doña Filipa Infanta.	2	6
+709	te0462-02	Ramiro.	2	7
+710	te0462-05	Doña Filipa Infanta.	2	10
+711	te0462-02	Ramiro.	10	52
+712	te0462-01	Sancha Dama.	1	1
+713	te0462-02	Ramiro.	1	2
+714	te0462-01	Sancha Dama.	1	5
+715	te0462-02	Ramiro.	1	4
+716	te0462-01	Sancha Dama.	3	14
+717	te0462-02	Ramiro.	1	6
+718	te0462-01	Sancha Dama.	7	35
+719	te0462-02	Ramiro.	1	3
+720	te0462-01	Sancha Dama.	4	18
+721	te0462-02	Ramiro.	3	14
+722	te0462-01	Sancha Dama.	2	13
+723	te0462-02	Ramiro.	8	35
+724	te0462-01	Sancha Dama.	1	4
+725	te0462-02	Ramiro.	15	68
+726	te0462-01	Sancha Dama.	10	52
+727	te0462-05	Doña Filipa Infanta.	24	121
+728	te0462-02	Ramiro.	18	87
+729	te0462-05	Doña Filipa Infanta.	1	3
+730	te0462-02	Ramiro.	1	3
+731	te0462-05	Doña Filipa Infanta.	2	3
+732	te0462-02	Ramiro.	1	3
+733	te0462-10	Don Dionis Cauallero.	7	31
+734	te0462-05	Doña Filipa Infanta.	1	4
+735	te0462-02	Ramiro.	2	11
+736	te0462-05	Doña Filipa Infanta.	6	33
+737	te0462-10	Don Dionis Cauallero.	1	6
+738	te0462-02	Ramiro.	2	8
+739	te0462-10	Don Dionis Cauallero.	1	6
+740	te0462-02	Ramiro.	1	6
+741	te0462-05	Doña Filipa Infanta.	5	28
+742	te0462-10	Don Dionis Cauallero.	8	43
+743	te0462-01	Sancha Dama.	2	7
+744	te0462-02	Ramiro.	3	15
+745	te0462-05	Doña Filipa Infanta.	1	5
+746	te0462-10	Don Dionis Cauallero.	7	31
+747	te0462-01	Sancha Dama.	11	54
+748	te0462-05	Doña Filipa Infanta.	2	7
+749	te0462-02	Ramiro.	1	1
+750	te0462-05	Doña Filipa Infanta.	1	2
+751	te0462-02	Ramiro.	1	2
+752	te0462-01	Sancha Dama.	1	7
+753	te0462-10	Don Dionis Cauallero.	5	20
+754	te0462-01	Sancha Dama.	2	3
+755	te0462-10	Don Dionis Cauallero.	35	159
+756	te0462-02	Ramiro.	10	46
+757	te0462-10	Don Dionis Cauallero.	5	25
+758	te0462-02	Ramiro.	3	12
+759	te0462-10	Don Dionis Cauallero.	3	10
+760	te0462-02	Ramiro.	6	27
+761	te0462-10	Don Dionis Cauallero.	3	12
+762	te0462-02	Ramiro.	2	9
+763	te0462-10	Don Dionis Cauallero.	10	54
+764	te0462-02	Ramiro.	2	7
+765	te0462-10	Don Dionis Cauallero.	4	15
+766	te0462-02	Ramiro.	1	1
+767	te0462-10	Don Dionis Cauallero.	5	23
+768	te0462-02	Ramiro.	2	9
+769	te0462-10	Don Dionis Cauallero.	6	32
+770	te0462-02	Ramiro.	2	10
+771	te0462-10	Don Dionis Cauallero.	10	51
+772	te0462-02	Ramiro.	10	40
+773	te0462-10	Don Dionis Cauallero.	5	26
+774	te0462-02	Ramiro.	2	8
+775	te0462-10	Don Dionis Cauallero.	3	11
+776	te0462-02	Ramiro.	2	8
+777	te0462-10	Don Dionis Cauallero.	20	94
+778	te0462-02	Ramiro.	20	110
+779	te0462-10	Don Dionis Cauallero.	4	18
+780	te0462-02	Ramiro.	2	8
+781	te0462-10	Don Dionis Cauallero.	18	94
+782	te0462-02	Ramiro.	12	68
+783	te0462-10	Don Dionis Cauallero.	3	12
+784	te0462-02	Ramiro.	1	2
+785	te0462-10	Don Dionis Cauallero.	1	4
+786	te0462-02	Ramiro.	1	6
+787	te0462-10	Don Dionis Cauallero.	5	24
+788	te0462-05	Doña Filipa Infanta.	10	48
+789	te0462-10	Don Dionis Cauallero.	6	24
+790	te0462-05	Doña Filipa Infanta.	1	2
+791	te0462-10	Don Dionis Cauallero.	19	93
+792	te0462-05	Doña Filipa Infanta.	2	9
+793	te0462-10	Don Dionis Cauallero.	19	92
+794	te0462-05	Doña Filipa Infanta.	1	3
+795	te0462-02	Ramiro.	1	3
+796	te0462-05	Doña Filipa Infanta.	1	5
+797	te0462-10	Don Dionis Cauallero.	17	86
+798	te0462-05	Doña Filipa Infanta.	10	48
+799	te0462-10	Don Dionis Cauallero.	3	16
+800	te0462-05	Doña Filipa Infanta.	2	9
+801	te0462-10	Don Dionis Cauallero.	10	46
+802	te0462-02	Ramiro.	10	45
+803	te0462-10	Don Dionis Cauallero.	45	216
+804	te0462-02	Ramiro.	35	171
+805	te0462-01	Sancha Dama.	14	68
+806	te0462-11	Don Duarte Cauallero.	1	2
+807	te0462-01	Sancha Dama.	6	32
+808	te0462-11	Don Duarte Cauallero.	12	57
+809	te0462-01	Sancha Dama.	1	3
+810	te0462-11	Don Duarte Cauallero.	3	14
+811	te0462-01	Sancha Dama.	13	65
+812	te0462-11	Don Duarte Cauallero.	4	21
+813	te0462-05	Doña Filipa Infanta.	2	8
+814	te0462-01	Sancha Dama.	2	10
+815	te0462-05	Doña Filipa Infanta.	1	6
+816	te0462-01	Sancha Dama.	3	13
+817	te0462-05	Doña Filipa Infanta.	1	5
+818	te0462-01	Sancha Dama.	7	37
+819	te0462-05	Doña Filipa Infanta.	4	20
+820	te0462-01	Sancha Dama.	12	57
+821	te0462-05	Doña Filipa Infanta.	12	56
+822	te0462-01	Sancha Dama.	1	2
+823	te0462-05	Doña Filipa Infanta.	4	20
+824	te0462-01	Sancha Dama.	27	133
+825	te0462-03	Cabello Pastor.	4	20
+826	te0462-01	Sancha Dama.	5	25
+827	te0462-03	Cabello Pastor.	3	15
+828	te0462-01	Sancha Dama.	7	35
+829	te0462-03	Cabello Pastor.	1	4
+830	te0462-01	Sancha Dama.	3	14
+831	te0462-03	Cabello Pastor.	1	5
+832	te0462-01	Sancha Dama.	1	5
+833	te0462-03	Cabello Pastor.	3	16
+834	te0462-01	Sancha Dama.	1	4
+835	te0462-03	Cabello Pastor.	1	4
+836	te0462-01	Sancha Dama.	2	7
+837	te0462-03	Cabello Pastor.	2	10
+838	te0462-01	Sancha Dama.	1	2
+839	te0462-03	Cabello Pastor.	3	16
+840	te0462-01	Sancha Dama.	1	5
+841	te0462-03	Cabello Pastor.	1	3
+842	te0462-01	Sancha Dama.	6	25
+843	te0462-03	Cabello Pastor.	1	5
+844	te0462-01	Sancha Dama.	1	5
+845	te0462-03	Cabello Pastor.	2	7
+846	te0462-01	Sancha Dama.	11	44
+847	te0462-03	Cabello Pastor.	1	4
+848	te0462-01	Sancha Dama.	1	1
+849	te0462-03	Cabello Pastor.	1	3
+850	te0462-01	Sancha Dama.	4	14
+851	te0462-03	Cabello Pastor.	3	10
+852	te0462-01	Sancha Dama.	5	26
+853	te0462-03	Cabello Pastor.	4	23
+854	te0462-01	Sancha Dama.	1	2
+855	te0462-03	Cabello Pastor.	1	1
+856	te0462-01	Sancha Dama.	2	10
+857	te0462-03	Cabello Pastor.	1	2
+858	te0462-01	Sancha Dama.	1	2
+859	te0462-03	Cabello Pastor.	2	5
+860	te0462-01	Sancha Dama.	3	15
+861	te0462-03	Cabello Pastor.	1	2
+862	te0462-01	Sancha Dama.	1	3
+863	te0462-03	Cabello Pastor.	2	10
+864	te0462-01	Sancha Dama.	21	107
+865	te0462-03	Cabello Pastor.	1	2
+866	te0462-01	Sancha Dama.	6	30
+867	te0462-03	Cabello Pastor.	3	9
+868	te0462-01	Sancha Dama.	2	6
+869	te0462-03	Cabello Pastor.	1	3
+870	te0462-01	Sancha Dama.	1	4
+871	te0462-03	Cabello Pastor.	1	1
+872	te0462-01	Sancha Dama.	1	5
+873	te0462-03	Cabello Pastor.	3	17
+874	te0462-01	Sancha Dama.	6	29
+875	te0462-03	Cabello Pastor.	2	5
+876	te0462-01	Sancha Dama.	1	3
+877	te0462-03	Cabello Pastor.	1	4
+878	te0462-01	Sancha Dama.	2	4
+879	te0462-03	Cabello Pastor.	2	6
+880	te0462-01	Sancha Dama.	1	1
+881	te0462-03	Cabello Pastor.	3	13
+882	te0462-01	Sancha Dama.	6	30
+883	te0462-03	Cabello Pastor.	3	14
+884	te0462-01	Sancha Dama.	3	15
+885	te0462-03	Cabello Pastor.	4	19
+886	te0462-01	Sancha Dama.	4	14
+887	te0462-05	Doña Filipa Infanta.	12	58
+888	te0462-02	Ramiro.	9	46
+889	te0462-05	Doña Filipa Infanta.	1	3
+890	te0462-02	Ramiro.	3	15
+891	te0462-05	Doña Filipa Infanta.	1	2
+892	te0462-02	Ramiro.	11	51
+893	te0462-05	Doña Filipa Infanta.	8	40
+894	te0462-02	Ramiro.	8	41
+895	te0462-05	Doña Filipa Infanta.	1	2
+896	te0462-02	Ramiro.	20	97
+897	te0462-05	Doña Filipa Infanta.	1	4
+898	te0462-02	Ramiro.	12	55
+899	te0462-05	Doña Filipa Infanta.	8	41
+900	te0462-02	Ramiro.	6	27
+901	te0462-05	Doña Filipa Infanta.	3	9
+902	te0462-01	Sancha Dama.	20	101
+903	te0462-10	Don Dionis Cauallero.	4	20
+904	te0462-01	Sancha Dama.	3	12
+905	te0462-10	Don Dionis Cauallero.	1	2
+906	te0462-01	Sancha Dama.	2	7
+907	te0462-10	Don Dionis Cauallero.	1	5
+908	te0462-01	Sancha Dama.	7	37
+909	te0462-10	Don Dionis Cauallero.	6	25
+910	te0462-01	Sancha Dama.	1	4
+911	te0462-10	Don Dionis Cauallero.	3	16
+912	te0462-01	Sancha Dama.	1	3
+913	te0462-10	Don Dionis Cauallero.	1	1
+914	te0462-01	Sancha Dama.	1	5
+915	te0462-10	Don Dionis Cauallero.	1	1
+916	te0462-01	Sancha Dama.	2	9
+917	te0462-10	Don Dionis Cauallero.	5	23
+918	te0462-01	Sancha Dama.	1	1
+919	te0462-14	El Rey niño.	1	5
+920	te0462-16	Al.	4	21
+921	te0462-14	El Rey niño.	7	31
+922	te0462-16	Al.	6	24
+923	te0462-14	El Rey niño.	1	5
+924	te0462-04	El Infante don Pedro.	2	8
+925	te0462-16	Al.	2	6
+926	te0462-04	El Infante don Pedro.	2	6
+927	te0462-16	Al.	3	13
+928	te0462-14	El Rey niño.	3	14
+929	te0462-16	Al.	3	12
+930	te0462-04	El Infante don Pedro.	10	48
+931	te0462-14	El Rey niño.	3	16
+932	te0462-04	El Infante don Pedro.	12	62
+933	te0462-14	El Rey niño.	5	26
+934	te0462-04	El Infante don Pedro.	2	7
+935	te0462-16	Al.	2	7
+936	te0462-04	El Infante don Pedro.	7	29
+937	te0462-16	Al.	3	9
+938	te0462-04	El Infante don Pedro.	2	7
+939	te0462-16	Al.	5	19
+940	te0462-04	El Infante don Pedro.	4	18
+941	te0462-16	Al.	11	50
+942	te0462-04	El Infante don Pedro.	3	12
+943	te0462-16	Al.	2	11
+944	te0462-04	El Infante don Pedro.	2	8
+945	te0462-16	Al.	1	4
+946	te0462-04	El Infante don Pedro.	1	1
+947	te0462-16	Al.	2	11
+948	te0462-09	Tabaco lacayo.	1	4
+949	te0462-03	Cabello Pastor.	1	6
+950	te0462-09	Tabaco lacayo.	4	22
+951	te0462-03	Cabello Pastor.	1	7
+952	te0462-09	Tabaco lacayo.	6	36
+953	te0462-16	Al.	1	4
+954	te0462-09	Tabaco lacayo.	2	5
+955	te0462-03	Cabello Pastor.	1	4
+956	te0462-16	Al.	1	5
+957	te0462-09	Tabaco lacayo.	7	37
+958	te0462-04	El Infante don Pedro.	1	2
+959	te0462-09	Tabaco lacayo.	1	4
+960	te0462-03	Cabello Pastor.	1	5
+961	te0462-04	El Infante don Pedro.	6	29
+962	te0462-09	Tabaco lacayo.	1	3
+963	te0462-16	Al.	1	5
+964	te0462-04	El Infante don Pedro.	3	16
+965	te0462-16	Al.	1	3
+966	te0462-04	El Infante don Pedro.	4	18
+967	te0462-16	Al.	1	4
+968	te0462-03	Cabello Pastor.	8	38
+969	te0462-16	Al.	3	11
+970	te0462-04	El Infante don Pedro.	1	1
+971	te0462-14	El Rey niño.	1	5
+972	te0462-04	El Infante don Pedro.	3	12
+973	te0462-01	Sancha Dama.	2	7
+974	te0462-14	El Rey niño.	1	1
+975	te0462-16	Al.	1	1
+976	te0462-14	El Rey niño.	1	2
+977	te0462-01	Sancha Dama.	2	9
+978	te0462-16	Al.	1	5
+979	te0462-01	Sancha Dama.	8	40
+980	te0462-16	Al.	1	2
+981	te0462-01	Sancha Dama.	3	8
+982	te0462-16	Al.	2	10
+983	te0462-04	El Infante don Pedro.	1	3
+984	te0462-01	Sancha Dama.	5	21
+985	te0462-09	Tabaco lacayo.	1	3
+986	te0462-04	El Infante don Pedro.	1	4
+987	te0462-01	Sancha Dama.	3	13
+988	te0462-11	Don Duarte Cauallero.	2	2
+989	te0462-01	Sancha Dama.	2	6
+990	te0462-10	Don Dionis Cauallero.	1	2
+991	te0462-01	Sancha Dama.	1	5
+992	te0462-10	Don Dionis Cauallero.	3	13
+993	te0462-04	El Infante don Pedro.	1	5
+994	te0462-10	Don Dionis Cauallero.	1	6
+995	te0462-01	Sancha Dama.	10	48
+996	te0462-04	El Infante don Pedro.	1	4
+997	te0462-10	Don Dionis Cauallero.	2	7
+998	te0462-01	Sancha Dama.	1	5
+999	te0462-10	Don Dionis Cauallero.	2	10
+1000	te0462-04	El Infante don Pedro.	4	17
+1001	te0462-10	Don Dionis Cauallero.	1	3
+1002	te0462-01	Sancha Dama.	1	2
+1003	te0462-04	El Infante don Pedro.	1	2
+1004	te0462-16	Al.	5	23
+1005	te0462-14	El Rey niño.	2	5
+1006	te0462-03	Cabello Pastor.	1	5
+1007	te0462-10	Don Dionis Cauallero.	1	3
+1008	te0462-01	Sancha Dama.	3	18
+1009	te0462-02	Ramiro.	1	5
+1010	te0462-16	Al.	1	2
+1011	te0462-02	Ramiro.	11	53
+1012	te0462-14	El Rey niño.	1	3
+1013	te0462-02	Ramiro.	1	4
+1014	te0462-14	El Rey niño.	1	5
+1015	te0462-02	Ramiro.	1	2
+1016	te0462-14	El Rey niño.	1	2
+1017	te0462-02	Ramiro.	1	1
+1018	te0462-07	Vn page.	1	3
+1019	te0462-02	Ramiro.	2	4
+1020	te0462-04	El Infante don Pedro.	2	5
+1021	te0462-05	Doña Filipa Infanta.	2	6
+1022	te0462-04	El Infante don Pedro.	4	17
+1023	te0462-01	Sancha Dama.	1	3
+1024	te0462-11	Don Duarte Cauallero.	3	15
+1025	te0462-05	Doña Filipa Infanta.	2	8
+1026	te0462-14	El Rey niño.	1	4
+1027	te0462-11	Don Duarte Cauallero.	1	3
+1028	te0462-09	Tabaco lacayo.	2	10
+1029	te0462-04	El Infante don Pedro.	3	15
+1030	te0462-02	Ramiro.	7	28

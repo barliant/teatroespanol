@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="Pastores." label="Pastores." />
+      <node id="Aquitofel." label="Aquitofel." />
+      <node id="Ensay." label="Ensay." />
+      <node id="Absalon." label="Absalon." />
+      <node id="(unknown)" label="(unknown)" />
+      <node id="Vnos." label="Vnos." />
+      <node id="Teuia." label="Teuia." />
+      <node id="El Rey Dauid." label="El Rey Dauid." />
+      <node id="Amon." label="Amon." />
+      <node id="Ioab." label="Ioab." />
+      <node id="Semey." label="Semey." />
+      <node id="Adonias." label="Adonias." />
+      <node id="Salomon." label="Salomon." />
+      <node id="Eliazar." label="Eliazar." />
+      <node id="Mus." label="Mus." />
+      <node id="Ionadab." label="Ionadab." />
+      <node id="Tamar." label="Tamar." />
+    </nodes>
+    <edges>
+      <edge id="0" source="Pastores." target="Teuia." weight="43" />
+      <edge id="1" source="Pastores." target="Tamar." weight="378" />
+      <edge id="2" source="Pastores." target="Amon." weight="9" />
+      <edge id="3" source="Pastores." target="Absalon." weight="28" />
+      <edge id="4" source="Pastores." target="El Rey Dauid." weight="28" />
+      <edge id="5" source="Aquitofel." target="Teuia." weight="105" />
+      <edge id="6" source="Aquitofel." target="Ioab." weight="21" />
+      <edge id="7" source="Aquitofel." target="Semey." weight="32" />
+      <edge id="8" source="Aquitofel." target="Adonias." weight="4" />
+      <edge id="9" source="Aquitofel." target="Ensay." weight="163" />
+      <edge id="10" source="Aquitofel." target="Absalon." weight="849" />
+      <edge id="11" source="Aquitofel." target="Salomon." weight="151" />
+      <edge id="12" source="Aquitofel." target="El Rey Dauid." weight="217" />
+      <edge id="13" source="Aquitofel." target="Ionadab." weight="84" />
+      <edge id="14" source="Aquitofel." target="Tamar." weight="85" />
+      <edge id="15" source="Ensay." target="Ioab." weight="135" />
+      <edge id="16" source="Ensay." target="Adonias." weight="24" />
+      <edge id="17" source="Ensay." target="Absalon." weight="639" />
+      <edge id="18" source="Ensay." target="(unknown)" weight="45" />
+      <edge id="19" source="Ensay." target="Semey." weight="14" />
+      <edge id="20" source="Ensay." target="Teuia." weight="4" />
+      <edge id="21" source="Ensay." target="El Rey Dauid." weight="353" />
+      <edge id="22" source="Ensay." target="Ionadab." weight="4" />
+      <edge id="23" source="Absalon." target="(unknown)" weight="243" />
+      <edge id="24" source="Absalon." target="Mus." weight="21" />
+      <edge id="25" source="Absalon." target="Teuia." weight="149" />
+      <edge id="26" source="Absalon." target="Ioab." weight="143" />
+      <edge id="27" source="Absalon." target="Amon." weight="129" />
+      <edge id="28" source="Absalon." target="El Rey Dauid." weight="1394" />
+      <edge id="29" source="Absalon." target="Adonias." weight="501" />
+      <edge id="30" source="Absalon." target="Salomon." weight="332" />
+      <edge id="31" source="Absalon." target="Ionadab." weight="146" />
+      <edge id="32" source="Absalon." target="Tamar." weight="329" />
+      <edge id="33" source="(unknown)" target="Ioab." weight="49" />
+      <edge id="34" source="(unknown)" target="Vnos." weight="4" />
+      <edge id="35" source="(unknown)" target="Ionadab." weight="6" />
+      <edge id="36" source="(unknown)" target="El Rey Dauid." weight="46" />
+      <edge id="37" source="(unknown)" target="Amon." weight="141" />
+      <edge id="38" source="(unknown)" target="Tamar." weight="43" />
+      <edge id="39" source="Vnos." target="El Rey Dauid." weight="28" />
+      <edge id="40" source="Vnos." target="Ionadab." weight="2" />
+      <edge id="41" source="Teuia." target="Ioab." weight="8" />
+      <edge id="42" source="Teuia." target="Amon." weight="209" />
+      <edge id="43" source="Teuia." target="El Rey Dauid." weight="499" />
+      <edge id="44" source="Teuia." target="Semey." weight="6" />
+      <edge id="45" source="Teuia." target="Adonias." weight="36" />
+      <edge id="46" source="Teuia." target="Salomon." weight="55" />
+      <edge id="47" source="Teuia." target="Ionadab." weight="206" />
+      <edge id="48" source="Teuia." target="Tamar." weight="407" />
+      <edge id="49" source="El Rey Dauid." target="Ioab." weight="869" />
+      <edge id="50" source="El Rey Dauid." target="Amon." weight="505" />
+      <edge id="51" source="El Rey Dauid." target="Semey." weight="293" />
+      <edge id="52" source="El Rey Dauid." target="Adonias." weight="647" />
+      <edge id="53" source="El Rey Dauid." target="Salomon." weight="423" />
+      <edge id="54" source="El Rey Dauid." target="Ionadab." weight="90" />
+      <edge id="55" source="El Rey Dauid." target="Tamar." weight="533" />
+      <edge id="56" source="Amon." target="Salomon." weight="56" />
+      <edge id="57" source="Amon." target="Mus." weight="2" />
+      <edge id="58" source="Amon." target="Ioab." weight="15" />
+      <edge id="59" source="Amon." target="Adonias." weight="22" />
+      <edge id="60" source="Amon." target="Eliazar." weight="27" />
+      <edge id="61" source="Amon." target="Ionadab." weight="790" />
+      <edge id="62" source="Amon." target="Tamar." weight="2104" />
+      <edge id="63" source="Ioab." target="Semey." weight="389" />
+      <edge id="64" source="Ioab." target="Adonias." weight="19" />
+      <edge id="65" source="Ioab." target="Salomon." weight="93" />
+      <edge id="66" source="Ioab." target="Ionadab." weight="38" />
+      <edge id="67" source="Ioab." target="Tamar." weight="24" />
+      <edge id="68" source="Semey." target="Adonias." weight="17" />
+      <edge id="69" source="Semey." target="Salomon." weight="17" />
+      <edge id="70" source="Semey." target="Ionadab." weight="83" />
+      <edge id="71" source="Adonias." target="Salomon." weight="76" />
+      <edge id="72" source="Adonias." target="Ionadab." weight="18" />
+      <edge id="73" source="Salomon." target="Tamar." weight="7" />
+      <edge id="74" source="Mus." target="Ionadab." weight="40" />
+      <edge id="75" source="Mus." target="Tamar." weight="1" />
+      <edge id="76" source="Ionadab." target="Tamar." weight="348" />
+    </edges>
+  </graph>
+</gexf>

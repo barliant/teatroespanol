@@ -1,0 +1,966 @@
+num	id	name	numlines	numwords
+1	te0459-00	Reina Catolica.	88	380
+2	te0459-02	Almirante de Castilla.	15	64
+3	te0459-00	Reina Catolica.	2	10
+4	te0459-10	Doña Maria Sarmiento.	15	69
+5	te0459-00	Reina Catolica.	8	34
+6	te0459-07	Antona Garcia.	4	17
+7	te0459-00	Reina Catolica.	7	26
+8	te0459-99	(unknown)	1	4
+9	te0459-00	Reina Catolica.	1	5
+10	te0459-07	Antona Garcia.	18	84
+11	te0459-00	Reina Catolica.	10	48
+12	te0459-07	Antona Garcia.	53	258
+13	te0459-97	(unknown)	2	8
+14	te0459-53	Vno	7	21
+15	te0459-99	(unknown)	1	4
+16	te0459-52	Otro.	7	26
+17	te0459-99	(unknown)	3	12
+18	te0459-07	Antona Garcia.	6	26
+19	te0459-07	Antona Garcia.	42	198
+20	te0459-00	Reina Catolica.	4	17
+21	te0459-07	Antona Garcia.	8	35
+22	te0459-00	Reina Catolica.	1	5
+23	te0459-07	Antona Garcia.	1	4
+24	te0459-21	Iuan de Monroi.	3	17
+25	te0459-00	Reina Catolica.	3	14
+26	te0459-21	Iuan de Monroi.	6	29
+27	te0459-00	Reina Catolica.	1	5
+28	te0459-07	Antona Garcia.	1	3
+29	te0459-00	Reina Catolica.	1	5
+30	te0459-21	Iuan de Monroi.	1	4
+31	te0459-00	Reina Catolica.	3	14
+32	te0459-07	Antona Garcia.	7	38
+33	te0459-09	Bartolo Pastor.	16	72
+34	te0459-41	1.	1	2
+35	te0459-42	2.	1	2
+36	te0459-09	Bartolo Pastor.	11	54
+37	te0459-00	Reina Catolica.	17	80
+38	te0459-07	Antona Garcia.	28	146
+39	te0459-00	Reina Catolica.	2	10
+40	te0459-02	Almirante de Castilla.	1	2
+41	te0459-00	Reina Catolica.	2	8
+42	te0459-07	Antona Garcia.	2	8
+43	te0459-00	Reina Catolica.	2	4
+44	te0459-98	(unknown)	2	9
+45	te0459-53	Vno	4	20
+46	te0459-99	(unknown)	1	4
+47	te0459-09	Bartolo Pastor.	1	5
+48	te0459-51	Carr.	1	2
+49	te0459-09	Bartolo Pastor.	7	30
+50	te0459-51	Carr.	1	6
+51	te0459-09	Bartolo Pastor.	9	48
+52	te0459-51	Carr.	1	4
+53	te0459-09	Bartolo Pastor.	5	24
+54	te0459-51	Carr.	2	9
+55	te0459-09	Bartolo Pastor.	1	1
+56	te0459-51	Carr.	2	5
+57	te0459-09	Bartolo Pastor.	2	7
+58	te0459-51	Carr.	2	7
+59	te0459-09	Bartolo Pastor.	3	11
+60	te0459-51	Carr.	1	3
+61	te0459-09	Bartolo Pastor.	27	122
+62	te0459-51	Carr.	1	5
+63	te0459-09	Bartolo Pastor.	7	26
+64	te0459-51	Carr.	3	14
+65	te0459-09	Bartolo Pastor.	3	15
+66	te0459-01	Marques de Santillana.	1	2
+67	te0459-09	Bartolo Pastor.	20	89
+68	te0459-07	Antona Garcia.	2	10
+69	te0459-09	Bartolo Pastor.	1	5
+70	te0459-07	Antona Garcia.	4	21
+71	te0459-09	Bartolo Pastor.	7	32
+72	te0459-07	Antona Garcia.	10	46
+73	te0459-09	Bartolo Pastor.	1	1
+74	te0459-07	Antona Garcia.	2	10
+75	te0459-09	Bartolo Pastor.	2	8
+76	te0459-07	Antona Garcia.	5	24
+77	te0459-09	Bartolo Pastor.	4	25
+78	te0459-27	Pero Alonso.	24	159
+79	te0459-18	Don Basco.	12	81
+80	te0459-27	Pero Alonso.	5	30
+81	te0459-18	Don Basco.	1	3
+82	te0459-27	Pero Alonso.	10	56
+83	te0459-18	Don Basco.	2	6
+84	te0459-27	Pero Alonso.	2	5
+85	te0459-18	Don Basco.	4	26
+86	te0459-07	Antona Garcia.	3	17
+87	te0459-27	Pero Alonso.	2	8
+88	te0459-07	Antona Garcia.	7	32
+89	te0459-98	(unknown)	2	7
+90	te0459-27	Pero Alonso.	12	51
+91	te0459-07	Antona Garcia.	7	41
+92	te0459-27	Pero Alonso.	1	4
+93	te0459-07	Antona Garcia.	1	6
+94	te0459-24	Gila Pastora.	1	7
+95	te0459-07	Antona Garcia.	1	4
+96	te0459-27	Pero Alonso.	2	8
+97	te0459-07	Antona Garcia.	1	2
+98	te0459-27	Pero Alonso.	2	5
+99	te0459-07	Antona Garcia.	5	23
+100	te0459-27	Pero Alonso.	12	48
+101	te0459-07	Antona Garcia.	12	50
+102	te0459-27	Pero Alonso.	14	66
+103	te0459-07	Antona Garcia.	13	65
+104	te0459-27	Pero Alonso.	1	2
+105	te0459-07	Antona Garcia.	1	2
+106	te0459-27	Pero Alonso.	1	2
+107	te0459-07	Antona Garcia.	5	23
+108	te0459-27	Pero Alonso.	1	4
+109	te0459-07	Antona Garcia.	2	8
+110	te0459-27	Pero Alonso.	2	8
+111	te0459-07	Antona Garcia.	2	9
+112	te0459-27	Pero Alonso.	5	27
+113	te0459-07	Antona Garcia.	3	11
+114	te0459-27	Pero Alonso.	1	1
+115	te0459-07	Antona Garcia.	8	34
+116	te0459-27	Pero Alonso.	3	11
+117	te0459-07	Antona Garcia.	2	8
+118	te0459-27	Pero Alonso.	1	2
+119	te0459-07	Antona Garcia.	3	15
+120	te0459-27	Pero Alonso.	1	1
+121	te0459-07	Antona Garcia.	5	27
+122	te0459-27	Pero Alonso.	3	15
+123	te0459-07	Antona Garcia.	1	4
+124	te0459-27	Pero Alonso.	6	27
+125	te0459-07	Antona Garcia.	1	2
+126	te0459-27	Pero Alonso.	1	2
+127	te0459-07	Antona Garcia.	2	10
+128	te0459-27	Pero Alonso.	1	4
+129	te0459-07	Antona Garcia.	1	5
+130	te0459-27	Pero Alonso.	1	3
+131	te0459-07	Antona Garcia.	1	5
+132	te0459-27	Pero Alonso.	4	19
+133	te0459-17	Conde de Penamacor.	5	22
+134	te0459-07	Antona Garcia.	3	16
+135	te0459-27	Pero Alonso.	3	13
+136	te0459-07	Antona Garcia.	3	10
+137	te0459-27	Pero Alonso.	23	109
+138	te0459-07	Antona Garcia.	3	15
+139	te0459-27	Pero Alonso.	1	6
+140	te0459-07	Antona Garcia.	1	4
+141	te0459-27	Pero Alonso.	12	59
+142	te0459-07	Antona Garcia.	1	5
+143	te0459-27	Pero Alonso.	2	9
+144	te0459-07	Antona Garcia.	2	11
+145	te0459-27	Pero Alonso.	1	3
+146	te0459-07	Antona Garcia.	7	33
+147	te0459-27	Pero Alonso.	8	37
+148	te0459-07	Antona Garcia.	3	13
+149	te0459-27	Pero Alonso.	1	3
+150	te0459-07	Antona Garcia.	1	3
+151	te0459-27	Pero Alonso.	1	3
+152	te0459-07	Antona Garcia.	1	3
+153	te0459-27	Pero Alonso.	1	6
+154	te0459-07	Antona Garcia.	1	7
+155	te0459-27	Pero Alonso.	2	11
+156	te0459-07	Antona Garcia.	1	7
+157	te0459-27	Pero Alonso.	2	8
+158	te0459-07	Antona Garcia.	1	3
+159	te0459-27	Pero Alonso.	1	1
+160	te0459-07	Antona Garcia.	1	2
+161	te0459-27	Pero Alonso.	1	1
+162	te0459-07	Antona Garcia.	1	2
+163	te0459-27	Pero Alonso.	1	2
+164	te0459-07	Antona Garcia.	1	1
+165	te0459-27	Pero Alonso.	1	2
+166	te0459-07	Antona Garcia.	1	3
+167	te0459-27	Pero Alonso.	1	3
+168	te0459-07	Antona Garcia.	1	3
+169	te0459-27	Pero Alonso.	1	5
+170	te0459-07	Antona Garcia.	1	1
+171	te0459-27	Pero Alonso.	1	4
+172	te0459-07	Antona Garcia.	1	1
+173	te0459-27	Pero Alonso.	1	2
+174	te0459-07	Antona Garcia.	1	3
+175	te0459-27	Pero Alonso.	1	2
+176	te0459-07	Antona Garcia.	1	3
+177	te0459-27	Pero Alonso.	1	1
+178	te0459-07	Antona Garcia.	1	3
+179	te0459-27	Pero Alonso.	1	2
+180	te0459-07	Antona Garcia.	1	1
+181	te0459-27	Pero Alonso.	1	2
+182	te0459-07	Antona Garcia.	1	3
+183	te0459-27	Pero Alonso.	1	2
+184	te0459-07	Antona Garcia.	1	2
+185	te0459-27	Pero Alonso.	1	2
+186	te0459-07	Antona Garcia.	1	3
+187	te0459-27	Pero Alonso.	1	4
+188	te0459-07	Antona Garcia.	3	13
+189	te0459-27	Pero Alonso.	6	26
+190	te0459-07	Antona Garcia.	1	3
+191	te0459-27	Pero Alonso.	3	12
+192	te0459-07	Antona Garcia.	1	5
+193	te0459-27	Pero Alonso.	2	13
+194	te0459-07	Antona Garcia.	2	9
+195	te0459-27	Pero Alonso.	2	11
+196	te0459-07	Antona Garcia.	1	4
+197	te0459-27	Pero Alonso.	2	9
+198	te0459-07	Antona Garcia.	2	10
+199	te0459-27	Pero Alonso.	3	12
+200	te0459-07	Antona Garcia.	2	11
+201	te0459-27	Pero Alonso.	3	9
+202	te0459-07	Antona Garcia.	6	30
+203	te0459-27	Pero Alonso.	2	12
+204	te0459-07	Antona Garcia.	2	10
+205	te0459-27	Pero Alonso.	2	9
+206	te0459-07	Antona Garcia.	1	4
+207	te0459-27	Pero Alonso.	1	3
+208	te0459-07	Antona Garcia.	1	2
+209	te0459-27	Pero Alonso.	1	1
+210	te0459-07	Antona Garcia.	1	6
+211	te0459-27	Pero Alonso.	1	2
+212	te0459-07	Antona Garcia.	1	3
+213	te0459-27	Pero Alonso.	1	2
+214	te0459-07	Antona Garcia.	1	3
+215	te0459-27	Pero Alonso.	1	3
+216	te0459-07	Antona Garcia.	1	3
+217	te0459-27	Pero Alonso.	1	2
+218	te0459-07	Antona Garcia.	1	4
+219	te0459-27	Pero Alonso.	1	2
+220	te0459-07	Antona Garcia.	1	3
+221	te0459-27	Pero Alonso.	1	4
+222	te0459-07	Antona Garcia.	1	4
+223	te0459-27	Pero Alonso.	1	3
+224	te0459-07	Antona Garcia.	1	1
+225	te0459-27	Pero Alonso.	1	2
+226	te0459-07	Antona Garcia.	1	3
+227	te0459-27	Pero Alonso.	1	3
+228	te0459-07	Antona Garcia.	1	1
+229	te0459-27	Pero Alonso.	1	1
+230	te0459-07	Antona Garcia.	1	2
+231	te0459-27	Pero Alonso.	1	2
+232	te0459-07	Antona Garcia.	1	4
+233	te0459-27	Pero Alonso.	1	5
+234	te0459-07	Antona Garcia.	1	2
+235	te0459-27	Pero Alonso.	1	3
+236	te0459-07	Antona Garcia.	1	3
+237	te0459-27	Pero Alonso.	1	2
+238	te0459-07	Antona Garcia.	1	4
+239	te0459-27	Pero Alonso.	1	2
+240	te0459-07	Antona Garcia.	1	3
+241	te0459-27	Pero Alonso.	1	1
+242	te0459-07	Antona Garcia.	1	4
+243	te0459-27	Pero Alonso.	1	2
+244	te0459-07	Antona Garcia.	1	5
+245	te0459-27	Pero Alonso.	1	1
+246	te0459-07	Antona Garcia.	1	5
+247	te0459-27	Pero Alonso.	1	2
+248	te0459-07	Antona Garcia.	2	6
+249	te0459-27	Pero Alonso.	1	2
+250	te0459-07	Antona Garcia.	3	14
+251	te0459-27	Pero Alonso.	2	4
+252	te0459-07	Antona Garcia.	2	7
+253	te0459-27	Pero Alonso.	1	4
+254	te0459-07	Antona Garcia.	3	15
+255	te0459-27	Pero Alonso.	1	5
+256	te0459-07	Antona Garcia.	2	9
+257	te0459-18	Don Basco.	21	94
+258	te0459-27	Pero Alonso.	3	14
+259	te0459-07	Antona Garcia.	1	3
+260	te0459-27	Pero Alonso.	4	13
+261	te0459-07	Antona Garcia.	10	43
+262	te0459-27	Pero Alonso.	1	2
+263	te0459-07	Antona Garcia.	6	30
+264	te0459-27	Pero Alonso.	1	5
+265	te0459-99	(unknown)	1	4
+266	te0459-07	Antona Garcia.	5	15
+267	te0459-06	Iuan de Vlloa.	2	8
+268	te0459-16	Quatro Cavalleros.	2	7
+269	te0459-01	Marques de Santillana.	2	7
+270	te0459-50	Labradores.	2	8
+271	te0459-06	Iuan de Vlloa.	47	198
+272	te0459-01	Marques de Santillana.	1	3
+273	te0459-10	Doña Maria Sarmiento.	108	479
+274	te0459-16	Quatro Cavalleros.	1	1
+275	te0459-01	Marques de Santillana.	4	21
+276	te0459-01	Marques de Santillana.	1	5
+277	te0459-27	Pero Alonso.	1	4
+278	te0459-99	(unknown)	1	2
+279	te0459-07	Antona Garcia.	60	285
+280	te0459-10	Doña Maria Sarmiento.	3	10
+281	te0459-07	Antona Garcia.	6	23
+282	te0459-27	Pero Alonso.	1	5
+283	te0459-01	Marques de Santillana.	1	3
+284	te0459-07	Antona Garcia.	3	11
+285	te0459-50	Labradores.	1	2
+286	te0459-06	Iuan de Vlloa.	4	18
+287	te0459-06	Iuan de Vlloa.	1	4
+288	te0459-07	Antona Garcia.	2	8
+289	te0459-01	Marques de Santillana.	2	4
+290	te0459-07	Antona Garcia.	3	12
+291	te0459-06	Iuan de Vlloa.	2	8
+292	te0459-07	Antona Garcia.	8	34
+293	te0459-27	Pero Alonso.	19	85
+294	te0459-07	Antona Garcia.	4	20
+295	te0459-27	Pero Alonso.	1	1
+296	te0459-07	Antona Garcia.	3	10
+297	te0459-27	Pero Alonso.	1	2
+298	te0459-07	Antona Garcia.	3	14
+299	te0459-10	Doña Maria Sarmiento.	4	17
+300	te0459-07	Antona Garcia.	1	7
+301	te0459-10	Doña Maria Sarmiento.	3	10
+302	te0459-27	Pero Alonso.	3	15
+303	te0459-10	Doña Maria Sarmiento.	3	11
+304	te0459-99	(unknown)	1	4
+305	te0459-10	Doña Maria Sarmiento.	1	5
+306	te0459-27	Pero Alonso.	2	9
+307	te0459-10	Doña Maria Sarmiento.	2	6
+308	te0459-27	Pero Alonso.	9	33
+309	te0459-41	1.	4	19
+310	te0459-27	Pero Alonso.	7	34
+311	te0459-10	Doña Maria Sarmiento.	1	3
+312	te0459-27	Pero Alonso.	2	11
+313	te0459-10	Doña Maria Sarmiento.	1	3
+314	te0459-27	Pero Alonso.	4	18
+315	te0459-42	2.	2	5
+316	te0459-10	Doña Maria Sarmiento.	3	8
+317	te0459-41	1.	1	1
+318	te0459-27	Pero Alonso.	14	69
+319	te0459-10	Doña Maria Sarmiento.	1	5
+320	te0459-27	Pero Alonso.	1	4
+321	te0459-10	Doña Maria Sarmiento.	2	8
+322	te0459-27	Pero Alonso.	5	25
+323	te0459-10	Doña Maria Sarmiento.	2	8
+324	te0459-00	Reina Catolica.	12	67
+325	te0459-02	Almirante de Castilla.	3	15
+326	te0459-00	Reina Catolica.	5	28
+327	te0459-07	Antona Garcia.	1	5
+328	te0459-00	Reina Catolica.	3	15
+329	te0459-10	Doña Maria Sarmiento.	4	21
+330	te0459-00	Reina Catolica.	5	28
+331	te0459-07	Antona Garcia.	1	7
+332	te0459-00	Reina Catolica.	2	5
+333	te0459-02	Almirante de Castilla.	3	13
+334	te0459-00	Reina Catolica.	9	41
+335	te0459-02	Almirante de Castilla.	1	6
+336	te0459-09	Bartolo Pastor.	9	45
+337	te0459-00	Reina Catolica.	5	19
+338	te0459-07	Antona Garcia.	1	3
+339	te0459-09	Bartolo Pastor.	8	37
+340	te0459-07	Antona Garcia.	2	6
+341	te0459-09	Bartolo Pastor.	12	56
+342	te0459-07	Antona Garcia.	2	8
+343	te0459-00	Reina Catolica.	1	4
+344	te0459-07	Antona Garcia.	2	8
+345	te0459-00	Reina Catolica.	1	3
+346	te0459-09	Bartolo Pastor.	4	18
+347	te0459-00	Reina Catolica.	1	1
+348	te0459-09	Bartolo Pastor.	7	28
+349	te0459-07	Antona Garcia.	1	2
+350	te0459-00	Reina Catolica.	1	3
+351	te0459-09	Bartolo Pastor.	64	301
+352	te0459-00	Reina Catolica.	1	4
+353	te0459-09	Bartolo Pastor.	1	4
+354	te0459-00	Reina Catolica.	2	7
+355	te0459-09	Bartolo Pastor.	4	18
+356	te0459-00	Reina Catolica.	3	10
+357	te0459-02	Almirante de Castilla.	3	10
+358	te0459-09	Bartolo Pastor.	1	3
+359	te0459-07	Antona Garcia.	2	5
+360	te0459-09	Bartolo Pastor.	22	102
+361	te0459-10	Doña Maria Sarmiento.	1	4
+362	te0459-07	Antona Garcia.	2	8
+363	te0459-09	Bartolo Pastor.	4	13
+364	te0459-07	Antona Garcia.	1	4
+365	te0459-09	Bartolo Pastor.	2	8
+366	te0459-07	Antona Garcia.	1	2
+367	te0459-09	Bartolo Pastor.	1	4
+368	te0459-07	Antona Garcia.	1	3
+369	te0459-09	Bartolo Pastor.	1	2
+370	te0459-07	Antona Garcia.	1	1
+371	te0459-09	Bartolo Pastor.	1	3
+372	te0459-02	Almirante de Castilla.	2	9
+373	te0459-00	Reina Catolica.	4	14
+374	te0459-00	Reina Catolica.	30	140
+375	te0459-00	Reina Catolica.	7	30
+376	te0459-07	Antona Garcia.	1	5
+377	te0459-00	Reina Catolica.	2	8
+378	te0459-07	Antona Garcia.	1	6
+379	te0459-00	Reina Catolica.	1	4
+380	te0459-09	Bartolo Pastor.	2	10
+381	te0459-27	Pero Alonso.	1	4
+382	te0459-07	Antona Garcia.	5	22
+383	te0459-27	Pero Alonso.	2	7
+384	te0459-07	Antona Garcia.	3	16
+385	te0459-27	Pero Alonso.	5	25
+386	te0459-07	Antona Garcia.	5	26
+387	te0459-27	Pero Alonso.	1	2
+388	te0459-07	Antona Garcia.	22	106
+389	te0459-27	Pero Alonso.	7	29
+390	te0459-07	Antona Garcia.	1	2
+391	te0459-27	Pero Alonso.	4	20
+392	te0459-07	Antona Garcia.	21	105
+393	te0459-27	Pero Alonso.	8	40
+394	te0459-07	Antona Garcia.	1	6
+395	te0459-27	Pero Alonso.	1	4
+396	te0459-07	Antona Garcia.	2	11
+397	te0459-27	Pero Alonso.	2	5
+398	te0459-07	Antona Garcia.	6	27
+399	te0459-27	Pero Alonso.	1	3
+400	te0459-07	Antona Garcia.	4	16
+401	te0459-27	Pero Alonso.	1	2
+402	te0459-07	Antona Garcia.	3	13
+403	te0459-27	Pero Alonso.	10	46
+404	te0459-07	Antona Garcia.	37	170
+405	te0459-10	Doña Maria Sarmiento.	15	56
+406	te0459-27	Pero Alonso.	4	15
+407	te0459-10	Doña Maria Sarmiento.	6	25
+408	te0459-27	Pero Alonso.	20	92
+409	te0459-10	Doña Maria Sarmiento.	6	24
+410	te0459-53	Vno	1	2
+411	te0459-52	Otro.	1	2
+412	te0459-10	Doña Maria Sarmiento.	1	3
+413	te0459-27	Pero Alonso.	2	6
+414	te0459-53	Vno	1	5
+415	te0459-10	Doña Maria Sarmiento.	1	6
+416	te0459-99	(unknown)	1	5
+417	te0459-53	Vno	1	5
+418	te0459-52	Otro.	1	3
+419	te0459-27	Pero Alonso.	2	12
+420	te0459-07	Antona Garcia.	24	107
+421	te0459-10	Doña Maria Sarmiento.	1	3
+422	te0459-07	Antona Garcia.	1	1
+423	te0459-10	Doña Maria Sarmiento.	2	6
+424	te0459-07	Antona Garcia.	1	5
+425	te0459-27	Pero Alonso.	9	40
+426	te0459-07	Antona Garcia.	1	5
+427	te0459-10	Doña Maria Sarmiento.	2	6
+428	te0459-27	Pero Alonso.	3	12
+429	te0459-07	Antona Garcia.	5	26
+430	te0459-27	Pero Alonso.	1	4
+431	te0459-07	Antona Garcia.	2	8
+432	te0459-07	Antona Garcia.	20	100
+433	te0459-27	Pero Alonso.	5	22
+434	te0459-07	Antona Garcia.	11	46
+435	te0459-27	Pero Alonso.	5	24
+436	te0459-07	Antona Garcia.	1	5
+437	te0459-27	Pero Alonso.	1	5
+438	te0459-07	Antona Garcia.	1	5
+439	te0459-27	Pero Alonso.	2	8
+440	te0459-07	Antona Garcia.	4	14
+441	te0459-27	Pero Alonso.	5	23
+442	te0459-07	Antona Garcia.	2	9
+443	te0459-27	Pero Alonso.	1	5
+444	te0459-07	Antona Garcia.	2	9
+445	te0459-41	1.	1	4
+446	te0459-36	Vna Ventera.	1	2
+447	te0459-42	2.	1	3
+448	te0459-36	Vna Ventera.	1	6
+449	te0459-43	3.	1	4
+450	te0459-44	4.	1	4
+451	te0459-36	Vna Ventera.	3	9
+452	te0459-41	1.	1	1
+453	te0459-42	2.	1	2
+454	te0459-43	3.	3	12
+455	te0459-27	Pero Alonso.	4	16
+456	te0459-07	Antona Garcia.	4	18
+457	te0459-27	Pero Alonso.	1	6
+458	te0459-07	Antona Garcia.	1	3
+459	te0459-99	(unknown)	1	1
+460	te0459-07	Antona Garcia.	1	4
+461	te0459-36	Vna Ventera.	3	7
+462	te0459-07	Antona Garcia.	2	5
+463	te0459-42	2.	3	14
+464	te0459-07	Antona Garcia.	1	5
+465	te0459-36	Vna Ventera.	2	10
+466	te0459-43	3.	1	6
+467	te0459-44	4.	1	5
+468	te0459-07	Antona Garcia.	4	14
+469	te0459-41	1.	1	3
+470	te0459-27	Pero Alonso.	1	3
+471	te0459-07	Antona Garcia.	10	46
+472	te0459-36	Vna Ventera.	2	7
+473	te0459-07	Antona Garcia.	3	10
+474	te0459-36	Vna Ventera.	1	3
+475	te0459-41	1.	1	4
+476	te0459-42	2.	2	6
+477	te0459-45	5.	3	8
+478	te0459-46	6.	3	10
+479	te0459-47	7.	4	13
+480	te0459-48	8.	2	7
+481	te0459-41	1.	1	3
+482	te0459-45	5.	2	8
+483	te0459-42	2.	2	9
+484	te0459-45	5.	1	5
+485	te0459-42	2.	1	4
+486	te0459-46	6.	2	9
+487	te0459-43	3.	4	12
+488	te0459-42	2.	2	6
+489	te0459-46	6.	2	5
+490	te0459-42	2.	1	1
+491	te0459-46	6.	1	2
+492	te0459-42	2.	7	28
+493	te0459-43	3.	1	2
+494	te0459-44	4.	2	9
+495	te0459-41	1.	1	2
+496	te0459-46	6.	1	2
+497	te0459-45	5.	5	24
+498	te0459-43	3.	1	4
+499	te0459-42	2.	4	20
+500	te0459-45	5.	1	5
+501	te0459-43	3.	1	5
+502	te0459-47	7.	2	8
+503	te0459-41	1.	2	8
+504	te0459-42	2.	1	4
+505	te0459-45	5.	1	1
+506	te0459-42	2.	1	2
+507	te0459-46	6.	1	2
+508	te0459-42	2.	1	2
+509	te0459-47	7.	2	5
+510	te0459-42	2.	2	6
+511	te0459-47	7.	2	4
+512	te0459-43	3.	1	5
+513	te0459-47	7.	3	15
+514	te0459-43	3.	3	13
+515	te0459-41	1.	2	5
+516	te0459-42	2.	1	3
+517	te0459-47	7.	1	4
+518	te0459-41	1.	1	5
+519	te0459-47	7.	4	21
+520	te0459-44	4.	1	5
+521	te0459-45	5.	2	8
+522	te0459-46	6.	2	7
+523	te0459-44	4.	2	2
+524	te0459-45	5.	5	20
+525	te0459-47	7.	1	6
+526	te0459-45	5.	2	10
+527	te0459-41	1.	1	4
+528	te0459-47	7.	2	9
+529	te0459-41	1.	1	3
+530	te0459-47	7.	1	1
+531	te0459-41	1.	1	4
+532	te0459-46	6.	3	16
+533	te0459-47	7.	3	16
+534	te0459-45	5.	2	9
+535	te0459-47	7.	1	5
+536	te0459-45	5.	2	10
+537	te0459-41	1.	1	4
+538	te0459-45	5.	1	6
+539	te0459-46	6.	1	4
+540	te0459-47	7.	1	5
+541	te0459-46	6.	4	17
+542	te0459-47	7.	1	3
+543	te0459-41	1.	2	4
+544	te0459-48	8.	3	9
+545	te0459-41	1.	1	1
+546	te0459-48	8.	2	4
+547	te0459-41	1.	1	2
+548	te0459-48	8.	5	20
+549	te0459-45	5.	2	11
+550	te0459-47	7.	4	15
+551	te0459-41	1.	2	5
+552	te0459-42	2.	4	19
+553	te0459-48	8.	4	17
+554	te0459-43	3.	2	9
+555	te0459-48	8.	3	15
+556	te0459-43	3.	1	3
+557	te0459-44	4.	1	2
+558	te0459-48	8.	4	23
+559	te0459-41	1.	1	4
+560	te0459-48	8.	3	12
+561	te0459-41	1.	1	3
+562	te0459-48	8.	1	2
+563	te0459-41	1.	1	3
+564	te0459-48	8.	5	22
+565	te0459-41	1.	1	5
+566	te0459-42	2.	1	7
+567	te0459-43	3.	2	5
+568	te0459-47	7.	1	2
+569	te0459-43	3.	1	1
+570	te0459-47	7.	2	7
+571	te0459-44	4.	1	5
+572	te0459-47	7.	2	10
+573	te0459-44	4.	2	10
+574	te0459-47	7.	8	43
+575	te0459-41	1.	1	4
+576	te0459-42	2.	1	4
+577	te0459-47	7.	1	4
+578	te0459-42	2.	1	4
+579	te0459-47	7.	2	9
+580	te0459-42	2.	1	1
+581	te0459-47	7.	3	10
+582	te0459-43	3.	1	1
+583	te0459-47	7.	7	37
+584	te0459-45	5.	2	5
+585	te0459-44	4.	3	8
+586	te0459-47	7.	7	33
+587	te0459-41	1.	7	26
+588	te0459-07	Antona Garcia.	3	9
+589	te0459-41	1.	1	4
+590	te0459-45	5.	1	5
+591	te0459-07	Antona Garcia.	3	16
+592	te0459-42	2.	3	11
+593	te0459-07	Antona Garcia.	2	11
+594	te0459-42	2.	4	18
+595	te0459-07	Antona Garcia.	1	4
+596	te0459-42	2.	1	2
+597	te0459-07	Antona Garcia.	2	7
+598	te0459-41	1.	2	5
+599	te0459-07	Antona Garcia.	1	3
+600	te0459-41	1.	1	2
+601	te0459-07	Antona Garcia.	4	14
+602	te0459-44	4.	1	5
+603	te0459-07	Antona Garcia.	1	8
+604	te0459-44	4.	2	9
+605	te0459-42	2.	3	17
+606	te0459-43	3.	1	3
+607	te0459-44	4.	6	23
+608	te0459-41	1.	4	18
+609	te0459-43	3.	1	5
+610	te0459-42	2.	1	6
+611	te0459-41	1.	3	13
+612	te0459-07	Antona Garcia.	6	32
+613	te0459-41	1.	1	5
+614	te0459-07	Antona Garcia.	7	32
+615	te0459-41	1.	1	5
+616	te0459-42	2.	1	1
+617	te0459-07	Antona Garcia.	6	21
+618	te0459-42	2.	1	3
+619	te0459-07	Antona Garcia.	1	2
+620	te0459-43	3.	1	1
+621	te0459-07	Antona Garcia.	2	3
+622	te0459-44	4.	1	3
+623	te0459-43	3.	1	2
+624	te0459-07	Antona Garcia.	5	20
+625	te0459-41	1.	1	3
+626	te0459-07	Antona Garcia.	2	9
+627	te0459-41	1.	1	5
+628	te0459-42	2.	1	4
+629	te0459-43	3.	2	5
+630	te0459-07	Antona Garcia.	2	5
+631	te0459-44	4.	2	5
+632	te0459-07	Antona Garcia.	2	8
+633	te0459-41	1.	1	5
+634	te0459-42	2.	1	2
+635	te0459-43	3.	1	2
+636	te0459-44	4.	1	2
+637	te0459-07	Antona Garcia.	9	38
+638	te0459-45	5.	4	15
+639	te0459-07	Antona Garcia.	2	6
+640	te0459-46	6.	2	6
+641	te0459-07	Antona Garcia.	3	11
+642	te0459-36	Vna Ventera.	1	4
+643	te0459-07	Antona Garcia.	1	4
+644	te0459-36	Vna Ventera.	1	2
+645	te0459-07	Antona Garcia.	3	10
+646	te0459-36	Vna Ventera.	2	6
+647	te0459-07	Antona Garcia.	5	22
+648	te0459-36	Vna Ventera.	1	5
+649	te0459-07	Antona Garcia.	1	5
+650	te0459-36	Vna Ventera.	1	2
+651	te0459-07	Antona Garcia.	2	7
+652	te0459-36	Vna Ventera.	1	2
+653	te0459-07	Antona Garcia.	4	18
+654	te0459-36	Vna Ventera.	4	20
+655	te0459-07	Antona Garcia.	4	17
+656	te0459-36	Vna Ventera.	1	5
+657	te0459-07	Antona Garcia.	4	16
+658	te0459-37	Velasco soldado.	16	73
+659	te0459-27	Pero Alonso.	13	61
+660	te0459-49	Pad.	7	33
+661	te0459-37	Velasco soldado.	15	66
+662	te0459-27	Pero Alonso.	3	18
+663	te0459-37	Velasco soldado.	1	4
+664	te0459-27	Pero Alonso.	5	24
+665	te0459-37	Velasco soldado.	11	52
+666	te0459-27	Pero Alonso.	1	4
+667	te0459-36	Vna Ventera.	4	17
+668	te0459-07	Antona Garcia.	4	19
+669	te0459-36	Vna Ventera.	3	11
+670	te0459-07	Antona Garcia.	7	35
+671	te0459-36	Vna Ventera.	4	19
+672	te0459-07	Antona Garcia.	7	33
+673	te0459-36	Vna Ventera.	1	3
+674	te0459-07	Antona Garcia.	3	14
+675	te0459-36	Vna Ventera.	1	3
+676	te0459-07	Antona Garcia.	1	3
+677	te0459-36	Vna Ventera.	1	2
+678	te0459-07	Antona Garcia.	5	19
+679	te0459-36	Vna Ventera.	3	13
+680	te0459-07	Antona Garcia.	7	39
+681	te0459-36	Vna Ventera.	1	4
+682	te0459-07	Antona Garcia.	2	7
+683	te0459-36	Vna Ventera.	1	1
+684	te0459-07	Antona Garcia.	2	10
+685	te0459-36	Vna Ventera.	1	6
+686	te0459-07	Antona Garcia.	7	31
+687	te0459-36	Vna Ventera.	5	25
+688	te0459-07	Antona Garcia.	2	8
+689	te0459-36	Vna Ventera.	2	5
+690	te0459-07	Antona Garcia.	5	27
+691	te0459-37	Velasco soldado.	4	18
+692	te0459-07	Antona Garcia.	1	1
+693	te0459-27	Pero Alonso.	1	2
+694	te0459-07	Antona Garcia.	1	6
+695	te0459-27	Pero Alonso.	15	71
+696	te0459-07	Antona Garcia.	1	7
+697	te0459-27	Pero Alonso.	2	9
+698	te0459-07	Antona Garcia.	4	16
+699	te0459-27	Pero Alonso.	3	15
+700	te0459-07	Antona Garcia.	8	34
+701	te0459-37	Velasco soldado.	1	3
+702	te0459-49	Pad.	2	3
+703	te0459-07	Antona Garcia.	7	33
+704	te0459-37	Velasco soldado.	1	3
+705	te0459-07	Antona Garcia.	3	11
+706	te0459-49	Pad.	1	5
+707	te0459-07	Antona Garcia.	1	5
+708	te0459-49	Pad.	3	8
+709	te0459-07	Antona Garcia.	9	45
+710	te0459-37	Velasco soldado.	1	5
+711	te0459-07	Antona Garcia.	1	4
+712	te0459-37	Velasco soldado.	3	14
+713	te0459-49	Pad.	1	3
+714	te0459-37	Velasco soldado.	2	10
+715	te0459-49	Pad.	4	15
+716	te0459-07	Antona Garcia.	2	6
+717	te0459-27	Pero Alonso.	5	21
+718	te0459-07	Antona Garcia.	10	43
+719	te0459-36	Vna Ventera.	2	9
+720	te0459-07	Antona Garcia.	4	9
+721	te0459-36	Vna Ventera.	2	5
+722	te0459-07	Antona Garcia.	2	8
+723	te0459-36	Vna Ventera.	1	1
+724	te0459-07	Antona Garcia.	1	5
+725	te0459-36	Vna Ventera.	3	15
+726	te0459-07	Antona Garcia.	7	34
+727	te0459-37	Velasco soldado.	1	4
+728	te0459-49	Pad.	4	16
+729	te0459-07	Antona Garcia.	13	60
+730	te0459-37	Velasco soldado.	1	3
+731	te0459-49	Pad.	1	3
+732	te0459-07	Antona Garcia.	2	11
+733	te0459-49	Pad.	1	2
+734	te0459-07	Antona Garcia.	1	3
+735	te0459-07	Antona Garcia.	4	23
+736	te0459-27	Pero Alonso.	10	44
+737	te0459-07	Antona Garcia.	6	27
+738	te0459-36	Vna Ventera.	1	5
+739	te0459-07	Antona Garcia.	1	5
+740	te0459-27	Pero Alonso.	3	12
+741	te0459-07	Antona Garcia.	2	8
+742	te0459-27	Pero Alonso.	2	5
+743	te0459-07	Antona Garcia.	7	30
+744	te0459-27	Pero Alonso.	3	13
+745	te0459-07	Antona Garcia.	1	6
+746	te0459-27	Pero Alonso.	1	3
+747	te0459-07	Antona Garcia.	3	10
+748	te0459-27	Pero Alonso.	4	23
+749	te0459-07	Antona Garcia.	2	8
+750	te0459-27	Pero Alonso.	1	5
+751	te0459-07	Antona Garcia.	1	5
+752	te0459-27	Pero Alonso.	4	18
+753	te0459-07	Antona Garcia.	1	2
+754	te0459-27	Pero Alonso.	3	13
+755	te0459-07	Antona Garcia.	1	1
+756	te0459-27	Pero Alonso.	1	2
+757	te0459-07	Antona Garcia.	4	14
+758	te0459-27	Pero Alonso.	2	5
+759	te0459-07	Antona Garcia.	2	8
+760	te0459-27	Pero Alonso.	1	5
+761	te0459-07	Antona Garcia.	3	11
+762	te0459-27	Pero Alonso.	4	15
+763	te0459-07	Antona Garcia.	2	5
+764	te0459-27	Pero Alonso.	3	8
+765	te0459-07	Antona Garcia.	3	13
+766	te0459-27	Pero Alonso.	7	31
+767	te0459-07	Antona Garcia.	1	4
+768	te0459-27	Pero Alonso.	7	29
+769	te0459-07	Antona Garcia.	1	1
+770	te0459-27	Pero Alonso.	1	5
+771	te0459-07	Antona Garcia.	1	6
+772	te0459-27	Pero Alonso.	1	5
+773	te0459-07	Antona Garcia.	1	7
+774	te0459-27	Pero Alonso.	1	3
+775	te0459-07	Antona Garcia.	4	19
+776	te0459-27	Pero Alonso.	1	3
+777	te0459-07	Antona Garcia.	2	3
+778	te0459-36	Vna Ventera.	1	2
+779	te0459-07	Antona Garcia.	2	5
+780	te0459-27	Pero Alonso.	2	10
+781	te0459-27	Pero Alonso.	2	10
+782	te0459-27	Pero Alonso.	2	7
+783	te0459-27	Pero Alonso.	1	3
+784	te0459-27	Pero Alonso.	1	6
+785	te0459-27	Pero Alonso.	2	7
+786	te0459-27	Pero Alonso.	8	36
+787	te0459-27	Pero Alonso.	8	44
+788	te0459-27	Pero Alonso.	1	4
+789	te0459-36	Vna Ventera.	2	5
+790	te0459-07	Antona Garcia.	1	4
+791	te0459-36	Vna Ventera.	1	4
+792	te0459-07	Antona Garcia.	4	21
+793	te0459-27	Pero Alonso.	3	13
+794	te0459-07	Antona Garcia.	4	21
+795	te0459-27	Pero Alonso.	1	2
+796	te0459-07	Antona Garcia.	6	21
+797	te0459-27	Pero Alonso.	1	2
+798	te0459-07	Antona Garcia.	2	4
+799	te0459-27	Pero Alonso.	2	10
+800	te0459-07	Antona Garcia.	17	80
+801	te0459-27	Pero Alonso.	4	17
+802	te0459-07	Antona Garcia.	1	5
+803	te0459-27	Pero Alonso.	1	3
+804	te0459-07	Antona Garcia.	1	2
+805	te0459-27	Pero Alonso.	1	6
+806	te0459-07	Antona Garcia.	3	12
+807	te0459-27	Pero Alonso.	1	2
+808	te0459-07	Antona Garcia.	1	4
+809	te0459-27	Pero Alonso.	2	8
+810	te0459-27	Pero Alonso.	2	7
+811	te0459-07	Antona Garcia.	1	1
+812	te0459-27	Pero Alonso.	1	5
+813	te0459-07	Antona Garcia.	1	4
+814	te0459-27	Pero Alonso.	1	2
+815	te0459-07	Antona Garcia.	1	4
+816	te0459-27	Pero Alonso.	1	2
+817	te0459-07	Antona Garcia.	2	9
+818	te0459-02	Almirante de Castilla.	3	13
+819	te0459-31	Fernando Rei.	4	20
+820	te0459-02	Almirante de Castilla.	5	23
+821	te0459-00	Reina Catolica.	2	10
+822	te0459-31	Fernando Rei.	1	6
+823	te0459-00	Reina Catolica.	1	5
+824	te0459-02	Almirante de Castilla.	1	5
+825	te0459-10	Doña Maria Sarmiento.	2	9
+826	te0459-31	Fernando Rei.	3	11
+827	te0459-10	Doña Maria Sarmiento.	2	6
+828	te0459-00	Reina Catolica.	4	19
+829	te0459-10	Doña Maria Sarmiento.	1	4
+830	te0459-31	Fernando Rei.	2	8
+831	te0459-10	Doña Maria Sarmiento.	1	6
+832	te0459-00	Reina Catolica.	2	8
+833	te0459-10	Doña Maria Sarmiento.	1	4
+834	te0459-03	Antonio de Fonseca.	1	3
+835	te0459-31	Fernando Rei.	4	18
+836	te0459-00	Reina Catolica.	2	9
+837	te0459-31	Fernando Rei.	16	68
+838	te0459-00	Reina Catolica.	7	32
+839	te0459-31	Fernando Rei.	2	5
+840	te0459-07	Antona Garcia.	4	12
+841	te0459-00	Reina Catolica.	11	53
+842	te0459-10	Doña Maria Sarmiento.	2	10
+843	te0459-09	Bartolo Pastor.	1	3
+844	te0459-40	Don Albaro de Mendoza.	2	4
+845	te0459-09	Bartolo Pastor.	1	3
+846	te0459-40	Don Albaro de Mendoza.	1	2
+847	te0459-09	Bartolo Pastor.	1	3
+848	te0459-03	Antonio de Fonseca.	1	1
+849	te0459-09	Bartolo Pastor.	1	4
+850	te0459-03	Antonio de Fonseca.	1	2
+851	te0459-09	Bartolo Pastor.	2	9
+852	te0459-03	Antonio de Fonseca.	1	2
+853	te0459-09	Bartolo Pastor.	3	14
+854	te0459-31	Fernando Rei.	1	4
+855	te0459-09	Bartolo Pastor.	6	29
+856	te0459-31	Fernando Rei.	1	5
+857	te0459-09	Bartolo Pastor.	7	31
+858	te0459-00	Reina Catolica.	3	10
+859	te0459-07	Antona Garcia.	4	19
+860	te0459-09	Bartolo Pastor.	5	20
+861	te0459-31	Fernando Rei.	2	7
+862	te0459-09	Bartolo Pastor.	2	3
+863	te0459-31	Fernando Rei.	3	9
+864	te0459-00	Reina Catolica.	2	6
+865	te0459-07	Antona Garcia.	3	14
+866	te0459-09	Bartolo Pastor.	2	12
+867	te0459-31	Fernando Rei.	1	5
+868	te0459-09	Bartolo Pastor.	1	4
+869	te0459-31	Fernando Rei.	1	1
+870	te0459-09	Bartolo Pastor.	1	3
+871	te0459-31	Fernando Rei.	1	2
+872	te0459-09	Bartolo Pastor.	9	44
+873	te0459-31	Fernando Rei.	1	3
+874	te0459-09	Bartolo Pastor.	9	44
+875	te0459-31	Fernando Rei.	1	6
+876	te0459-09	Bartolo Pastor.	13	64
+877	te0459-07	Antona Garcia.	2	7
+878	te0459-09	Bartolo Pastor.	14	60
+879	te0459-07	Antona Garcia.	4	18
+880	te0459-31	Fernando Rei.	2	7
+881	te0459-09	Bartolo Pastor.	6	30
+882	te0459-07	Antona Garcia.	2	11
+883	te0459-31	Fernando Rei.	1	6
+884	te0459-09	Bartolo Pastor.	1	5
+885	te0459-31	Fernando Rei.	3	11
+886	te0459-09	Bartolo Pastor.	6	21
+887	te0459-31	Fernando Rei.	1	2
+888	te0459-09	Bartolo Pastor.	6	27
+889	te0459-31	Fernando Rei.	2	5
+890	te0459-09	Bartolo Pastor.	2	9
+891	te0459-31	Fernando Rei.	1	1
+892	te0459-07	Antona Garcia.	2	5
+893	te0459-07	Antona Garcia.	1	2
+894	te0459-00	Reina Catolica.	1	5
+895	te0459-07	Antona Garcia.	17	81
+896	te0459-00	Reina Catolica.	4	17
+897	te0459-07	Antona Garcia.	1	3
+898	te0459-00	Reina Catolica.	4	18
+899	te0459-31	Fernando Rei.	1	5
+900	te0459-07	Antona Garcia.	3	15
+901	te0459-31	Fernando Rei.	4	15
+902	te0459-02	Almirante de Castilla.	2	6
+903	te0459-07	Antona Garcia.	4	21
+904	te0459-31	Fernando Rei.	1	2
+905	te0459-07	Antona Garcia.	2	9
+906	te0459-09	Bartolo Pastor.	1	3
+907	te0459-31	Fernando Rei.	1	2
+908	te0459-09	Bartolo Pastor.	3	12
+909	te0459-31	Fernando Rei.	1	2
+910	te0459-09	Bartolo Pastor.	14	61
+911	te0459-31	Fernando Rei.	3	12
+912	te0459-10	Doña Maria Sarmiento.	4	14
+913	te0459-09	Bartolo Pastor.	1	3
+914	te0459-31	Fernando Rei.	3	14
+915	te0459-07	Antona Garcia.	1	5
+916	te0459-09	Bartolo Pastor.	5	24
+917	te0459-07	Antona Garcia.	1	3
+918	te0459-09	Bartolo Pastor.	1	3
+919	te0459-07	Antona Garcia.	5	22
+920	te0459-31	Fernando Rei.	2	5
+921	te0459-07	Antona Garcia.	2	6
+922	te0459-31	Fernando Rei.	1	5
+923	te0459-07	Antona Garcia.	2	9
+924	te0459-31	Fernando Rei.	3	13
+925	te0459-07	Antona Garcia.	3	10
+926	te0459-09	Bartolo Pastor.	1	3
+927	te0459-07	Antona Garcia.	8	37
+928	te0459-07	Antona Garcia.	1	5
+929	te0459-09	Bartolo Pastor.	1	2
+930	te0459-07	Antona Garcia.	1	3
+931	te0459-07	Antona Garcia.	1	3
+932	te0459-07	Antona Garcia.	3	14
+933	te0459-09	Bartolo Pastor.	3	12
+934	te0459-31	Fernando Rei.	1	5
+935	te0459-00	Reina Catolica.	1	5
+936	te0459-09	Bartolo Pastor.	1	4
+937	te0459-97	(unknown)	1	3
+938	te0459-07	Antona Garcia.	2	8
+939	te0459-09	Bartolo Pastor.	2	7
+940	te0459-07	Antona Garcia.	1	5
+941	te0459-10	Doña Maria Sarmiento.	2	8
+942	te0459-31	Fernando Rei.	7	30
+943	te0459-09	Bartolo Pastor.	1	5
+944	te0459-97	(unknown)	3	14
+945	te0459-07	Antona Garcia.	1	7
+946	te0459-07	Antona Garcia.	1	2
+947	te0459-07	Antona Garcia.	1	2
+948	te0459-09	Bartolo Pastor.	3	6
+949	te0459-07	Antona Garcia.	2	8
+950	te0459-07	Antona Garcia.	1	3
+951	te0459-09	Bartolo Pastor.	1	4
+952	te0459-07	Antona Garcia.	1	4
+953	te0459-07	Antona Garcia.	1	5
+954	te0459-07	Antona Garcia.	1	6
+955	te0459-31	Fernando Rei.	1	3
+956	te0459-99	(unknown)	2	9
+957	te0459-53	Vno	2	7
+958	te0459-52	Otro.	1	4
+959	te0459-07	Antona Garcia.	1	6
+960	te0459-09	Bartolo Pastor.	2	6
+961	te0459-07	Antona Garcia.	2	6
+962	te0459-07	Antona Garcia.	1	2
+963	te0459-07	Antona Garcia.	1	2
+964	te0459-07	Antona Garcia.	3	12
+965	te0459-07	Antona Garcia.	12	57

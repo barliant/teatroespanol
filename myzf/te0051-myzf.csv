@@ -1,0 +1,762 @@
+num	id	name	numlines	numwords
+1	te0051-01	Iupangui.	5	21
+2	te0051-18	Acompañamiento, y Musica.	6	35
+3	te0051-94	(unknown)	10	43
+4	te0051-01	Iupangui.	21	98
+5	te0051-95	(unknown)	2	8
+6	te0051-94	(unknown)	7	37
+7	te0051-01	Iupangui.	9	48
+8	te0051-04	Vn Sacerdote.	9	41
+9	te0051-00	Guascar, Inga Rey.	2	6
+10	te0051-03	Tucapel.	2	10
+11	te0051-01	Iupangui.	1	5
+12	te0051-96	(unknown)	1	6
+13	te0051-01	Iupangui.	2	8
+14	te0051-18	Acompañamiento, y Musica.	5	32
+15	te0051-97	(unknown)	1	2
+16	te0051-94	(unknown)	4	19
+17	te0051-01	Iupangui.	24	112
+18	te0051-94	(unknown)	4	18
+19	te0051-18	Acompañamiento, y Musica.	3	14
+20	te0051-10	Piçarro.	3	11
+21	te0051-99	(unknown)	1	3
+22	te0051-94	(unknown)	2	9
+23	te0051-08	Vn Indio llamado Andrès.	1	1
+24	te0051-93	(unknown)	1	1
+25	te0051-98	(unknown)	1	2
+26	te0051-94	(unknown)	2	9
+27	te0051-26	Guat.	3	9
+28	te0051-01	Iupangui.	2	6
+29	te0051-00	Guascar, Inga Rey.	10	51
+30	te0051-94	(unknown)	15	62
+31	te0051-00	Guascar, Inga Rey.	4	11
+32	te0051-94	(unknown)	1	3
+33	te0051-00	Guascar, Inga Rey.	1	1
+34	te0051-01	Iupangui.	2	10
+35	te0051-00	Guascar, Inga Rey.	77	379
+36	te0051-94	(unknown)	11	50
+37	te0051-01	Iupangui.	6	27
+38	te0051-00	Guascar, Inga Rey.	2	10
+39	te0051-99	(unknown)	1	4
+40	te0051-03	Tucapel.	1	3
+41	te0051-27	Glau.	1	2
+42	te0051-03	Tucapel.	2	11
+43	te0051-27	Glau.	1	3
+44	te0051-03	Tucapel.	1	1
+45	te0051-27	Glau.	1	1
+46	te0051-03	Tucapel.	5	20
+47	te0051-94	(unknown)	10	50
+48	te0051-98	(unknown)	2	9
+49	te0051-00	Guascar, Inga Rey.	2	8
+50	te0051-98	(unknown)	1	2
+51	te0051-07	Vnos Indios.	1	2
+52	te0051-93	(unknown)	1	2
+53	te0051-99	(unknown)	1	2
+54	te0051-03	Tucapel.	2	9
+55	te0051-94	(unknown)	4	17
+56	te0051-00	Guascar, Inga Rey.	5	19
+57	te0051-99	(unknown)	2	5
+58	te0051-08	Vn Indio llamado Andrès.	4	14
+59	te0051-01	Iupangui.	8	31
+60	te0051-94	(unknown)	1	1
+61	te0051-01	Iupangui.	7	29
+62	te0051-94	(unknown)	7	28
+63	te0051-01	Iupangui.	4	18
+64	te0051-98	(unknown)	1	4
+65	te0051-10	Piçarro.	7	31
+66	te0051-11	Almagro.	26	112
+67	te0051-10	Piçarro.	15	67
+68	te0051-12	Candia.	26	128
+69	te0051-10	Piçarro.	2	10
+70	te0051-12	Candia.	9	46
+71	te0051-10	Piçarro.	2	8
+72	te0051-11	Almagro.	5	27
+73	te0051-12	Candia.	7	35
+74	te0051-11	Almagro.	6	29
+75	te0051-12	Candia.	1	4
+76	te0051-11	Almagro.	1	3
+77	te0051-10	Piçarro.	9	42
+78	te0051-96	(unknown)	2	10
+79	te0051-10	Piçarro.	3	15
+80	te0051-12	Candia.	4	17
+81	te0051-10	Piçarro.	5	20
+82	te0051-24	Voz.	2	4
+83	te0051-03	Tucapel.	7	33
+84	te0051-01	Iupangui.	10	48
+85	te0051-03	Tucapel.	6	28
+86	te0051-01	Iupangui.	16	83
+87	te0051-03	Tucapel.	2	10
+88	te0051-01	Iupangui.	1	2
+89	te0051-03	Tucapel.	2	8
+90	te0051-01	Iupangui.	4	15
+91	te0051-03	Tucapel.	1	4
+92	te0051-01	Iupangui.	2	7
+93	te0051-03	Tucapel.	2	7
+94	te0051-01	Iupangui.	4	17
+95	te0051-03	Tucapel.	3	12
+96	te0051-01	Iupangui.	2	10
+97	te0051-03	Tucapel.	1	2
+98	te0051-01	Iupangui.	4	18
+99	te0051-28	Tur.	2	6
+100	te0051-01	Iupangui.	5	22
+101	te0051-03	Tucapel.	6	19
+102	te0051-01	Iupangui.	7	32
+103	te0051-03	Tucapel.	2	8
+104	te0051-01	Iupangui.	11	45
+105	te0051-03	Tucapel.	3	13
+106	te0051-12	Candia.	10	44
+107	te0051-01	Iupangui.	6	29
+108	te0051-12	Candia.	8	38
+109	te0051-01	Iupangui.	3	13
+110	te0051-12	Candia.	4	21
+111	te0051-01	Iupangui.	2	10
+112	te0051-03	Tucapel.	3	17
+113	te0051-01	Iupangui.	7	38
+114	te0051-12	Candia.	12	58
+115	te0051-01	Iupangui.	7	34
+116	te0051-12	Candia.	7	35
+117	te0051-01	Iupangui.	27	145
+118	te0051-12	Candia.	2	7
+119	te0051-03	Tucapel.	4	22
+120	te0051-12	Candia.	1	3
+121	te0051-24	Voz.	2	12
+122	te0051-03	Tucapel.	2	8
+123	te0051-12	Candia.	22	96
+124	te0051-03	Tucapel.	6	30
+125	te0051-12	Candia.	9	34
+126	te0051-03	Tucapel.	5	26
+127	te0051-12	Candia.	12	48
+128	te0051-03	Tucapel.	1	4
+129	te0051-12	Candia.	3	18
+130	te0051-03	Tucapel.	4	22
+131	te0051-12	Candia.	12	56
+132	te0051-06	La Idolatria.	21	141
+133	te0051-98	(unknown)	1	3
+134	te0051-99	(unknown)	1	4
+135	te0051-06	La Idolatria.	29	183
+136	te0051-98	(unknown)	1	8
+137	te0051-06	La Idolatria.	3	16
+138	te0051-95	(unknown)	1	8
+139	te0051-00	Guascar, Inga Rey.	3	16
+140	te0051-94	(unknown)	2	13
+141	te0051-98	(unknown)	3	16
+142	te0051-94	(unknown)	1	1
+143	te0051-01	Iupangui.	33	212
+144	te0051-27	Glau.	3	22
+145	te0051-04	Vn Sacerdote.	1	2
+146	te0051-01	Iupangui.	24	140
+147	te0051-94	(unknown)	4	21
+148	te0051-04	Vn Sacerdote.	1	2
+149	te0051-94	(unknown)	1	2
+150	te0051-04	Vn Sacerdote.	7	38
+151	te0051-01	Iupangui.	1	3
+152	te0051-00	Guascar, Inga Rey.	3	16
+153	te0051-94	(unknown)	3	10
+154	te0051-98	(unknown)	1	1
+155	te0051-94	(unknown)	1	6
+156	te0051-00	Guascar, Inga Rey.	3	13
+157	te0051-06	La Idolatria.	1	1
+158	te0051-04	Vn Sacerdote.	4	18
+159	te0051-06	La Idolatria.	1	1
+160	te0051-09	Quatro damas.	4	16
+161	te0051-06	La Idolatria.	1	1
+162	te0051-01	Iupangui.	4	19
+163	te0051-06	La Idolatria.	1	1
+164	te0051-20	2.	4	15
+165	te0051-06	La Idolatria.	1	2
+166	te0051-21	3.	2	10
+167	te0051-22	4.	2	12
+168	te0051-06	La Idolatria.	1	1
+169	te0051-94	(unknown)	2	6
+170	te0051-04	Vn Sacerdote.	3	11
+171	te0051-01	Iupangui.	1	4
+172	te0051-04	Vn Sacerdote.	3	14
+173	te0051-94	(unknown)	1	2
+174	te0051-00	Guascar, Inga Rey.	1	6
+175	te0051-94	(unknown)	1	1
+176	te0051-97	(unknown)	1	1
+177	te0051-00	Guascar, Inga Rey.	1	1
+178	te0051-97	(unknown)	1	1
+179	te0051-04	Vn Sacerdote.	1	1
+180	te0051-97	(unknown)	1	1
+181	te0051-19	1.	1	1
+182	te0051-97	(unknown)	1	1
+183	te0051-94	(unknown)	1	1
+184	te0051-97	(unknown)	1	1
+185	te0051-20	2.	1	2
+186	te0051-97	(unknown)	1	2
+187	te0051-22	4.	1	1
+188	te0051-97	(unknown)	1	1
+189	te0051-95	(unknown)	2	8
+190	te0051-04	Vn Sacerdote.	8	37
+191	te0051-94	(unknown)	2	13
+192	te0051-04	Vn Sacerdote.	6	28
+193	te0051-99	(unknown)	2	10
+194	te0051-27	Glau.	2	9
+195	te0051-94	(unknown)	1	6
+196	te0051-01	Iupangui.	2	9
+197	te0051-94	(unknown)	2	6
+198	te0051-04	Vn Sacerdote.	14	66
+199	te0051-99	(unknown)	2	6
+200	te0051-27	Glau.	2	11
+201	te0051-94	(unknown)	1	7
+202	te0051-04	Vn Sacerdote.	3	16
+203	te0051-94	(unknown)	1	1
+204	te0051-01	Iupangui.	1	1
+205	te0051-94	(unknown)	3	11
+206	te0051-01	Iupangui.	2	4
+207	te0051-04	Vn Sacerdote.	2	8
+208	te0051-01	Iupangui.	7	28
+209	te0051-04	Vn Sacerdote.	1	4
+210	te0051-01	Iupangui.	2	6
+211	te0051-04	Vn Sacerdote.	2	9
+212	te0051-01	Iupangui.	1	3
+213	te0051-00	Guascar, Inga Rey.	1	2
+214	te0051-01	Iupangui.	1	2
+215	te0051-00	Guascar, Inga Rey.	1	2
+216	te0051-94	(unknown)	7	33
+217	te0051-04	Vn Sacerdote.	2	9
+218	te0051-96	(unknown)	2	9
+219	te0051-27	Glau.	4	20
+220	te0051-01	Iupangui.	10	47
+221	te0051-00	Guascar, Inga Rey.	10	54
+222	te0051-01	Iupangui.	3	13
+223	te0051-00	Guascar, Inga Rey.	1	4
+224	te0051-01	Iupangui.	1	2
+225	te0051-00	Guascar, Inga Rey.	26	133
+226	te0051-01	Iupangui.	9	47
+227	te0051-00	Guascar, Inga Rey.	11	58
+228	te0051-01	Iupangui.	21	99
+229	te0051-94	(unknown)	1	1
+230	te0051-01	Iupangui.	1	1
+231	te0051-94	(unknown)	3	12
+232	te0051-01	Iupangui.	3	14
+233	te0051-94	(unknown)	56	279
+234	te0051-98	(unknown)	1	1
+235	te0051-94	(unknown)	13	58
+236	te0051-01	Iupangui.	30	146
+237	te0051-98	(unknown)	2	3
+238	te0051-94	(unknown)	3	12
+239	te0051-01	Iupangui.	13	63
+240	te0051-94	(unknown)	2	10
+241	te0051-06	La Idolatria.	1	1
+242	te0051-94	(unknown)	3	17
+243	te0051-06	La Idolatria.	7	41
+244	te0051-94	(unknown)	3	16
+245	te0051-06	La Idolatria.	6	25
+246	te0051-94	(unknown)	11	60
+247	te0051-06	La Idolatria.	1	3
+248	te0051-94	(unknown)	3	8
+249	te0051-06	La Idolatria.	25	124
+250	te0051-94	(unknown)	1	1
+251	te0051-06	La Idolatria.	5	24
+252	te0051-94	(unknown)	1	1
+253	te0051-06	La Idolatria.	10	50
+254	te0051-94	(unknown)	3	13
+255	te0051-06	La Idolatria.	1	5
+256	te0051-94	(unknown)	1	5
+257	te0051-00	Guascar, Inga Rey.	24	119
+258	te0051-94	(unknown)	2	8
+259	te0051-06	La Idolatria.	6	31
+260	te0051-94	(unknown)	4	14
+261	te0051-06	La Idolatria.	4	14
+262	te0051-94	(unknown)	3	11
+263	te0051-06	La Idolatria.	1	3
+264	te0051-94	(unknown)	10	46
+265	te0051-06	La Idolatria.	1	5
+266	te0051-94	(unknown)	6	23
+267	te0051-06	La Idolatria.	2	7
+268	te0051-00	Guascar, Inga Rey.	34	159
+269	te0051-98	(unknown)	2	7
+270	te0051-18	Acompañamiento, y Musica.	2	16
+271	te0051-00	Guascar, Inga Rey.	2	8
+272	te0051-95	(unknown)	1	4
+273	te0051-94	(unknown)	1	4
+274	te0051-06	La Idolatria.	66	308
+275	te0051-01	Iupangui.	1	4
+276	te0051-99	(unknown)	1	5
+277	te0051-94	(unknown)	1	8
+278	te0051-99	(unknown)	1	7
+279	te0051-94	(unknown)	10	52
+280	te0051-01	Iupangui.	11	59
+281	te0051-98	(unknown)	1	2
+282	te0051-93	(unknown)	1	2
+283	te0051-07	Vnos Indios.	1	4
+284	te0051-93	(unknown)	1	4
+285	te0051-07	Vnos Indios.	1	2
+286	te0051-93	(unknown)	1	4
+287	te0051-03	Tucapel.	12	60
+288	te0051-07	Vnos Indios.	1	2
+289	te0051-93	(unknown)	1	2
+290	te0051-07	Vnos Indios.	1	3
+291	te0051-93	(unknown)	1	2
+292	te0051-03	Tucapel.	42	212
+293	te0051-99	(unknown)	1	4
+294	te0051-03	Tucapel.	14	60
+295	te0051-10	Piçarro.	2	7
+296	te0051-11	Almagro.	5	19
+297	te0051-96	(unknown)	1	1
+298	te0051-10	Piçarro.	1	1
+299	te0051-96	(unknown)	1	4
+300	te0051-10	Piçarro.	1	1
+301	te0051-03	Tucapel.	3	15
+302	te0051-12	Candia.	4	19
+303	te0051-10	Piçarro.	22	105
+304	te0051-11	Almagro.	11	51
+305	te0051-10	Piçarro.	4	15
+306	te0051-97	(unknown)	2	6
+307	te0051-07	Vnos Indios.	1	3
+308	te0051-93	(unknown)	1	2
+309	te0051-99	(unknown)	1	4
+310	te0051-03	Tucapel.	20	109
+311	te0051-06	La Idolatria.	8	47
+312	te0051-03	Tucapel.	2	10
+313	te0051-06	La Idolatria.	10	45
+314	te0051-03	Tucapel.	3	17
+315	te0051-06	La Idolatria.	8	39
+316	te0051-03	Tucapel.	1	7
+317	te0051-06	La Idolatria.	1	4
+318	te0051-03	Tucapel.	1	3
+319	te0051-06	La Idolatria.	4	15
+320	te0051-03	Tucapel.	1	5
+321	te0051-06	La Idolatria.	11	51
+322	te0051-97	(unknown)	1	2
+323	te0051-06	La Idolatria.	1	4
+324	te0051-93	(unknown)	1	5
+325	te0051-06	La Idolatria.	4	19
+326	te0051-99	(unknown)	1	4
+327	te0051-93	(unknown)	1	5
+328	te0051-94	(unknown)	14	63
+329	te0051-01	Iupangui.	1	3
+330	te0051-94	(unknown)	2	5
+331	te0051-01	Iupangui.	2	7
+332	te0051-94	(unknown)	2	3
+333	te0051-01	Iupangui.	7	29
+334	te0051-94	(unknown)	22	111
+335	te0051-01	Iupangui.	2	9
+336	te0051-04	Vn Sacerdote.	2	9
+337	te0051-94	(unknown)	2	5
+338	te0051-01	Iupangui.	2	8
+339	te0051-94	(unknown)	14	67
+340	te0051-01	Iupangui.	5	22
+341	te0051-94	(unknown)	14	60
+342	te0051-01	Iupangui.	6	28
+343	te0051-94	(unknown)	6	33
+344	te0051-01	Iupangui.	1	1
+345	te0051-94	(unknown)	3	10
+346	te0051-01	Iupangui.	1	4
+347	te0051-94	(unknown)	3	13
+348	te0051-94	(unknown)	11	55
+349	te0051-01	Iupangui.	14	70
+350	te0051-18	Acompañamiento, y Musica.	3	20
+351	te0051-94	(unknown)	4	16
+352	te0051-04	Vn Sacerdote.	4	17
+353	te0051-25	Va.	1	2
+354	te0051-93	(unknown)	1	2
+355	te0051-94	(unknown)	4	16
+356	te0051-04	Vn Sacerdote.	5	17
+357	te0051-94	(unknown)	3	14
+358	te0051-01	Iupangui.	8	42
+359	te0051-17	Dos Angeles.	4	16
+360	te0051-17	Dos Angeles.	4	18
+361	te0051-96	(unknown)	2	8
+362	te0051-18	Acompañamiento, y Musica.	3	21
+363	te0051-10	Piçarro.	10	45
+364	te0051-99	(unknown)	1	4
+365	te0051-07	Vnos Indios.	1	2
+366	te0051-93	(unknown)	1	3
+367	te0051-95	(unknown)	3	20
+368	te0051-99	(unknown)	1	4
+369	te0051-06	La Idolatria.	55	270
+370	te0051-27	Glau.	2	5
+371	te0051-00	Guascar, Inga Rey.	3	12
+372	te0051-27	Glau.	10	45
+373	te0051-00	Guascar, Inga Rey.	42	205
+374	te0051-27	Glau.	3	16
+375	te0051-00	Guascar, Inga Rey.	1	1
+376	te0051-27	Glau.	9	44
+377	te0051-00	Guascar, Inga Rey.	1	2
+378	te0051-27	Glau.	6	25
+379	te0051-03	Tucapel.	7	34
+380	te0051-27	Glau.	1	2
+381	te0051-00	Guascar, Inga Rey.	3	11
+382	te0051-27	Glau.	3	13
+383	te0051-03	Tucapel.	7	24
+384	te0051-27	Glau.	3	11
+385	te0051-03	Tucapel.	29	136
+386	te0051-00	Guascar, Inga Rey.	1	5
+387	te0051-27	Glau.	1	6
+388	te0051-00	Guascar, Inga Rey.	5	27
+389	te0051-03	Tucapel.	14	67
+390	te0051-27	Glau.	5	21
+391	te0051-03	Tucapel.	13	56
+392	te0051-00	Guascar, Inga Rey.	1	3
+393	te0051-27	Glau.	1	3
+394	te0051-03	Tucapel.	6	25
+395	te0051-98	(unknown)	2	4
+396	te0051-99	(unknown)	1	1
+397	te0051-07	Vnos Indios.	2	7
+398	te0051-00	Guascar, Inga Rey.	1	6
+399	te0051-27	Glau.	1	4
+400	te0051-99	(unknown)	2	5
+401	te0051-03	Tucapel.	2	8
+402	te0051-07	Vnos Indios.	3	12
+403	te0051-03	Tucapel.	2	6
+404	te0051-93	(unknown)	2	5
+405	te0051-03	Tucapel.	11	54
+406	te0051-99	(unknown)	3	14
+407	te0051-00	Guascar, Inga Rey.	3	7
+408	te0051-27	Glau.	3	10
+409	te0051-01	Iupangui.	5	19
+410	te0051-20	2.	4	16
+411	te0051-21	3.	7	33
+412	te0051-01	Iupangui.	4	15
+413	te0051-20	2.	1	1
+414	te0051-21	3.	2	8
+415	te0051-03	Tucapel.	2	7
+416	te0051-99	(unknown)	1	2
+417	te0051-03	Tucapel.	2	9
+418	te0051-27	Glau.	5	20
+419	te0051-03	Tucapel.	12	55
+420	te0051-00	Guascar, Inga Rey.	6	31
+421	te0051-27	Glau.	1	6
+422	te0051-00	Guascar, Inga Rey.	1	2
+423	te0051-27	Glau.	2	5
+424	te0051-01	Iupangui.	16	71
+425	te0051-00	Guascar, Inga Rey.	13	61
+426	te0051-01	Iupangui.	1	1
+427	te0051-00	Guascar, Inga Rey.	23	103
+428	te0051-01	Iupangui.	9	39
+429	te0051-00	Guascar, Inga Rey.	1	2
+430	te0051-01	Iupangui.	1	6
+431	te0051-27	Glau.	2	9
+432	te0051-01	Iupangui.	15	67
+433	te0051-00	Guascar, Inga Rey.	2	9
+434	te0051-02	Glanca.	2	6
+435	te0051-00	Guascar, Inga Rey.	2	4
+436	te0051-01	Iupangui.	7	28
+437	te0051-94	(unknown)	5	17
+438	te0051-00	Guascar, Inga Rey.	1	2
+439	te0051-01	Iupangui.	1	2
+440	te0051-94	(unknown)	12	66
+441	te0051-00	Guascar, Inga Rey.	1	2
+442	te0051-01	Iupangui.	2	10
+443	te0051-94	(unknown)	22	102
+444	te0051-00	Guascar, Inga Rey.	1	1
+445	te0051-01	Iupangui.	1	3
+446	te0051-00	Guascar, Inga Rey.	2	7
+447	te0051-94	(unknown)	4	15
+448	te0051-00	Guascar, Inga Rey.	25	115
+449	te0051-94	(unknown)	15	72
+450	te0051-00	Guascar, Inga Rey.	5	22
+451	te0051-94	(unknown)	1	4
+452	te0051-00	Guascar, Inga Rey.	1	1
+453	te0051-94	(unknown)	8	39
+454	te0051-01	Iupangui.	5	24
+455	te0051-94	(unknown)	1	5
+456	te0051-01	Iupangui.	1	2
+457	te0051-94	(unknown)	7	34
+458	te0051-01	Iupangui.	1	1
+459	te0051-94	(unknown)	1	2
+460	te0051-01	Iupangui.	5	23
+461	te0051-94	(unknown)	4	15
+462	te0051-00	Guascar, Inga Rey.	2	7
+463	te0051-01	Iupangui.	1	2
+464	te0051-00	Guascar, Inga Rey.	9	41
+465	te0051-01	Iupangui.	5	24
+466	te0051-94	(unknown)	7	30
+467	te0051-01	Iupangui.	2	3
+468	te0051-00	Guascar, Inga Rey.	1	2
+469	te0051-01	Iupangui.	1	3
+470	te0051-00	Guascar, Inga Rey.	1	3
+471	te0051-01	Iupangui.	1	4
+472	te0051-00	Guascar, Inga Rey.	1	4
+473	te0051-94	(unknown)	1	2
+474	te0051-01	Iupangui.	1	2
+475	te0051-00	Guascar, Inga Rey.	1	2
+476	te0051-01	Iupangui.	1	5
+477	te0051-00	Guascar, Inga Rey.	1	5
+478	te0051-01	Iupangui.	1	2
+479	te0051-00	Guascar, Inga Rey.	1	2
+480	te0051-96	(unknown)	1	5
+481	te0051-00	Guascar, Inga Rey.	1	2
+482	te0051-01	Iupangui.	1	2
+483	te0051-94	(unknown)	3	15
+484	te0051-00	Guascar, Inga Rey.	2	9
+485	te0051-01	Iupangui.	2	11
+486	te0051-00	Guascar, Inga Rey.	4	21
+487	te0051-01	Iupangui.	4	23
+488	te0051-00	Guascar, Inga Rey.	4	19
+489	te0051-01	Iupangui.	2	11
+490	te0051-00	Guascar, Inga Rey.	1	3
+491	te0051-01	Iupangui.	1	3
+492	te0051-00	Guascar, Inga Rey.	1	2
+493	te0051-01	Iupangui.	1	2
+494	te0051-94	(unknown)	2	6
+495	te0051-07	Vnos Indios.	2	11
+496	te0051-93	(unknown)	2	9
+497	te0051-94	(unknown)	12	50
+498	te0051-06	La Idolatria.	2	5
+499	te0051-94	(unknown)	5	24
+500	te0051-06	La Idolatria.	1	2
+501	te0051-94	(unknown)	3	10
+502	te0051-06	La Idolatria.	3	9
+503	te0051-94	(unknown)	3	10
+504	te0051-06	La Idolatria.	10	54
+505	te0051-94	(unknown)	9	47
+506	te0051-00	Guascar, Inga Rey.	1	5
+507	te0051-01	Iupangui.	1	5
+508	te0051-00	Guascar, Inga Rey.	1	3
+509	te0051-01	Iupangui.	1	3
+510	te0051-94	(unknown)	1	4
+511	te0051-07	Vnos Indios.	3	16
+512	te0051-97	(unknown)	1	4
+513	te0051-94	(unknown)	10	52
+514	te0051-07	Vnos Indios.	1	2
+515	te0051-93	(unknown)	1	3
+516	te0051-99	(unknown)	3	14
+517	te0051-10	Piçarro.	1	3
+518	te0051-99	(unknown)	1	2
+519	te0051-10	Piçarro.	2	8
+520	te0051-06	La Idolatria.	26	122
+521	te0051-15	Don Geronimo Marañon, Gouernador.	8	33
+522	te0051-14	Don Lorenço de Mendoça, Conde de Coruña.	18	87
+523	te0051-15	Don Geronimo Marañon, Gouernador.	287	1313
+524	te0051-14	Don Lorenço de Mendoça, Conde de Coruña.	15	75
+525	te0051-15	Don Geronimo Marañon, Gouernador.	3	12
+526	te0051-14	Don Lorenço de Mendoça, Conde de Coruña.	2	6
+527	te0051-15	Don Geronimo Marañon, Gouernador.	7	27
+528	te0051-01	Iupangui.	50	229
+529	te0051-00	Guascar, Inga Rey.	4	15
+530	te0051-01	Iupangui.	4	13
+531	te0051-00	Guascar, Inga Rey.	4	17
+532	te0051-01	Iupangui.	6	27
+533	te0051-00	Guascar, Inga Rey.	5	20
+534	te0051-01	Iupangui.	12	69
+535	te0051-00	Guascar, Inga Rey.	50	228
+536	te0051-01	Iupangui.	12	66
+537	te0051-00	Guascar, Inga Rey.	1	1
+538	te0051-27	Glau.	1	2
+539	te0051-00	Guascar, Inga Rey.	7	31
+540	te0051-27	Glau.	5	24
+541	te0051-03	Tucapel.	1	3
+542	te0051-27	Glau.	2	8
+543	te0051-03	Tucapel.	2	9
+544	te0051-27	Glau.	26	124
+545	te0051-03	Tucapel.	16	79
+546	te0051-27	Glau.	12	64
+547	te0051-03	Tucapel.	24	115
+548	te0051-98	(unknown)	1	2
+549	te0051-03	Tucapel.	3	10
+550	te0051-24	Voz.	1	1
+551	te0051-03	Tucapel.	1	7
+552	te0051-06	La Idolatria.	82	390
+553	te0051-95	(unknown)	1	4
+554	te0051-95	(unknown)	1	5
+555	te0051-08	Vn Indio llamado Andrès.	1	2
+556	te0051-01	Iupangui.	1	2
+557	te0051-03	Tucapel.	2	8
+558	te0051-97	(unknown)	1	2
+559	te0051-15	Don Geronimo Marañon, Gouernador.	7	29
+560	te0051-01	Iupangui.	2	7
+561	te0051-08	Vn Indio llamado Andrès.	3	6
+562	te0051-15	Don Geronimo Marañon, Gouernador.	7	30
+563	te0051-01	Iupangui.	6	29
+564	te0051-08	Vn Indio llamado Andrès.	46	223
+565	te0051-01	Iupangui.	8	41
+566	te0051-15	Don Geronimo Marañon, Gouernador.	1	1
+567	te0051-01	Iupangui.	28	131
+568	te0051-15	Don Geronimo Marañon, Gouernador.	4	18
+569	te0051-99	(unknown)	1	4
+570	te0051-01	Iupangui.	1	2
+571	te0051-03	Tucapel.	6	29
+572	te0051-01	Iupangui.	3	15
+573	te0051-15	Don Geronimo Marañon, Gouernador.	1	2
+574	te0051-01	Iupangui.	12	68
+575	te0051-15	Don Geronimo Marañon, Gouernador.	2	14
+576	te0051-01	Iupangui.	2	10
+577	te0051-99	(unknown)	1	2
+578	te0051-01	Iupangui.	1	3
+579	te0051-15	Don Geronimo Marañon, Gouernador.	5	25
+580	te0051-08	Vn Indio llamado Andrès.	3	12
+581	te0051-15	Don Geronimo Marañon, Gouernador.	2	7
+582	te0051-01	Iupangui.	6	32
+583	te0051-08	Vn Indio llamado Andrès.	12	66
+584	te0051-15	Don Geronimo Marañon, Gouernador.	2	10
+585	te0051-95	(unknown)	1	2
+586	te0051-93	(unknown)	1	2
+587	te0051-01	Iupangui.	20	100
+588	te0051-00	Guascar, Inga Rey.	5	22
+589	te0051-01	Iupangui.	7	30
+590	te0051-00	Guascar, Inga Rey.	1	4
+591	te0051-01	Iupangui.	1	2
+592	te0051-98	(unknown)	2	4
+593	te0051-01	Iupangui.	2	7
+594	te0051-27	Glau.	4	15
+595	te0051-03	Tucapel.	1	4
+596	te0051-01	Iupangui.	2	12
+597	te0051-03	Tucapel.	2	9
+598	te0051-01	Iupangui.	2	10
+599	te0051-03	Tucapel.	2	10
+600	te0051-01	Iupangui.	5	23
+601	te0051-03	Tucapel.	3	10
+602	te0051-01	Iupangui.	8	34
+603	te0051-03	Tucapel.	1	1
+604	te0051-01	Iupangui.	1	1
+605	te0051-03	Tucapel.	1	4
+606	te0051-01	Iupangui.	1	1
+607	te0051-03	Tucapel.	3	13
+608	te0051-01	Iupangui.	1	6
+609	te0051-03	Tucapel.	1	4
+610	te0051-01	Iupangui.	2	10
+611	te0051-03	Tucapel.	1	5
+612	te0051-01	Iupangui.	7	38
+613	te0051-15	Don Geronimo Marañon, Gouernador.	11	52
+614	te0051-01	Iupangui.	1	2
+615	te0051-00	Guascar, Inga Rey.	12	59
+616	te0051-01	Iupangui.	3	15
+617	te0051-00	Guascar, Inga Rey.	3	14
+618	te0051-01	Iupangui.	1	6
+619	te0051-00	Guascar, Inga Rey.	1	7
+620	te0051-01	Iupangui.	1	5
+621	te0051-00	Guascar, Inga Rey.	1	6
+622	te0051-01	Iupangui.	1	2
+623	te0051-00	Guascar, Inga Rey.	1	2
+624	te0051-06	La Idolatria.	40	201
+625	te0051-01	Iupangui.	6	25
+626	te0051-16	Vn Dorador.	9	41
+627	te0051-01	Iupangui.	2	6
+628	te0051-16	Vn Dorador.	3	15
+629	te0051-01	Iupangui.	12	58
+630	te0051-16	Vn Dorador.	10	51
+631	te0051-01	Iupangui.	3	12
+632	te0051-16	Vn Dorador.	1	2
+633	te0051-01	Iupangui.	2	6
+634	te0051-06	La Idolatria.	32	160
+635	te0051-08	Vn Indio llamado Andrès.	2	10
+636	te0051-01	Iupangui.	2	7
+637	te0051-08	Vn Indio llamado Andrès.	1	2
+638	te0051-01	Iupangui.	15	80
+639	te0051-15	Don Geronimo Marañon, Gouernador.	1	2
+640	te0051-08	Vn Indio llamado Andrès.	9	46
+641	te0051-15	Don Geronimo Marañon, Gouernador.	3	21
+642	te0051-08	Vn Indio llamado Andrès.	2	11
+643	te0051-15	Don Geronimo Marañon, Gouernador.	6	26
+644	te0051-99	(unknown)	1	2
+645	te0051-23	Gou.	19	86
+646	te0051-08	Vn Indio llamado Andrès.	2	10
+647	te0051-99	(unknown)	2	9
+648	te0051-15	Don Geronimo Marañon, Gouernador.	13	64
+649	te0051-01	Iupangui.	7	37
+650	te0051-06	La Idolatria.	24	113
+651	te0051-99	(unknown)	2	10
+652	te0051-15	Don Geronimo Marañon, Gouernador.	2	7
+653	te0051-14	Don Lorenço de Mendoça, Conde de Coruña.	13	59
+654	te0051-15	Don Geronimo Marañon, Gouernador.	5	23
+655	te0051-14	Don Lorenço de Mendoça, Conde de Coruña.	2	7
+656	te0051-15	Don Geronimo Marañon, Gouernador.	2	7
+657	te0051-14	Don Lorenço de Mendoça, Conde de Coruña.	1	4
+658	te0051-08	Vn Indio llamado Andrès.	14	67
+659	te0051-14	Don Lorenço de Mendoça, Conde de Coruña.	1	3
+660	te0051-01	Iupangui.	1	2
+661	te0051-14	Don Lorenço de Mendoça, Conde de Coruña.	3	12
+662	te0051-01	Iupangui.	3	14
+663	te0051-14	Don Lorenço de Mendoça, Conde de Coruña.	2	11
+664	te0051-01	Iupangui.	2	3
+665	te0051-14	Don Lorenço de Mendoça, Conde de Coruña.	1	1
+666	te0051-01	Iupangui.	5	23
+667	te0051-14	Don Lorenço de Mendoça, Conde de Coruña.	5	21
+668	te0051-08	Vn Indio llamado Andrès.	4	16
+669	te0051-01	Iupangui.	4	14
+670	te0051-06	La Idolatria.	13	60
+671	te0051-17	Dos Angeles.	4	14
+672	te0051-98	(unknown)	1	3
+673	te0051-17	Dos Angeles.	4	16
+674	te0051-18	Acompañamiento, y Musica.	1	3
+675	te0051-17	Dos Angeles.	4	12
+676	te0051-18	Acompañamiento, y Musica.	1	3
+677	te0051-17	Dos Angeles.	4	18
+678	te0051-18	Acompañamiento, y Musica.	1	3
+679	te0051-17	Dos Angeles.	4	14
+680	te0051-18	Acompañamiento, y Musica.	1	3
+681	te0051-17	Dos Angeles.	4	15
+682	te0051-18	Acompañamiento, y Musica.	1	3
+683	te0051-17	Dos Angeles.	4	15
+684	te0051-18	Acompañamiento, y Musica.	1	3
+685	te0051-17	Dos Angeles.	4	18
+686	te0051-18	Acompañamiento, y Musica.	1	3
+687	te0051-17	Dos Angeles.	4	15
+688	te0051-18	Acompañamiento, y Musica.	1	3
+689	te0051-17	Dos Angeles.	4	17
+690	te0051-18	Acompañamiento, y Musica.	1	3
+691	te0051-17	Dos Angeles.	2	7
+692	te0051-17	Dos Angeles.	2	8
+693	te0051-95	(unknown)	6	18
+694	te0051-95	(unknown)	5	16
+695	te0051-01	Iupangui.	2	10
+696	te0051-00	Guascar, Inga Rey.	2	9
+697	te0051-01	Iupangui.	1	4
+698	te0051-00	Guascar, Inga Rey.	1	5
+699	te0051-01	Iupangui.	1	3
+700	te0051-00	Guascar, Inga Rey.	1	5
+701	te0051-01	Iupangui.	2	10
+702	te0051-00	Guascar, Inga Rey.	2	11
+703	te0051-01	Iupangui.	10	39
+704	te0051-00	Guascar, Inga Rey.	5	20
+705	te0051-01	Iupangui.	3	7
+706	te0051-00	Guascar, Inga Rey.	2	5
+707	te0051-01	Iupangui.	1	5
+708	te0051-96	(unknown)	5	15
+709	te0051-01	Iupangui.	5	20
+710	te0051-08	Vn Indio llamado Andrès.	2	12
+711	te0051-14	Don Lorenço de Mendoça, Conde de Coruña.	2	9
+712	te0051-01	Iupangui.	1	6
+713	te0051-15	Don Geronimo Marañon, Gouernador.	1	6
+714	te0051-08	Vn Indio llamado Andrès.	2	8
+715	te0051-01	Iupangui.	7	34
+716	te0051-14	Don Lorenço de Mendoça, Conde de Coruña.	4	15
+717	te0051-08	Vn Indio llamado Andrès.	2	8
+718	te0051-15	Don Geronimo Marañon, Gouernador.	5	24
+719	te0051-08	Vn Indio llamado Andrès.	2	10
+720	te0051-14	Don Lorenço de Mendoça, Conde de Coruña.	7	29
+721	te0051-15	Don Geronimo Marañon, Gouernador.	4	16
+722	te0051-07	Vnos Indios.	4	13
+723	te0051-01	Iupangui.	4	18
+724	te0051-08	Vn Indio llamado Andrès.	5	28
+725	te0051-99	(unknown)	2	5
+726	te0051-14	Don Lorenço de Mendoça, Conde de Coruña.	3	13
+727	te0051-01	Iupangui.	6	26
+728	te0051-14	Don Lorenço de Mendoça, Conde de Coruña.	6	29
+729	te0051-01	Iupangui.	3	15
+730	te0051-15	Don Geronimo Marañon, Gouernador.	6	27
+731	te0051-14	Don Lorenço de Mendoça, Conde de Coruña.	9	43
+732	te0051-01	Iupangui.	4	15
+733	te0051-14	Don Lorenço de Mendoça, Conde de Coruña.	1	5
+734	te0051-01	Iupangui.	1	6
+735	te0051-14	Don Lorenço de Mendoça, Conde de Coruña.	1	1
+736	te0051-01	Iupangui.	8	32
+737	te0051-07	Vnos Indios.	1	2
+738	te0051-93	(unknown)	1	2
+739	te0051-07	Vnos Indios.	1	2
+740	te0051-93	(unknown)	1	2
+741	te0051-14	Don Lorenço de Mendoça, Conde de Coruña.	24	105
+742	te0051-98	(unknown)	8	31
+743	te0051-99	(unknown)	1	5
+744	te0051-00	Guascar, Inga Rey.	11	54
+745	te0051-98	(unknown)	2	10
+746	te0051-03	Tucapel.	3	13
+747	te0051-07	Vnos Indios.	1	4
+748	te0051-99	(unknown)	2	10
+749	te0051-01	Iupangui.	2	9
+750	te0051-00	Guascar, Inga Rey.	2	12
+751	te0051-08	Vn Indio llamado Andrès.	2	10
+752	te0051-15	Don Geronimo Marañon, Gouernador.	2	12
+753	te0051-14	Don Lorenço de Mendoça, Conde de Coruña.	7	37
+754	te0051-15	Don Geronimo Marañon, Gouernador.	5	17
+755	te0051-18	Acompañamiento, y Musica.	5	18
+756	te0051-24	Voz.	4	17
+757	te0051-24	Voz.	4	18
+758	te0051-18	Acompañamiento, y Musica.	2	9
+759	te0051-03	Tucapel.	4	23
+760	te0051-01	Iupangui.	3	17
+761	te0051-95	(unknown)	2	9

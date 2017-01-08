@@ -1,0 +1,661 @@
+num	id	name	numlines	numwords
+1	te0057-06	Irene, hija del Rey.	1	3
+2	te0057-08	Flora, Dama.	2	2
+3	te0057-07	Siluia, Dama.	1	1
+4	te0057-08	Flora, Dama.	1	1
+5	te0057-06	Irene, hija del Rey.	21	101
+6	te0057-07	Siluia, Dama.	1	1
+7	te0057-08	Flora, Dama.	1	1
+8	te0057-07	Siluia, Dama.	1	1
+9	te0057-06	Irene, hija del Rey.	3	14
+10	te0057-07	Siluia, Dama.	2	6
+11	te0057-06	Irene, hija del Rey.	4	18
+12	te0057-08	Flora, Dama.	1	4
+13	te0057-06	Irene, hija del Rey.	5	20
+14	te0057-08	Flora, Dama.	3	14
+15	te0057-06	Irene, hija del Rey.	37	183
+16	te0057-04	El Demonio.	1	3
+17	te0057-06	Irene, hija del Rey.	12	51
+18	te0057-04	El Demonio.	27	132
+19	te0057-06	Irene, hija del Rey.	95	459
+20	te0057-04	El Demonio.	23	107
+21	te0057-06	Irene, hija del Rey.	1	6
+22	te0057-04	El Demonio.	76	363
+23	te0057-06	Irene, hija del Rey.	1	4
+24	te0057-04	El Demonio.	1	3
+25	te0057-06	Irene, hija del Rey.	7	35
+26	te0057-04	El Demonio.	2	11
+27	te0057-06	Irene, hija del Rey.	8	33
+28	te0057-04	El Demonio.	15	66
+29	te0057-06	Irene, hija del Rey.	2	11
+30	te0057-03	Ceusis, Principe.	2	11
+31	te0057-11	Criados, y Musicos.	3	14
+32	te0057-03	Ceusis, Principe.	7	31
+33	te0057-11	Criados, y Musicos.	3	13
+34	te0057-03	Ceusis, Principe.	5	29
+35	te0057-11	Criados, y Musicos.	2	8
+36	te0057-03	Ceusis, Principe.	10	45
+37	te0057-04	El Demonio.	12	58
+38	te0057-11	Criados, y Musicos.	1	2
+39	te0057-03	Ceusis, Principe.	9	45
+40	te0057-11	Criados, y Musicos.	2	7
+41	te0057-03	Ceusis, Principe.	4	18
+42	te0057-06	Irene, hija del Rey.	2	11
+43	te0057-04	El Demonio.	4	16
+44	te0057-02	Licanoro, Principe.	8	40
+45	te0057-05	Vn Sacerdote de Astarot.	1	4
+46	te0057-02	Licanoro, Principe.	3	11
+47	te0057-05	Vn Sacerdote de Astarot.	1	3
+48	te0057-02	Licanoro, Principe.	3	13
+49	te0057-05	Vn Sacerdote de Astarot.	2	7
+50	te0057-02	Licanoro, Principe.	4	19
+51	te0057-05	Vn Sacerdote de Astarot.	2	10
+52	te0057-02	Licanoro, Principe.	14	68
+53	te0057-05	Vn Sacerdote de Astarot.	1	6
+54	te0057-02	Licanoro, Principe.	4	18
+55	te0057-05	Vn Sacerdote de Astarot.	4	16
+56	te0057-02	Licanoro, Principe.	2	8
+57	te0057-04	El Demonio.	6	29
+58	te0057-05	Vn Sacerdote de Astarot.	2	9
+59	te0057-02	Licanoro, Principe.	2	6
+60	te0057-05	Vn Sacerdote de Astarot.	2	4
+61	te0057-02	Licanoro, Principe.	1	3
+62	te0057-05	Vn Sacerdote de Astarot.	1	2
+63	te0057-02	Licanoro, Principe.	5	23
+64	te0057-05	Vn Sacerdote de Astarot.	4	22
+65	te0057-02	Licanoro, Principe.	2	10
+66	te0057-06	Irene, hija del Rey.	3	13
+67	te0057-04	El Demonio.	6	24
+68	te0057-06	Irene, hija del Rey.	3	12
+69	te0057-04	El Demonio.	1	3
+70	te0057-06	Irene, hija del Rey.	2	10
+71	te0057-10	Liron, Villano.	1	1
+72	te0057-09	Lesbia, Villana.	1	3
+73	te0057-10	Liron, Villano.	9	38
+74	te0057-09	Lesbia, Villana.	1	3
+75	te0057-10	Liron, Villano.	1	3
+76	te0057-09	Lesbia, Villana.	2	8
+77	te0057-10	Liron, Villano.	3	16
+78	te0057-09	Lesbia, Villana.	1	4
+79	te0057-10	Liron, Villano.	44	228
+80	te0057-09	Lesbia, Villana.	7	39
+81	te0057-10	Liron, Villano.	1	3
+82	te0057-09	Lesbia, Villana.	1	2
+83	te0057-10	Liron, Villano.	2	8
+84	te0057-09	Lesbia, Villana.	1	4
+85	te0057-10	Liron, Villano.	1	4
+86	te0057-09	Lesbia, Villana.	1	2
+87	te0057-10	Liron, Villano.	1	2
+88	te0057-09	Lesbia, Villana.	1	5
+89	te0057-10	Liron, Villano.	1	5
+90	te0057-09	Lesbia, Villana.	1	2
+91	te0057-10	Liron, Villano.	2	6
+92	te0057-09	Lesbia, Villana.	1	7
+93	te0057-10	Liron, Villano.	1	7
+94	te0057-09	Lesbia, Villana.	1	4
+95	te0057-98	(unknown)	1	2
+96	te0057-10	Liron, Villano.	1	4
+97	te0057-09	Lesbia, Villana.	8	43
+98	te0057-10	Liron, Villano.	5	22
+99	te0057-09	Lesbia, Villana.	5	22
+100	te0057-01	El Rey Polemon.	16	87
+101	te0057-03	Ceusis, Principe.	6	33
+102	te0057-10	Liron, Villano.	1	10
+103	te0057-09	Lesbia, Villana.	1	3
+104	te0057-10	Liron, Villano.	1	6
+105	te0057-01	El Rey Polemon.	5	28
+106	te0057-05	Vn Sacerdote de Astarot.	4	23
+107	te0057-01	El Rey Polemon.	5	32
+108	te0057-05	Vn Sacerdote de Astarot.	2	14
+109	te0057-01	El Rey Polemon.	2	11
+110	te0057-11	Criados, y Musicos.	6	28
+111	te0057-01	El Rey Polemon.	10	50
+112	te0057-03	Ceusis, Principe.	6	29
+113	te0057-11	Criados, y Musicos.	3	11
+114	te0057-98	(unknown)	8	42
+115	te0057-03	Ceusis, Principe.	4	20
+116	te0057-05	Vn Sacerdote de Astarot.	1	4
+117	te0057-99	(unknown)	1	1
+118	te0057-09	Lesbia, Villana.	1	3
+119	te0057-10	Liron, Villano.	3	12
+120	te0057-01	El Rey Polemon.	4	16
+121	te0057-11	Criados, y Musicos.	3	11
+122	te0057-04	El Demonio.	8	39
+123	te0057-02	Licanoro, Principe.	4	18
+124	te0057-05	Vn Sacerdote de Astarot.	4	16
+125	te0057-99	(unknown)	1	1
+126	te0057-02	Licanoro, Principe.	4	18
+127	te0057-10	Liron, Villano.	4	15
+128	te0057-09	Lesbia, Villana.	3	17
+129	te0057-10	Liron, Villano.	4	19
+130	te0057-09	Lesbia, Villana.	1	1
+131	te0057-10	Liron, Villano.	1	2
+132	te0057-09	Lesbia, Villana.	1	4
+133	te0057-01	El Rey Polemon.	6	22
+134	te0057-07	Siluia, Dama.	2	4
+135	te0057-01	El Rey Polemon.	4	16
+136	te0057-00	San Bartolomè.	1	2
+137	te0057-01	El Rey Polemon.	2	12
+138	te0057-02	Licanoro, Principe.	2	11
+139	te0057-03	Ceusis, Principe.	3	12
+140	te0057-10	Liron, Villano.	1	5
+141	te0057-09	Lesbia, Villana.	1	5
+142	te0057-04	El Demonio.	7	35
+143	te0057-01	El Rey Polemon.	2	10
+144	te0057-04	El Demonio.	10	56
+145	te0057-01	El Rey Polemon.	1	4
+146	te0057-98	(unknown)	1	2
+147	te0057-02	Licanoro, Principe.	1	5
+148	te0057-98	(unknown)	13	67
+149	te0057-02	Licanoro, Principe.	1	3
+150	te0057-03	Ceusis, Principe.	1	3
+151	te0057-06	Irene, hija del Rey.	20	88
+152	te0057-00	San Bartolomè.	2	7
+153	te0057-10	Liron, Villano.	2	11
+154	te0057-09	Lesbia, Villana.	2	10
+155	te0057-01	El Rey Polemon.	4	20
+156	te0057-02	Licanoro, Principe.	4	18
+157	te0057-03	Ceusis, Principe.	4	18
+158	te0057-06	Irene, hija del Rey.	4	16
+159	te0057-01	El Rey Polemon.	1	4
+160	te0057-02	Licanoro, Principe.	1	3
+161	te0057-03	Ceusis, Principe.	1	3
+162	te0057-06	Irene, hija del Rey.	1	3
+163	te0057-01	El Rey Polemon.	1	3
+164	te0057-02	Licanoro, Principe.	1	3
+165	te0057-03	Ceusis, Principe.	1	2
+166	te0057-06	Irene, hija del Rey.	1	2
+167	te0057-01	El Rey Polemon.	3	9
+168	te0057-09	Lesbia, Villana.	1	2
+169	te0057-00	San Bartolomè.	40	185
+170	te0057-01	El Rey Polemon.	2	7
+171	te0057-06	Irene, hija del Rey.	2	9
+172	te0057-03	Ceusis, Principe.	2	8
+173	te0057-02	Licanoro, Principe.	2	9
+174	te0057-01	El Rey Polemon.	2	9
+175	te0057-00	San Bartolomè.	1	5
+176	te0057-01	El Rey Polemon.	9	40
+177	te0057-00	San Bartolomè.	11	47
+178	te0057-04	El Demonio.	1	2
+179	te0057-00	San Bartolomè.	6	27
+180	te0057-03	Ceusis, Principe.	4	21
+181	te0057-04	El Demonio.	12	56
+182	te0057-00	San Bartolomè.	3	21
+183	te0057-03	Ceusis, Principe.	7	32
+184	te0057-99	(unknown)	1	1
+185	te0057-02	Licanoro, Principe.	2	9
+186	te0057-06	Irene, hija del Rey.	10	45
+187	te0057-00	San Bartolomè.	4	18
+188	te0057-01	El Rey Polemon.	1	3
+189	te0057-03	Ceusis, Principe.	2	7
+190	te0057-99	(unknown)	1	1
+191	te0057-00	San Bartolomè.	2	10
+192	te0057-02	Licanoro, Principe.	1	5
+193	te0057-09	Lesbia, Villana.	1	5
+194	te0057-01	El Rey Polemon.	2	8
+195	te0057-05	Vn Sacerdote de Astarot.	2	9
+196	te0057-06	Irene, hija del Rey.	4	21
+197	te0057-03	Ceusis, Principe.	3	14
+198	te0057-02	Licanoro, Principe.	7	42
+199	te0057-02	Licanoro, Principe.	10	46
+200	te0057-03	Ceusis, Principe.	10	46
+201	te0057-02	Licanoro, Principe.	4	15
+202	te0057-03	Ceusis, Principe.	6	24
+203	te0057-02	Licanoro, Principe.	3	12
+204	te0057-03	Ceusis, Principe.	2	7
+205	te0057-02	Licanoro, Principe.	1	3
+206	te0057-03	Ceusis, Principe.	1	2
+207	te0057-02	Licanoro, Principe.	1	4
+208	te0057-03	Ceusis, Principe.	1	4
+209	te0057-11	Criados, y Musicos.	5	31
+210	te0057-06	Irene, hija del Rey.	4	18
+211	te0057-02	Licanoro, Principe.	7	26
+212	te0057-06	Irene, hija del Rey.	3	14
+213	te0057-03	Ceusis, Principe.	4	19
+214	te0057-06	Irene, hija del Rey.	2	9
+215	te0057-03	Ceusis, Principe.	2	8
+216	te0057-06	Irene, hija del Rey.	2	10
+217	te0057-02	Licanoro, Principe.	1	3
+218	te0057-03	Ceusis, Principe.	1	1
+219	te0057-06	Irene, hija del Rey.	1	1
+220	te0057-98	(unknown)	1	2
+221	te0057-06	Irene, hija del Rey.	5	21
+222	te0057-11	Criados, y Musicos.	5	31
+223	te0057-02	Licanoro, Principe.	10	59
+224	te0057-03	Ceusis, Principe.	10	49
+225	te0057-02	Licanoro, Principe.	10	65
+226	te0057-03	Ceusis, Principe.	10	58
+227	te0057-02	Licanoro, Principe.	2	11
+228	te0057-03	Ceusis, Principe.	3	15
+229	te0057-02	Licanoro, Principe.	1	6
+230	te0057-03	Ceusis, Principe.	1	5
+231	te0057-02	Licanoro, Principe.	1	3
+232	te0057-03	Ceusis, Principe.	1	3
+233	te0057-02	Licanoro, Principe.	1	3
+234	te0057-03	Ceusis, Principe.	1	3
+235	te0057-02	Licanoro, Principe.	1	2
+236	te0057-03	Ceusis, Principe.	1	4
+237	te0057-06	Irene, hija del Rey.	4	25
+238	te0057-02	Licanoro, Principe.	2	8
+239	te0057-03	Ceusis, Principe.	2	7
+240	te0057-02	Licanoro, Principe.	2	7
+241	te0057-06	Irene, hija del Rey.	1	3
+242	te0057-03	Ceusis, Principe.	2	10
+243	te0057-06	Irene, hija del Rey.	1	2
+244	te0057-03	Ceusis, Principe.	3	15
+245	te0057-06	Irene, hija del Rey.	1	1
+246	te0057-03	Ceusis, Principe.	5	25
+247	te0057-02	Licanoro, Principe.	3	14
+248	te0057-06	Irene, hija del Rey.	1	1
+249	te0057-02	Licanoro, Principe.	17	86
+250	te0057-06	Irene, hija del Rey.	20	94
+251	te0057-02	Licanoro, Principe.	2	9
+252	te0057-03	Ceusis, Principe.	2	8
+253	te0057-02	Licanoro, Principe.	1	5
+254	te0057-03	Ceusis, Principe.	2	9
+255	te0057-10	Liron, Villano.	3	19
+256	te0057-03	Ceusis, Principe.	2	10
+257	te0057-02	Licanoro, Principe.	2	10
+258	te0057-03	Ceusis, Principe.	1	3
+259	te0057-06	Irene, hija del Rey.	58	277
+260	te0057-03	Ceusis, Principe.	1	2
+261	te0057-06	Irene, hija del Rey.	1	2
+262	te0057-02	Licanoro, Principe.	1	2
+263	te0057-06	Irene, hija del Rey.	1	2
+264	te0057-03	Ceusis, Principe.	6	31
+265	te0057-02	Licanoro, Principe.	1	5
+266	te0057-06	Irene, hija del Rey.	1	2
+267	te0057-02	Licanoro, Principe.	3	14
+268	te0057-06	Irene, hija del Rey.	1	1
+269	te0057-02	Licanoro, Principe.	8	38
+270	te0057-06	Irene, hija del Rey.	1	5
+271	te0057-02	Licanoro, Principe.	1	4
+272	te0057-06	Irene, hija del Rey.	3	13
+273	te0057-10	Liron, Villano.	1	7
+274	te0057-06	Irene, hija del Rey.	7	32
+275	te0057-02	Licanoro, Principe.	1	3
+276	te0057-06	Irene, hija del Rey.	1	3
+277	te0057-02	Licanoro, Principe.	1	5
+278	te0057-06	Irene, hija del Rey.	3	17
+279	te0057-02	Licanoro, Principe.	3	17
+280	te0057-06	Irene, hija del Rey.	2	8
+281	te0057-02	Licanoro, Principe.	2	12
+282	te0057-06	Irene, hija del Rey.	2	6
+283	te0057-02	Licanoro, Principe.	3	10
+284	te0057-06	Irene, hija del Rey.	2	7
+285	te0057-02	Licanoro, Principe.	1	4
+286	te0057-06	Irene, hija del Rey.	2	8
+287	te0057-02	Licanoro, Principe.	3	11
+288	te0057-06	Irene, hija del Rey.	1	5
+289	te0057-02	Licanoro, Principe.	1	6
+290	te0057-06	Irene, hija del Rey.	2	8
+291	te0057-02	Licanoro, Principe.	1	6
+292	te0057-06	Irene, hija del Rey.	4	17
+293	te0057-02	Licanoro, Principe.	3	9
+294	te0057-06	Irene, hija del Rey.	1	2
+295	te0057-02	Licanoro, Principe.	1	2
+296	te0057-06	Irene, hija del Rey.	1	3
+297	te0057-02	Licanoro, Principe.	1	2
+298	te0057-06	Irene, hija del Rey.	1	2
+299	te0057-02	Licanoro, Principe.	1	2
+300	te0057-06	Irene, hija del Rey.	7	34
+301	te0057-02	Licanoro, Principe.	25	129
+302	te0057-98	(unknown)	3	9
+303	te0057-02	Licanoro, Principe.	9	49
+304	te0057-01	El Rey Polemon.	1	5
+305	te0057-05	Vn Sacerdote de Astarot.	12	54
+306	te0057-01	El Rey Polemon.	9	47
+307	te0057-01	El Rey Polemon.	18	83
+308	te0057-00	San Bartolomè.	7	35
+309	te0057-01	El Rey Polemon.	4	17
+310	te0057-00	San Bartolomè.	6	30
+311	te0057-01	El Rey Polemon.	8	39
+312	te0057-00	San Bartolomè.	24	117
+313	te0057-01	El Rey Polemon.	3	16
+314	te0057-00	San Bartolomè.	4	23
+315	te0057-01	El Rey Polemon.	5	18
+316	te0057-05	Vn Sacerdote de Astarot.	1	4
+317	te0057-01	El Rey Polemon.	2	10
+318	te0057-05	Vn Sacerdote de Astarot.	1	1
+319	te0057-01	El Rey Polemon.	1	4
+320	te0057-05	Vn Sacerdote de Astarot.	3	18
+321	te0057-01	El Rey Polemon.	15	79
+322	te0057-10	Liron, Villano.	51	253
+323	te0057-98	(unknown)	1	3
+324	te0057-10	Liron, Villano.	4	24
+325	te0057-09	Lesbia, Villana.	8	38
+326	te0057-10	Liron, Villano.	1	3
+327	te0057-09	Lesbia, Villana.	3	19
+328	te0057-10	Liron, Villano.	1	1
+329	te0057-09	Lesbia, Villana.	1	5
+330	te0057-10	Liron, Villano.	1	1
+331	te0057-09	Lesbia, Villana.	2	8
+332	te0057-10	Liron, Villano.	3	14
+333	te0057-09	Lesbia, Villana.	3	11
+334	te0057-10	Liron, Villano.	2	9
+335	te0057-09	Lesbia, Villana.	2	9
+336	te0057-10	Liron, Villano.	3	10
+337	te0057-09	Lesbia, Villana.	2	9
+338	te0057-10	Liron, Villano.	1	3
+339	te0057-09	Lesbia, Villana.	3	14
+340	te0057-10	Liron, Villano.	2	9
+341	te0057-09	Lesbia, Villana.	2	8
+342	te0057-10	Liron, Villano.	2	13
+343	te0057-09	Lesbia, Villana.	1	5
+344	te0057-10	Liron, Villano.	1	2
+345	te0057-05	Vn Sacerdote de Astarot.	6	29
+346	te0057-09	Lesbia, Villana.	1	4
+347	te0057-10	Liron, Villano.	1	1
+348	te0057-05	Vn Sacerdote de Astarot.	1	6
+349	te0057-09	Lesbia, Villana.	2	7
+350	te0057-05	Vn Sacerdote de Astarot.	1	2
+351	te0057-09	Lesbia, Villana.	1	5
+352	te0057-05	Vn Sacerdote de Astarot.	1	4
+353	te0057-10	Liron, Villano.	1	1
+354	te0057-05	Vn Sacerdote de Astarot.	14	65
+355	te0057-10	Liron, Villano.	1	5
+356	te0057-05	Vn Sacerdote de Astarot.	4	11
+357	te0057-01	El Rey Polemon.	1	3
+358	te0057-05	Vn Sacerdote de Astarot.	4	21
+359	te0057-10	Liron, Villano.	6	30
+360	te0057-05	Vn Sacerdote de Astarot.	5	20
+361	te0057-10	Liron, Villano.	3	12
+362	te0057-01	El Rey Polemon.	5	30
+363	te0057-10	Liron, Villano.	1	5
+364	te0057-01	El Rey Polemon.	3	14
+365	te0057-10	Liron, Villano.	1	5
+366	te0057-01	El Rey Polemon.	1	3
+367	te0057-02	Licanoro, Principe.	4	13
+368	te0057-10	Liron, Villano.	1	3
+369	te0057-05	Vn Sacerdote de Astarot.	4	18
+370	te0057-00	San Bartolomè.	5	21
+371	te0057-01	El Rey Polemon.	3	13
+372	te0057-10	Liron, Villano.	4	22
+373	te0057-01	El Rey Polemon.	1	4
+374	te0057-05	Vn Sacerdote de Astarot.	2	11
+375	te0057-00	San Bartolomè.	1	5
+376	te0057-03	Ceusis, Principe.	4	20
+377	te0057-01	El Rey Polemon.	1	5
+378	te0057-03	Ceusis, Principe.	19	96
+379	te0057-04	El Demonio.	27	153
+380	te0057-03	Ceusis, Principe.	4	19
+381	te0057-04	El Demonio.	3	16
+382	te0057-01	El Rey Polemon.	2	13
+383	te0057-04	El Demonio.	14	57
+384	te0057-10	Liron, Villano.	2	10
+385	te0057-04	El Demonio.	4	19
+386	te0057-00	San Bartolomè.	1	1
+387	te0057-04	El Demonio.	10	40
+388	te0057-00	San Bartolomè.	7	28
+389	te0057-04	El Demonio.	5	29
+390	te0057-00	San Bartolomè.	1	2
+391	te0057-04	El Demonio.	6	32
+392	te0057-00	San Bartolomè.	4	16
+393	te0057-04	El Demonio.	3	7
+394	te0057-00	San Bartolomè.	2	3
+395	te0057-04	El Demonio.	2	4
+396	te0057-00	San Bartolomè.	2	3
+397	te0057-04	El Demonio.	4	13
+398	te0057-00	San Bartolomè.	4	20
+399	te0057-04	El Demonio.	1	3
+400	te0057-00	San Bartolomè.	1	3
+401	te0057-04	El Demonio.	2	8
+402	te0057-00	San Bartolomè.	2	9
+403	te0057-04	El Demonio.	2	11
+404	te0057-00	San Bartolomè.	2	10
+405	te0057-04	El Demonio.	2	10
+406	te0057-00	San Bartolomè.	2	11
+407	te0057-04	El Demonio.	2	9
+408	te0057-00	San Bartolomè.	2	11
+409	te0057-04	El Demonio.	2	10
+410	te0057-00	San Bartolomè.	2	11
+411	te0057-04	El Demonio.	2	12
+412	te0057-00	San Bartolomè.	2	9
+413	te0057-04	El Demonio.	2	12
+414	te0057-00	San Bartolomè.	2	8
+415	te0057-04	El Demonio.	2	12
+416	te0057-00	San Bartolomè.	2	9
+417	te0057-04	El Demonio.	2	11
+418	te0057-00	San Bartolomè.	2	9
+419	te0057-04	El Demonio.	2	12
+420	te0057-00	San Bartolomè.	2	9
+421	te0057-04	El Demonio.	2	11
+422	te0057-00	San Bartolomè.	2	12
+423	te0057-04	El Demonio.	2	11
+424	te0057-00	San Bartolomè.	2	11
+425	te0057-04	El Demonio.	2	9
+426	te0057-00	San Bartolomè.	2	14
+427	te0057-04	El Demonio.	1	6
+428	te0057-00	San Bartolomè.	3	14
+429	te0057-04	El Demonio.	2	8
+430	te0057-00	San Bartolomè.	2	11
+431	te0057-04	El Demonio.	2	11
+432	te0057-00	San Bartolomè.	4	21
+433	te0057-04	El Demonio.	5	25
+434	te0057-00	San Bartolomè.	8	38
+435	te0057-10	Liron, Villano.	5	26
+436	te0057-03	Ceusis, Principe.	1	5
+437	te0057-99	(unknown)	1	4
+438	te0057-00	San Bartolomè.	3	14
+439	te0057-04	El Demonio.	8	40
+440	te0057-00	San Bartolomè.	4	16
+441	te0057-04	El Demonio.	4	19
+442	te0057-00	San Bartolomè.	2	9
+443	te0057-04	El Demonio.	5	20
+444	te0057-00	San Bartolomè.	4	19
+445	te0057-04	El Demonio.	3	13
+446	te0057-01	El Rey Polemon.	2	6
+447	te0057-11	Criados, y Musicos.	1	2
+448	te0057-00	San Bartolomè.	2	11
+449	te0057-01	El Rey Polemon.	3	17
+450	te0057-00	San Bartolomè.	3	16
+451	te0057-01	El Rey Polemon.	2	7
+452	te0057-00	San Bartolomè.	2	10
+453	te0057-01	El Rey Polemon.	1	1
+454	te0057-00	San Bartolomè.	70	309
+455	te0057-01	El Rey Polemon.	12	58
+456	te0057-02	Licanoro, Principe.	1	6
+457	te0057-03	Ceusis, Principe.	1	6
+458	te0057-02	Licanoro, Principe.	1	5
+459	te0057-03	Ceusis, Principe.	2	4
+460	te0057-02	Licanoro, Principe.	1	2
+461	te0057-03	Ceusis, Principe.	1	2
+462	te0057-01	El Rey Polemon.	12	57
+463	te0057-00	San Bartolomè.	19	80
+464	te0057-02	Licanoro, Principe.	1	3
+465	te0057-03	Ceusis, Principe.	1	3
+466	te0057-01	El Rey Polemon.	4	16
+467	te0057-02	Licanoro, Principe.	3	11
+468	te0057-03	Ceusis, Principe.	4	20
+469	te0057-02	Licanoro, Principe.	1	4
+470	te0057-03	Ceusis, Principe.	4	17
+471	te0057-02	Licanoro, Principe.	1	5
+472	te0057-00	San Bartolomè.	2	11
+473	te0057-03	Ceusis, Principe.	4	17
+474	te0057-00	San Bartolomè.	4	18
+475	te0057-01	El Rey Polemon.	2	7
+476	te0057-02	Licanoro, Principe.	3	12
+477	te0057-03	Ceusis, Principe.	3	14
+478	te0057-02	Licanoro, Principe.	3	16
+479	te0057-03	Ceusis, Principe.	2	11
+480	te0057-01	El Rey Polemon.	4	18
+481	te0057-00	San Bartolomè.	10	45
+482	te0057-06	Irene, hija del Rey.	2	10
+483	te0057-00	San Bartolomè.	1	7
+484	te0057-06	Irene, hija del Rey.	6	30
+485	te0057-01	El Rey Polemon.	1	3
+486	te0057-02	Licanoro, Principe.	1	4
+487	te0057-06	Irene, hija del Rey.	3	10
+488	te0057-01	El Rey Polemon.	4	15
+489	te0057-06	Irene, hija del Rey.	5	20
+490	te0057-02	Licanoro, Principe.	1	6
+491	te0057-03	Ceusis, Principe.	1	6
+492	te0057-06	Irene, hija del Rey.	12	67
+493	te0057-02	Licanoro, Principe.	2	10
+494	te0057-03	Ceusis, Principe.	2	12
+495	te0057-01	El Rey Polemon.	7	33
+496	te0057-00	San Bartolomè.	2	9
+497	te0057-03	Ceusis, Principe.	2	9
+498	te0057-02	Licanoro, Principe.	2	10
+499	te0057-00	San Bartolomè.	2	9
+500	te0057-98	(unknown)	1	1
+501	te0057-00	San Bartolomè.	1	3
+502	te0057-11	Criados, y Musicos.	1	1
+503	te0057-00	San Bartolomè.	3	12
+504	te0057-11	Criados, y Musicos.	1	1
+505	te0057-00	San Bartolomè.	1	5
+506	te0057-11	Criados, y Musicos.	1	1
+507	te0057-00	San Bartolomè.	2	9
+508	te0057-06	Irene, hija del Rey.	5	22
+509	te0057-00	San Bartolomè.	2	11
+510	te0057-06	Irene, hija del Rey.	5	21
+511	te0057-00	San Bartolomè.	3	13
+512	te0057-06	Irene, hija del Rey.	6	22
+513	te0057-01	El Rey Polemon.	2	6
+514	te0057-02	Licanoro, Principe.	1	4
+515	te0057-06	Irene, hija del Rey.	1	5
+516	te0057-01	El Rey Polemon.	1	1
+517	te0057-02	Licanoro, Principe.	2	8
+518	te0057-00	San Bartolomè.	1	2
+519	te0057-03	Ceusis, Principe.	1	3
+520	te0057-00	San Bartolomè.	6	18
+521	te0057-06	Irene, hija del Rey.	7	30
+522	te0057-00	San Bartolomè.	1	4
+523	te0057-06	Irene, hija del Rey.	3	16
+524	te0057-00	San Bartolomè.	2	8
+525	te0057-06	Irene, hija del Rey.	2	8
+526	te0057-00	San Bartolomè.	2	6
+527	te0057-06	Irene, hija del Rey.	1	3
+528	te0057-00	San Bartolomè.	1	3
+529	te0057-06	Irene, hija del Rey.	2	11
+530	te0057-01	El Rey Polemon.	2	12
+531	te0057-00	San Bartolomè.	5	25
+532	te0057-06	Irene, hija del Rey.	1	6
+533	te0057-00	San Bartolomè.	1	1
+534	te0057-06	Irene, hija del Rey.	1	2
+535	te0057-00	San Bartolomè.	2	5
+536	te0057-06	Irene, hija del Rey.	3	12
+537	te0057-00	San Bartolomè.	2	9
+538	te0057-06	Irene, hija del Rey.	3	11
+539	te0057-00	San Bartolomè.	1	3
+540	te0057-06	Irene, hija del Rey.	4	16
+541	te0057-00	San Bartolomè.	3	10
+542	te0057-06	Irene, hija del Rey.	4	17
+543	te0057-03	Ceusis, Principe.	2	9
+544	te0057-00	San Bartolomè.	4	17
+545	te0057-06	Irene, hija del Rey.	6	28
+546	te0057-00	San Bartolomè.	5	22
+547	te0057-06	Irene, hija del Rey.	4	19
+548	te0057-01	El Rey Polemon.	1	5
+549	te0057-02	Licanoro, Principe.	1	2
+550	te0057-03	Ceusis, Principe.	2	7
+551	te0057-02	Licanoro, Principe.	1	4
+552	te0057-06	Irene, hija del Rey.	5	24
+553	te0057-01	El Rey Polemon.	2	9
+554	te0057-06	Irene, hija del Rey.	9	45
+555	te0057-01	El Rey Polemon.	2	6
+556	te0057-02	Licanoro, Principe.	1	4
+557	te0057-06	Irene, hija del Rey.	2	4
+558	te0057-03	Ceusis, Principe.	3	10
+559	te0057-01	El Rey Polemon.	6	32
+560	te0057-03	Ceusis, Principe.	18	80
+561	te0057-98	(unknown)	1	1
+562	te0057-03	Ceusis, Principe.	8	36
+563	te0057-04	El Demonio.	1	1
+564	te0057-03	Ceusis, Principe.	1	3
+565	te0057-04	El Demonio.	2	7
+566	te0057-03	Ceusis, Principe.	2	9
+567	te0057-04	El Demonio.	4	17
+568	te0057-03	Ceusis, Principe.	1	2
+569	te0057-04	El Demonio.	2	11
+570	te0057-03	Ceusis, Principe.	3	8
+571	te0057-04	El Demonio.	6	27
+572	te0057-03	Ceusis, Principe.	2	8
+573	te0057-04	El Demonio.	4	16
+574	te0057-03	Ceusis, Principe.	1	1
+575	te0057-04	El Demonio.	1	2
+576	te0057-03	Ceusis, Principe.	1	3
+577	te0057-04	El Demonio.	19	86
+578	te0057-03	Ceusis, Principe.	3	9
+579	te0057-04	El Demonio.	2	8
+580	te0057-03	Ceusis, Principe.	1	1
+581	te0057-04	El Demonio.	3	10
+582	te0057-03	Ceusis, Principe.	4	15
+583	te0057-04	El Demonio.	7	29
+584	te0057-95	(unknown)	34	143
+585	te0057-11	Criados, y Musicos.	4	16
+586	te0057-04	El Demonio.	38	183
+587	te0057-05	Vn Sacerdote de Astarot.	1	2
+588	te0057-03	Ceusis, Principe.	1	2
+589	te0057-04	El Demonio.	3	16
+590	te0057-03	Ceusis, Principe.	10	58
+591	te0057-04	El Demonio.	16	89
+592	te0057-05	Vn Sacerdote de Astarot.	1	2
+593	te0057-04	El Demonio.	2	10
+594	te0057-00	San Bartolomè.	6	33
+595	te0057-04	El Demonio.	6	36
+596	te0057-00	San Bartolomè.	4	17
+597	te0057-04	El Demonio.	1	3
+598	te0057-00	San Bartolomè.	2	14
+599	te0057-04	El Demonio.	2	12
+600	te0057-00	San Bartolomè.	1	5
+601	te0057-04	El Demonio.	4	20
+602	te0057-00	San Bartolomè.	2	12
+603	te0057-03	Ceusis, Principe.	4	24
+604	te0057-00	San Bartolomè.	6	39
+605	te0057-03	Ceusis, Principe.	2	14
+606	te0057-00	San Bartolomè.	4	23
+607	te0057-02	Licanoro, Principe.	40	187
+608	te0057-06	Irene, hija del Rey.	5	28
+609	te0057-04	El Demonio.	1	3
+610	te0057-06	Irene, hija del Rey.	1	2
+611	te0057-02	Licanoro, Principe.	2	13
+612	te0057-04	El Demonio.	4	17
+613	te0057-06	Irene, hija del Rey.	1	4
+614	te0057-04	El Demonio.	3	13
+615	te0057-02	Licanoro, Principe.	1	5
+616	te0057-06	Irene, hija del Rey.	5	26
+617	te0057-02	Licanoro, Principe.	3	10
+618	te0057-04	El Demonio.	5	21
+619	te0057-02	Licanoro, Principe.	3	16
+620	te0057-06	Irene, hija del Rey.	3	14
+621	te0057-04	El Demonio.	11	51
+622	te0057-02	Licanoro, Principe.	2	10
+623	te0057-04	El Demonio.	1	3
+624	te0057-02	Licanoro, Principe.	5	20
+625	te0057-04	El Demonio.	8	35
+626	te0057-02	Licanoro, Principe.	3	14
+627	te0057-06	Irene, hija del Rey.	1	2
+628	te0057-02	Licanoro, Principe.	6	29
+629	te0057-06	Irene, hija del Rey.	1	5
+630	te0057-02	Licanoro, Principe.	7	28
+631	te0057-06	Irene, hija del Rey.	1	2
+632	te0057-02	Licanoro, Principe.	1	5
+633	te0057-06	Irene, hija del Rey.	1	2
+634	te0057-02	Licanoro, Principe.	1	5
+635	te0057-06	Irene, hija del Rey.	2	8
+636	te0057-02	Licanoro, Principe.	5	26
+637	te0057-06	Irene, hija del Rey.	5	24
+638	te0057-10	Liron, Villano.	1	1
+639	te0057-06	Irene, hija del Rey.	2	9
+640	te0057-02	Licanoro, Principe.	5	22
+641	te0057-06	Irene, hija del Rey.	3	14
+642	te0057-02	Licanoro, Principe.	5	20
+643	te0057-06	Irene, hija del Rey.	2	7
+644	te0057-11	Criados, y Musicos.	2	11
+645	te0057-02	Licanoro, Principe.	1	5
+646	te0057-06	Irene, hija del Rey.	1	5
+647	te0057-01	El Rey Polemon.	3	11
+648	te0057-11	Criados, y Musicos.	2	8
+649	te0057-02	Licanoro, Principe.	3	12
+650	te0057-01	El Rey Polemon.	2	5
+651	te0057-02	Licanoro, Principe.	14	65
+652	te0057-11	Criados, y Musicos.	2	11
+653	te0057-00	San Bartolomè.	14	60
+654	te0057-04	El Demonio.	19	87
+655	te0057-00	San Bartolomè.	4	17
+656	te0057-04	El Demonio.	2	7
+657	te0057-00	San Bartolomè.	2	11
+658	te0057-01	El Rey Polemon.	2	11
+659	te0057-02	Licanoro, Principe.	2	8
+660	te0057-09	Lesbia, Villana.	7	30

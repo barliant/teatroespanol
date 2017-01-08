@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="Vitoria su hermana." label="Vitoria su hermana." />
+      <node id="La Duquesa." label="La Duquesa." />
+      <node id="Don Pedro de Castilla." label="Don Pedro de Castilla." />
+      <node id="El Duque de Capua." label="El Duque de Capua." />
+      <node id="(unknown)" label="(unknown)" />
+      <node id="Romero." label="Romero." />
+      <node id="Cap." label="Cap." />
+      <node id="Carlos gran Mariscal." label="Carlos gran Mariscal." />
+      <node id="El Duque de Placencia." label="El Duque de Placencia." />
+    </nodes>
+    <edges>
+      <edge id="0" source="Vitoria su hermana." target="La Duquesa." weight="1302" />
+      <edge id="1" source="Vitoria su hermana." target="Don Pedro de Castilla." weight="980" />
+      <edge id="2" source="Vitoria su hermana." target="El Duque de Capua." weight="12" />
+      <edge id="3" source="Vitoria su hermana." target="Romero." weight="757" />
+      <edge id="4" source="Vitoria su hermana." target="Cap." weight="54" />
+      <edge id="5" source="Vitoria su hermana." target="El Duque de Placencia." weight="89" />
+      <edge id="6" source="Vitoria su hermana." target="Carlos gran Mariscal." weight="693" />
+      <edge id="7" source="La Duquesa." target="Don Pedro de Castilla." weight="3877" />
+      <edge id="8" source="La Duquesa." target="(unknown)" weight="200" />
+      <edge id="9" source="La Duquesa." target="Romero." weight="1673" />
+      <edge id="10" source="La Duquesa." target="Cap." weight="128" />
+      <edge id="11" source="La Duquesa." target="Carlos gran Mariscal." weight="478" />
+      <edge id="12" source="La Duquesa." target="El Duque de Placencia." weight="126" />
+      <edge id="13" source="Don Pedro de Castilla." target="El Duque de Capua." weight="56" />
+      <edge id="14" source="Don Pedro de Castilla." target="Romero." weight="501" />
+      <edge id="15" source="Don Pedro de Castilla." target="Cap." weight="11" />
+      <edge id="16" source="Don Pedro de Castilla." target="Carlos gran Mariscal." weight="733" />
+      <edge id="17" source="El Duque de Capua." target="(unknown)" weight="19" />
+      <edge id="18" source="El Duque de Capua." target="Romero." weight="32" />
+      <edge id="19" source="El Duque de Capua." target="Carlos gran Mariscal." weight="303" />
+      <edge id="20" source="Romero." target="Cap." weight="5" />
+      <edge id="21" source="Romero." target="Carlos gran Mariscal." weight="64" />
+      <edge id="22" source="Cap." target="Carlos gran Mariscal." weight="34" />
+      <edge id="23" source="Cap." target="El Duque de Placencia." weight="46" />
+    </edges>
+  </graph>
+</gexf>

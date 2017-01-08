@@ -1,0 +1,548 @@
+num	id	name	numlines	numwords
+1	te0049-17	Musicos.	22	113
+2	te0049-05	El Hombre.	8	38
+3	te0049-16	Dos Mugeres.	5	23
+4	te0049-05	El Hombre.	3	19
+5	te0049-16	Dos Mugeres.	3	18
+6	te0049-05	El Hombre.	1	6
+7	te0049-16	Dos Mugeres.	3	16
+8	te0049-05	El Hombre.	3	17
+9	te0049-16	Dos Mugeres.	4	16
+10	te0049-05	El Hombre.	3	14
+11	te0049-16	Dos Mugeres.	2	10
+12	te0049-05	El Hombre.	1	5
+13	te0049-16	Dos Mugeres.	2	9
+14	te0049-05	El Hombre.	16	73
+15	te0049-16	Dos Mugeres.	7	32
+16	te0049-05	El Hombre.	1	1
+17	te0049-16	Dos Mugeres.	1	1
+18	te0049-05	El Hombre.	1	4
+19	te0049-16	Dos Mugeres.	1	3
+20	te0049-95	(unknown)	4	17
+21	te0049-05	El Hombre.	20	92
+22	te0049-16	Dos Mugeres.	12	51
+23	te0049-98	(unknown)	2	9
+24	te0049-05	El Hombre.	9	45
+25	te0049-16	Dos Mugeres.	16	76
+26	te0049-98	(unknown)	3	14
+27	te0049-05	El Hombre.	13	56
+28	te0049-16	Dos Mugeres.	9	38
+29	te0049-98	(unknown)	3	14
+30	te0049-05	El Hombre.	12	59
+31	te0049-16	Dos Mugeres.	9	40
+32	te0049-98	(unknown)	3	14
+33	te0049-05	El Hombre.	8	38
+34	te0049-16	Dos Mugeres.	19	93
+35	te0049-98	(unknown)	1	6
+36	te0049-05	El Hombre.	5	23
+37	te0049-16	Dos Mugeres.	8	39
+38	te0049-98	(unknown)	1	6
+39	te0049-96	(unknown)	1	3
+40	te0049-05	El Hombre.	1	6
+41	te0049-05	El Hombre.	1	6
+42	te0049-05	El Hombre.	1	6
+43	te0049-05	El Hombre.	1	2
+44	te0049-98	(unknown)	1	6
+45	te0049-16	Dos Mugeres.	8	43
+46	te0049-05	El Hombre.	1	6
+47	te0049-16	Dos Mugeres.	1	3
+48	te0049-05	El Hombre.	1	4
+49	te0049-16	Dos Mugeres.	27	131
+50	te0049-05	El Hombre.	6	23
+51	te0049-16	Dos Mugeres.	34	154
+52	te0049-05	El Hombre.	9	39
+53	te0049-23	Vnos.	1	2
+54	te0049-25	Otros.	3	10
+55	te0049-99	(unknown)	1	3
+56	te0049-98	(unknown)	4	18
+57	te0049-01	la Culpa.	8	34
+58	te0049-02	El Mundo.	5	27
+59	te0049-01	la Culpa.	9	40
+60	te0049-03	El Demonio.	6	25
+61	te0049-01	la Culpa.	10	44
+62	te0049-04	La Lascivia.	4	18
+63	te0049-01	la Culpa.	11	46
+64	te0049-02	El Mundo.	1	2
+65	te0049-03	El Demonio.	1	3
+66	te0049-04	La Lascivia.	1	2
+67	te0049-02	El Mundo.	17	82
+68	te0049-03	El Demonio.	12	60
+69	te0049-04	La Lascivia.	27	116
+70	te0049-03	El Demonio.	2	8
+71	te0049-02	El Mundo.	2	9
+72	te0049-01	la Culpa.	13	65
+73	te0049-03	El Demonio.	1	3
+74	te0049-02	El Mundo.	3	12
+75	te0049-04	La Lascivia.	2	7
+76	te0049-01	la Culpa.	2	9
+77	te0049-05	El Hombre.	8	36
+78	te0049-06	El Deseo.	11	45
+79	te0049-05	El Hombre.	7	35
+80	te0049-04	La Lascivia.	4	19
+81	te0049-01	la Culpa.	1	4
+82	te0049-96	(unknown)	1	1
+83	te0049-01	la Culpa.	1	7
+84	te0049-05	El Hombre.	3	14
+85	te0049-09	Un Levita.	2	9
+86	te0049-05	El Hombre.	1	3
+87	te0049-09	Un Levita.	13	57
+88	te0049-05	El Hombre.	10	49
+89	te0049-09	Un Levita.	21	103
+90	te0049-05	El Hombre.	2	8
+91	te0049-09	Un Levita.	3	10
+92	te0049-05	El Hombre.	1	2
+93	te0049-09	Un Levita.	3	15
+94	te0049-03	El Demonio.	2	8
+95	te0049-02	El Mundo.	3	11
+96	te0049-04	La Lascivia.	2	3
+97	te0049-05	El Hombre.	3	11
+98	te0049-06	El Deseo.	4	12
+99	te0049-05	El Hombre.	4	21
+100	te0049-06	El Deseo.	2	6
+101	te0049-05	El Hombre.	3	16
+102	te0049-12	Vn Sacerdote.	6	26
+103	te0049-05	El Hombre.	4	17
+104	te0049-12	Vn Sacerdote.	37	168
+105	te0049-05	El Hombre.	2	7
+106	te0049-12	Vn Sacerdote.	3	12
+107	te0049-05	El Hombre.	1	2
+108	te0049-12	Vn Sacerdote.	3	17
+109	te0049-96	(unknown)	2	9
+110	te0049-01	la Culpa.	1	1
+111	te0049-06	El Deseo.	4	14
+112	te0049-05	El Hombre.	3	13
+113	te0049-06	El Deseo.	1	2
+114	te0049-05	El Hombre.	5	24
+115	te0049-11	El Samaritano.	1	3
+116	te0049-05	El Hombre.	6	21
+117	te0049-11	El Samaritano.	11	49
+118	te0049-05	El Hombre.	5	22
+119	te0049-11	El Samaritano.	10	42
+120	te0049-05	El Hombre.	2	5
+121	te0049-11	El Samaritano.	13	67
+122	te0049-05	El Hombre.	1	5
+123	te0049-11	El Samaritano.	2	10
+124	te0049-06	El Deseo.	2	6
+125	te0049-05	El Hombre.	5	24
+126	te0049-06	El Deseo.	2	12
+127	te0049-05	El Hombre.	3	9
+128	te0049-06	El Deseo.	2	3
+129	te0049-05	El Hombre.	2	6
+130	te0049-06	El Deseo.	1	2
+131	te0049-05	El Hombre.	3	16
+132	te0049-01	la Culpa.	8	35
+133	te0049-96	(unknown)	1	3
+134	te0049-01	la Culpa.	248	1097
+135	te0049-02	El Mundo.	8	34
+136	te0049-98	(unknown)	3	10
+137	te0049-01	la Culpa.	1	6
+138	te0049-04	La Lascivia.	1	3
+139	te0049-01	la Culpa.	3	12
+140	te0049-03	El Demonio.	12	51
+141	te0049-98	(unknown)	2	7
+142	te0049-01	la Culpa.	2	5
+143	te0049-04	La Lascivia.	7	30
+144	te0049-06	El Deseo.	3	17
+145	te0049-96	(unknown)	1	2
+146	te0049-06	El Deseo.	4	14
+147	te0049-01	la Culpa.	3	11
+148	te0049-96	(unknown)	1	2
+149	te0049-06	El Deseo.	3	12
+150	te0049-01	la Culpa.	3	14
+151	te0049-06	El Deseo.	5	26
+152	te0049-02	El Mundo.	2	9
+153	te0049-06	El Deseo.	2	7
+154	te0049-03	El Demonio.	4	14
+155	te0049-06	El Deseo.	3	15
+156	te0049-04	La Lascivia.	2	7
+157	te0049-06	El Deseo.	1	2
+158	te0049-04	La Lascivia.	2	8
+159	te0049-06	El Deseo.	7	38
+160	te0049-01	la Culpa.	2	10
+161	te0049-96	(unknown)	1	1
+162	te0049-06	El Deseo.	2	11
+163	te0049-01	la Culpa.	2	10
+164	te0049-04	La Lascivia.	1	2
+165	te0049-96	(unknown)	1	2
+166	te0049-06	El Deseo.	36	186
+167	te0049-01	la Culpa.	11	53
+168	te0049-04	La Lascivia.	5	23
+169	te0049-01	la Culpa.	1	6
+170	te0049-06	El Deseo.	2	10
+171	te0049-01	la Culpa.	4	17
+172	te0049-06	El Deseo.	4	23
+173	te0049-02	El Mundo.	5	28
+174	te0049-01	la Culpa.	1	5
+175	te0049-06	El Deseo.	2	10
+176	te0049-01	la Culpa.	6	26
+177	te0049-04	La Lascivia.	7	26
+178	te0049-02	El Mundo.	1	5
+179	te0049-06	El Deseo.	1	2
+180	te0049-02	El Mundo.	1	2
+181	te0049-06	El Deseo.	2	14
+182	te0049-02	El Mundo.	4	16
+183	te0049-06	El Deseo.	4	15
+184	te0049-03	El Demonio.	4	19
+185	te0049-01	la Culpa.	5	23
+186	te0049-03	El Demonio.	2	3
+187	te0049-01	la Culpa.	1	4
+188	te0049-96	(unknown)	4	17
+189	te0049-05	El Hombre.	32	155
+190	te0049-98	(unknown)	1	5
+191	te0049-05	El Hombre.	5	27
+192	te0049-98	(unknown)	2	10
+193	te0049-05	El Hombre.	3	13
+194	te0049-07	La Gracia.	1	1
+195	te0049-05	El Hombre.	1	5
+196	te0049-07	La Gracia.	1	1
+197	te0049-05	El Hombre.	8	39
+198	te0049-07	La Gracia.	1	4
+199	te0049-05	El Hombre.	2	6
+200	te0049-07	La Gracia.	1	4
+201	te0049-05	El Hombre.	6	34
+202	te0049-07	La Gracia.	1	2
+203	te0049-05	El Hombre.	1	5
+204	te0049-07	La Gracia.	1	1
+205	te0049-05	El Hombre.	1	5
+206	te0049-07	La Gracia.	1	1
+207	te0049-05	El Hombre.	3	15
+208	te0049-96	(unknown)	1	4
+209	te0049-05	El Hombre.	1	6
+210	te0049-07	La Gracia.	1	1
+211	te0049-05	El Hombre.	1	7
+212	te0049-07	La Gracia.	1	2
+213	te0049-05	El Hombre.	2	8
+214	te0049-07	La Gracia.	1	2
+215	te0049-05	El Hombre.	3	18
+216	te0049-96	(unknown)	1	5
+217	te0049-05	El Hombre.	1	6
+218	te0049-07	La Gracia.	1	1
+219	te0049-05	El Hombre.	1	7
+220	te0049-07	La Gracia.	1	4
+221	te0049-05	El Hombre.	1	6
+222	te0049-07	La Gracia.	1	2
+223	te0049-05	El Hombre.	3	13
+224	te0049-96	(unknown)	1	5
+225	te0049-05	El Hombre.	1	5
+226	te0049-07	La Gracia.	1	3
+227	te0049-05	El Hombre.	2	9
+228	te0049-07	La Gracia.	1	2
+229	te0049-05	El Hombre.	2	10
+230	te0049-07	La Gracia.	1	2
+231	te0049-05	El Hombre.	3	15
+232	te0049-96	(unknown)	1	6
+233	te0049-05	El Hombre.	3	12
+234	te0049-07	La Gracia.	1	2
+235	te0049-05	El Hombre.	1	3
+236	te0049-07	La Gracia.	7	34
+237	te0049-05	El Hombre.	90	405
+238	te0049-04	La Lascivia.	3	8
+239	te0049-05	El Hombre.	5	22
+240	te0049-04	La Lascivia.	13	57
+241	te0049-05	El Hombre.	5	20
+242	te0049-04	La Lascivia.	52	243
+243	te0049-05	El Hombre.	40	216
+244	te0049-04	La Lascivia.	2	10
+245	te0049-05	El Hombre.	2	7
+246	te0049-04	La Lascivia.	1	1
+247	te0049-05	El Hombre.	1	3
+248	te0049-04	La Lascivia.	1	2
+249	te0049-05	El Hombre.	1	2
+250	te0049-04	La Lascivia.	3	14
+251	te0049-05	El Hombre.	1	3
+252	te0049-04	La Lascivia.	5	26
+253	te0049-05	El Hombre.	2	10
+254	te0049-04	La Lascivia.	11	58
+255	te0049-05	El Hombre.	1	1
+256	te0049-04	La Lascivia.	1	3
+257	te0049-05	El Hombre.	6	25
+258	te0049-04	La Lascivia.	1	2
+259	te0049-05	El Hombre.	1	1
+260	te0049-04	La Lascivia.	9	41
+261	te0049-05	El Hombre.	1	4
+262	te0049-06	El Deseo.	1	6
+263	te0049-05	El Hombre.	2	10
+264	te0049-06	El Deseo.	1	1
+265	te0049-05	El Hombre.	9	46
+266	te0049-06	El Deseo.	7	34
+267	te0049-05	El Hombre.	2	4
+268	te0049-06	El Deseo.	11	58
+269	te0049-05	El Hombre.	2	10
+270	te0049-06	El Deseo.	1	3
+271	te0049-05	El Hombre.	1	3
+272	te0049-06	El Deseo.	1	5
+273	te0049-05	El Hombre.	3	10
+274	te0049-04	La Lascivia.	2	7
+275	te0049-96	(unknown)	2	5
+276	te0049-04	La Lascivia.	9	42
+277	te0049-98	(unknown)	3	14
+278	te0049-02	El Mundo.	2	8
+279	te0049-03	El Demonio.	2	5
+280	te0049-01	la Culpa.	3	16
+281	te0049-06	El Deseo.	2	10
+282	te0049-05	El Hombre.	6	31
+283	te0049-96	(unknown)	2	8
+284	te0049-05	El Hombre.	1	4
+285	te0049-06	El Deseo.	6	30
+286	te0049-02	El Mundo.	4	15
+287	te0049-05	El Hombre.	3	13
+288	te0049-03	El Demonio.	2	8
+289	te0049-05	El Hombre.	2	9
+290	te0049-06	El Deseo.	3	12
+291	te0049-05	El Hombre.	1	2
+292	te0049-06	El Deseo.	3	10
+293	te0049-05	El Hombre.	2	9
+294	te0049-06	El Deseo.	2	10
+295	te0049-05	El Hombre.	1	2
+296	te0049-96	(unknown)	1	3
+297	te0049-04	La Lascivia.	3	13
+298	te0049-05	El Hombre.	3	11
+299	te0049-04	La Lascivia.	6	28
+300	te0049-05	El Hombre.	2	10
+301	te0049-01	la Culpa.	1	3
+302	te0049-05	El Hombre.	1	2
+303	te0049-03	El Demonio.	1	3
+304	te0049-05	El Hombre.	1	2
+305	te0049-02	El Mundo.	1	3
+306	te0049-05	El Hombre.	3	17
+307	te0049-06	El Deseo.	2	11
+308	te0049-04	La Lascivia.	5	24
+309	te0049-03	El Demonio.	4	13
+310	te0049-02	El Mundo.	4	18
+311	te0049-01	la Culpa.	8	42
+312	te0049-03	El Demonio.	6	31
+313	te0049-04	La Lascivia.	10	53
+314	te0049-01	la Culpa.	3	14
+315	te0049-04	La Lascivia.	1	5
+316	te0049-02	El Mundo.	1	5
+317	te0049-03	El Demonio.	1	5
+318	te0049-04	La Lascivia.	5	19
+319	te0049-01	la Culpa.	2	5
+320	te0049-04	La Lascivia.	2	7
+321	te0049-03	El Demonio.	2	10
+322	te0049-02	El Mundo.	2	7
+323	te0049-01	la Culpa.	2	7
+324	te0049-96	(unknown)	2	8
+325	te0049-03	El Demonio.	1	4
+326	te0049-02	El Mundo.	1	2
+327	te0049-01	la Culpa.	1	2
+328	te0049-04	La Lascivia.	1	3
+329	te0049-96	(unknown)	2	10
+330	te0049-05	El Hombre.	7	31
+331	te0049-06	El Deseo.	13	63
+332	te0049-05	El Hombre.	2	6
+333	te0049-06	El Deseo.	1	1
+334	te0049-05	El Hombre.	1	3
+335	te0049-06	El Deseo.	3	9
+336	te0049-05	El Hombre.	6	27
+337	te0049-06	El Deseo.	5	25
+338	te0049-05	El Hombre.	1	4
+339	te0049-01	la Culpa.	16	82
+340	te0049-98	(unknown)	5	21
+341	te0049-09	Un Levita.	12	57
+342	te0049-98	(unknown)	5	24
+343	te0049-01	la Culpa.	9	41
+344	te0049-06	El Deseo.	4	17
+345	te0049-05	El Hombre.	1	4
+346	te0049-95	(unknown)	3	12
+347	te0049-01	la Culpa.	3	13
+348	te0049-95	(unknown)	2	8
+349	te0049-06	El Deseo.	5	24
+350	te0049-09	Un Levita.	2	5
+351	te0049-06	El Deseo.	10	51
+352	te0049-09	Un Levita.	23	119
+353	te0049-06	El Deseo.	4	14
+354	te0049-05	El Hombre.	1	3
+355	te0049-01	la Culpa.	8	38
+356	te0049-08	El Luzero.	1	4
+357	te0049-17	Musicos.	2	9
+358	te0049-08	El Luzero.	2	13
+359	te0049-17	Musicos.	1	3
+360	te0049-12	Vn Sacerdote.	14	74
+361	te0049-95	(unknown)	2	13
+362	te0049-08	El Luzero.	5	20
+363	te0049-01	la Culpa.	2	8
+364	te0049-08	El Luzero.	3	15
+365	te0049-01	la Culpa.	5	27
+366	te0049-08	El Luzero.	5	21
+367	te0049-17	Musicos.	1	1
+368	te0049-08	El Luzero.	1	8
+369	te0049-17	Musicos.	2	13
+370	te0049-01	la Culpa.	27	138
+371	te0049-95	(unknown)	2	13
+372	te0049-12	Vn Sacerdote.	8	35
+373	te0049-06	El Deseo.	10	48
+374	te0049-12	Vn Sacerdote.	17	85
+375	te0049-06	El Deseo.	3	12
+376	te0049-05	El Hombre.	3	14
+377	te0049-06	El Deseo.	14	58
+378	te0049-17	Musicos.	4	27
+379	te0049-07	La Gracia.	12	66
+380	te0049-24	Alv.	3	17
+381	te0049-07	La Gracia.	2	10
+382	te0049-24	Alv.	3	16
+383	te0049-07	La Gracia.	3	13
+384	te0049-24	Alv.	5	21
+385	te0049-97	(unknown)	5	23
+386	te0049-07	La Gracia.	3	10
+387	te0049-24	Alv.	3	14
+388	te0049-07	La Gracia.	2	9
+389	te0049-24	Alv.	3	11
+390	te0049-07	La Gracia.	2	9
+391	te0049-24	Alv.	3	14
+392	te0049-07	La Gracia.	2	10
+393	te0049-24	Alv.	3	12
+394	te0049-07	La Gracia.	1	7
+395	te0049-17	Musicos.	2	16
+396	te0049-04	La Lascivia.	6	28
+397	te0049-01	la Culpa.	1	3
+398	te0049-04	La Lascivia.	2	11
+399	te0049-01	la Culpa.	5	24
+400	te0049-04	La Lascivia.	4	16
+401	te0049-01	la Culpa.	14	72
+402	te0049-04	La Lascivia.	6	23
+403	te0049-01	la Culpa.	1	4
+404	te0049-96	(unknown)	1	3
+405	te0049-03	El Demonio.	1	3
+406	te0049-02	El Mundo.	1	3
+407	te0049-06	El Deseo.	2	5
+408	te0049-05	El Hombre.	2	8
+409	te0049-96	(unknown)	2	6
+410	te0049-01	la Culpa.	24	132
+411	te0049-22	Sol.	1	2
+412	te0049-17	Musicos.	1	2
+413	te0049-22	Sol.	1	8
+414	te0049-17	Musicos.	1	4
+415	te0049-22	Sol.	2	17
+416	te0049-17	Musicos.	1	3
+417	te0049-02	El Mundo.	7	29
+418	te0049-04	La Lascivia.	28	139
+419	te0049-03	El Demonio.	1	2
+420	te0049-02	El Mundo.	7	35
+421	te0049-22	Sol.	5	20
+422	te0049-02	El Mundo.	4	16
+423	te0049-22	Sol.	3	11
+424	te0049-02	El Mundo.	1	2
+425	te0049-22	Sol.	4	21
+426	te0049-02	El Mundo.	5	24
+427	te0049-22	Sol.	1	4
+428	te0049-02	El Mundo.	6	26
+429	te0049-22	Sol.	10	49
+430	te0049-02	El Mundo.	3	16
+431	te0049-22	Sol.	7	38
+432	te0049-02	El Mundo.	12	61
+433	te0049-03	El Demonio.	11	58
+434	te0049-22	Sol.	5	20
+435	te0049-03	El Demonio.	12	61
+436	te0049-06	El Deseo.	5	27
+437	te0049-05	El Hombre.	2	10
+438	te0049-06	El Deseo.	6	28
+439	te0049-22	Sol.	3	16
+440	te0049-06	El Deseo.	1	2
+441	te0049-22	Sol.	3	9
+442	te0049-05	El Hombre.	3	13
+443	te0049-22	Sol.	2	13
+444	te0049-05	El Hombre.	15	102
+445	te0049-22	Sol.	2	12
+446	te0049-05	El Hombre.	2	12
+447	te0049-22	Sol.	7	37
+448	te0049-01	la Culpa.	15	76
+449	te0049-22	Sol.	1	3
+450	te0049-05	El Hombre.	2	8
+451	te0049-22	Sol.	2	12
+452	te0049-05	El Hombre.	1	4
+453	te0049-22	Sol.	5	21
+454	te0049-06	El Deseo.	2	7
+455	te0049-22	Sol.	2	8
+456	te0049-06	El Deseo.	1	2
+457	te0049-22	Sol.	1	6
+458	te0049-01	la Culpa.	4	16
+459	te0049-06	El Deseo.	1	4
+460	te0049-22	Sol.	2	11
+461	te0049-01	la Culpa.	10	54
+462	te0049-06	El Deseo.	3	9
+463	te0049-22	Sol.	4	18
+464	te0049-06	El Deseo.	4	13
+465	te0049-22	Sol.	3	13
+466	te0049-06	El Deseo.	1	4
+467	te0049-00	San Pedro.	1	2
+468	te0049-22	Sol.	6	30
+469	te0049-00	San Pedro.	7	37
+470	te0049-22	Sol.	1	1
+471	te0049-00	San Pedro.	1	4
+472	te0049-22	Sol.	21	102
+473	te0049-05	El Hombre.	1	4
+474	te0049-06	El Deseo.	1	4
+475	te0049-00	San Pedro.	3	18
+476	te0049-05	El Hombre.	3	14
+477	te0049-00	San Pedro.	2	8
+478	te0049-98	(unknown)	1	3
+479	te0049-00	San Pedro.	1	4
+480	te0049-26	Cor.	1	3
+481	te0049-26	Cor.	1	3
+482	te0049-00	San Pedro.	4	15
+483	te0049-99	(unknown)	2	10
+484	te0049-95	(unknown)	4	14
+485	te0049-00	San Pedro.	5	27
+486	te0049-20	1.	2	12
+487	te0049-00	San Pedro.	6	29
+488	te0049-21	2.	3	12
+489	te0049-00	San Pedro.	11	54
+490	te0049-20	1.	3	15
+491	te0049-00	San Pedro.	5	24
+492	te0049-21	2.	3	15
+493	te0049-00	San Pedro.	4	20
+494	te0049-95	(unknown)	4	14
+495	te0049-96	(unknown)	1	5
+496	te0049-01	la Culpa.	5	17
+497	te0049-03	El Demonio.	7	27
+498	te0049-04	La Lascivia.	5	24
+499	te0049-01	la Culpa.	7	32
+500	te0049-98	(unknown)	2	5
+501	te0049-01	la Culpa.	5	21
+502	te0049-04	La Lascivia.	10	49
+503	te0049-98	(unknown)	6	24
+504	te0049-04	La Lascivia.	4	23
+505	te0049-02	El Mundo.	3	17
+506	te0049-98	(unknown)	9	41
+507	te0049-02	El Mundo.	3	16
+508	te0049-03	El Demonio.	4	17
+509	te0049-98	(unknown)	4	11
+510	te0049-03	El Demonio.	4	21
+511	te0049-04	La Lascivia.	3	15
+512	te0049-17	Musicos.	4	17
+513	te0049-01	la Culpa.	15	75
+514	te0049-00	San Pedro.	7	26
+515	te0049-03	El Demonio.	4	20
+516	te0049-14	La Noche.	3	18
+517	te0049-96	(unknown)	1	2
+518	te0049-09	Un Levita.	4	19
+519	te0049-01	la Culpa.	4	16
+520	te0049-14	La Noche.	5	21
+521	te0049-96	(unknown)	1	2
+522	te0049-08	El Luzero.	5	19
+523	te0049-96	(unknown)	1	2
+524	te0049-12	Vn Sacerdote.	5	22
+525	te0049-04	La Lascivia.	1	6
+526	te0049-12	Vn Sacerdote.	1	5
+527	te0049-96	(unknown)	1	2
+528	te0049-24	Alv.	2	7
+529	te0049-07	La Gracia.	3	15
+530	te0049-22	Sol.	12	57
+531	te0049-95	(unknown)	1	4
+532	te0049-95	(unknown)	1	4
+533	te0049-01	la Culpa.	1	4
+534	te0049-03	El Demonio.	1	4
+535	te0049-04	La Lascivia.	1	3
+536	te0049-02	El Mundo.	1	3
+537	te0049-01	la Culpa.	1	4
+538	te0049-02	El Mundo.	1	4
+539	te0049-04	La Lascivia.	1	4
+540	te0049-03	El Demonio.	1	5
+541	te0049-05	El Hombre.	2	9
+542	te0049-06	El Deseo.	2	7
+543	te0049-99	(unknown)	2	8
+544	te0049-22	Sol.	6	26
+545	te0049-23	Vnos.	1	2
+546	te0049-25	Otros.	4	16
+547	te0049-95	(unknown)	4	16

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="Cosimiro Conde." label="Cosimiro Conde." />
+      <node id="Leonelo Cavallero." label="Leonelo Cavallero." />
+      <node id="Casi." label="Casi." />
+      <node id="Diana Condesa." label="Diana Condesa." />
+      <node id="Liberio viejo." label="Liberio viejo." />
+      <node id="Lucrecia criada." label="Lucrecia criada." />
+      <node id="Pinabel cavallero." label="Pinabel cavallero." />
+      <node id="Cla." label="Cla." />
+      <node id="Floro cavallero." label="Floro cavallero." />
+      <node id="Chinchilla lacayo." label="Chinchilla lacayo." />
+      <node id="Roberto." label="Roberto." />
+      <node id="Clavela dama." label="Clavela dama." />
+      <node id="Don Rodrigo Giron." label="Don Rodrigo Giron." />
+    </nodes>
+    <edges>
+      <edge id="0" source="Cosimiro Conde." target="Leonelo Cavallero." weight="27" />
+      <edge id="1" source="Cosimiro Conde." target="Pinabel cavallero." weight="573" />
+      <edge id="2" source="Cosimiro Conde." target="Cla." weight="7" />
+      <edge id="3" source="Cosimiro Conde." target="Casi." weight="321" />
+      <edge id="4" source="Cosimiro Conde." target="Diana Condesa." weight="688" />
+      <edge id="5" source="Cosimiro Conde." target="Chinchilla lacayo." weight="208" />
+      <edge id="6" source="Cosimiro Conde." target="Liberio viejo." weight="215" />
+      <edge id="7" source="Cosimiro Conde." target="Floro cavallero." weight="7" />
+      <edge id="8" source="Cosimiro Conde." target="Clavela dama." weight="1342" />
+      <edge id="9" source="Cosimiro Conde." target="Don Rodrigo Giron." weight="2648" />
+      <edge id="10" source="Leonelo Cavallero." target="Pinabel cavallero." weight="106" />
+      <edge id="11" source="Casi." target="Floro cavallero." weight="836" />
+      <edge id="12" source="Casi." target="Pinabel cavallero." weight="68" />
+      <edge id="13" source="Casi." target="Diana Condesa." weight="35" />
+      <edge id="14" source="Casi." target="Chinchilla lacayo." weight="388" />
+      <edge id="15" source="Casi." target="Clavela dama." weight="530" />
+      <edge id="16" source="Casi." target="Don Rodrigo Giron." weight="270" />
+      <edge id="17" source="Diana Condesa." target="Pinabel cavallero." weight="12" />
+      <edge id="18" source="Diana Condesa." target="Chinchilla lacayo." weight="829" />
+      <edge id="19" source="Diana Condesa." target="Liberio viejo." weight="24" />
+      <edge id="20" source="Diana Condesa." target="Clavela dama." weight="85" />
+      <edge id="21" source="Liberio viejo." target="Pinabel cavallero." weight="64" />
+      <edge id="22" source="Liberio viejo." target="Cla." weight="3" />
+      <edge id="23" source="Liberio viejo." target="Lucrecia criada." weight="11" />
+      <edge id="24" source="Liberio viejo." target="Chinchilla lacayo." weight="428" />
+      <edge id="25" source="Liberio viejo." target="Roberto." weight="5" />
+      <edge id="26" source="Liberio viejo." target="Clavela dama." weight="21" />
+      <edge id="27" source="Liberio viejo." target="Don Rodrigo Giron." weight="148" />
+      <edge id="28" source="Lucrecia criada." target="Chinchilla lacayo." weight="565" />
+      <edge id="29" source="Lucrecia criada." target="Don Rodrigo Giron." weight="10" />
+      <edge id="30" source="Pinabel cavallero." target="Chinchilla lacayo." weight="281" />
+      <edge id="31" source="Pinabel cavallero." target="Clavela dama." weight="6" />
+      <edge id="32" source="Pinabel cavallero." target="Don Rodrigo Giron." weight="1199" />
+      <edge id="33" source="Floro cavallero." target="Chinchilla lacayo." weight="38" />
+      <edge id="34" source="Floro cavallero." target="Don Rodrigo Giron." weight="226" />
+      <edge id="35" source="Chinchilla lacayo." target="Clavela dama." weight="280" />
+      <edge id="36" source="Chinchilla lacayo." target="Roberto." weight="88" />
+      <edge id="37" source="Chinchilla lacayo." target="Don Rodrigo Giron." weight="2314" />
+      <edge id="38" source="Clavela dama." target="Don Rodrigo Giron." weight="754" />
+    </edges>
+  </graph>
+</gexf>

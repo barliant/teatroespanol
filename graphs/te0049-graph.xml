@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="El Deseo." label="El Deseo." />
+      <node id="La Noche." label="La Noche." />
+      <node id="La Lascivia." label="La Lascivia." />
+      <node id="Vnos." label="Vnos." />
+      <node id="la Culpa." label="la Culpa." />
+      <node id="Un Levita." label="Un Levita." />
+      <node id="El Mundo." label="El Mundo." />
+      <node id="Vn Sacerdote." label="Vn Sacerdote." />
+      <node id="Dos Mugeres." label="Dos Mugeres." />
+      <node id="Alv." label="Alv." />
+      <node id="El Demonio." label="El Demonio." />
+      <node id="(unknown)" label="(unknown)" />
+      <node id="El Luzero." label="El Luzero." />
+      <node id="Sol." label="Sol." />
+      <node id="Otros." label="Otros." />
+      <node id="Musicos." label="Musicos." />
+      <node id="El Hombre." label="El Hombre." />
+      <node id="Cor." label="Cor." />
+      <node id="1." label="1." />
+      <node id="San Pedro." label="San Pedro." />
+      <node id="El Samaritano." label="El Samaritano." />
+      <node id="La Gracia." label="La Gracia." />
+      <node id="2." label="2." />
+    </nodes>
+    <edges>
+      <edge id="0" source="El Deseo." target="El Demonio." weight="97" />
+      <edge id="1" source="El Deseo." target="La Lascivia." weight="73" />
+      <edge id="2" source="El Deseo." target="la Culpa." weight="451" />
+      <edge id="3" source="El Deseo." target="Un Levita." weight="199" />
+      <edge id="4" source="El Deseo." target="El Mundo." weight="130" />
+      <edge id="5" source="El Deseo." target="(unknown)" weight="39" />
+      <edge id="6" source="El Deseo." target="Musicos." weight="58" />
+      <edge id="7" source="El Deseo." target="Vn Sacerdote." weight="168" />
+      <edge id="8" source="El Deseo." target="San Pedro." weight="8" />
+      <edge id="9" source="El Deseo." target="El Samaritano." weight="10" />
+      <edge id="10" source="El Deseo." target="Sol." weight="141" />
+      <edge id="11" source="El Deseo." target="El Hombre." weight="766" />
+      <edge id="12" source="La Noche." target="(unknown)" weight="39" />
+      <edge id="13" source="La Noche." target="El Demonio." weight="20" />
+      <edge id="14" source="La Noche." target="la Culpa." weight="16" />
+      <edge id="15" source="La Lascivia." target="El Demonio." weight="441" />
+      <edge id="16" source="La Lascivia." target="Musicos." weight="31" />
+      <edge id="17" source="La Lascivia." target="Vn Sacerdote." weight="28" />
+      <edge id="18" source="La Lascivia." target="(unknown)" weight="135" />
+      <edge id="19" source="La Lascivia." target="la Culpa." weight="529" />
+      <edge id="20" source="La Lascivia." target="El Mundo." weight="115" />
+      <edge id="21" source="La Lascivia." target="El Hombre." weight="1280" />
+      <edge id="22" source="Vnos." target="Sol." weight="26" />
+      <edge id="23" source="Vnos." target="El Hombre." weight="39" />
+      <edge id="24" source="Vnos." target="Otros." weight="4" />
+      <edge id="25" source="la Culpa." target="El Demonio." weight="255" />
+      <edge id="26" source="la Culpa." target="El Mundo." weight="1275" />
+      <edge id="27" source="la Culpa." target="Sol." weight="262" />
+      <edge id="28" source="la Culpa." target="(unknown)" weight="444" />
+      <edge id="29" source="la Culpa." target="Musicos." weight="30" />
+      <edge id="30" source="la Culpa." target="San Pedro." weight="75" />
+      <edge id="31" source="la Culpa." target="Un Levita." weight="19" />
+      <edge id="32" source="la Culpa." target="El Luzero." weight="108" />
+      <edge id="33" source="la Culpa." target="El Hombre." weight="52" />
+      <edge id="34" source="Un Levita." target="(unknown)" weight="80" />
+      <edge id="35" source="Un Levita." target="El Demonio." weight="15" />
+      <edge id="36" source="Un Levita." target="El Hombre." weight="255" />
+      <edge id="37" source="El Mundo." target="El Demonio." weight="225" />
+      <edge id="38" source="El Mundo." target="Musicos." weight="3" />
+      <edge id="39" source="El Mundo." target="(unknown)" weight="106" />
+      <edge id="40" source="El Mundo." target="Sol." weight="262" />
+      <edge id="41" source="El Mundo." target="El Hombre." weight="20" />
+      <edge id="42" source="Vn Sacerdote." target="(unknown)" weight="111" />
+      <edge id="43" source="Vn Sacerdote." target="Musicos." weight="3" />
+      <edge id="44" source="Vn Sacerdote." target="El Hombre." weight="248" />
+      <edge id="45" source="Dos Mugeres." target="(unknown)" weight="346" />
+      <edge id="46" source="Dos Mugeres." target="El Hombre." weight="979" />
+      <edge id="47" source="Alv." target="(unknown)" weight="23" />
+      <edge id="48" source="Alv." target="La Gracia." weight="218" />
+      <edge id="49" source="El Demonio." target="(unknown)" weight="90" />
+      <edge id="50" source="El Demonio." target="San Pedro." weight="26" />
+      <edge id="51" source="El Demonio." target="El Hombre." weight="31" />
+      <edge id="52" source="El Demonio." target="Sol." weight="78" />
+      <edge id="53" source="(unknown)" target="Sol." weight="65" />
+      <edge id="54" source="(unknown)" target="Otros." weight="26" />
+      <edge id="55" source="(unknown)" target="San Pedro." weight="60" />
+      <edge id="56" source="(unknown)" target="El Luzero." weight="34" />
+      <edge id="57" source="(unknown)" target="La Gracia." weight="23" />
+      <edge id="58" source="(unknown)" target="El Hombre." weight="437" />
+      <edge id="59" source="El Luzero." target="Musicos." weight="56" />
+      <edge id="60" source="Sol." target="Musicos." weight="33" />
+      <edge id="61" source="Sol." target="San Pedro." weight="74" />
+      <edge id="62" source="Sol." target="El Hombre." weight="290" />
+      <edge id="63" source="Sol." target="La Gracia." weight="15" />
+      <edge id="64" source="Musicos." target="La Gracia." weight="34" />
+      <edge id="65" source="Musicos." target="El Hombre." weight="113" />
+      <edge id="66" source="El Hombre." target="San Pedro." weight="32" />
+      <edge id="67" source="El Hombre." target="El Samaritano." weight="238" />
+      <edge id="68" source="El Hombre." target="La Gracia." weight="255" />
+      <edge id="69" source="Cor." target="San Pedro." weight="7" />
+      <edge id="70" source="1." target="San Pedro." weight="108" />
+      <edge id="71" source="San Pedro." target="2." weight="80" />
+    </edges>
+  </graph>
+</gexf>

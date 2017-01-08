@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="Serafina, Dama." label="Serafina, Dama." />
+      <node id="Nise." label="Nise." />
+      <node id="Flora, Dama." label="Flora, Dama." />
+      <node id="Vno." label="Vno." />
+      <node id="Celio, vejete." label="Celio, vejete." />
+      <node id="(unknown)" label="(unknown)" />
+      <node id="Federico, Conde de Mompeller." label="Federico, Conde de Mompeller." />
+      <node id="Musicos." label="Musicos." />
+      <node id="Estela." label="Estela." />
+      <node id="Cesar." label="Cesar." />
+      <node id="Capricho, Gracioso." label="Capricho, Gracioso." />
+      <node id="Fabio, criado." label="Fabio, criado." />
+      <node id="Lib." label="Lib." />
+      <node id="Enrique, Duque de Bearne." label="Enrique, Duque de Bearne." />
+      <node id="Roberto, Viejo." label="Roberto, Viejo." />
+      <node id="Carlos." label="Carlos." />
+      <node id="Margarita, Dama." label="Margarita, Dama." />
+    </nodes>
+    <edges>
+      <edge id="0" source="Serafina, Dama." target="Cesar." weight="1292" />
+      <edge id="1" source="Serafina, Dama." target="Capricho, Gracioso." weight="309" />
+      <edge id="2" source="Serafina, Dama." target="Fabio, criado." weight="35" />
+      <edge id="3" source="Serafina, Dama." target="Musicos." weight="63" />
+      <edge id="4" source="Serafina, Dama." target="Nise." weight="94" />
+      <edge id="5" source="Serafina, Dama." target="(unknown)" weight="205" />
+      <edge id="6" source="Serafina, Dama." target="Federico, Conde de Mompeller." weight="95" />
+      <edge id="7" source="Serafina, Dama." target="Roberto, Viejo." weight="400" />
+      <edge id="8" source="Serafina, Dama." target="Estela." weight="346" />
+      <edge id="9" source="Serafina, Dama." target="Enrique, Duque de Bearne." weight="7" />
+      <edge id="10" source="Serafina, Dama." target="Margarita, Dama." weight="460" />
+      <edge id="11" source="Nise." target="Cesar." weight="168" />
+      <edge id="12" source="Nise." target="Capricho, Gracioso." weight="91" />
+      <edge id="13" source="Flora, Dama." target="Cesar." weight="979" />
+      <edge id="14" source="Flora, Dama." target="Capricho, Gracioso." weight="356" />
+      <edge id="15" source="Flora, Dama." target="Fabio, criado." weight="9" />
+      <edge id="16" source="Flora, Dama." target="Carlos." weight="38" />
+      <edge id="17" source="Flora, Dama." target="(unknown)" weight="9" />
+      <edge id="18" source="Flora, Dama." target="Enrique, Duque de Bearne." weight="2" />
+      <edge id="19" source="Flora, Dama." target="Margarita, Dama." weight="1864" />
+      <edge id="20" source="Vno." target="Roberto, Viejo." weight="8" />
+      <edge id="21" source="Celio, vejete." target="(unknown)" weight="38" />
+      <edge id="22" source="Celio, vejete." target="Capricho, Gracioso." weight="11" />
+      <edge id="23" source="Celio, vejete." target="Cesar." weight="266" />
+      <edge id="24" source="Celio, vejete." target="Carlos." weight="9" />
+      <edge id="25" source="(unknown)" target="Cesar." weight="99" />
+      <edge id="26" source="(unknown)" target="Capricho, Gracioso." weight="125" />
+      <edge id="27" source="(unknown)" target="Fabio, criado." weight="11" />
+      <edge id="28" source="(unknown)" target="Musicos." weight="15" />
+      <edge id="29" source="(unknown)" target="Federico, Conde de Mompeller." weight="17" />
+      <edge id="30" source="(unknown)" target="Estela." weight="6" />
+      <edge id="31" source="Federico, Conde de Mompeller." target="Cesar." weight="179" />
+      <edge id="32" source="Federico, Conde de Mompeller." target="Capricho, Gracioso." weight="273" />
+      <edge id="33" source="Federico, Conde de Mompeller." target="Fabio, criado." weight="118" />
+      <edge id="34" source="Federico, Conde de Mompeller." target="Lib." weight="84" />
+      <edge id="35" source="Federico, Conde de Mompeller." target="Roberto, Viejo." weight="60" />
+      <edge id="36" source="Federico, Conde de Mompeller." target="Estela." weight="6" />
+      <edge id="37" source="Federico, Conde de Mompeller." target="Enrique, Duque de Bearne." weight="507" />
+      <edge id="38" source="Federico, Conde de Mompeller." target="Margarita, Dama." weight="86" />
+      <edge id="39" source="Musicos." target="Cesar." weight="79" />
+      <edge id="40" source="Musicos." target="Enrique, Duque de Bearne." weight="10" />
+      <edge id="41" source="Musicos." target="Margarita, Dama." weight="36" />
+      <edge id="42" source="Estela." target="Cesar." weight="32" />
+      <edge id="43" source="Estela." target="Capricho, Gracioso." weight="33" />
+      <edge id="44" source="Estela." target="Fabio, criado." weight="5" />
+      <edge id="45" source="Estela." target="Margarita, Dama." weight="4" />
+      <edge id="46" source="Cesar." target="Capricho, Gracioso." weight="2495" />
+      <edge id="47" source="Cesar." target="Enrique, Duque de Bearne." weight="836" />
+      <edge id="48" source="Cesar." target="Roberto, Viejo." weight="55" />
+      <edge id="49" source="Cesar." target="Carlos." weight="1177" />
+      <edge id="50" source="Cesar." target="Margarita, Dama." weight="567" />
+      <edge id="51" source="Capricho, Gracioso." target="Carlos." weight="106" />
+      <edge id="52" source="Capricho, Gracioso." target="Fabio, criado." weight="27" />
+      <edge id="53" source="Capricho, Gracioso." target="Enrique, Duque de Bearne." weight="249" />
+      <edge id="54" source="Capricho, Gracioso." target="Roberto, Viejo." weight="52" />
+      <edge id="55" source="Capricho, Gracioso." target="Margarita, Dama." weight="692" />
+      <edge id="56" source="Fabio, criado." target="Carlos." weight="16" />
+      <edge id="57" source="Enrique, Duque de Bearne." target="Carlos." weight="777" />
+      <edge id="58" source="Enrique, Duque de Bearne." target="Roberto, Viejo." weight="301" />
+      <edge id="59" source="Enrique, Duque de Bearne." target="Margarita, Dama." weight="318" />
+      <edge id="60" source="Roberto, Viejo." target="Carlos." weight="15" />
+      <edge id="61" source="Carlos." target="Margarita, Dama." weight="38" />
+    </edges>
+  </graph>
+</gexf>

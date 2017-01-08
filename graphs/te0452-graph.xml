@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="Don Iuan Capitan." label="Don Iuan Capitan." />
+      <node id="Doña Isabel de Segura." label="Doña Isabel de Segura." />
+      <node id="Garceran su criado." label="Garceran su criado." />
+      <node id="3" label="3" />
+      <node id="(unknown)" label="(unknown)" />
+      <node id="Don Gonçalo Cauallero." label="Don Gonçalo Cauallero." />
+      <node id="Hipolito de Marsilla." label="Hipolito de Marsilla." />
+      <node id="Vn Sargento." label="Vn Sargento." />
+      <node id="Lain su lacayo." label="Lain su lacayo." />
+      <node id="1" label="1" />
+      <node id="Drusila su criada." label="Drusila su criada." />
+      <node id="2" label="2" />
+      <node id="El Infante don Luis de Portugal." label="El Infante don Luis de Portugal." />
+      <node id="Tamb." label="Tamb." />
+      <node id="Don Pedro Capitan." label="Don Pedro Capitan." />
+      <node id="El Duque de Alua." label="El Duque de Alua." />
+      <node id="Rufino padre de doña Isabel." label="Rufino padre de doña Isabel." />
+      <node id="El Marques de Mondejar, que es Mendoça." label="El Marques de Mondejar, que es Mendoça." />
+    </nodes>
+    <edges>
+      <edge id="0" source="Don Iuan Capitan." target="Doña Isabel de Segura." weight="184" />
+      <edge id="1" source="Don Iuan Capitan." target="Drusila su criada." weight="47" />
+      <edge id="2" source="Don Iuan Capitan." target="El Infante don Luis de Portugal." weight="3" />
+      <edge id="3" source="Don Iuan Capitan." target="(unknown)" weight="18" />
+      <edge id="4" source="Don Iuan Capitan." target="Don Pedro Capitan." weight="349" />
+      <edge id="5" source="Don Iuan Capitan." target="Rufino padre de doña Isabel." weight="175" />
+      <edge id="6" source="Don Iuan Capitan." target="Don Gonçalo Cauallero." weight="445" />
+      <edge id="7" source="Don Iuan Capitan." target="El Marques de Mondejar, que es Mendoça." weight="5" />
+      <edge id="8" source="Doña Isabel de Segura." target="Hipolito de Marsilla." weight="10" />
+      <edge id="9" source="Doña Isabel de Segura." target="Drusila su criada." weight="1882" />
+      <edge id="10" source="Doña Isabel de Segura." target="(unknown)" weight="172" />
+      <edge id="11" source="Doña Isabel de Segura." target="Garceran su criado." weight="4" />
+      <edge id="12" source="Doña Isabel de Segura." target="Rufino padre de doña Isabel." weight="499" />
+      <edge id="13" source="Doña Isabel de Segura." target="Don Gonçalo Cauallero." weight="803" />
+      <edge id="14" source="Doña Isabel de Segura." target="El Marques de Mondejar, que es Mendoça." weight="597" />
+      <edge id="15" source="Garceran su criado." target="Lain su lacayo." weight="5" />
+      <edge id="16" source="Garceran su criado." target="Tamb." weight="51" />
+      <edge id="17" source="Garceran su criado." target="El Infante don Luis de Portugal." weight="131" />
+      <edge id="18" source="Garceran su criado." target="(unknown)" weight="11" />
+      <edge id="19" source="Garceran su criado." target="El Duque de Alua." weight="74" />
+      <edge id="20" source="Garceran su criado." target="Rufino padre de doña Isabel." weight="11" />
+      <edge id="21" source="Garceran su criado." target="Don Gonçalo Cauallero." weight="1065" />
+      <edge id="22" source="Garceran su criado." target="El Marques de Mondejar, que es Mendoça." weight="991" />
+      <edge id="23" source="3" target="El Marques de Mondejar, que es Mendoça." weight="41" />
+      <edge id="24" source="3" target="2" weight="35" />
+      <edge id="25" source="(unknown)" target="1" weight="2" />
+      <edge id="26" source="(unknown)" target="Lain su lacayo." weight="2" />
+      <edge id="27" source="(unknown)" target="Don Pedro Capitan." weight="9" />
+      <edge id="28" source="(unknown)" target="Don Gonçalo Cauallero." weight="63" />
+      <edge id="29" source="(unknown)" target="El Marques de Mondejar, que es Mendoça." weight="288" />
+      <edge id="30" source="Don Gonçalo Cauallero." target="Drusila su criada." weight="180" />
+      <edge id="31" source="Don Gonçalo Cauallero." target="Tamb." weight="19" />
+      <edge id="32" source="Don Gonçalo Cauallero." target="El Infante don Luis de Portugal." weight="39" />
+      <edge id="33" source="Don Gonçalo Cauallero." target="Don Pedro Capitan." weight="22" />
+      <edge id="34" source="Don Gonçalo Cauallero." target="Rufino padre de doña Isabel." weight="713" />
+      <edge id="35" source="Don Gonçalo Cauallero." target="El Marques de Mondejar, que es Mendoça." weight="404" />
+      <edge id="36" source="Don Gonçalo Cauallero." target="Lain su lacayo." weight="46" />
+      <edge id="37" source="Hipolito de Marsilla." target="Lain su lacayo." weight="262" />
+      <edge id="38" source="Hipolito de Marsilla." target="Rufino padre de doña Isabel." weight="40" />
+      <edge id="39" source="Vn Sargento." target="Lain su lacayo." weight="36" />
+      <edge id="40" source="Lain su lacayo." target="1" weight="6" />
+      <edge id="41" source="Lain su lacayo." target="Drusila su criada." weight="68" />
+      <edge id="42" source="Lain su lacayo." target="2" weight="6" />
+      <edge id="43" source="Lain su lacayo." target="Don Pedro Capitan." weight="63" />
+      <edge id="44" source="Lain su lacayo." target="Rufino padre de doña Isabel." weight="282" />
+      <edge id="45" source="Lain su lacayo." target="El Marques de Mondejar, que es Mendoça." weight="2267" />
+      <edge id="46" source="1" target="2" weight="32" />
+      <edge id="47" source="Drusila su criada." target="Rufino padre de doña Isabel." weight="224" />
+      <edge id="48" source="Drusila su criada." target="El Marques de Mondejar, que es Mendoça." weight="10" />
+      <edge id="49" source="2" target="El Marques de Mondejar, que es Mendoça." weight="13" />
+      <edge id="50" source="El Infante don Luis de Portugal." target="El Duque de Alua." weight="24" />
+      <edge id="51" source="El Infante don Luis de Portugal." target="El Marques de Mondejar, que es Mendoça." weight="17" />
+      <edge id="52" source="Don Pedro Capitan." target="El Marques de Mondejar, que es Mendoça." weight="91" />
+      <edge id="53" source="El Duque de Alua." target="El Marques de Mondejar, que es Mendoça." weight="31" />
+      <edge id="54" source="Rufino padre de doña Isabel." target="El Marques de Mondejar, que es Mendoça." weight="1038" />
+    </edges>
+  </graph>
+</gexf>

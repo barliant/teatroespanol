@@ -1,0 +1,624 @@
+num	id	name	numlines	numwords
+1	te0048-09	Doña Maria.	1	5
+2	te0048-04	Beatriz.	15	70
+3	te0048-09	Doña Maria.	2	10
+4	te0048-04	Beatriz.	5	26
+5	te0048-09	Doña Maria.	2	6
+6	te0048-04	Beatriz.	19	85
+7	te0048-09	Doña Maria.	5	20
+8	te0048-04	Beatriz.	10	46
+9	te0048-09	Doña Maria.	28	134
+10	te0048-04	Beatriz.	3	16
+11	te0048-09	Doña Maria.	4	20
+12	te0048-04	Beatriz.	17	72
+13	te0048-93	(unknown)	3	10
+14	te0048-04	Beatriz.	2	7
+15	te0048-09	Doña Maria.	1	3
+16	te0048-01	Don Iuan.	3	11
+17	te0048-09	Doña Maria.	2	6
+18	te0048-01	Don Iuan.	8	33
+19	te0048-09	Doña Maria.	1	2
+20	te0048-01	Don Iuan.	119	597
+21	te0048-09	Doña Maria.	74	355
+22	te0048-01	Don Iuan.	27	130
+23	te0048-09	Doña Maria.	18	96
+24	te0048-01	Don Iuan.	4	18
+25	te0048-09	Doña Maria.	2	8
+26	te0048-04	Beatriz.	4	16
+27	te0048-09	Doña Maria.	5	25
+28	te0048-04	Beatriz.	2	9
+29	te0048-09	Doña Maria.	2	8
+30	te0048-06	Don Diego.	9	38
+31	te0048-09	Doña Maria.	20	86
+32	te0048-00	Moron.	3	14
+33	te0048-06	Don Diego.	4	17
+34	te0048-04	Beatriz.	2	10
+35	te0048-06	Don Diego.	1	5
+36	te0048-04	Beatriz.	2	7
+37	te0048-06	Don Diego.	5	25
+38	te0048-04	Beatriz.	4	16
+39	te0048-00	Moron.	11	49
+40	te0048-06	Don Diego.	1	1
+41	te0048-04	Beatriz.	3	14
+42	te0048-06	Don Diego.	6	28
+43	te0048-00	Moron.	2	7
+44	te0048-04	Beatriz.	2	10
+45	te0048-00	Moron.	6	26
+46	te0048-04	Beatriz.	2	7
+47	te0048-00	Moron.	6	26
+48	te0048-04	Beatriz.	2	10
+49	te0048-00	Moron.	4	19
+50	te0048-04	Beatriz.	5	24
+51	te0048-00	Moron.	5	28
+52	te0048-04	Beatriz.	3	17
+53	te0048-00	Moron.	2	8
+54	te0048-04	Beatriz.	2	6
+55	te0048-00	Moron.	2	11
+56	te0048-04	Beatriz.	1	1
+57	te0048-00	Moron.	1	5
+58	te0048-01	Don Iuan.	6	43
+59	te0048-07	Don Carlos.	1	4
+60	te0048-01	Don Iuan.	6	33
+61	te0048-07	Don Carlos.	7	41
+62	te0048-01	Don Iuan.	7	45
+63	te0048-07	Don Carlos.	1	4
+64	te0048-01	Don Iuan.	1	4
+65	te0048-07	Don Carlos.	2	4
+66	te0048-01	Don Iuan.	1	2
+67	te0048-07	Don Carlos.	17	99
+68	te0048-10	Violante.	4	18
+69	te0048-07	Don Carlos.	2	5
+70	te0048-10	Violante.	2	9
+71	te0048-07	Don Carlos.	14	72
+72	te0048-10	Violante.	13	63
+73	te0048-07	Don Carlos.	16	84
+74	te0048-10	Violante.	2	12
+75	te0048-07	Don Carlos.	7	36
+76	te0048-10	Violante.	1	4
+77	te0048-05	Quiteria.	10	52
+78	te0048-10	Violante.	5	31
+79	te0048-04	Beatriz.	2	12
+80	te0048-01	Don Iuan.	9	44
+81	te0048-04	Beatriz.	2	6
+82	te0048-01	Don Iuan.	4	20
+83	te0048-04	Beatriz.	12	55
+84	te0048-00	Moron.	1	4
+85	te0048-06	Don Diego.	4	16
+86	te0048-00	Moron.	6	28
+87	te0048-06	Don Diego.	1	5
+88	te0048-00	Moron.	2	10
+89	te0048-06	Don Diego.	4	20
+90	te0048-00	Moron.	2	5
+91	te0048-04	Beatriz.	2	6
+92	te0048-00	Moron.	5	24
+93	te0048-04	Beatriz.	2	7
+94	te0048-00	Moron.	3	13
+95	te0048-04	Beatriz.	3	13
+96	te0048-00	Moron.	7	30
+97	te0048-04	Beatriz.	3	12
+98	te0048-00	Moron.	2	10
+99	te0048-04	Beatriz.	2	10
+100	te0048-00	Moron.	1	5
+101	te0048-04	Beatriz.	32	157
+102	te0048-00	Moron.	16	70
+103	te0048-04	Beatriz.	3	11
+104	te0048-00	Moron.	8	43
+105	te0048-06	Don Diego.	6	30
+106	te0048-00	Moron.	3	15
+107	te0048-06	Don Diego.	2	8
+108	te0048-00	Moron.	25	132
+109	te0048-06	Don Diego.	19	81
+110	te0048-00	Moron.	1	4
+111	te0048-06	Don Diego.	3	12
+112	te0048-00	Moron.	1	4
+113	te0048-06	Don Diego.	13	61
+114	te0048-00	Moron.	1	4
+115	te0048-02	Don Antonio.	1	5
+116	te0048-06	Don Diego.	1	3
+117	te0048-02	Don Antonio.	2	8
+118	te0048-06	Don Diego.	1	4
+119	te0048-02	Don Antonio.	4	15
+120	te0048-06	Don Diego.	1	2
+121	te0048-02	Don Antonio.	1	3
+122	te0048-06	Don Diego.	2	5
+123	te0048-02	Don Antonio.	1	3
+124	te0048-06	Don Diego.	3	10
+125	te0048-02	Don Antonio.	4	23
+126	te0048-06	Don Diego.	2	10
+127	te0048-02	Don Antonio.	1	5
+128	te0048-06	Don Diego.	11	55
+129	te0048-02	Don Antonio.	4	18
+130	te0048-06	Don Diego.	2	6
+131	te0048-02	Don Antonio.	2	9
+132	te0048-07	Don Carlos.	1	2
+133	te0048-02	Don Antonio.	10	52
+134	te0048-07	Don Carlos.	11	57
+135	te0048-02	Don Antonio.	1	3
+136	te0048-07	Don Carlos.	1	3
+137	te0048-02	Don Antonio.	3	13
+138	te0048-00	Moron.	2	7
+139	te0048-06	Don Diego.	4	20
+140	te0048-00	Moron.	1	4
+141	te0048-06	Don Diego.	1	3
+142	te0048-00	Moron.	3	12
+143	te0048-06	Don Diego.	3	11
+144	te0048-09	Doña Maria.	3	10
+145	te0048-06	Don Diego.	14	60
+146	te0048-09	Doña Maria.	5	21
+147	te0048-06	Don Diego.	2	6
+148	te0048-09	Doña Maria.	4	18
+149	te0048-00	Moron.	3	15
+150	te0048-09	Doña Maria.	6	30
+151	te0048-00	Moron.	2	13
+152	te0048-09	Doña Maria.	6	29
+153	te0048-06	Don Diego.	2	9
+154	te0048-09	Doña Maria.	3	13
+155	te0048-06	Don Diego.	3	13
+156	te0048-09	Doña Maria.	2	9
+157	te0048-06	Don Diego.	15	78
+158	te0048-00	Moron.	2	10
+159	te0048-06	Don Diego.	18	92
+160	te0048-09	Doña Maria.	1	6
+161	te0048-00	Moron.	1	4
+162	te0048-06	Don Diego.	1	2
+163	te0048-09	Doña Maria.	4	26
+164	te0048-04	Beatriz.	2	9
+165	te0048-09	Doña Maria.	2	8
+166	te0048-11	Esc.	2	8
+167	te0048-00	Moron.	1	4
+168	te0048-06	Don Diego.	3	9
+169	te0048-00	Moron.	1	5
+170	te0048-09	Doña Maria.	2	11
+171	te0048-00	Moron.	2	9
+172	te0048-06	Don Diego.	3	11
+173	te0048-00	Moron.	4	14
+174	te0048-04	Beatriz.	2	2
+175	te0048-09	Doña Maria.	1	3
+176	te0048-04	Beatriz.	1	1
+177	te0048-00	Moron.	13	62
+178	te0048-06	Don Diego.	2	6
+179	te0048-00	Moron.	10	46
+180	te0048-06	Don Diego.	1	5
+181	te0048-00	Moron.	5	26
+182	te0048-06	Don Diego.	1	4
+183	te0048-00	Moron.	10	55
+184	te0048-06	Don Diego.	123	556
+185	te0048-00	Moron.	1	4
+186	te0048-04	Beatriz.	4	14
+187	te0048-09	Doña Maria.	1	6
+188	te0048-04	Beatriz.	2	11
+189	te0048-11	Esc.	2	12
+190	te0048-06	Don Diego.	1	3
+191	te0048-00	Moron.	3	12
+192	te0048-09	Doña Maria.	15	74
+193	te0048-06	Don Diego.	3	13
+194	te0048-09	Doña Maria.	2	5
+195	te0048-00	Moron.	2	8
+196	te0048-04	Beatriz.	2	10
+197	te0048-09	Doña Maria.	1	5
+198	te0048-04	Beatriz.	2	9
+199	te0048-08	Leonardo.	3	16
+200	te0048-09	Doña Maria.	1	5
+201	te0048-06	Don Diego.	1	1
+202	te0048-09	Doña Maria.	2	7
+203	te0048-08	Leonardo.	2	6
+204	te0048-09	Doña Maria.	16	74
+205	te0048-06	Don Diego.	4	15
+206	te0048-08	Leonardo.	17	71
+207	te0048-00	Moron.	3	16
+208	te0048-06	Don Diego.	4	19
+209	te0048-08	Leonardo.	2	11
+210	te0048-06	Don Diego.	2	11
+211	te0048-08	Leonardo.	5	24
+212	te0048-06	Don Diego.	1	6
+213	te0048-08	Leonardo.	2	5
+214	te0048-06	Don Diego.	4	16
+215	te0048-00	Moron.	5	17
+216	te0048-06	Don Diego.	3	13
+217	te0048-00	Moron.	7	29
+218	te0048-06	Don Diego.	2	8
+219	te0048-00	Moron.	2	10
+220	te0048-06	Don Diego.	3	14
+221	te0048-00	Moron.	3	14
+222	te0048-06	Don Diego.	26	126
+223	te0048-02	Don Antonio.	1	4
+224	te0048-06	Don Diego.	4	18
+225	te0048-02	Don Antonio.	1	3
+226	te0048-06	Don Diego.	16	68
+227	te0048-02	Don Antonio.	5	22
+228	te0048-00	Moron.	12	51
+229	te0048-06	Don Diego.	3	17
+230	te0048-00	Moron.	6	27
+231	te0048-06	Don Diego.	2	4
+232	te0048-02	Don Antonio.	2	4
+233	te0048-00	Moron.	2	7
+234	te0048-07	Don Carlos.	22	107
+235	te0048-02	Don Antonio.	5	26
+236	te0048-07	Don Carlos.	2	6
+237	te0048-02	Don Antonio.	3	10
+238	te0048-07	Don Carlos.	1	5
+239	te0048-02	Don Antonio.	1	4
+240	te0048-XX	(unknown)	1	1
+241	te0048-02	Don Antonio.	7	34
+242	te0048-07	Don Carlos.	1	4
+243	te0048-02	Don Antonio.	19	90
+244	te0048-07	Don Carlos.	1	4
+245	te0048-02	Don Antonio.	1	1
+246	te0048-07	Don Carlos.	9	52
+247	te0048-02	Don Antonio.	8	41
+248	te0048-07	Don Carlos.	2	5
+249	te0048-02	Don Antonio.	2	9
+250	te0048-07	Don Carlos.	1	4
+251	te0048-02	Don Antonio.	2	12
+252	te0048-07	Don Carlos.	1	5
+253	te0048-02	Don Antonio.	5	22
+254	te0048-07	Don Carlos.	2	10
+255	te0048-02	Don Antonio.	2	12
+256	te0048-07	Don Carlos.	8	41
+257	te0048-05	Quiteria.	2	11
+258	te0048-07	Don Carlos.	5	24
+259	te0048-10	Violante.	1	4
+260	te0048-07	Don Carlos.	1	2
+261	te0048-10	Violante.	1	5
+262	te0048-07	Don Carlos.	1	2
+263	te0048-10	Violante.	2	8
+264	te0048-07	Don Carlos.	6	26
+265	te0048-10	Violante.	10	47
+266	te0048-07	Don Carlos.	3	12
+267	te0048-10	Violante.	6	30
+268	te0048-07	Don Carlos.	10	40
+269	te0048-10	Violante.	2	6
+270	te0048-07	Don Carlos.	10	43
+271	te0048-10	Violante.	5	22
+272	te0048-07	Don Carlos.	1	4
+273	te0048-10	Violante.	1	1
+274	te0048-07	Don Carlos.	3	14
+275	te0048-10	Violante.	1	4
+276	te0048-07	Don Carlos.	5	25
+277	te0048-10	Violante.	2	9
+278	te0048-07	Don Carlos.	9	43
+279	te0048-10	Violante.	1	4
+280	te0048-07	Don Carlos.	3	17
+281	te0048-10	Violante.	1	4
+282	te0048-07	Don Carlos.	7	33
+283	te0048-10	Violante.	3	16
+284	te0048-07	Don Carlos.	11	49
+285	te0048-10	Violante.	4	15
+286	te0048-07	Don Carlos.	2	4
+287	te0048-10	Violante.	1	3
+288	te0048-07	Don Carlos.	3	16
+289	te0048-10	Violante.	2	6
+290	te0048-05	Quiteria.	2	7
+291	te0048-10	Violante.	2	10
+292	te0048-05	Quiteria.	1	2
+293	te0048-10	Violante.	4	13
+294	te0048-05	Quiteria.	2	8
+295	te0048-10	Violante.	2	12
+296	te0048-02	Don Antonio.	38	229
+297	te0048-06	Don Diego.	1	4
+298	te0048-00	Moron.	6	35
+299	te0048-06	Don Diego.	1	4
+300	te0048-02	Don Antonio.	2	6
+301	te0048-00	Moron.	1	6
+302	te0048-06	Don Diego.	1	9
+303	te0048-10	Violante.	1	8
+304	te0048-06	Don Diego.	3	17
+305	te0048-10	Violante.	1	3
+306	te0048-02	Don Antonio.	2	11
+307	te0048-06	Don Diego.	2	8
+308	te0048-10	Violante.	2	9
+309	te0048-06	Don Diego.	6	36
+310	te0048-10	Violante.	2	5
+311	te0048-06	Don Diego.	1	4
+312	te0048-10	Violante.	61	250
+313	te0048-06	Don Diego.	16	75
+314	te0048-XX	(unknown)	7	25
+315	te0048-06	Don Diego.	3	11
+316	te0048-XX	(unknown)	5	20
+317	te0048-06	Don Diego.	16	66
+318	te0048-10	Violante.	7	28
+319	te0048-06	Don Diego.	2	7
+320	te0048-10	Violante.	3	13
+321	te0048-06	Don Diego.	8	34
+322	te0048-10	Violante.	1	2
+323	te0048-06	Don Diego.	4	14
+324	te0048-10	Violante.	4	13
+325	te0048-06	Don Diego.	1	1
+326	te0048-00	Moron.	1	4
+327	te0048-06	Don Diego.	3	11
+328	te0048-10	Violante.	1	2
+329	te0048-00	Moron.	2	4
+330	te0048-06	Don Diego.	4	10
+331	te0048-10	Violante.	1	2
+332	te0048-06	Don Diego.	1	4
+333	te0048-10	Violante.	1	1
+334	te0048-06	Don Diego.	4	15
+335	te0048-10	Violante.	1	3
+336	te0048-06	Don Diego.	2	3
+337	te0048-10	Violante.	1	1
+338	te0048-06	Don Diego.	3	15
+339	te0048-10	Violante.	3	16
+340	te0048-06	Don Diego.	1	2
+341	te0048-02	Don Antonio.	1	1
+342	te0048-06	Don Diego.	2	7
+343	te0048-02	Don Antonio.	4	17
+344	te0048-XX	(unknown)	2	5
+345	te0048-00	Moron.	3	15
+346	te0048-06	Don Diego.	7	36
+347	te0048-00	Moron.	4	22
+348	te0048-06	Don Diego.	4	22
+349	te0048-07	Don Carlos.	7	32
+350	te0048-01	Don Iuan.	7	32
+351	te0048-07	Don Carlos.	2	10
+352	te0048-01	Don Iuan.	4	21
+353	te0048-07	Don Carlos.	2	8
+354	te0048-01	Don Iuan.	2	8
+355	te0048-07	Don Carlos.	2	13
+356	te0048-01	Don Iuan.	7	31
+357	te0048-07	Don Carlos.	6	23
+358	te0048-01	Don Iuan.	38	193
+359	te0048-05	Quiteria.	7	35
+360	te0048-10	Violante.	10	43
+361	te0048-05	Quiteria.	2	6
+362	te0048-10	Violante.	6	29
+363	te0048-05	Quiteria.	3	14
+364	te0048-10	Violante.	2	6
+365	te0048-05	Quiteria.	1	2
+366	te0048-10	Violante.	2	12
+367	te0048-05	Quiteria.	2	10
+368	te0048-10	Violante.	1	5
+369	te0048-05	Quiteria.	1	4
+370	te0048-10	Violante.	7	29
+371	te0048-05	Quiteria.	5	20
+372	te0048-10	Violante.	1	2
+373	te0048-05	Quiteria.	1	6
+374	te0048-10	Violante.	4	20
+375	te0048-01	Don Iuan.	1	4
+376	te0048-10	Violante.	2	8
+377	te0048-01	Don Iuan.	4	19
+378	te0048-05	Quiteria.	2	11
+379	te0048-01	Don Iuan.	1	2
+380	te0048-10	Violante.	7	33
+381	te0048-01	Don Iuan.	3	11
+382	te0048-10	Violante.	2	8
+383	te0048-01	Don Iuan.	2	7
+384	te0048-10	Violante.	1	6
+385	te0048-01	Don Iuan.	1	6
+386	te0048-XX	(unknown)	2	10
+387	te0048-10	Violante.	6	29
+388	te0048-01	Don Iuan.	3	15
+389	te0048-05	Quiteria.	3	12
+390	te0048-10	Violante.	2	5
+391	te0048-01	Don Iuan.	2	9
+392	te0048-10	Violante.	2	5
+393	te0048-01	Don Iuan.	1	2
+394	te0048-10	Violante.	2	9
+395	te0048-01	Don Iuan.	5	18
+396	te0048-05	Quiteria.	1	2
+397	te0048-01	Don Iuan.	1	6
+398	te0048-05	Quiteria.	1	6
+399	te0048-01	Don Iuan.	1	3
+400	te0048-05	Quiteria.	3	11
+401	te0048-01	Don Iuan.	10	48
+402	te0048-01	Don Iuan.	2	9
+403	te0048-09	Doña Maria.	2	13
+404	te0048-01	Don Iuan.	3	13
+405	te0048-09	Doña Maria.	1	3
+406	te0048-01	Don Iuan.	4	15
+407	te0048-09	Doña Maria.	2	9
+408	te0048-01	Don Iuan.	4	16
+409	te0048-09	Doña Maria.	1	4
+410	te0048-01	Don Iuan.	1	5
+411	te0048-09	Doña Maria.	5	19
+412	te0048-01	Don Iuan.	2	6
+413	te0048-04	Beatriz.	1	5
+414	te0048-01	Don Iuan.	3	15
+415	te0048-09	Doña Maria.	4	18
+416	te0048-01	Don Iuan.	2	12
+417	te0048-08	Leonardo.	2	7
+418	te0048-01	Don Iuan.	18	81
+419	te0048-08	Leonardo.	4	21
+420	te0048-01	Don Iuan.	8	41
+421	te0048-08	Leonardo.	2	14
+422	te0048-01	Don Iuan.	3	12
+423	te0048-08	Leonardo.	1	1
+424	te0048-09	Doña Maria.	7	31
+425	te0048-08	Leonardo.	1	5
+426	te0048-04	Beatriz.	1	6
+427	te0048-08	Leonardo.	1	5
+428	te0048-01	Don Iuan.	2	7
+429	te0048-08	Leonardo.	2	10
+430	te0048-09	Doña Maria.	5	28
+431	te0048-08	Leonardo.	2	6
+432	te0048-00	Moron.	2	5
+433	te0048-08	Leonardo.	6	28
+434	te0048-09	Doña Maria.	1	4
+435	te0048-08	Leonardo.	8	41
+436	te0048-04	Beatriz.	4	25
+437	te0048-09	Doña Maria.	4	19
+438	te0048-08	Leonardo.	1	4
+439	te0048-04	Beatriz.	1	4
+440	te0048-08	Leonardo.	2	9
+441	te0048-09	Doña Maria.	1	4
+442	te0048-08	Leonardo.	4	21
+443	te0048-00	Moron.	8	42
+444	te0048-04	Beatriz.	10	47
+445	te0048-00	Moron.	2	12
+446	te0048-06	Don Diego.	3	15
+447	te0048-02	Don Antonio.	3	14
+448	te0048-06	Don Diego.	3	13
+449	te0048-02	Don Antonio.	2	10
+450	te0048-06	Don Diego.	5	27
+451	te0048-02	Don Antonio.	1	5
+452	te0048-06	Don Diego.	4	18
+453	te0048-02	Don Antonio.	8	37
+454	te0048-06	Don Diego.	3	14
+455	te0048-05	Quiteria.	2	7
+456	te0048-02	Don Antonio.	4	17
+457	te0048-06	Don Diego.	1	3
+458	te0048-10	Violante.	3	15
+459	te0048-06	Don Diego.	1	5
+460	te0048-10	Violante.	4	19
+461	te0048-06	Don Diego.	7	32
+462	te0048-XX	(unknown)	11	50
+463	te0048-06	Don Diego.	1	4
+464	te0048-10	Violante.	3	11
+465	te0048-06	Don Diego.	1	3
+466	te0048-10	Violante.	4	21
+467	te0048-06	Don Diego.	18	89
+468	te0048-10	Violante.	3	11
+469	te0048-02	Don Antonio.	2	9
+470	te0048-06	Don Diego.	13	63
+471	te0048-02	Don Antonio.	10	39
+472	te0048-06	Don Diego.	3	12
+473	te0048-07	Don Carlos.	6	22
+474	te0048-06	Don Diego.	2	7
+475	te0048-07	Don Carlos.	19	88
+476	te0048-06	Don Diego.	9	41
+477	te0048-07	Don Carlos.	2	8
+478	te0048-06	Don Diego.	3	14
+479	te0048-02	Don Antonio.	2	8
+480	te0048-06	Don Diego.	6	25
+481	te0048-02	Don Antonio.	1	5
+482	te0048-06	Don Diego.	6	28
+483	te0048-08	Leonardo.	3	11
+484	te0048-06	Don Diego.	2	4
+485	te0048-02	Don Antonio.	2	9
+486	te0048-06	Don Diego.	2	10
+487	te0048-08	Leonardo.	10	49
+488	te0048-06	Don Diego.	36	162
+489	te0048-08	Leonardo.	7	25
+490	te0048-06	Don Diego.	2	6
+491	te0048-08	Leonardo.	7	30
+492	te0048-02	Don Antonio.	2	8
+493	te0048-06	Don Diego.	3	11
+494	te0048-08	Leonardo.	10	46
+495	te0048-06	Don Diego.	9	46
+496	te0048-08	Leonardo.	7	29
+497	te0048-06	Don Diego.	2	7
+498	te0048-00	Moron.	12	55
+499	te0048-06	Don Diego.	5	22
+500	te0048-08	Leonardo.	3	9
+501	te0048-06	Don Diego.	15	72
+502	te0048-08	Leonardo.	18	85
+503	te0048-06	Don Diego.	3	12
+504	te0048-02	Don Antonio.	3	11
+505	te0048-11	Esc.	3	12
+506	te0048-06	Don Diego.	4	15
+507	te0048-00	Moron.	5	27
+508	te0048-XX	(unknown)	8	43
+509	te0048-06	Don Diego.	2	7
+510	te0048-11	Esc.	15	70
+511	te0048-06	Don Diego.	1	4
+512	te0048-00	Moron.	4	21
+513	te0048-06	Don Diego.	4	20
+514	te0048-11	Esc.	2	6
+515	te0048-06	Don Diego.	2	11
+516	te0048-00	Moron.	4	20
+517	te0048-11	Esc.	2	9
+518	te0048-00	Moron.	12	56
+519	te0048-11	Esc.	1	5
+520	te0048-00	Moron.	5	26
+521	te0048-11	Esc.	2	5
+522	te0048-00	Moron.	3	12
+523	te0048-01	Don Iuan.	6	33
+524	te0048-08	Leonardo.	9	53
+525	te0048-01	Don Iuan.	5	18
+526	te0048-08	Leonardo.	9	53
+527	te0048-01	Don Iuan.	1	7
+528	te0048-08	Leonardo.	3	16
+529	te0048-01	Don Iuan.	2	5
+530	te0048-08	Leonardo.	6	28
+531	te0048-01	Don Iuan.	4	19
+532	te0048-08	Leonardo.	2	6
+533	te0048-01	Don Iuan.	9	49
+534	te0048-08	Leonardo.	2	15
+535	te0048-01	Don Iuan.	1	2
+536	te0048-08	Leonardo.	2	9
+537	te0048-01	Don Iuan.	9	48
+538	te0048-08	Leonardo.	2	11
+539	te0048-01	Don Iuan.	7	35
+540	te0048-08	Leonardo.	8	52
+541	te0048-01	Don Iuan.	1	4
+542	te0048-08	Leonardo.	1	3
+543	te0048-01	Don Iuan.	8	42
+544	te0048-10	Violante.	8	34
+545	te0048-01	Don Iuan.	11	54
+546	te0048-10	Violante.	2	6
+547	te0048-01	Don Iuan.	1	5
+548	te0048-10	Violante.	6	31
+549	te0048-01	Don Iuan.	4	18
+550	te0048-10	Violante.	4	19
+551	te0048-05	Quiteria.	4	19
+552	te0048-10	Violante.	2	10
+553	te0048-05	Quiteria.	2	12
+554	te0048-10	Violante.	2	10
+555	te0048-05	Quiteria.	1	4
+556	te0048-10	Violante.	3	11
+557	te0048-05	Quiteria.	1	6
+558	te0048-10	Violante.	2	10
+559	te0048-07	Don Carlos.	7	31
+560	te0048-10	Violante.	7	32
+561	te0048-07	Don Carlos.	2	11
+562	te0048-10	Violante.	6	25
+563	te0048-07	Don Carlos.	2	10
+564	te0048-10	Violante.	3	15
+565	te0048-07	Don Carlos.	3	15
+566	te0048-11	Esc.	5	24
+567	te0048-00	Moron.	2	6
+568	te0048-11	Esc.	2	6
+569	te0048-00	Moron.	1	4
+570	te0048-11	Esc.	3	13
+571	te0048-00	Moron.	11	52
+572	te0048-11	Esc.	1	2
+573	te0048-00	Moron.	4	16
+574	te0048-11	Esc.	2	9
+575	te0048-00	Moron.	2	6
+576	te0048-11	Esc.	2	11
+577	te0048-09	Doña Maria.	2	7
+578	te0048-01	Don Iuan.	5	20
+579	te0048-11	Esc.	4	20
+580	te0048-04	Beatriz.	3	12
+581	te0048-09	Doña Maria.	2	7
+582	te0048-04	Beatriz.	1	6
+583	te0048-09	Doña Maria.	2	8
+584	te0048-06	Don Diego.	4	17
+585	te0048-11	Esc.	3	17
+586	te0048-06	Don Diego.	2	8
+587	te0048-09	Doña Maria.	2	3
+588	te0048-07	Don Carlos.	1	1
+589	te0048-10	Violante.	1	4
+590	te0048-08	Leonardo.	1	4
+591	te0048-02	Don Antonio.	1	6
+592	te0048-10	Violante.	11	59
+593	te0048-11	Esc.	3	14
+594	te0048-08	Leonardo.	1	5
+595	te0048-06	Don Diego.	1	2
+596	te0048-08	Leonardo.	2	10
+597	te0048-11	Esc.	2	8
+598	te0048-10	Violante.	1	5
+599	te0048-08	Leonardo.	2	10
+600	te0048-07	Don Carlos.	1	5
+601	te0048-11	Esc.	2	11
+602	te0048-08	Leonardo.	1	4
+603	te0048-11	Esc.	5	19
+604	te0048-00	Moron.	2	6
+605	te0048-11	Esc.	2	8
+606	te0048-08	Leonardo.	2	9
+607	te0048-01	Don Iuan.	4	17
+608	te0048-08	Leonardo.	3	14
+609	te0048-01	Don Iuan.	7	34
+610	te0048-08	Leonardo.	7	32
+611	te0048-01	Don Iuan.	1	2
+612	te0048-09	Doña Maria.	7	23
+613	te0048-10	Violante.	7	31
+614	te0048-07	Don Carlos.	7	33
+615	te0048-11	Esc.	4	18
+616	te0048-04	Beatriz.	4	15
+617	te0048-08	Leonardo.	1	1
+618	te0048-04	Beatriz.	5	21
+619	te0048-00	Moron.	3	13
+620	te0048-07	Don Carlos.	4	19
+621	te0048-00	Moron.	1	5
+622	te0048-02	Don Antonio.	1	5
+623	te0048-06	Don Diego.	9	37

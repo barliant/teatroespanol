@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="Don Basco." label="Don Basco." />
+      <node id="Velasco soldado." label="Velasco soldado." />
+      <node id="Gila Pastora." label="Gila Pastora." />
+      <node id="Iuan de Vlloa." label="Iuan de Vlloa." />
+      <node id="Bartolo Pastor." label="Bartolo Pastor." />
+      <node id="Pero Alonso." label="Pero Alonso." />
+      <node id="Marques de Santillana." label="Marques de Santillana." />
+      <node id="6." label="6." />
+      <node id="3." label="3." />
+      <node id="Almirante de Castilla." label="Almirante de Castilla." />
+      <node id="Antona Garcia." label="Antona Garcia." />
+      <node id="Conde de Penamacor." label="Conde de Penamacor." />
+      <node id="Antonio de Fonseca." label="Antonio de Fonseca." />
+      <node id="Vna Ventera." label="Vna Ventera." />
+      <node id="Labradores." label="Labradores." />
+      <node id="Doña Maria Sarmiento." label="Doña Maria Sarmiento." />
+      <node id="4." label="4." />
+      <node id="8." label="8." />
+      <node id="Reina Catolica." label="Reina Catolica." />
+      <node id="(unknown)" label="(unknown)" />
+      <node id="Iuan de Monroi." label="Iuan de Monroi." />
+      <node id="Pad." label="Pad." />
+      <node id="5." label="5." />
+      <node id="Fernando Rei." label="Fernando Rei." />
+      <node id="Otro." label="Otro." />
+      <node id="Quatro Cavalleros." label="Quatro Cavalleros." />
+      <node id="2." label="2." />
+      <node id="1." label="1." />
+      <node id="Carr." label="Carr." />
+      <node id="7." label="7." />
+      <node id="Vno" label="Vno" />
+      <node id="Don Albaro de Mendoza." label="Don Albaro de Mendoza." />
+    </nodes>
+    <edges>
+      <edge id="0" source="Don Basco." target="Pero Alonso." weight="434" />
+      <edge id="1" source="Don Basco." target="Antona Garcia." weight="35" />
+      <edge id="2" source="Velasco soldado." target="Pad." weight="70" />
+      <edge id="3" source="Velasco soldado." target="Pero Alonso." weight="237" />
+      <edge id="4" source="Velasco soldado." target="Antona Garcia." weight="279" />
+      <edge id="5" source="Gila Pastora." target="Antona Garcia." weight="13" />
+      <edge id="6" source="Iuan de Vlloa." target="Marques de Santillana." weight="198" />
+      <edge id="7" source="Iuan de Vlloa." target="Quatro Cavalleros." weight="8" />
+      <edge id="8" source="Iuan de Vlloa." target="Labradores." weight="10" />
+      <edge id="9" source="Iuan de Vlloa." target="Antona Garcia." weight="39" />
+      <edge id="10" source="Bartolo Pastor." target="Reina Catolica." weight="498" />
+      <edge id="11" source="Bartolo Pastor." target="(unknown)" weight="13" />
+      <edge id="12" source="Bartolo Pastor." target="Almirante de Castilla." weight="19" />
+      <edge id="13" source="Bartolo Pastor." target="Marques de Santillana." weight="17" />
+      <edge id="14" source="Bartolo Pastor." target="Fernando Rei." weight="424" />
+      <edge id="15" source="Bartolo Pastor." target="2." weight="2" />
+      <edge id="16" source="Bartolo Pastor." target="Don Albaro de Mendoza." weight="12" />
+      <edge id="17" source="Bartolo Pastor." target="Pero Alonso." weight="35" />
+      <edge id="18" source="Bartolo Pastor." target="1." weight="72" />
+      <edge id="19" source="Bartolo Pastor." target="Antonio de Fonseca." weight="21" />
+      <edge id="20" source="Bartolo Pastor." target="Antona Garcia." weight="781" />
+      <edge id="21" source="Bartolo Pastor." target="Carr." weight="329" />
+      <edge id="22" source="Bartolo Pastor." target="Doña Maria Sarmiento." weight="126" />
+      <edge id="23" source="Pero Alonso." target="Vno" weight="6" />
+      <edge id="24" source="Pero Alonso." target="(unknown)" weight="16" />
+      <edge id="25" source="Pero Alonso." target="Pad." weight="61" />
+      <edge id="26" source="Pero Alonso." target="Antona Garcia." weight="3576" />
+      <edge id="27" source="Pero Alonso." target="Marques de Santillana." weight="10" />
+      <edge id="28" source="Pero Alonso." target="1." weight="56" />
+      <edge id="29" source="Pero Alonso." target="3." weight="12" />
+      <edge id="30" source="Pero Alonso." target="2." weight="18" />
+      <edge id="31" source="Pero Alonso." target="Conde de Penamacor." weight="19" />
+      <edge id="32" source="Pero Alonso." target="Vna Ventera." weight="8" />
+      <edge id="33" source="Pero Alonso." target="Doña Maria Sarmiento." weight="404" />
+      <edge id="34" source="Pero Alonso." target="Otro." weight="3" />
+      <edge id="35" source="Marques de Santillana." target="Quatro Cavalleros." weight="8" />
+      <edge id="36" source="Marques de Santillana." target="Labradores." weight="7" />
+      <edge id="37" source="Marques de Santillana." target="Doña Maria Sarmiento." weight="3" />
+      <edge id="38" source="Marques de Santillana." target="Antona Garcia." weight="15" />
+      <edge id="39" source="6." target="4." weight="7" />
+      <edge id="40" source="6." target="3." weight="9" />
+      <edge id="41" source="6." target="1." weight="6" />
+      <edge id="42" source="6." target="7." weight="52" />
+      <edge id="43" source="6." target="5." weight="24" />
+      <edge id="44" source="6." target="2." weight="22" />
+      <edge id="45" source="6." target="Antona Garcia." weight="12" />
+      <edge id="46" source="3." target="4." weight="23" />
+      <edge id="47" source="3." target="8." weight="41" />
+      <edge id="48" source="3." target="1." weight="31" />
+      <edge id="49" source="3." target="Vna Ventera." weight="16" />
+      <edge id="50" source="3." target="7." weight="48" />
+      <edge id="51" source="3." target="5." weight="29" />
+      <edge id="52" source="3." target="2." weight="81" />
+      <edge id="53" source="3." target="Antona Garcia." weight="10" />
+      <edge id="54" source="Almirante de Castilla." target="Fernando Rei." weight="48" />
+      <edge id="55" source="Almirante de Castilla." target="Reina Catolica." weight="644" />
+      <edge id="56" source="Almirante de Castilla." target="Doña Maria Sarmiento." weight="5" />
+      <edge id="57" source="Almirante de Castilla." target="Antona Garcia." weight="15" />
+      <edge id="58" source="Antona Garcia." target="Conde de Penamacor." weight="22" />
+      <edge id="59" source="Antona Garcia." target="Labradores." weight="11" />
+      <edge id="60" source="Antona Garcia." target="Doña Maria Sarmiento." weight="634" />
+      <edge id="61" source="Antona Garcia." target="4." weight="47" />
+      <edge id="62" source="Antona Garcia." target="Vna Ventera." weight="691" />
+      <edge id="63" source="Antona Garcia." target="Reina Catolica." weight="1001" />
+      <edge id="64" source="Antona Garcia." target="(unknown)" weight="329" />
+      <edge id="65" source="Antona Garcia." target="Iuan de Monroi." weight="4" />
+      <edge id="66" source="Antona Garcia." target="Pad." weight="79" />
+      <edge id="67" source="Antona Garcia." target="5." weight="58" />
+      <edge id="68" source="Antona Garcia." target="Fernando Rei." weight="158" />
+      <edge id="69" source="Antona Garcia." target="Otro." weight="4" />
+      <edge id="70" source="Antona Garcia." target="1." weight="197" />
+      <edge id="71" source="Antona Garcia." target="2." weight="106" />
+      <edge id="72" source="Antonio de Fonseca." target="Fernando Rei." weight="3" />
+      <edge id="73" source="Antonio de Fonseca." target="Doña Maria Sarmiento." weight="4" />
+      <edge id="74" source="Vna Ventera." target="4." weight="4" />
+      <edge id="75" source="Vna Ventera." target="1." weight="16" />
+      <edge id="76" source="Vna Ventera." target="2." weight="5" />
+      <edge id="77" source="Doña Maria Sarmiento." target="Vno" weight="29" />
+      <edge id="78" source="Doña Maria Sarmiento." target="Reina Catolica." weight="215" />
+      <edge id="79" source="Doña Maria Sarmiento." target="(unknown)" weight="21" />
+      <edge id="80" source="Doña Maria Sarmiento." target="Fernando Rei." weight="52" />
+      <edge id="81" source="Doña Maria Sarmiento." target="Otro." weight="2" />
+      <edge id="82" source="Doña Maria Sarmiento." target="Quatro Cavalleros." weight="479" />
+      <edge id="83" source="Doña Maria Sarmiento." target="1." weight="8" />
+      <edge id="84" source="Doña Maria Sarmiento." target="2." weight="5" />
+      <edge id="85" source="4." target="8." weight="2" />
+      <edge id="86" source="4." target="1." weight="32" />
+      <edge id="87" source="4." target="7." weight="61" />
+      <edge id="88" source="4." target="5." weight="12" />
+      <edge id="89" source="4." target="2." weight="9" />
+      <edge id="90" source="8." target="1." weight="96" />
+      <edge id="91" source="8." target="7." weight="13" />
+      <edge id="92" source="8." target="5." weight="20" />
+      <edge id="93" source="8." target="2." weight="19" />
+      <edge id="94" source="Reina Catolica." target="Fernando Rei." weight="175" />
+      <edge id="95" source="Reina Catolica." target="(unknown)" weight="34" />
+      <edge id="96" source="Reina Catolica." target="Iuan de Monroi." weight="69" />
+      <edge id="97" source="(unknown)" target="Otro." weight="30" />
+      <edge id="98" source="(unknown)" target="Vno" weight="72" />
+      <edge id="99" source="(unknown)" target="Fernando Rei." weight="3" />
+      <edge id="100" source="5." target="1." weight="31" />
+      <edge id="101" source="5." target="7." weight="104" />
+      <edge id="102" source="5." target="2." weight="53" />
+      <edge id="103" source="Otro." target="Vno" weight="14" />
+      <edge id="104" source="2." target="1." weight="55" />
+      <edge id="105" source="2." target="7." weight="38" />
+      <edge id="106" source="1." target="7." weight="128" />
+    </edges>
+  </graph>
+</gexf>

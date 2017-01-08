@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="La Idolatria." label="La Idolatria." />
+      <node id="Tur." label="Tur." />
+      <node id="Dos Angeles." label="Dos Angeles." />
+      <node id="Tucapel." label="Tucapel." />
+      <node id="Iupangui." label="Iupangui." />
+      <node id="Vn Sacerdote." label="Vn Sacerdote." />
+      <node id="Almagro." label="Almagro." />
+      <node id="Piçarro." label="Piçarro." />
+      <node id="Don Lorenço de Mendoça, Conde de Coruña." label="Don Lorenço de Mendoça, Conde de Coruña." />
+      <node id="Don Geronimo Marañon, Gouernador." label="Don Geronimo Marañon, Gouernador." />
+      <node id="Va." label="Va." />
+      <node id="4." label="4." />
+      <node id="Candia." label="Candia." />
+      <node id="Voz." label="Voz." />
+      <node id="Gou." label="Gou." />
+      <node id="(unknown)" label="(unknown)" />
+      <node id="Glau." label="Glau." />
+      <node id="Vn Dorador." label="Vn Dorador." />
+      <node id="Guascar, Inga Rey." label="Guascar, Inga Rey." />
+      <node id="3." label="3." />
+      <node id="Vnos Indios." label="Vnos Indios." />
+      <node id="1." label="1." />
+      <node id="Vn Indio llamado Andrès." label="Vn Indio llamado Andrès." />
+      <node id="Acompañamiento, y Musica." label="Acompañamiento, y Musica." />
+      <node id="Guat." label="Guat." />
+      <node id="Quatro damas." label="Quatro damas." />
+      <node id="2." label="2." />
+      <node id="Glanca." label="Glanca." />
+    </nodes>
+    <edges>
+      <edge id="0" source="La Idolatria." target="4." weight="12" />
+      <edge id="1" source="La Idolatria." target="Candia." weight="56" />
+      <edge id="2" source="La Idolatria." target="(unknown)" weight="1663" />
+      <edge id="3" source="La Idolatria." target="Vn Indio llamado Andrès." weight="160" />
+      <edge id="4" source="La Idolatria." target="Guascar, Inga Rey." weight="22" />
+      <edge id="5" source="La Idolatria." target="Dos Angeles." weight="60" />
+      <edge id="6" source="La Idolatria." target="Tucapel." weight="308" />
+      <edge id="7" source="La Idolatria." target="Iupangui." weight="586" />
+      <edge id="8" source="La Idolatria." target="3." weight="2" />
+      <edge id="9" source="La Idolatria." target="Piçarro." weight="8" />
+      <edge id="10" source="La Idolatria." target="Vn Sacerdote." weight="19" />
+      <edge id="11" source="La Idolatria." target="Don Geronimo Marañon, Gouernador." weight="122" />
+      <edge id="12" source="La Idolatria." target="Glau." weight="270" />
+      <edge id="13" source="La Idolatria." target="Quatro damas." weight="17" />
+      <edge id="14" source="La Idolatria." target="2." weight="16" />
+      <edge id="15" source="Tur." target="Iupangui." weight="24" />
+      <edge id="16" source="Dos Angeles." target="(unknown)" weight="43" />
+      <edge id="17" source="Dos Angeles." target="Acompañamiento, y Musica." weight="167" />
+      <edge id="18" source="Dos Angeles." target="Iupangui." weight="42" />
+      <edge id="19" source="Tucapel." target="Candia." weight="343" />
+      <edge id="20" source="Tucapel." target="3." weight="8" />
+      <edge id="21" source="Tucapel." target="Vnos Indios." weight="93" />
+      <edge id="22" source="Tucapel." target="Iupangui." weight="662" />
+      <edge id="23" source="Tucapel." target="Voz." weight="27" />
+      <edge id="24" source="Tucapel." target="(unknown)" weight="500" />
+      <edge id="25" source="Tucapel." target="Acompañamiento, y Musica." weight="9" />
+      <edge id="26" source="Tucapel." target="Piçarro." weight="61" />
+      <edge id="27" source="Tucapel." target="Glau." weight="574" />
+      <edge id="28" source="Tucapel." target="Guascar, Inga Rey." weight="280" />
+      <edge id="29" source="Iupangui." target="Candia." weight="455" />
+      <edge id="30" source="Iupangui." target="(unknown)" weight="2015" />
+      <edge id="31" source="Iupangui." target="Glau." weight="269" />
+      <edge id="32" source="Iupangui." target="Vn Dorador." weight="210" />
+      <edge id="33" source="Iupangui." target="Guascar, Inga Rey." weight="2059" />
+      <edge id="34" source="Iupangui." target="Vn Sacerdote." weight="171" />
+      <edge id="35" source="Iupangui." target="3." weight="33" />
+      <edge id="36" source="Iupangui." target="Vnos Indios." weight="45" />
+      <edge id="37" source="Iupangui." target="Don Lorenço de Mendoça, Conde de Coruña." weight="250" />
+      <edge id="38" source="Iupangui." target="Acompañamiento, y Musica." weight="99" />
+      <edge id="39" source="Iupangui." target="Don Geronimo Marañon, Gouernador." weight="623" />
+      <edge id="40" source="Iupangui." target="Guat." weight="9" />
+      <edge id="41" source="Iupangui." target="2." weight="34" />
+      <edge id="42" source="Iupangui." target="Vn Indio llamado Andrès." weight="388" />
+      <edge id="43" source="Vn Sacerdote." target="Va." weight="17" />
+      <edge id="44" source="Vn Sacerdote." target="(unknown)" weight="328" />
+      <edge id="45" source="Vn Sacerdote." target="Glau." weight="22" />
+      <edge id="46" source="Vn Sacerdote." target="Guascar, Inga Rey." weight="41" />
+      <edge id="47" source="Almagro." target="(unknown)" weight="19" />
+      <edge id="48" source="Almagro." target="Piçarro." weight="317" />
+      <edge id="49" source="Almagro." target="Candia." weight="95" />
+      <edge id="50" source="Piçarro." target="Candia." weight="302" />
+      <edge id="51" source="Piçarro." target="Voz." weight="20" />
+      <edge id="52" source="Piçarro." target="(unknown)" weight="152" />
+      <edge id="53" source="Piçarro." target="Acompañamiento, y Musica." weight="35" />
+      <edge id="54" source="Don Lorenço de Mendoça, Conde de Coruña." target="(unknown)" weight="112" />
+      <edge id="55" source="Don Lorenço de Mendoça, Conde de Coruña." target="Don Geronimo Marañon, Gouernador." weight="1734" />
+      <edge id="56" source="Don Lorenço de Mendoça, Conde de Coruña." target="Vn Indio llamado Andrès." weight="129" />
+      <edge id="57" source="Don Geronimo Marañon, Gouernador." target="Vnos Indios." weight="16" />
+      <edge id="58" source="Don Geronimo Marañon, Gouernador." target="(unknown)" weight="75" />
+      <edge id="59" source="Don Geronimo Marañon, Gouernador." target="Acompañamiento, y Musica." weight="17" />
+      <edge id="60" source="Don Geronimo Marañon, Gouernador." target="Vn Indio llamado Andrès." weight="237" />
+      <edge id="61" source="Va." target="(unknown)" weight="2" />
+      <edge id="62" source="4." target="(unknown)" weight="3" />
+      <edge id="63" source="4." target="3." weight="10" />
+      <edge id="64" source="Candia." target="Voz." weight="3" />
+      <edge id="65" source="Voz." target="Acompañamiento, y Musica." weight="36" />
+      <edge id="66" source="Gou." target="(unknown)" weight="2" />
+      <edge id="67" source="Gou." target="Vn Indio llamado Andrès." weight="86" />
+      <edge id="68" source="(unknown)" target="Guat." weight="9" />
+      <edge id="69" source="(unknown)" target="Guascar, Inga Rey." weight="1500" />
+      <edge id="70" source="(unknown)" target="1." weight="2" />
+      <edge id="71" source="(unknown)" target="Acompañamiento, y Musica." weight="120" />
+      <edge id="72" source="(unknown)" target="Glau." weight="49" />
+      <edge id="73" source="(unknown)" target="Vnos Indios." weight="140" />
+      <edge id="74" source="(unknown)" target="2." weight="3" />
+      <edge id="75" source="(unknown)" target="Vn Indio llamado Andrès." weight="58" />
+      <edge id="76" source="Glau." target="Guascar, Inga Rey." weight="443" />
+      <edge id="77" source="Guascar, Inga Rey." target="Glanca." weight="15" />
+      <edge id="78" source="Guascar, Inga Rey." target="Vn Indio llamado Andrès." weight="12" />
+      <edge id="79" source="Guascar, Inga Rey." target="Acompañamiento, y Musica." weight="16" />
+      <edge id="80" source="Guascar, Inga Rey." target="Vnos Indios." weight="7" />
+      <edge id="81" source="3." target="2." weight="17" />
+    </edges>
+  </graph>
+</gexf>

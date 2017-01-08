@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="Don Antonio." label="Don Antonio." />
+      <node id="Don Iuan." label="Don Iuan." />
+      <node id="Esc." label="Esc." />
+      <node id="Quiteria." label="Quiteria." />
+      <node id="(unknown)" label="(unknown)" />
+      <node id="Moron." label="Moron." />
+      <node id="Don Diego." label="Don Diego." />
+      <node id="Leonardo." label="Leonardo." />
+      <node id="Doña Maria." label="Doña Maria." />
+      <node id="Beatriz." label="Beatriz." />
+      <node id="Don Carlos." label="Don Carlos." />
+      <node id="Violante." label="Violante." />
+    </nodes>
+    <edges>
+      <edge id="0" source="Don Antonio." target="Leonardo." weight="34" />
+      <edge id="1" source="Don Antonio." target="Violante." weight="32" />
+      <edge id="2" source="Don Antonio." target="Esc." weight="11" />
+      <edge id="3" source="Don Antonio." target="Quiteria." weight="7" />
+      <edge id="4" source="Don Antonio." target="(unknown)" weight="22" />
+      <edge id="5" source="Don Antonio." target="Don Carlos." weight="585" />
+      <edge id="6" source="Don Antonio." target="Moron." weight="54" />
+      <edge id="7" source="Don Antonio." target="Don Diego." weight="1009" />
+      <edge id="8" source="Don Iuan." target="Leonardo." weight="772" />
+      <edge id="9" source="Don Iuan." target="Doña Maria." weight="1399" />
+      <edge id="10" source="Don Iuan." target="Violante." weight="348" />
+      <edge id="11" source="Don Iuan." target="Esc." weight="20" />
+      <edge id="12" source="Don Iuan." target="Beatriz." weight="93" />
+      <edge id="13" source="Don Iuan." target="(unknown)" weight="6" />
+      <edge id="14" source="Don Iuan." target="Don Carlos." weight="358" />
+      <edge id="15" source="Don Iuan." target="Quiteria." weight="284" />
+      <edge id="16" source="Don Iuan." target="Moron." weight="17" />
+      <edge id="17" source="Esc." target="Leonardo." weight="47" />
+      <edge id="18" source="Esc." target="Doña Maria." weight="19" />
+      <edge id="19" source="Esc." target="Beatriz." weight="49" />
+      <edge id="20" source="Esc." target="Don Carlos." weight="53" />
+      <edge id="21" source="Esc." target="Violante." weight="67" />
+      <edge id="22" source="Esc." target="Moron." weight="292" />
+      <edge id="23" source="Esc." target="Don Diego." weight="161" />
+      <edge id="24" source="Quiteria." target="Don Carlos." weight="52" />
+      <edge id="25" source="Quiteria." target="Violante." weight="428" />
+      <edge id="26" source="Quiteria." target="Don Diego." weight="14" />
+      <edge id="27" source="(unknown)" target="Beatriz." weight="82" />
+      <edge id="28" source="(unknown)" target="Moron." weight="32" />
+      <edge id="29" source="(unknown)" target="Violante." weight="10" />
+      <edge id="30" source="(unknown)" target="Don Diego." weight="256" />
+      <edge id="31" source="Moron." target="Leonardo." weight="103" />
+      <edge id="32" source="Moron." target="Doña Maria." weight="201" />
+      <edge id="33" source="Moron." target="Beatriz." weight="781" />
+      <edge id="34" source="Moron." target="Don Carlos." weight="39" />
+      <edge id="35" source="Moron." target="Violante." weight="2" />
+      <edge id="36" source="Moron." target="Don Diego." weight="1982" />
+      <edge id="37" source="Don Diego." target="Leonardo." weight="709" />
+      <edge id="38" source="Don Diego." target="Doña Maria." weight="504" />
+      <edge id="39" source="Don Diego." target="Violante." weight="774" />
+      <edge id="40" source="Don Diego." target="Beatriz." weight="79" />
+      <edge id="41" source="Don Diego." target="Don Carlos." weight="200" />
+      <edge id="42" source="Leonardo." target="Doña Maria." weight="163" />
+      <edge id="43" source="Leonardo." target="Beatriz." weight="85" />
+      <edge id="44" source="Leonardo." target="Don Carlos." weight="10" />
+      <edge id="45" source="Leonardo." target="Violante." weight="9" />
+      <edge id="46" source="Doña Maria." target="Beatriz." weight="628" />
+      <edge id="47" source="Doña Maria." target="Don Carlos." weight="3" />
+      <edge id="48" source="Doña Maria." target="Violante." weight="23" />
+      <edge id="49" source="Beatriz." target="Violante." weight="31" />
+      <edge id="50" source="Don Carlos." target="Violante." weight="1096" />
+    </edges>
+  </graph>
+</gexf>

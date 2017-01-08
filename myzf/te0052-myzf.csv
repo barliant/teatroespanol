@@ -1,0 +1,932 @@
+num	id	name	numlines	numwords
+1	te0052-08	Margarita, Dama.	1	5
+2	te0052-09	Flora, Dama.	2	10
+3	te0052-08	Margarita, Dama.	1	4
+4	te0052-09	Flora, Dama.	1	1
+5	te0052-08	Margarita, Dama.	260	1248
+6	te0052-09	Flora, Dama.	5	21
+7	te0052-08	Margarita, Dama.	2	6
+8	te0052-09	Flora, Dama.	2	8
+9	te0052-08	Margarita, Dama.	2	7
+10	te0052-09	Flora, Dama.	4	13
+11	te0052-08	Margarita, Dama.	1	1
+12	te0052-09	Flora, Dama.	2	10
+13	te0052-08	Margarita, Dama.	1	2
+14	te0052-09	Flora, Dama.	7	32
+15	te0052-08	Margarita, Dama.	9	45
+16	te0052-09	Flora, Dama.	2	8
+17	te0052-10	Capricho, Gracioso.	2	9
+18	te0052-09	Flora, Dama.	2	6
+19	te0052-10	Capricho, Gracioso.	4	20
+20	te0052-09	Flora, Dama.	2	6
+21	te0052-10	Capricho, Gracioso.	3	11
+22	te0052-09	Flora, Dama.	1	4
+23	te0052-10	Capricho, Gracioso.	8	39
+24	te0052-08	Margarita, Dama.	2	6
+25	te0052-10	Capricho, Gracioso.	4	12
+26	te0052-08	Margarita, Dama.	1	4
+27	te0052-10	Capricho, Gracioso.	1	1
+28	te0052-08	Margarita, Dama.	1	4
+29	te0052-10	Capricho, Gracioso.	2	7
+30	te0052-08	Margarita, Dama.	1	2
+31	te0052-10	Capricho, Gracioso.	3	13
+32	te0052-08	Margarita, Dama.	2	10
+33	te0052-10	Capricho, Gracioso.	3	15
+34	te0052-08	Margarita, Dama.	1	1
+35	te0052-10	Capricho, Gracioso.	9	41
+36	te0052-09	Flora, Dama.	5	23
+37	te0052-10	Capricho, Gracioso.	6	24
+38	te0052-09	Flora, Dama.	1	4
+39	te0052-10	Capricho, Gracioso.	1	1
+40	te0052-09	Flora, Dama.	1	6
+41	te0052-10	Capricho, Gracioso.	6	28
+42	te0052-09	Flora, Dama.	4	20
+43	te0052-10	Capricho, Gracioso.	1	2
+44	te0052-09	Flora, Dama.	3	13
+45	te0052-10	Capricho, Gracioso.	2	3
+46	te0052-09	Flora, Dama.	2	8
+47	te0052-10	Capricho, Gracioso.	3	11
+48	te0052-08	Margarita, Dama.	2	9
+49	te0052-10	Capricho, Gracioso.	1	4
+50	te0052-08	Margarita, Dama.	7	34
+51	te0052-10	Capricho, Gracioso.	5	22
+52	te0052-08	Margarita, Dama.	1	1
+53	te0052-10	Capricho, Gracioso.	1	5
+54	te0052-08	Margarita, Dama.	1	7
+55	te0052-10	Capricho, Gracioso.	12	63
+56	te0052-09	Flora, Dama.	3	8
+57	te0052-08	Margarita, Dama.	2	7
+58	te0052-10	Capricho, Gracioso.	3	12
+59	te0052-09	Flora, Dama.	2	7
+60	te0052-10	Capricho, Gracioso.	5	23
+61	te0052-09	Flora, Dama.	1	5
+62	te0052-08	Margarita, Dama.	9	47
+63	te0052-09	Flora, Dama.	1	2
+64	te0052-01	Enrique, Duque de Bearne.	5	18
+65	te0052-00	Cesar.	2	4
+66	te0052-01	Enrique, Duque de Bearne.	3	11
+67	te0052-08	Margarita, Dama.	1	1
+68	te0052-01	Enrique, Duque de Bearne.	3	8
+69	te0052-08	Margarita, Dama.	4	15
+70	te0052-01	Enrique, Duque de Bearne.	1	6
+71	te0052-08	Margarita, Dama.	1	4
+72	te0052-01	Enrique, Duque de Bearne.	4	18
+73	te0052-08	Margarita, Dama.	2	10
+74	te0052-01	Enrique, Duque de Bearne.	5	20
+75	te0052-08	Margarita, Dama.	9	46
+76	te0052-01	Enrique, Duque de Bearne.	8	37
+77	te0052-08	Margarita, Dama.	4	15
+78	te0052-01	Enrique, Duque de Bearne.	9	39
+79	te0052-08	Margarita, Dama.	3	14
+80	te0052-01	Enrique, Duque de Bearne.	1	1
+81	te0052-08	Margarita, Dama.	4	12
+82	te0052-01	Enrique, Duque de Bearne.	1	2
+83	te0052-08	Margarita, Dama.	2	10
+84	te0052-01	Enrique, Duque de Bearne.	1	1
+85	te0052-08	Margarita, Dama.	4	18
+86	te0052-03	Carlos.	4	16
+87	te0052-01	Enrique, Duque de Bearne.	4	17
+88	te0052-00	Cesar.	3	9
+89	te0052-08	Margarita, Dama.	1	1
+90	te0052-00	Cesar.	1	1
+91	te0052-08	Margarita, Dama.	5	24
+92	te0052-00	Cesar.	9	35
+93	te0052-08	Margarita, Dama.	2	7
+94	te0052-00	Cesar.	1	5
+95	te0052-08	Margarita, Dama.	8	38
+96	te0052-00	Cesar.	2	10
+97	te0052-08	Margarita, Dama.	1	2
+98	te0052-00	Cesar.	1	1
+99	te0052-08	Margarita, Dama.	1	2
+100	te0052-00	Cesar.	11	59
+101	te0052-08	Margarita, Dama.	9	39
+102	te0052-00	Cesar.	24	115
+103	te0052-10	Capricho, Gracioso.	2	12
+104	te0052-00	Cesar.	2	4
+105	te0052-10	Capricho, Gracioso.	2	8
+106	te0052-00	Cesar.	1	2
+107	te0052-10	Capricho, Gracioso.	2	7
+108	te0052-00	Cesar.	3	13
+109	te0052-10	Capricho, Gracioso.	3	14
+110	te0052-00	Cesar.	2	10
+111	te0052-10	Capricho, Gracioso.	13	68
+112	te0052-00	Cesar.	4	15
+113	te0052-10	Capricho, Gracioso.	1	3
+114	te0052-00	Cesar.	2	7
+115	te0052-10	Capricho, Gracioso.	2	10
+116	te0052-00	Cesar.	2	11
+117	te0052-10	Capricho, Gracioso.	2	9
+118	te0052-00	Cesar.	1	2
+119	te0052-10	Capricho, Gracioso.	7	37
+120	te0052-00	Cesar.	1	1
+121	te0052-10	Capricho, Gracioso.	6	32
+122	te0052-00	Cesar.	10	48
+123	te0052-10	Capricho, Gracioso.	1	2
+124	te0052-00	Cesar.	1	2
+125	te0052-10	Capricho, Gracioso.	3	12
+126	te0052-00	Cesar.	6	25
+127	te0052-10	Capricho, Gracioso.	3	12
+128	te0052-00	Cesar.	59	276
+129	te0052-10	Capricho, Gracioso.	1	2
+130	te0052-00	Cesar.	1	5
+131	te0052-10	Capricho, Gracioso.	3	12
+132	te0052-00	Cesar.	1	4
+133	te0052-10	Capricho, Gracioso.	4	21
+134	te0052-00	Cesar.	8	41
+135	te0052-01	Enrique, Duque de Bearne.	1	9
+136	te0052-04	Roberto, Viejo.	3	16
+137	te0052-01	Enrique, Duque de Bearne.	3	12
+138	te0052-04	Roberto, Viejo.	4	25
+139	te0052-01	Enrique, Duque de Bearne.	1	5
+140	te0052-04	Roberto, Viejo.	3	13
+141	te0052-01	Enrique, Duque de Bearne.	3	19
+142	te0052-04	Roberto, Viejo.	1	1
+143	te0052-01	Enrique, Duque de Bearne.	1	2
+144	te0052-04	Roberto, Viejo.	8	48
+145	te0052-01	Enrique, Duque de Bearne.	5	27
+146	te0052-04	Roberto, Viejo.	1	3
+147	te0052-01	Enrique, Duque de Bearne.	2	15
+148	te0052-04	Roberto, Viejo.	2	14
+149	te0052-01	Enrique, Duque de Bearne.	2	6
+150	te0052-04	Roberto, Viejo.	1	2
+151	te0052-01	Enrique, Duque de Bearne.	2	4
+152	te0052-04	Roberto, Viejo.	3	17
+153	te0052-02	Federico, Conde de Mompeller.	13	62
+154	te0052-01	Enrique, Duque de Bearne.	4	31
+155	te0052-03	Carlos.	1	3
+156	te0052-01	Enrique, Duque de Bearne.	6	34
+157	te0052-03	Carlos.	1	4
+158	te0052-01	Enrique, Duque de Bearne.	2	12
+159	te0052-03	Carlos.	1	5
+160	te0052-01	Enrique, Duque de Bearne.	8	56
+161	te0052-00	Cesar.	8	36
+162	te0052-03	Carlos.	1	1
+163	te0052-00	Cesar.	1	1
+164	te0052-03	Carlos.	2	3
+165	te0052-00	Cesar.	3	19
+166	te0052-03	Carlos.	2	7
+167	te0052-00	Cesar.	5	20
+168	te0052-03	Carlos.	19	96
+169	te0052-00	Cesar.	19	95
+170	te0052-03	Carlos.	1	2
+171	te0052-00	Cesar.	2	10
+172	te0052-03	Carlos.	1	3
+173	te0052-00	Cesar.	2	6
+174	te0052-03	Carlos.	3	9
+175	te0052-00	Cesar.	2	7
+176	te0052-03	Carlos.	2	6
+177	te0052-00	Cesar.	1	1
+178	te0052-10	Capricho, Gracioso.	2	6
+179	te0052-00	Cesar.	1	1
+180	te0052-03	Carlos.	2	8
+181	te0052-00	Cesar.	1	1
+182	te0052-10	Capricho, Gracioso.	2	7
+183	te0052-00	Cesar.	189	912
+184	te0052-09	Flora, Dama.	1	1
+185	te0052-00	Cesar.	2	13
+186	te0052-09	Flora, Dama.	9	38
+187	te0052-03	Carlos.	10	46
+188	te0052-00	Cesar.	4	16
+189	te0052-09	Flora, Dama.	2	6
+190	te0052-00	Cesar.	4	17
+191	te0052-08	Margarita, Dama.	3	11
+192	te0052-07	Serafina, Dama.	3	11
+193	te0052-08	Margarita, Dama.	2	7
+194	te0052-09	Flora, Dama.	4	21
+195	te0052-08	Margarita, Dama.	1	2
+196	te0052-09	Flora, Dama.	2	8
+197	te0052-08	Margarita, Dama.	3	17
+198	te0052-09	Flora, Dama.	5	24
+199	te0052-08	Margarita, Dama.	1	5
+200	te0052-00	Cesar.	1	4
+201	te0052-07	Serafina, Dama.	1	2
+202	te0052-08	Margarita, Dama.	1	1
+203	te0052-07	Serafina, Dama.	5	18
+204	te0052-08	Margarita, Dama.	2	10
+205	te0052-00	Cesar.	5	29
+206	te0052-08	Margarita, Dama.	2	9
+207	te0052-07	Serafina, Dama.	1	6
+208	te0052-00	Cesar.	1	5
+209	te0052-08	Margarita, Dama.	12	59
+210	te0052-07	Serafina, Dama.	1	6
+211	te0052-00	Cesar.	1	6
+212	te0052-08	Margarita, Dama.	1	5
+213	te0052-00	Cesar.	1	2
+214	te0052-08	Margarita, Dama.	2	7
+215	te0052-00	Cesar.	3	16
+216	te0052-07	Serafina, Dama.	2	7
+217	te0052-00	Cesar.	3	12
+218	te0052-07	Serafina, Dama.	2	10
+219	te0052-00	Cesar.	2	10
+220	te0052-07	Serafina, Dama.	1	5
+221	te0052-00	Cesar.	1	5
+222	te0052-07	Serafina, Dama.	1	6
+223	te0052-00	Cesar.	1	6
+224	te0052-07	Serafina, Dama.	1	4
+225	te0052-00	Cesar.	1	5
+226	te0052-07	Serafina, Dama.	1	3
+227	te0052-00	Cesar.	1	3
+228	te0052-07	Serafina, Dama.	1	4
+229	te0052-00	Cesar.	1	4
+230	te0052-07	Serafina, Dama.	1	4
+231	te0052-00	Cesar.	1	4
+232	te0052-07	Serafina, Dama.	1	7
+233	te0052-00	Cesar.	1	7
+234	te0052-07	Serafina, Dama.	1	4
+235	te0052-00	Cesar.	1	4
+236	te0052-07	Serafina, Dama.	1	2
+237	te0052-00	Cesar.	1	2
+238	te0052-07	Serafina, Dama.	1	2
+239	te0052-00	Cesar.	1	2
+240	te0052-07	Serafina, Dama.	1	3
+241	te0052-00	Cesar.	1	3
+242	te0052-07	Serafina, Dama.	1	3
+243	te0052-00	Cesar.	1	3
+244	te0052-07	Serafina, Dama.	1	2
+245	te0052-00	Cesar.	1	2
+246	te0052-96	(unknown)	1	5
+247	te0052-00	Cesar.	40	199
+248	te0052-07	Serafina, Dama.	5	26
+249	te0052-00	Cesar.	11	53
+250	te0052-13	Musicos.	4	20
+251	te0052-00	Cesar.	4	23
+252	te0052-07	Serafina, Dama.	2	12
+253	te0052-00	Cesar.	4	14
+254	te0052-07	Serafina, Dama.	1	3
+255	te0052-00	Cesar.	1	4
+256	te0052-07	Serafina, Dama.	2	7
+257	te0052-07	Serafina, Dama.	1	2
+258	te0052-00	Cesar.	4	23
+259	te0052-95	(unknown)	1	5
+260	te0052-07	Serafina, Dama.	7	34
+261	te0052-00	Cesar.	2	12
+262	te0052-95	(unknown)	1	4
+263	te0052-07	Serafina, Dama.	4	19
+264	te0052-00	Cesar.	5	27
+265	te0052-95	(unknown)	1	5
+266	te0052-07	Serafina, Dama.	4	19
+267	te0052-00	Cesar.	2	7
+268	te0052-07	Serafina, Dama.	1	1
+269	te0052-00	Cesar.	1	2
+270	te0052-07	Serafina, Dama.	1	7
+271	te0052-00	Cesar.	2	11
+272	te0052-95	(unknown)	1	6
+273	te0052-98	(unknown)	1	1
+274	te0052-07	Serafina, Dama.	2	3
+275	te0052-00	Cesar.	1	3
+276	te0052-07	Serafina, Dama.	2	10
+277	te0052-00	Cesar.	1	4
+278	te0052-07	Serafina, Dama.	2	4
+279	te0052-00	Cesar.	1	2
+280	te0052-95	(unknown)	4	21
+281	te0052-10	Capricho, Gracioso.	2	8
+282	te0052-10	Capricho, Gracioso.	2	8
+283	te0052-00	Cesar.	5	22
+284	te0052-03	Carlos.	1	1
+285	te0052-00	Cesar.	2	9
+286	te0052-03	Carlos.	2	9
+287	te0052-10	Capricho, Gracioso.	6	28
+288	te0052-03	Carlos.	1	4
+289	te0052-00	Cesar.	1	3
+290	te0052-03	Carlos.	3	8
+291	te0052-00	Cesar.	63	293
+292	te0052-03	Carlos.	13	62
+293	te0052-00	Cesar.	8	35
+294	te0052-10	Capricho, Gracioso.	1	1
+295	te0052-00	Cesar.	2	7
+296	te0052-03	Carlos.	1	1
+297	te0052-00	Cesar.	3	9
+298	te0052-03	Carlos.	1	1
+299	te0052-00	Cesar.	22	100
+300	te0052-03	Carlos.	4	21
+301	te0052-00	Cesar.	3	14
+302	te0052-03	Carlos.	3	9
+303	te0052-06	Celio, vejete.	5	24
+304	te0052-00	Cesar.	1	4
+305	te0052-06	Celio, vejete.	2	3
+306	te0052-00	Cesar.	1	1
+307	te0052-06	Celio, vejete.	3	9
+308	te0052-06	Celio, vejete.	4	17
+309	te0052-06	Celio, vejete.	1	5
+310	te0052-00	Cesar.	1	3
+311	te0052-06	Celio, vejete.	6	26
+312	te0052-00	Cesar.	2	8
+313	te0052-06	Celio, vejete.	2	8
+314	te0052-00	Cesar.	1	5
+315	te0052-06	Celio, vejete.	2	9
+316	te0052-00	Cesar.	12	60
+317	te0052-06	Celio, vejete.	2	9
+318	te0052-00	Cesar.	1	4
+319	te0052-03	Carlos.	5	23
+320	te0052-00	Cesar.	3	16
+321	te0052-97	(unknown)	7	38
+322	te0052-06	Celio, vejete.	3	15
+323	te0052-00	Cesar.	1	1
+324	te0052-06	Celio, vejete.	5	21
+325	te0052-00	Cesar.	1	3
+326	te0052-06	Celio, vejete.	1	5
+327	te0052-00	Cesar.	8	42
+328	te0052-03	Carlos.	6	30
+329	te0052-01	Enrique, Duque de Bearne.	1	1
+330	te0052-03	Carlos.	1	1
+331	te0052-01	Enrique, Duque de Bearne.	7	26
+332	te0052-03	Carlos.	1	2
+333	te0052-01	Enrique, Duque de Bearne.	2	9
+334	te0052-03	Carlos.	1	2
+335	te0052-01	Enrique, Duque de Bearne.	5	22
+336	te0052-03	Carlos.	2	9
+337	te0052-01	Enrique, Duque de Bearne.	11	50
+338	te0052-03	Carlos.	3	8
+339	te0052-01	Enrique, Duque de Bearne.	7	32
+340	te0052-03	Carlos.	7	30
+341	te0052-01	Enrique, Duque de Bearne.	1	4
+342	te0052-03	Carlos.	1	1
+343	te0052-01	Enrique, Duque de Bearne.	1	1
+344	te0052-03	Carlos.	2	6
+345	te0052-01	Enrique, Duque de Bearne.	1	3
+346	te0052-03	Carlos.	5	27
+347	te0052-01	Enrique, Duque de Bearne.	3	14
+348	te0052-10	Capricho, Gracioso.	3	11
+349	te0052-01	Enrique, Duque de Bearne.	1	1
+350	te0052-03	Carlos.	1	2
+351	te0052-01	Enrique, Duque de Bearne.	2	7
+352	te0052-03	Carlos.	5	22
+353	te0052-01	Enrique, Duque de Bearne.	8	31
+354	te0052-03	Carlos.	5	20
+355	te0052-08	Margarita, Dama.	7	25
+356	te0052-09	Flora, Dama.	2	7
+357	te0052-08	Margarita, Dama.	5	26
+358	te0052-09	Flora, Dama.	6	33
+359	te0052-08	Margarita, Dama.	5	27
+360	te0052-09	Flora, Dama.	3	12
+361	te0052-08	Margarita, Dama.	12	63
+362	te0052-09	Flora, Dama.	2	4
+363	te0052-10	Capricho, Gracioso.	6	20
+364	te0052-08	Margarita, Dama.	2	9
+365	te0052-10	Capricho, Gracioso.	10	43
+366	te0052-08	Margarita, Dama.	3	14
+367	te0052-10	Capricho, Gracioso.	4	19
+368	te0052-08	Margarita, Dama.	1	2
+369	te0052-10	Capricho, Gracioso.	1	5
+370	te0052-08	Margarita, Dama.	2	8
+371	te0052-10	Capricho, Gracioso.	4	21
+372	te0052-08	Margarita, Dama.	1	1
+373	te0052-10	Capricho, Gracioso.	5	27
+374	te0052-08	Margarita, Dama.	2	9
+375	te0052-10	Capricho, Gracioso.	2	12
+376	te0052-08	Margarita, Dama.	1	6
+377	te0052-10	Capricho, Gracioso.	2	10
+378	te0052-08	Margarita, Dama.	1	4
+379	te0052-10	Capricho, Gracioso.	1	2
+380	te0052-08	Margarita, Dama.	4	15
+381	te0052-10	Capricho, Gracioso.	2	5
+382	te0052-08	Margarita, Dama.	1	7
+383	te0052-10	Capricho, Gracioso.	1	2
+384	te0052-08	Margarita, Dama.	1	2
+385	te0052-10	Capricho, Gracioso.	2	8
+386	te0052-08	Margarita, Dama.	1	2
+387	te0052-10	Capricho, Gracioso.	1	4
+388	te0052-08	Margarita, Dama.	1	3
+389	te0052-10	Capricho, Gracioso.	2	4
+390	te0052-08	Margarita, Dama.	2	7
+391	te0052-10	Capricho, Gracioso.	1	4
+392	te0052-08	Margarita, Dama.	1	5
+393	te0052-10	Capricho, Gracioso.	20	96
+394	te0052-08	Margarita, Dama.	9	41
+395	te0052-00	Cesar.	6	31
+396	te0052-09	Flora, Dama.	1	4
+397	te0052-08	Margarita, Dama.	1	4
+398	te0052-00	Cesar.	1	3
+399	te0052-10	Capricho, Gracioso.	2	11
+400	te0052-08	Margarita, Dama.	10	47
+401	te0052-00	Cesar.	3	11
+402	te0052-08	Margarita, Dama.	5	26
+403	te0052-00	Cesar.	5	23
+404	te0052-10	Capricho, Gracioso.	1	3
+405	te0052-00	Cesar.	1	1
+406	te0052-10	Capricho, Gracioso.	2	8
+407	te0052-00	Cesar.	3	18
+408	te0052-10	Capricho, Gracioso.	5	23
+409	te0052-00	Cesar.	3	12
+410	te0052-10	Capricho, Gracioso.	2	8
+411	te0052-00	Cesar.	7	32
+412	te0052-10	Capricho, Gracioso.	3	16
+413	te0052-00	Cesar.	2	5
+414	te0052-10	Capricho, Gracioso.	1	1
+415	te0052-00	Cesar.	2	8
+416	te0052-10	Capricho, Gracioso.	2	9
+417	te0052-00	Cesar.	2	11
+418	te0052-10	Capricho, Gracioso.	1	2
+419	te0052-00	Cesar.	2	11
+420	te0052-01	Enrique, Duque de Bearne.	1	4
+421	te0052-03	Carlos.	20	88
+422	te0052-01	Enrique, Duque de Bearne.	3	12
+423	te0052-03	Carlos.	1	3
+424	te0052-01	Enrique, Duque de Bearne.	8	39
+425	te0052-03	Carlos.	1	4
+426	te0052-01	Enrique, Duque de Bearne.	5	21
+427	te0052-10	Capricho, Gracioso.	3	12
+428	te0052-01	Enrique, Duque de Bearne.	1	4
+429	te0052-03	Carlos.	1	6
+430	te0052-01	Enrique, Duque de Bearne.	3	9
+431	te0052-03	Carlos.	2	4
+432	te0052-01	Enrique, Duque de Bearne.	4	15
+433	te0052-03	Carlos.	1	3
+434	te0052-01	Enrique, Duque de Bearne.	30	130
+435	te0052-00	Cesar.	1	5
+436	te0052-03	Carlos.	1	1
+437	te0052-01	Enrique, Duque de Bearne.	2	4
+438	te0052-00	Cesar.	2	6
+439	te0052-01	Enrique, Duque de Bearne.	1	2
+440	te0052-00	Cesar.	3	13
+441	te0052-01	Enrique, Duque de Bearne.	6	30
+442	te0052-00	Cesar.	1	2
+443	te0052-01	Enrique, Duque de Bearne.	10	38
+444	te0052-00	Cesar.	2	4
+445	te0052-03	Carlos.	11	60
+446	te0052-00	Cesar.	7	32
+447	te0052-10	Capricho, Gracioso.	3	17
+448	te0052-03	Carlos.	1	5
+449	te0052-10	Capricho, Gracioso.	3	14
+450	te0052-03	Carlos.	3	15
+451	te0052-10	Capricho, Gracioso.	4	21
+452	te0052-00	Cesar.	5	21
+453	te0052-10	Capricho, Gracioso.	1	2
+454	te0052-00	Cesar.	6	29
+455	te0052-10	Capricho, Gracioso.	2	11
+456	te0052-00	Cesar.	3	15
+457	te0052-10	Capricho, Gracioso.	1	5
+458	te0052-00	Cesar.	6	30
+459	te0052-10	Capricho, Gracioso.	3	16
+460	te0052-00	Cesar.	3	13
+461	te0052-10	Capricho, Gracioso.	6	27
+462	te0052-12	Nise.	4	19
+463	te0052-07	Serafina, Dama.	11	49
+464	te0052-12	Nise.	7	26
+465	te0052-07	Serafina, Dama.	4	17
+466	te0052-11	Estela.	1	3
+467	te0052-07	Serafina, Dama.	9	43
+468	te0052-11	Estela.	3	12
+469	te0052-07	Serafina, Dama.	3	17
+470	te0052-11	Estela.	6	29
+471	te0052-07	Serafina, Dama.	7	29
+472	te0052-05	Fabio, criado.	1	4
+473	te0052-02	Federico, Conde de Mompeller.	18	80
+474	te0052-15	Lib.	1	4
+475	te0052-02	Federico, Conde de Mompeller.	1	6
+476	te0052-11	Estela.	1	5
+477	te0052-05	Fabio, criado.	1	5
+478	te0052-03	Carlos.	3	11
+479	te0052-05	Fabio, criado.	4	14
+480	te0052-02	Federico, Conde de Mompeller.	3	14
+481	te0052-07	Serafina, Dama.	3	13
+482	te0052-08	Margarita, Dama.	2	8
+483	te0052-02	Federico, Conde de Mompeller.	2	8
+484	te0052-05	Fabio, criado.	1	4
+485	te0052-02	Federico, Conde de Mompeller.	1	6
+486	te0052-98	(unknown)	2	9
+487	te0052-98	(unknown)	2	9
+488	te0052-96	(unknown)	2	9
+489	te0052-98	(unknown)	1	1
+490	te0052-98	(unknown)	1	1
+491	te0052-98	(unknown)	1	3
+492	te0052-98	(unknown)	1	3
+493	te0052-96	(unknown)	2	11
+494	te0052-05	Fabio, criado.	2	6
+495	te0052-02	Federico, Conde de Mompeller.	3	13
+496	te0052-07	Serafina, Dama.	2	8
+497	te0052-08	Margarita, Dama.	3	12
+498	te0052-09	Flora, Dama.	2	8
+499	te0052-08	Margarita, Dama.	2	4
+500	te0052-11	Estela.	1	2
+501	te0052-07	Serafina, Dama.	1	1
+502	te0052-02	Federico, Conde de Mompeller.	3	18
+503	te0052-10	Capricho, Gracioso.	2	11
+504	te0052-98	(unknown)	2	9
+505	te0052-98	(unknown)	2	11
+506	te0052-98	(unknown)	2	10
+507	te0052-96	(unknown)	2	9
+508	te0052-98	(unknown)	1	1
+509	te0052-98	(unknown)	1	1
+510	te0052-98	(unknown)	1	3
+511	te0052-98	(unknown)	1	3
+512	te0052-96	(unknown)	2	11
+513	te0052-02	Federico, Conde de Mompeller.	3	16
+514	te0052-05	Fabio, criado.	2	6
+515	te0052-07	Serafina, Dama.	5	19
+516	te0052-08	Margarita, Dama.	3	12
+517	te0052-07	Serafina, Dama.	1	2
+518	te0052-10	Capricho, Gracioso.	1	5
+519	te0052-98	(unknown)	2	9
+520	te0052-09	Flora, Dama.	2	10
+521	te0052-10	Capricho, Gracioso.	2	10
+522	te0052-07	Serafina, Dama.	2	8
+523	te0052-10	Capricho, Gracioso.	2	8
+524	te0052-07	Serafina, Dama.	1	5
+525	te0052-10	Capricho, Gracioso.	2	11
+526	te0052-07	Serafina, Dama.	1	1
+527	te0052-10	Capricho, Gracioso.	1	1
+528	te0052-07	Serafina, Dama.	2	4
+529	te0052-10	Capricho, Gracioso.	1	2
+530	te0052-02	Federico, Conde de Mompeller.	2	8
+531	te0052-07	Serafina, Dama.	1	2
+532	te0052-02	Federico, Conde de Mompeller.	1	2
+533	te0052-10	Capricho, Gracioso.	9	40
+534	te0052-07	Serafina, Dama.	15	77
+535	te0052-10	Capricho, Gracioso.	1	5
+536	te0052-02	Federico, Conde de Mompeller.	4	22
+537	te0052-10	Capricho, Gracioso.	2	9
+538	te0052-05	Fabio, criado.	2	9
+539	te0052-09	Flora, Dama.	1	5
+540	te0052-08	Margarita, Dama.	1	2
+541	te0052-10	Capricho, Gracioso.	7	31
+542	te0052-08	Margarita, Dama.	3	15
+543	te0052-10	Capricho, Gracioso.	2	7
+544	te0052-05	Fabio, criado.	3	14
+545	te0052-02	Federico, Conde de Mompeller.	7	27
+546	te0052-05	Fabio, criado.	2	7
+547	te0052-02	Federico, Conde de Mompeller.	9	38
+548	te0052-10	Capricho, Gracioso.	1	4
+549	te0052-02	Federico, Conde de Mompeller.	2	9
+550	te0052-10	Capricho, Gracioso.	4	21
+551	te0052-02	Federico, Conde de Mompeller.	1	3
+552	te0052-10	Capricho, Gracioso.	3	15
+553	te0052-02	Federico, Conde de Mompeller.	1	4
+554	te0052-10	Capricho, Gracioso.	3	12
+555	te0052-02	Federico, Conde de Mompeller.	2	5
+556	te0052-05	Fabio, criado.	3	11
+557	te0052-02	Federico, Conde de Mompeller.	2	10
+558	te0052-10	Capricho, Gracioso.	2	8
+559	te0052-02	Federico, Conde de Mompeller.	2	8
+560	te0052-10	Capricho, Gracioso.	5	25
+561	te0052-02	Federico, Conde de Mompeller.	3	11
+562	te0052-10	Capricho, Gracioso.	2	11
+563	te0052-05	Fabio, criado.	1	2
+564	te0052-02	Federico, Conde de Mompeller.	1	2
+565	te0052-10	Capricho, Gracioso.	7	32
+566	te0052-99	(unknown)	1	3
+567	te0052-10	Capricho, Gracioso.	1	3
+568	te0052-99	(unknown)	1	2
+569	te0052-10	Capricho, Gracioso.	3	13
+570	te0052-03	Carlos.	1	3
+571	te0052-10	Capricho, Gracioso.	1	3
+572	te0052-01	Enrique, Duque de Bearne.	1	4
+573	te0052-00	Cesar.	2	8
+574	te0052-10	Capricho, Gracioso.	2	12
+575	te0052-01	Enrique, Duque de Bearne.	1	3
+576	te0052-10	Capricho, Gracioso.	11	49
+577	te0052-01	Enrique, Duque de Bearne.	1	6
+578	te0052-10	Capricho, Gracioso.	1	5
+579	te0052-00	Cesar.	2	13
+580	te0052-01	Enrique, Duque de Bearne.	7	27
+581	te0052-00	Cesar.	1	2
+582	te0052-03	Carlos.	2	11
+583	te0052-01	Enrique, Duque de Bearne.	1	4
+584	te0052-00	Cesar.	1	3
+585	te0052-10	Capricho, Gracioso.	11	56
+586	te0052-00	Cesar.	6	26
+587	te0052-10	Capricho, Gracioso.	5	24
+588	te0052-00	Cesar.	1	1
+589	te0052-10	Capricho, Gracioso.	2	8
+590	te0052-00	Cesar.	7	34
+591	te0052-10	Capricho, Gracioso.	3	11
+592	te0052-06	Celio, vejete.	3	11
+593	te0052-00	Cesar.	5	18
+594	te0052-06	Celio, vejete.	3	13
+595	te0052-00	Cesar.	1	4
+596	te0052-06	Celio, vejete.	3	10
+597	te0052-00	Cesar.	6	32
+598	te0052-10	Capricho, Gracioso.	1	1
+599	te0052-03	Carlos.	1	2
+600	te0052-00	Cesar.	17	81
+601	te0052-10	Capricho, Gracioso.	1	1
+602	te0052-03	Carlos.	3	9
+603	te0052-01	Enrique, Duque de Bearne.	8	35
+604	te0052-03	Carlos.	4	13
+605	te0052-04	Roberto, Viejo.	2	5
+606	te0052-10	Capricho, Gracioso.	1	3
+607	te0052-01	Enrique, Duque de Bearne.	1	2
+608	te0052-03	Carlos.	4	15
+609	te0052-01	Enrique, Duque de Bearne.	3	10
+610	te0052-04	Roberto, Viejo.	1	2
+611	te0052-01	Enrique, Duque de Bearne.	7	31
+612	te0052-04	Roberto, Viejo.	2	8
+613	te0052-01	Enrique, Duque de Bearne.	1	4
+614	te0052-07	Serafina, Dama.	9	46
+615	te0052-11	Estela.	5	17
+616	te0052-07	Serafina, Dama.	7	31
+617	te0052-00	Cesar.	4	16
+618	te0052-10	Capricho, Gracioso.	3	13
+619	te0052-00	Cesar.	3	13
+620	te0052-11	Estela.	2	7
+621	te0052-00	Cesar.	2	8
+622	te0052-07	Serafina, Dama.	2	8
+623	te0052-00	Cesar.	6	29
+624	te0052-07	Serafina, Dama.	1	4
+625	te0052-00	Cesar.	3	10
+626	te0052-02	Federico, Conde de Mompeller.	4	20
+627	te0052-00	Cesar.	1	6
+628	te0052-10	Capricho, Gracioso.	3	14
+629	te0052-02	Federico, Conde de Mompeller.	1	4
+630	te0052-00	Cesar.	1	4
+631	te0052-07	Serafina, Dama.	3	15
+632	te0052-02	Federico, Conde de Mompeller.	1	2
+633	te0052-00	Cesar.	1	2
+634	te0052-02	Federico, Conde de Mompeller.	1	2
+635	te0052-00	Cesar.	2	5
+636	te0052-02	Federico, Conde de Mompeller.	2	7
+637	te0052-00	Cesar.	2	9
+638	te0052-07	Serafina, Dama.	2	9
+639	te0052-02	Federico, Conde de Mompeller.	4	20
+640	te0052-00	Cesar.	4	17
+641	te0052-02	Federico, Conde de Mompeller.	4	16
+642	te0052-00	Cesar.	1	6
+643	te0052-02	Federico, Conde de Mompeller.	3	11
+644	te0052-00	Cesar.	2	3
+645	te0052-10	Capricho, Gracioso.	3	15
+646	te0052-00	Cesar.	2	7
+647	te0052-02	Federico, Conde de Mompeller.	5	17
+648	te0052-00	Cesar.	4	19
+649	te0052-02	Federico, Conde de Mompeller.	1	2
+650	te0052-07	Serafina, Dama.	5	23
+651	te0052-00	Cesar.	3	12
+652	te0052-02	Federico, Conde de Mompeller.	3	11
+653	te0052-04	Roberto, Viejo.	1	2
+654	te0052-07	Serafina, Dama.	1	6
+655	te0052-02	Federico, Conde de Mompeller.	1	2
+656	te0052-00	Cesar.	1	2
+657	te0052-04	Roberto, Viejo.	5	16
+658	te0052-07	Serafina, Dama.	7	31
+659	te0052-04	Roberto, Viejo.	5	23
+660	te0052-02	Federico, Conde de Mompeller.	2	9
+661	te0052-04	Roberto, Viejo.	1	2
+662	te0052-14	Vno.	2	6
+663	te0052-04	Roberto, Viejo.	2	5
+664	te0052-00	Cesar.	2	10
+665	te0052-04	Roberto, Viejo.	14	64
+666	te0052-07	Serafina, Dama.	1	2
+667	te0052-11	Estela.	3	15
+668	te0052-07	Serafina, Dama.	1	4
+669	te0052-11	Estela.	1	5
+670	te0052-07	Serafina, Dama.	31	159
+671	te0052-00	Cesar.	4	21
+672	te0052-10	Capricho, Gracioso.	13	63
+673	te0052-00	Cesar.	2	11
+674	te0052-10	Capricho, Gracioso.	8	42
+675	te0052-00	Cesar.	10	38
+676	te0052-07	Serafina, Dama.	2	11
+677	te0052-00	Cesar.	8	38
+678	te0052-07	Serafina, Dama.	3	17
+679	te0052-00	Cesar.	7	34
+680	te0052-10	Capricho, Gracioso.	16	72
+681	te0052-00	Cesar.	1	3
+682	te0052-10	Capricho, Gracioso.	1	3
+683	te0052-00	Cesar.	2	8
+684	te0052-10	Capricho, Gracioso.	2	12
+685	te0052-00	Cesar.	8	41
+686	te0052-10	Capricho, Gracioso.	3	12
+687	te0052-00	Cesar.	2	5
+688	te0052-00	Cesar.	1	3
+689	te0052-07	Serafina, Dama.	5	27
+690	te0052-00	Cesar.	21	103
+691	te0052-07	Serafina, Dama.	34	149
+692	te0052-98	(unknown)	1	1
+693	te0052-98	(unknown)	1	1
+694	te0052-07	Serafina, Dama.	1	3
+695	te0052-00	Cesar.	1	3
+696	te0052-11	Estela.	1	6
+697	te0052-10	Capricho, Gracioso.	1	5
+698	te0052-07	Serafina, Dama.	4	17
+699	te0052-00	Cesar.	3	11
+700	te0052-04	Roberto, Viejo.	1	1
+701	te0052-00	Cesar.	1	1
+702	te0052-04	Roberto, Viejo.	2	9
+703	te0052-00	Cesar.	2	9
+704	te0052-04	Roberto, Viejo.	2	7
+705	te0052-00	Cesar.	3	15
+706	te0052-07	Serafina, Dama.	1	1
+707	te0052-10	Capricho, Gracioso.	3	14
+708	te0052-07	Serafina, Dama.	1	2
+709	te0052-10	Capricho, Gracioso.	2	5
+710	te0052-07	Serafina, Dama.	16	78
+711	te0052-10	Capricho, Gracioso.	28	142
+712	te0052-00	Cesar.	20	92
+713	te0052-01	Enrique, Duque de Bearne.	13	65
+714	te0052-00	Cesar.	5	23
+715	te0052-01	Enrique, Duque de Bearne.	2	8
+716	te0052-00	Cesar.	1	6
+717	te0052-01	Enrique, Duque de Bearne.	4	19
+718	te0052-00	Cesar.	6	34
+719	te0052-01	Enrique, Duque de Bearne.	2	11
+720	te0052-00	Cesar.	2	11
+721	te0052-01	Enrique, Duque de Bearne.	6	30
+722	te0052-00	Cesar.	10	48
+723	te0052-01	Enrique, Duque de Bearne.	24	114
+724	te0052-10	Capricho, Gracioso.	1	1
+725	te0052-01	Enrique, Duque de Bearne.	2	12
+726	te0052-00	Cesar.	1	5
+727	te0052-03	Carlos.	1	5
+728	te0052-01	Enrique, Duque de Bearne.	3	16
+729	te0052-03	Carlos.	3	14
+730	te0052-01	Enrique, Duque de Bearne.	1	1
+731	te0052-03	Carlos.	2	10
+732	te0052-01	Enrique, Duque de Bearne.	3	14
+733	te0052-04	Roberto, Viejo.	7	33
+734	te0052-10	Capricho, Gracioso.	5	28
+735	te0052-00	Cesar.	5	21
+736	te0052-10	Capricho, Gracioso.	3	10
+737	te0052-00	Cesar.	1	7
+738	te0052-10	Capricho, Gracioso.	7	30
+739	te0052-00	Cesar.	6	27
+740	te0052-10	Capricho, Gracioso.	5	26
+741	te0052-00	Cesar.	1	4
+742	te0052-03	Carlos.	3	10
+743	te0052-00	Cesar.	5	18
+744	te0052-03	Carlos.	2	5
+745	te0052-00	Cesar.	1	1
+746	te0052-03	Carlos.	4	13
+747	te0052-00	Cesar.	2	3
+748	te0052-10	Capricho, Gracioso.	3	13
+749	te0052-00	Cesar.	2	8
+750	te0052-03	Carlos.	8	38
+751	te0052-00	Cesar.	1	3
+752	te0052-10	Capricho, Gracioso.	1	4
+753	te0052-00	Cesar.	1	6
+754	te0052-10	Capricho, Gracioso.	8	46
+755	te0052-00	Cesar.	1	5
+756	te0052-10	Capricho, Gracioso.	2	7
+757	te0052-10	Capricho, Gracioso.	3	11
+758	te0052-08	Margarita, Dama.	8	34
+759	te0052-00	Cesar.	18	85
+760	te0052-08	Margarita, Dama.	13	65
+761	te0052-09	Flora, Dama.	1	4
+762	te0052-08	Margarita, Dama.	2	12
+763	te0052-09	Flora, Dama.	2	9
+764	te0052-08	Margarita, Dama.	2	8
+765	te0052-07	Serafina, Dama.	5	20
+766	te0052-11	Estela.	6	21
+767	te0052-07	Serafina, Dama.	4	15
+768	te0052-11	Estela.	5	23
+769	te0052-07	Serafina, Dama.	2	6
+770	te0052-11	Estela.	1	1
+771	te0052-07	Serafina, Dama.	1	2
+772	te0052-11	Estela.	1	7
+773	te0052-07	Serafina, Dama.	9	39
+774	te0052-11	Estela.	2	6
+775	te0052-10	Capricho, Gracioso.	4	18
+776	te0052-07	Serafina, Dama.	1	1
+777	te0052-00	Cesar.	4	16
+778	te0052-07	Serafina, Dama.	8	39
+779	te0052-00	Cesar.	1	2
+780	te0052-10	Capricho, Gracioso.	2	12
+781	te0052-07	Serafina, Dama.	8	40
+782	te0052-98	(unknown)	1	6
+783	te0052-11	Estela.	1	2
+784	te0052-10	Capricho, Gracioso.	3	16
+785	te0052-11	Estela.	1	3
+786	te0052-00	Cesar.	3	12
+787	te0052-10	Capricho, Gracioso.	3	14
+788	te0052-00	Cesar.	1	4
+789	te0052-07	Serafina, Dama.	5	23
+790	te0052-00	Cesar.	2	6
+791	te0052-11	Estela.	1	3
+792	te0052-10	Capricho, Gracioso.	1	5
+793	te0052-04	Roberto, Viejo.	1	1
+794	te0052-07	Serafina, Dama.	1	1
+795	te0052-04	Roberto, Viejo.	2	5
+796	te0052-07	Serafina, Dama.	9	36
+797	te0052-04	Roberto, Viejo.	2	9
+798	te0052-07	Serafina, Dama.	1	7
+799	te0052-10	Capricho, Gracioso.	2	9
+800	te0052-04	Roberto, Viejo.	37	165
+801	te0052-07	Serafina, Dama.	2	5
+802	te0052-04	Roberto, Viejo.	5	20
+803	te0052-07	Serafina, Dama.	1	2
+804	te0052-04	Roberto, Viejo.	2	10
+805	te0052-07	Serafina, Dama.	2	9
+806	te0052-04	Roberto, Viejo.	4	16
+807	te0052-07	Serafina, Dama.	3	8
+808	te0052-00	Cesar.	10	45
+809	te0052-10	Capricho, Gracioso.	5	22
+810	te0052-00	Cesar.	1	5
+811	te0052-10	Capricho, Gracioso.	5	26
+812	te0052-00	Cesar.	2	8
+813	te0052-10	Capricho, Gracioso.	4	22
+814	te0052-00	Cesar.	1	4
+815	te0052-12	Nise.	6	28
+816	te0052-00	Cesar.	1	2
+817	te0052-12	Nise.	2	6
+818	te0052-00	Cesar.	2	4
+819	te0052-12	Nise.	2	10
+820	te0052-00	Cesar.	2	8
+821	te0052-10	Capricho, Gracioso.	3	11
+822	te0052-12	Nise.	6	26
+823	te0052-00	Cesar.	1	2
+824	te0052-12	Nise.	1	1
+825	te0052-00	Cesar.	1	1
+826	te0052-10	Capricho, Gracioso.	7	29
+827	te0052-12	Nise.	1	2
+828	te0052-10	Capricho, Gracioso.	2	6
+829	te0052-12	Nise.	1	3
+830	te0052-10	Capricho, Gracioso.	3	13
+831	te0052-12	Nise.	17	85
+832	te0052-00	Cesar.	7	37
+833	te0052-10	Capricho, Gracioso.	8	35
+834	te0052-02	Federico, Conde de Mompeller.	24	111
+835	te0052-01	Enrique, Duque de Bearne.	14	66
+836	te0052-02	Federico, Conde de Mompeller.	18	86
+837	te0052-01	Enrique, Duque de Bearne.	11	47
+838	te0052-02	Federico, Conde de Mompeller.	5	25
+839	te0052-01	Enrique, Duque de Bearne.	5	18
+840	te0052-08	Margarita, Dama.	2	6
+841	te0052-13	Musicos.	3	10
+842	te0052-01	Enrique, Duque de Bearne.	2	8
+843	te0052-08	Margarita, Dama.	2	9
+844	te0052-02	Federico, Conde de Mompeller.	2	11
+845	te0052-07	Serafina, Dama.	2	10
+846	te0052-13	Musicos.	3	11
+847	te0052-98	(unknown)	4	21
+848	te0052-10	Capricho, Gracioso.	3	11
+849	te0052-00	Cesar.	1	6
+850	te0052-13	Musicos.	1	2
+851	te0052-08	Margarita, Dama.	4	16
+852	te0052-07	Serafina, Dama.	6	28
+853	te0052-08	Margarita, Dama.	2	6
+854	te0052-07	Serafina, Dama.	1	2
+855	te0052-08	Margarita, Dama.	8	35
+856	te0052-07	Serafina, Dama.	4	16
+857	te0052-13	Musicos.	4	21
+858	te0052-07	Serafina, Dama.	11	49
+859	te0052-08	Margarita, Dama.	3	10
+860	te0052-07	Serafina, Dama.	3	12
+861	te0052-08	Margarita, Dama.	1	6
+862	te0052-07	Serafina, Dama.	1	5
+863	te0052-13	Musicos.	7	28
+864	te0052-08	Margarita, Dama.	2	8
+865	te0052-07	Serafina, Dama.	2	8
+866	te0052-08	Margarita, Dama.	1	2
+867	te0052-07	Serafina, Dama.	1	2
+868	te0052-02	Federico, Conde de Mompeller.	1	4
+869	te0052-01	Enrique, Duque de Bearne.	1	4
+870	te0052-00	Cesar.	1	4
+871	te0052-10	Capricho, Gracioso.	1	5
+872	te0052-02	Federico, Conde de Mompeller.	1	1
+873	te0052-01	Enrique, Duque de Bearne.	1	1
+874	te0052-00	Cesar.	1	1
+875	te0052-96	(unknown)	1	4
+876	te0052-13	Musicos.	3	11
+877	te0052-07	Serafina, Dama.	1	1
+878	te0052-08	Margarita, Dama.	1	2
+879	te0052-07	Serafina, Dama.	1	4
+880	te0052-08	Margarita, Dama.	1	3
+881	te0052-07	Serafina, Dama.	1	2
+882	te0052-08	Margarita, Dama.	1	2
+883	te0052-07	Serafina, Dama.	1	3
+884	te0052-08	Margarita, Dama.	1	2
+885	te0052-07	Serafina, Dama.	1	2
+886	te0052-08	Margarita, Dama.	2	7
+887	te0052-07	Serafina, Dama.	2	10
+888	te0052-08	Margarita, Dama.	1	1
+889	te0052-07	Serafina, Dama.	1	3
+890	te0052-08	Margarita, Dama.	1	4
+891	te0052-07	Serafina, Dama.	1	4
+892	te0052-02	Federico, Conde de Mompeller.	2	6
+893	te0052-07	Serafina, Dama.	2	5
+894	te0052-08	Margarita, Dama.	3	15
+895	te0052-07	Serafina, Dama.	10	48
+896	te0052-00	Cesar.	4	15
+897	te0052-01	Enrique, Duque de Bearne.	2	7
+898	te0052-08	Margarita, Dama.	8	39
+899	te0052-07	Serafina, Dama.	1	2
+900	te0052-08	Margarita, Dama.	11	52
+901	te0052-02	Federico, Conde de Mompeller.	1	2
+902	te0052-07	Serafina, Dama.	1	3
+903	te0052-01	Enrique, Duque de Bearne.	2	3
+904	te0052-02	Federico, Conde de Mompeller.	2	4
+905	te0052-08	Margarita, Dama.	2	6
+906	te0052-01	Enrique, Duque de Bearne.	2	9
+907	te0052-08	Margarita, Dama.	2	8
+908	te0052-02	Federico, Conde de Mompeller.	16	66
+909	te0052-01	Enrique, Duque de Bearne.	6	24
+910	te0052-03	Carlos.	1	2
+911	te0052-04	Roberto, Viejo.	1	2
+912	te0052-01	Enrique, Duque de Bearne.	3	11
+913	te0052-03	Carlos.	1	2
+914	te0052-00	Cesar.	3	13
+915	te0052-10	Capricho, Gracioso.	1	3
+916	te0052-00	Cesar.	1	5
+917	te0052-01	Enrique, Duque de Bearne.	2	11
+918	te0052-02	Federico, Conde de Mompeller.	4	17
+919	te0052-01	Enrique, Duque de Bearne.	2	5
+920	te0052-04	Roberto, Viejo.	1	1
+921	te0052-01	Enrique, Duque de Bearne.	3	7
+922	te0052-04	Roberto, Viejo.	2	8
+923	te0052-07	Serafina, Dama.	5	19
+924	te0052-00	Cesar.	2	9
+925	te0052-07	Serafina, Dama.	4	14
+926	te0052-00	Cesar.	8	32
+927	te0052-01	Enrique, Duque de Bearne.	2	8
+928	te0052-02	Federico, Conde de Mompeller.	2	5
+929	te0052-08	Margarita, Dama.	7	32
+930	te0052-10	Capricho, Gracioso.	6	27
+931	te0052-99	(unknown)	7	21

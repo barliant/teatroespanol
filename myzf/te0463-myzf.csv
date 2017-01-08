@@ -1,0 +1,816 @@
+num	id	name	numlines	numwords
+1	te0463-01	Chinchilla lacayo.	3	14
+2	te0463-00	Don Rodrigo Giron.	1	5
+3	te0463-01	Chinchilla lacayo.	5	22
+4	te0463-00	Don Rodrigo Giron.	2	7
+5	te0463-01	Chinchilla lacayo.	13	69
+6	te0463-03	Diana Condesa.	4	17
+7	te0463-01	Chinchilla lacayo.	1	5
+8	te0463-03	Diana Condesa.	1	3
+9	te0463-01	Chinchilla lacayo.	36	167
+10	te0463-03	Diana Condesa.	2	12
+11	te0463-01	Chinchilla lacayo.	2	9
+12	te0463-03	Diana Condesa.	3	18
+13	te0463-01	Chinchilla lacayo.	11	47
+14	te0463-03	Diana Condesa.	2	6
+15	te0463-01	Chinchilla lacayo.	1	5
+16	te0463-03	Diana Condesa.	1	6
+17	te0463-01	Chinchilla lacayo.	3	12
+18	te0463-00	Don Rodrigo Giron.	3	13
+19	te0463-01	Chinchilla lacayo.	12	46
+20	te0463-03	Diana Condesa.	1	2
+21	te0463-01	Chinchilla lacayo.	2	7
+22	te0463-00	Don Rodrigo Giron.	2	8
+23	te0463-01	Chinchilla lacayo.	7	28
+24	te0463-00	Don Rodrigo Giron.	3	11
+25	te0463-01	Chinchilla lacayo.	2	9
+26	te0463-00	Don Rodrigo Giron.	1	5
+27	te0463-01	Chinchilla lacayo.	1	6
+28	te0463-00	Don Rodrigo Giron.	2	11
+29	te0463-01	Chinchilla lacayo.	10	43
+30	te0463-02	Roberto.	10	45
+31	te0463-01	Chinchilla lacayo.	11	51
+32	te0463-00	Don Rodrigo Giron.	8	41
+33	te0463-06	Liberio viejo.	1	1
+34	te0463-02	Roberto.	1	4
+35	te0463-06	Liberio viejo.	5	26
+36	te0463-00	Don Rodrigo Giron.	1	3
+37	te0463-06	Liberio viejo.	2	10
+38	te0463-00	Don Rodrigo Giron.	1	3
+39	te0463-06	Liberio viejo.	3	14
+40	te0463-01	Chinchilla lacayo.	1	5
+41	te0463-07	Clavela dama.	1	4
+42	te0463-00	Don Rodrigo Giron.	2	7
+43	te0463-01	Chinchilla lacayo.	2	6
+44	te0463-00	Don Rodrigo Giron.	1	3
+45	te0463-01	Chinchilla lacayo.	1	6
+46	te0463-06	Liberio viejo.	2	5
+47	te0463-01	Chinchilla lacayo.	2	10
+48	te0463-06	Liberio viejo.	1	5
+49	te0463-00	Don Rodrigo Giron.	2	11
+50	te0463-01	Chinchilla lacayo.	1	1
+51	te0463-07	Clavela dama.	1	4
+52	te0463-00	Don Rodrigo Giron.	3	11
+53	te0463-06	Liberio viejo.	5	18
+54	te0463-00	Don Rodrigo Giron.	1	1
+55	te0463-01	Chinchilla lacayo.	14	58
+56	te0463-06	Liberio viejo.	4	19
+57	te0463-03	Diana Condesa.	2	5
+58	te0463-06	Liberio viejo.	3	9
+59	te0463-01	Chinchilla lacayo.	1	6
+60	te0463-06	Liberio viejo.	6	30
+61	te0463-01	Chinchilla lacayo.	2	8
+62	te0463-00	Don Rodrigo Giron.	1	5
+63	te0463-01	Chinchilla lacayo.	44	198
+64	te0463-06	Liberio viejo.	1	4
+65	te0463-07	Clavela dama.	1	4
+66	te0463-00	Don Rodrigo Giron.	4	21
+67	te0463-06	Liberio viejo.	3	11
+68	te0463-08	Lucrecia criada.	2	7
+69	te0463-00	Don Rodrigo Giron.	1	4
+70	te0463-01	Chinchilla lacayo.	1	3
+71	te0463-06	Liberio viejo.	2	9
+72	te0463-01	Chinchilla lacayo.	2	6
+73	te0463-00	Don Rodrigo Giron.	1	4
+74	te0463-06	Liberio viejo.	2	6
+75	te0463-00	Don Rodrigo Giron.	1	2
+76	te0463-01	Chinchilla lacayo.	6	30
+77	te0463-06	Liberio viejo.	1	4
+78	te0463-01	Chinchilla lacayo.	1	4
+79	te0463-06	Liberio viejo.	2	11
+80	te0463-01	Chinchilla lacayo.	6	28
+81	te0463-08	Lucrecia criada.	1	1
+82	te0463-01	Chinchilla lacayo.	2	6
+83	te0463-08	Lucrecia criada.	1	5
+84	te0463-01	Chinchilla lacayo.	12	51
+85	te0463-08	Lucrecia criada.	1	2
+86	te0463-01	Chinchilla lacayo.	4	15
+87	te0463-08	Lucrecia criada.	6	28
+88	te0463-01	Chinchilla lacayo.	1	3
+89	te0463-08	Lucrecia criada.	2	5
+90	te0463-01	Chinchilla lacayo.	1	2
+91	te0463-08	Lucrecia criada.	1	1
+92	te0463-01	Chinchilla lacayo.	4	19
+93	te0463-08	Lucrecia criada.	2	12
+94	te0463-01	Chinchilla lacayo.	2	10
+95	te0463-08	Lucrecia criada.	3	17
+96	te0463-01	Chinchilla lacayo.	4	19
+97	te0463-08	Lucrecia criada.	1	5
+98	te0463-01	Chinchilla lacayo.	2	6
+99	te0463-08	Lucrecia criada.	7	30
+100	te0463-01	Chinchilla lacayo.	5	24
+101	te0463-08	Lucrecia criada.	5	23
+102	te0463-01	Chinchilla lacayo.	1	2
+103	te0463-08	Lucrecia criada.	3	10
+104	te0463-01	Chinchilla lacayo.	1	3
+105	te0463-08	Lucrecia criada.	11	53
+106	te0463-01	Chinchilla lacayo.	1	5
+107	te0463-08	Lucrecia criada.	3	13
+108	te0463-01	Chinchilla lacayo.	1	2
+109	te0463-08	Lucrecia criada.	12	65
+110	te0463-01	Chinchilla lacayo.	3	12
+111	te0463-08	Lucrecia criada.	1	1
+112	te0463-01	Chinchilla lacayo.	1	2
+113	te0463-08	Lucrecia criada.	1	5
+114	te0463-01	Chinchilla lacayo.	2	9
+115	te0463-08	Lucrecia criada.	1	3
+116	te0463-01	Chinchilla lacayo.	2	7
+117	te0463-08	Lucrecia criada.	1	2
+118	te0463-01	Chinchilla lacayo.	3	13
+119	te0463-08	Lucrecia criada.	1	1
+120	te0463-01	Chinchilla lacayo.	7	31
+121	te0463-08	Lucrecia criada.	1	1
+122	te0463-01	Chinchilla lacayo.	1	4
+123	te0463-08	Lucrecia criada.	1	6
+124	te0463-01	Chinchilla lacayo.	1	3
+125	te0463-08	Lucrecia criada.	1	3
+126	te0463-00	Don Rodrigo Giron.	12	55
+127	te0463-01	Chinchilla lacayo.	2	4
+128	te0463-00	Don Rodrigo Giron.	1	4
+129	te0463-01	Chinchilla lacayo.	1	4
+130	te0463-00	Don Rodrigo Giron.	2	7
+131	te0463-01	Chinchilla lacayo.	1	1
+132	te0463-03	Diana Condesa.	4	16
+133	te0463-01	Chinchilla lacayo.	1	4
+134	te0463-00	Don Rodrigo Giron.	2	10
+135	te0463-01	Chinchilla lacayo.	9	40
+136	te0463-00	Don Rodrigo Giron.	3	13
+137	te0463-01	Chinchilla lacayo.	2	7
+138	te0463-00	Don Rodrigo Giron.	3	9
+139	te0463-01	Chinchilla lacayo.	2	7
+140	te0463-00	Don Rodrigo Giron.	1	1
+141	te0463-01	Chinchilla lacayo.	2	5
+142	te0463-00	Don Rodrigo Giron.	6	23
+143	te0463-01	Chinchilla lacayo.	4	12
+144	te0463-00	Don Rodrigo Giron.	3	13
+145	te0463-01	Chinchilla lacayo.	3	13
+146	te0463-00	Don Rodrigo Giron.	1	1
+147	te0463-01	Chinchilla lacayo.	3	13
+148	te0463-00	Don Rodrigo Giron.	1	7
+149	te0463-01	Chinchilla lacayo.	1	5
+150	te0463-01	Chinchilla lacayo.	34	175
+151	te0463-12	Casi.	15	73
+152	te0463-04	Cosimiro Conde.	14	68
+153	te0463-12	Casi.	10	49
+154	te0463-01	Chinchilla lacayo.	4	19
+155	te0463-12	Casi.	1	4
+156	te0463-04	Cosimiro Conde.	2	8
+157	te0463-12	Casi.	4	16
+158	te0463-10	Floro cavallero.	1	4
+159	te0463-12	Casi.	2	6
+160	te0463-10	Floro cavallero.	12	59
+161	te0463-12	Casi.	14	62
+162	te0463-10	Floro cavallero.	2	7
+163	te0463-04	Cosimiro Conde.	35	161
+164	te0463-09	Pinabel cavallero.	3	14
+165	te0463-04	Cosimiro Conde.	4	19
+166	te0463-09	Pinabel cavallero.	3	15
+167	te0463-04	Cosimiro Conde.	5	18
+168	te0463-09	Pinabel cavallero.	2	9
+169	te0463-04	Cosimiro Conde.	5	26
+170	te0463-09	Pinabel cavallero.	3	11
+171	te0463-01	Chinchilla lacayo.	1	3
+172	te0463-09	Pinabel cavallero.	4	17
+173	te0463-04	Cosimiro Conde.	1	4
+174	te0463-09	Pinabel cavallero.	2	8
+175	te0463-04	Cosimiro Conde.	1	3
+176	te0463-09	Pinabel cavallero.	5	20
+177	te0463-04	Cosimiro Conde.	1	2
+178	te0463-09	Pinabel cavallero.	1	1
+179	te0463-04	Cosimiro Conde.	5	19
+180	te0463-09	Pinabel cavallero.	9	42
+181	te0463-04	Cosimiro Conde.	1	3
+182	te0463-09	Pinabel cavallero.	3	11
+183	te0463-01	Chinchilla lacayo.	2	5
+184	te0463-09	Pinabel cavallero.	2	6
+185	te0463-04	Cosimiro Conde.	5	20
+186	te0463-09	Pinabel cavallero.	3	10
+187	te0463-04	Cosimiro Conde.	3	12
+188	te0463-06	Liberio viejo.	5	19
+189	te0463-01	Chinchilla lacayo.	6	24
+190	te0463-07	Clavela dama.	3	14
+191	te0463-04	Cosimiro Conde.	9	39
+192	te0463-07	Clavela dama.	2	6
+193	te0463-09	Pinabel cavallero.	2	9
+194	te0463-04	Cosimiro Conde.	27	124
+195	te0463-06	Liberio viejo.	15	64
+196	te0463-09	Pinabel cavallero.	1	3
+197	te0463-04	Cosimiro Conde.	2	8
+198	te0463-06	Liberio viejo.	4	12
+199	te0463-01	Chinchilla lacayo.	1	3
+200	te0463-07	Clavela dama.	5	25
+201	te0463-04	Cosimiro Conde.	2	7
+202	te0463-09	Pinabel cavallero.	7	32
+203	te0463-00	Don Rodrigo Giron.	1	3
+204	te0463-01	Chinchilla lacayo.	11	52
+205	te0463-00	Don Rodrigo Giron.	6	22
+206	te0463-01	Chinchilla lacayo.	16	73
+207	te0463-00	Don Rodrigo Giron.	4	17
+208	te0463-01	Chinchilla lacayo.	18	87
+209	te0463-00	Don Rodrigo Giron.	5	23
+210	te0463-01	Chinchilla lacayo.	1	4
+211	te0463-00	Don Rodrigo Giron.	10	43
+212	te0463-01	Chinchilla lacayo.	7	28
+213	te0463-00	Don Rodrigo Giron.	3	15
+214	te0463-01	Chinchilla lacayo.	1	3
+215	te0463-09	Pinabel cavallero.	9	40
+216	te0463-00	Don Rodrigo Giron.	4	19
+217	te0463-01	Chinchilla lacayo.	3	15
+218	te0463-09	Pinabel cavallero.	12	56
+219	te0463-01	Chinchilla lacayo.	8	37
+220	te0463-00	Don Rodrigo Giron.	7	32
+221	te0463-09	Pinabel cavallero.	26	116
+222	te0463-00	Don Rodrigo Giron.	1	5
+223	te0463-01	Chinchilla lacayo.	1	3
+224	te0463-00	Don Rodrigo Giron.	15	69
+225	te0463-09	Pinabel cavallero.	3	10
+226	te0463-00	Don Rodrigo Giron.	11	50
+227	te0463-01	Chinchilla lacayo.	1	3
+228	te0463-00	Don Rodrigo Giron.	36	179
+229	te0463-09	Pinabel cavallero.	8	36
+230	te0463-00	Don Rodrigo Giron.	1	4
+231	te0463-09	Pinabel cavallero.	1	4
+232	te0463-05	Leonelo Cavallero.	1	2
+233	te0463-09	Pinabel cavallero.	3	9
+234	te0463-05	Leonelo Cavallero.	21	91
+235	te0463-09	Pinabel cavallero.	3	9
+236	te0463-04	Cosimiro Conde.	3	11
+237	te0463-05	Leonelo Cavallero.	2	6
+238	te0463-04	Cosimiro Conde.	2	8
+239	te0463-00	Don Rodrigo Giron.	2	7
+240	te0463-01	Chinchilla lacayo.	3	10
+241	te0463-04	Cosimiro Conde.	1	3
+242	te0463-00	Don Rodrigo Giron.	2	8
+243	te0463-04	Cosimiro Conde.	4	19
+244	te0463-00	Don Rodrigo Giron.	3	7
+245	te0463-01	Chinchilla lacayo.	2	7
+246	te0463-00	Don Rodrigo Giron.	1	1
+247	te0463-04	Cosimiro Conde.	2	7
+248	te0463-05	Leonelo Cavallero.	1	3
+249	te0463-04	Cosimiro Conde.	7	31
+250	te0463-00	Don Rodrigo Giron.	8	39
+251	te0463-04	Cosimiro Conde.	7	33
+252	te0463-03	Diana Condesa.	1	6
+253	te0463-01	Chinchilla lacayo.	1	3
+254	te0463-03	Diana Condesa.	4	16
+255	te0463-01	Chinchilla lacayo.	1	4
+256	te0463-03	Diana Condesa.	2	6
+257	te0463-01	Chinchilla lacayo.	2	3
+258	te0463-03	Diana Condesa.	2	9
+259	te0463-01	Chinchilla lacayo.	2	10
+260	te0463-03	Diana Condesa.	1	5
+261	te0463-01	Chinchilla lacayo.	1	3
+262	te0463-03	Diana Condesa.	2	9
+263	te0463-01	Chinchilla lacayo.	2	8
+264	te0463-03	Diana Condesa.	1	3
+265	te0463-01	Chinchilla lacayo.	1	4
+266	te0463-03	Diana Condesa.	1	2
+267	te0463-01	Chinchilla lacayo.	1	3
+268	te0463-03	Diana Condesa.	1	3
+269	te0463-01	Chinchilla lacayo.	1	2
+270	te0463-04	Cosimiro Conde.	14	86
+271	te0463-07	Clavela dama.	14	101
+272	te0463-04	Cosimiro Conde.	1	1
+273	te0463-07	Clavela dama.	1	2
+274	te0463-04	Cosimiro Conde.	8	39
+275	te0463-07	Clavela dama.	3	14
+276	te0463-04	Cosimiro Conde.	12	51
+277	te0463-07	Clavela dama.	2	5
+278	te0463-04	Cosimiro Conde.	1	3
+279	te0463-07	Clavela dama.	3	13
+280	te0463-04	Cosimiro Conde.	5	20
+281	te0463-07	Clavela dama.	3	14
+282	te0463-04	Cosimiro Conde.	1	4
+283	te0463-07	Clavela dama.	6	28
+284	te0463-04	Cosimiro Conde.	8	35
+285	te0463-07	Clavela dama.	2	8
+286	te0463-04	Cosimiro Conde.	3	16
+287	te0463-07	Clavela dama.	1	7
+288	te0463-04	Cosimiro Conde.	35	165
+289	te0463-07	Clavela dama.	12	52
+290	te0463-04	Cosimiro Conde.	8	37
+291	te0463-01	Chinchilla lacayo.	41	179
+292	te0463-07	Clavela dama.	2	6
+293	te0463-04	Cosimiro Conde.	4	14
+294	te0463-07	Clavela dama.	7	35
+295	te0463-04	Cosimiro Conde.	1	2
+296	te0463-07	Clavela dama.	3	10
+297	te0463-04	Cosimiro Conde.	1	2
+298	te0463-07	Clavela dama.	1	1
+299	te0463-04	Cosimiro Conde.	1	1
+300	te0463-07	Clavela dama.	1	7
+301	te0463-04	Cosimiro Conde.	2	8
+302	te0463-07	Clavela dama.	1	4
+303	te0463-04	Cosimiro Conde.	21	107
+304	te0463-07	Clavela dama.	1	4
+305	te0463-04	Cosimiro Conde.	2	9
+306	te0463-07	Clavela dama.	3	12
+307	te0463-04	Cosimiro Conde.	1	6
+308	te0463-00	Don Rodrigo Giron.	56	347
+309	te0463-04	Cosimiro Conde.	10	61
+310	te0463-00	Don Rodrigo Giron.	4	21
+311	te0463-07	Clavela dama.	3	15
+312	te0463-00	Don Rodrigo Giron.	2	8
+313	te0463-04	Cosimiro Conde.	5	29
+314	te0463-09	Pinabel cavallero.	3	19
+315	te0463-04	Cosimiro Conde.	2	9
+316	te0463-09	Pinabel cavallero.	2	4
+317	te0463-04	Cosimiro Conde.	2	9
+318	te0463-07	Clavela dama.	5	30
+319	te0463-04	Cosimiro Conde.	4	26
+320	te0463-06	Liberio viejo.	2	17
+321	te0463-04	Cosimiro Conde.	4	30
+322	te0463-00	Don Rodrigo Giron.	2	12
+323	te0463-04	Cosimiro Conde.	4	26
+324	te0463-01	Chinchilla lacayo.	2	15
+325	te0463-04	Cosimiro Conde.	1	5
+326	te0463-01	Chinchilla lacayo.	9	53
+327	te0463-04	Cosimiro Conde.	1	1
+328	te0463-01	Chinchilla lacayo.	2	6
+329	te0463-00	Don Rodrigo Giron.	1	4
+330	te0463-04	Cosimiro Conde.	4	24
+331	te0463-00	Don Rodrigo Giron.	21	105
+332	te0463-01	Chinchilla lacayo.	2	7
+333	te0463-00	Don Rodrigo Giron.	4	22
+334	te0463-01	Chinchilla lacayo.	20	96
+335	te0463-00	Don Rodrigo Giron.	8	27
+336	te0463-01	Chinchilla lacayo.	4	15
+337	te0463-03	Diana Condesa.	6	27
+338	te0463-01	Chinchilla lacayo.	1	4
+339	te0463-00	Don Rodrigo Giron.	1	2
+340	te0463-01	Chinchilla lacayo.	5	20
+341	te0463-12	Casi.	10	44
+342	te0463-10	Floro cavallero.	3	12
+343	te0463-12	Casi.	18	79
+344	te0463-07	Clavela dama.	29	144
+345	te0463-12	Casi.	3	14
+346	te0463-10	Floro cavallero.	5	19
+347	te0463-12	Casi.	8	34
+348	te0463-07	Clavela dama.	28	131
+349	te0463-00	Don Rodrigo Giron.	1	3
+350	te0463-01	Chinchilla lacayo.	5	24
+351	te0463-00	Don Rodrigo Giron.	2	7
+352	te0463-01	Chinchilla lacayo.	17	79
+353	te0463-00	Don Rodrigo Giron.	2	9
+354	te0463-10	Floro cavallero.	1	3
+355	te0463-12	Casi.	4	18
+356	te0463-10	Floro cavallero.	3	11
+357	te0463-01	Chinchilla lacayo.	2	7
+358	te0463-10	Floro cavallero.	2	11
+359	te0463-12	Casi.	3	12
+360	te0463-00	Don Rodrigo Giron.	3	16
+361	te0463-07	Clavela dama.	1	4
+362	te0463-00	Don Rodrigo Giron.	3	12
+363	te0463-01	Chinchilla lacayo.	7	34
+364	te0463-00	Don Rodrigo Giron.	5	26
+365	te0463-07	Clavela dama.	1	2
+366	te0463-03	Diana Condesa.	2	8
+367	te0463-07	Clavela dama.	2	5
+368	te0463-00	Don Rodrigo Giron.	1	4
+369	te0463-07	Clavela dama.	1	3
+370	te0463-00	Don Rodrigo Giron.	2	5
+371	te0463-01	Chinchilla lacayo.	2	8
+372	te0463-00	Don Rodrigo Giron.	4	18
+373	te0463-07	Clavela dama.	2	3
+374	te0463-00	Don Rodrigo Giron.	4	17
+375	te0463-07	Clavela dama.	4	16
+376	te0463-00	Don Rodrigo Giron.	2	8
+377	te0463-07	Clavela dama.	3	16
+378	te0463-00	Don Rodrigo Giron.	2	6
+379	te0463-07	Clavela dama.	4	15
+380	te0463-00	Don Rodrigo Giron.	6	24
+381	te0463-07	Clavela dama.	3	14
+382	te0463-00	Don Rodrigo Giron.	2	10
+383	te0463-07	Clavela dama.	2	11
+384	te0463-00	Don Rodrigo Giron.	6	26
+385	te0463-01	Chinchilla lacayo.	2	10
+386	te0463-00	Don Rodrigo Giron.	2	7
+387	te0463-07	Clavela dama.	1	2
+388	te0463-03	Diana Condesa.	4	16
+389	te0463-07	Clavela dama.	5	23
+390	te0463-03	Diana Condesa.	9	34
+391	te0463-07	Clavela dama.	2	5
+392	te0463-00	Don Rodrigo Giron.	2	7
+393	te0463-07	Clavela dama.	3	16
+394	te0463-00	Don Rodrigo Giron.	2	11
+395	te0463-07	Clavela dama.	5	25
+396	te0463-12	Casi.	6	31
+397	te0463-10	Floro cavallero.	1	4
+398	te0463-12	Casi.	6	28
+399	te0463-10	Floro cavallero.	3	9
+400	te0463-01	Chinchilla lacayo.	2	8
+401	te0463-00	Don Rodrigo Giron.	6	23
+402	te0463-07	Clavela dama.	5	21
+403	te0463-00	Don Rodrigo Giron.	3	14
+404	te0463-07	Clavela dama.	2	12
+405	te0463-12	Casi.	1	2
+406	te0463-00	Don Rodrigo Giron.	1	2
+407	te0463-07	Clavela dama.	9	42
+408	te0463-00	Don Rodrigo Giron.	1	5
+409	te0463-07	Clavela dama.	12	56
+410	te0463-12	Casi.	2	6
+411	te0463-00	Don Rodrigo Giron.	16	69
+412	te0463-07	Clavela dama.	24	119
+413	te0463-12	Casi.	4	16
+414	te0463-10	Floro cavallero.	1	1
+415	te0463-01	Chinchilla lacayo.	1	4
+416	te0463-07	Clavela dama.	4	18
+417	te0463-00	Don Rodrigo Giron.	3	14
+418	te0463-01	Chinchilla lacayo.	12	51
+419	te0463-07	Clavela dama.	1	6
+420	te0463-01	Chinchilla lacayo.	1	1
+421	te0463-07	Clavela dama.	2	7
+422	te0463-00	Don Rodrigo Giron.	1	2
+423	te0463-07	Clavela dama.	13	61
+424	te0463-12	Casi.	15	75
+425	te0463-10	Floro cavallero.	3	15
+426	te0463-12	Casi.	4	20
+427	te0463-10	Floro cavallero.	2	10
+428	te0463-12	Casi.	14	63
+429	te0463-10	Floro cavallero.	1	4
+430	te0463-12	Casi.	6	22
+431	te0463-00	Don Rodrigo Giron.	7	34
+432	te0463-01	Chinchilla lacayo.	2	8
+433	te0463-00	Don Rodrigo Giron.	4	13
+434	te0463-01	Chinchilla lacayo.	4	13
+435	te0463-03	Diana Condesa.	2	4
+436	te0463-01	Chinchilla lacayo.	10	42
+437	te0463-00	Don Rodrigo Giron.	1	2
+438	te0463-12	Casi.	5	20
+439	te0463-00	Don Rodrigo Giron.	2	7
+440	te0463-01	Chinchilla lacayo.	2	5
+441	te0463-00	Don Rodrigo Giron.	2	5
+442	te0463-01	Chinchilla lacayo.	3	11
+443	te0463-03	Diana Condesa.	8	38
+444	te0463-04	Cosimiro Conde.	8	40
+445	te0463-00	Don Rodrigo Giron.	14	62
+446	te0463-04	Cosimiro Conde.	4	15
+447	te0463-01	Chinchilla lacayo.	6	34
+448	te0463-00	Don Rodrigo Giron.	1	4
+449	te0463-01	Chinchilla lacayo.	3	7
+450	te0463-00	Don Rodrigo Giron.	3	9
+451	te0463-01	Chinchilla lacayo.	1	2
+452	te0463-03	Diana Condesa.	1	4
+453	te0463-04	Cosimiro Conde.	1	2
+454	te0463-00	Don Rodrigo Giron.	3	13
+455	te0463-04	Cosimiro Conde.	8	43
+456	te0463-00	Don Rodrigo Giron.	1	5
+457	te0463-04	Cosimiro Conde.	9	41
+458	te0463-00	Don Rodrigo Giron.	1	5
+459	te0463-04	Cosimiro Conde.	6	27
+460	te0463-03	Diana Condesa.	1	2
+461	te0463-01	Chinchilla lacayo.	3	11
+462	te0463-00	Don Rodrigo Giron.	11	50
+463	te0463-04	Cosimiro Conde.	1	4
+464	te0463-03	Diana Condesa.	58	250
+465	te0463-04	Cosimiro Conde.	11	50
+466	te0463-00	Don Rodrigo Giron.	1	4
+467	te0463-04	Cosimiro Conde.	3	14
+468	te0463-00	Don Rodrigo Giron.	1	5
+469	te0463-04	Cosimiro Conde.	2	10
+470	te0463-00	Don Rodrigo Giron.	1	5
+471	te0463-04	Cosimiro Conde.	4	16
+472	te0463-00	Don Rodrigo Giron.	2	4
+473	te0463-04	Cosimiro Conde.	3	9
+474	te0463-00	Don Rodrigo Giron.	1	2
+475	te0463-01	Chinchilla lacayo.	1	6
+476	te0463-07	Clavela dama.	1	2
+477	te0463-04	Cosimiro Conde.	2	4
+478	te0463-07	Clavela dama.	3	17
+479	te0463-04	Cosimiro Conde.	1	2
+480	te0463-07	Clavela dama.	4	16
+481	te0463-04	Cosimiro Conde.	1	7
+482	te0463-07	Clavela dama.	1	2
+483	te0463-04	Cosimiro Conde.	7	31
+484	te0463-07	Clavela dama.	1	3
+485	te0463-04	Cosimiro Conde.	13	63
+486	te0463-07	Clavela dama.	2	9
+487	te0463-04	Cosimiro Conde.	4	19
+488	te0463-07	Clavela dama.	1	5
+489	te0463-04	Cosimiro Conde.	1	5
+490	te0463-07	Clavela dama.	2	11
+491	te0463-04	Cosimiro Conde.	30	147
+492	te0463-00	Don Rodrigo Giron.	4	17
+493	te0463-04	Cosimiro Conde.	5	18
+494	te0463-00	Don Rodrigo Giron.	4	19
+495	te0463-04	Cosimiro Conde.	1	4
+496	te0463-00	Don Rodrigo Giron.	4	18
+497	te0463-04	Cosimiro Conde.	2	10
+498	te0463-00	Don Rodrigo Giron.	4	22
+499	te0463-04	Cosimiro Conde.	1	2
+500	te0463-03	Diana Condesa.	12	49
+501	te0463-04	Cosimiro Conde.	5	23
+502	te0463-00	Don Rodrigo Giron.	1	4
+503	te0463-04	Cosimiro Conde.	3	17
+504	te0463-00	Don Rodrigo Giron.	2	10
+505	te0463-04	Cosimiro Conde.	1	2
+506	te0463-00	Don Rodrigo Giron.	1	3
+507	te0463-04	Cosimiro Conde.	1	2
+508	te0463-03	Diana Condesa.	2	11
+509	te0463-04	Cosimiro Conde.	4	16
+510	te0463-03	Diana Condesa.	2	12
+511	te0463-04	Cosimiro Conde.	2	10
+512	te0463-00	Don Rodrigo Giron.	1	5
+513	te0463-04	Cosimiro Conde.	2	7
+514	te0463-00	Don Rodrigo Giron.	4	15
+515	te0463-04	Cosimiro Conde.	2	9
+516	te0463-03	Diana Condesa.	3	14
+517	te0463-04	Cosimiro Conde.	3	15
+518	te0463-07	Clavela dama.	2	8
+519	te0463-04	Cosimiro Conde.	1	3
+520	te0463-07	Clavela dama.	1	6
+521	te0463-04	Cosimiro Conde.	1	3
+522	te0463-07	Clavela dama.	3	12
+523	te0463-04	Cosimiro Conde.	8	47
+524	te0463-00	Don Rodrigo Giron.	3	15
+525	te0463-04	Cosimiro Conde.	1	2
+526	te0463-00	Don Rodrigo Giron.	4	17
+527	te0463-04	Cosimiro Conde.	2	10
+528	te0463-00	Don Rodrigo Giron.	1	5
+529	te0463-04	Cosimiro Conde.	6	29
+530	te0463-00	Don Rodrigo Giron.	5	17
+531	te0463-04	Cosimiro Conde.	1	3
+532	te0463-03	Diana Condesa.	3	12
+533	te0463-04	Cosimiro Conde.	5	26
+534	te0463-03	Diana Condesa.	2	12
+535	te0463-04	Cosimiro Conde.	2	6
+536	te0463-00	Don Rodrigo Giron.	2	7
+537	te0463-04	Cosimiro Conde.	2	8
+538	te0463-00	Don Rodrigo Giron.	2	8
+539	te0463-04	Cosimiro Conde.	2	8
+540	te0463-00	Don Rodrigo Giron.	2	7
+541	te0463-04	Cosimiro Conde.	3	13
+542	te0463-03	Diana Condesa.	2	9
+543	te0463-04	Cosimiro Conde.	3	12
+544	te0463-00	Don Rodrigo Giron.	2	5
+545	te0463-04	Cosimiro Conde.	1	2
+546	te0463-00	Don Rodrigo Giron.	2	9
+547	te0463-01	Chinchilla lacayo.	1	5
+548	te0463-03	Diana Condesa.	5	22
+549	te0463-04	Cosimiro Conde.	1	3
+550	te0463-00	Don Rodrigo Giron.	2	7
+551	te0463-04	Cosimiro Conde.	1	2
+552	te0463-00	Don Rodrigo Giron.	2	8
+553	te0463-04	Cosimiro Conde.	2	9
+554	te0463-03	Diana Condesa.	1	1
+555	te0463-04	Cosimiro Conde.	1	3
+556	te0463-00	Don Rodrigo Giron.	2	8
+557	te0463-04	Cosimiro Conde.	1	2
+558	te0463-00	Don Rodrigo Giron.	5	21
+559	te0463-04	Cosimiro Conde.	2	7
+560	te0463-00	Don Rodrigo Giron.	4	16
+561	te0463-04	Cosimiro Conde.	3	17
+562	te0463-00	Don Rodrigo Giron.	2	9
+563	te0463-04	Cosimiro Conde.	2	11
+564	te0463-04	Cosimiro Conde.	10	43
+565	te0463-04	Cosimiro Conde.	8	34
+566	te0463-00	Don Rodrigo Giron.	5	21
+567	te0463-07	Clavela dama.	1	3
+568	te0463-04	Cosimiro Conde.	1	6
+569	te0463-07	Clavela dama.	1	6
+570	te0463-04	Cosimiro Conde.	3	13
+571	te0463-07	Clavela dama.	7	41
+572	te0463-04	Cosimiro Conde.	1	4
+573	te0463-00	Don Rodrigo Giron.	7	37
+574	te0463-04	Cosimiro Conde.	14	68
+575	te0463-00	Don Rodrigo Giron.	2	5
+576	te0463-04	Cosimiro Conde.	9	45
+577	te0463-00	Don Rodrigo Giron.	10	45
+578	te0463-07	Clavela dama.	2	5
+579	te0463-00	Don Rodrigo Giron.	2	3
+580	te0463-07	Clavela dama.	2	8
+581	te0463-04	Cosimiro Conde.	2	7
+582	te0463-07	Clavela dama.	6	30
+583	te0463-00	Don Rodrigo Giron.	1	1
+584	te0463-04	Cosimiro Conde.	2	10
+585	te0463-00	Don Rodrigo Giron.	1	4
+586	te0463-04	Cosimiro Conde.	5	26
+587	te0463-00	Don Rodrigo Giron.	36	165
+588	te0463-09	Pinabel cavallero.	6	36
+589	te0463-00	Don Rodrigo Giron.	4	24
+590	te0463-09	Pinabel cavallero.	1	8
+591	te0463-00	Don Rodrigo Giron.	2	10
+592	te0463-09	Pinabel cavallero.	22	138
+593	te0463-00	Don Rodrigo Giron.	1	4
+594	te0463-09	Pinabel cavallero.	7	45
+595	te0463-00	Don Rodrigo Giron.	3	16
+596	te0463-09	Pinabel cavallero.	1	4
+597	te0463-00	Don Rodrigo Giron.	1	5
+598	te0463-09	Pinabel cavallero.	14	95
+599	te0463-00	Don Rodrigo Giron.	4	32
+600	te0463-09	Pinabel cavallero.	3	18
+601	te0463-00	Don Rodrigo Giron.	3	23
+602	te0463-09	Pinabel cavallero.	5	36
+603	te0463-00	Don Rodrigo Giron.	1	5
+604	te0463-09	Pinabel cavallero.	17	112
+605	te0463-01	Chinchilla lacayo.	3	15
+606	te0463-00	Don Rodrigo Giron.	3	19
+607	te0463-01	Chinchilla lacayo.	2	14
+608	te0463-00	Don Rodrigo Giron.	5	34
+609	te0463-01	Chinchilla lacayo.	1	8
+610	te0463-09	Pinabel cavallero.	13	56
+611	te0463-01	Chinchilla lacayo.	1	2
+612	te0463-03	Diana Condesa.	4	13
+613	te0463-01	Chinchilla lacayo.	1	1
+614	te0463-09	Pinabel cavallero.	5	20
+615	te0463-12	Casi.	1	5
+616	te0463-09	Pinabel cavallero.	6	30
+617	te0463-12	Casi.	8	34
+618	te0463-10	Floro cavallero.	1	5
+619	te0463-12	Casi.	3	13
+620	te0463-09	Pinabel cavallero.	5	24
+621	te0463-04	Cosimiro Conde.	14	96
+622	te0463-00	Don Rodrigo Giron.	2	5
+623	te0463-04	Cosimiro Conde.	1	3
+624	te0463-00	Don Rodrigo Giron.	2	9
+625	te0463-04	Cosimiro Conde.	4	23
+626	te0463-00	Don Rodrigo Giron.	1	4
+627	te0463-04	Cosimiro Conde.	2	10
+628	te0463-00	Don Rodrigo Giron.	3	17
+629	te0463-04	Cosimiro Conde.	7	33
+630	te0463-00	Don Rodrigo Giron.	3	14
+631	te0463-04	Cosimiro Conde.	8	33
+632	te0463-03	Diana Condesa.	1	3
+633	te0463-04	Cosimiro Conde.	8	34
+634	te0463-00	Don Rodrigo Giron.	2	6
+635	te0463-04	Cosimiro Conde.	8	34
+636	te0463-00	Don Rodrigo Giron.	2	7
+637	te0463-04	Cosimiro Conde.	8	35
+638	te0463-00	Don Rodrigo Giron.	1	3
+639	te0463-04	Cosimiro Conde.	2	10
+640	te0463-00	Don Rodrigo Giron.	1	4
+641	te0463-04	Cosimiro Conde.	1	4
+642	te0463-00	Don Rodrigo Giron.	1	6
+643	te0463-04	Cosimiro Conde.	2	9
+644	te0463-00	Don Rodrigo Giron.	1	5
+645	te0463-04	Cosimiro Conde.	1	5
+646	te0463-00	Don Rodrigo Giron.	1	4
+647	te0463-04	Cosimiro Conde.	1	1
+648	te0463-00	Don Rodrigo Giron.	4	17
+649	te0463-04	Cosimiro Conde.	2	10
+650	te0463-00	Don Rodrigo Giron.	2	9
+651	te0463-04	Cosimiro Conde.	3	10
+652	te0463-00	Don Rodrigo Giron.	5	15
+653	te0463-04	Cosimiro Conde.	1	3
+654	te0463-00	Don Rodrigo Giron.	1	2
+655	te0463-04	Cosimiro Conde.	2	8
+656	te0463-00	Don Rodrigo Giron.	1	4
+657	te0463-04	Cosimiro Conde.	1	2
+658	te0463-00	Don Rodrigo Giron.	1	5
+659	te0463-04	Cosimiro Conde.	2	9
+660	te0463-00	Don Rodrigo Giron.	1	2
+661	te0463-04	Cosimiro Conde.	2	10
+662	te0463-00	Don Rodrigo Giron.	3	10
+663	te0463-04	Cosimiro Conde.	1	3
+664	te0463-00	Don Rodrigo Giron.	4	14
+665	te0463-04	Cosimiro Conde.	3	13
+666	te0463-00	Don Rodrigo Giron.	2	8
+667	te0463-04	Cosimiro Conde.	6	34
+668	te0463-00	Don Rodrigo Giron.	7	30
+669	te0463-04	Cosimiro Conde.	1	2
+670	te0463-00	Don Rodrigo Giron.	1	2
+671	te0463-04	Cosimiro Conde.	1	2
+672	te0463-00	Don Rodrigo Giron.	1	1
+673	te0463-04	Cosimiro Conde.	3	9
+674	te0463-00	Don Rodrigo Giron.	1	2
+675	te0463-04	Cosimiro Conde.	1	6
+676	te0463-03	Diana Condesa.	1	2
+677	te0463-04	Cosimiro Conde.	1	4
+678	te0463-00	Don Rodrigo Giron.	1	5
+679	te0463-04	Cosimiro Conde.	1	2
+680	te0463-00	Don Rodrigo Giron.	4	20
+681	te0463-04	Cosimiro Conde.	1	3
+682	te0463-03	Diana Condesa.	1	3
+683	te0463-04	Cosimiro Conde.	1	3
+684	te0463-03	Diana Condesa.	1	2
+685	te0463-04	Cosimiro Conde.	1	9
+686	te0463-00	Don Rodrigo Giron.	3	13
+687	te0463-04	Cosimiro Conde.	4	22
+688	te0463-00	Don Rodrigo Giron.	1	3
+689	te0463-04	Cosimiro Conde.	2	7
+690	te0463-00	Don Rodrigo Giron.	2	8
+691	te0463-04	Cosimiro Conde.	2	8
+692	te0463-00	Don Rodrigo Giron.	1	2
+693	te0463-04	Cosimiro Conde.	2	9
+694	te0463-00	Don Rodrigo Giron.	41	217
+695	te0463-10	Floro cavallero.	2	11
+696	te0463-12	Casi.	2	12
+697	te0463-00	Don Rodrigo Giron.	4	21
+698	te0463-12	Casi.	1	1
+699	te0463-03	Diana Condesa.	1	2
+700	te0463-12	Casi.	8	32
+701	te0463-00	Don Rodrigo Giron.	1	3
+702	te0463-12	Casi.	1	5
+703	te0463-00	Don Rodrigo Giron.	1	1
+704	te0463-12	Casi.	3	15
+705	te0463-00	Don Rodrigo Giron.	3	17
+706	te0463-12	Casi.	3	11
+707	te0463-00	Don Rodrigo Giron.	4	20
+708	te0463-12	Casi.	1	2
+709	te0463-03	Diana Condesa.	2	8
+710	te0463-12	Casi.	2	7
+711	te0463-00	Don Rodrigo Giron.	8	40
+712	te0463-12	Casi.	1	4
+713	te0463-03	Diana Condesa.	3	18
+714	te0463-12	Casi.	1	5
+715	te0463-10	Floro cavallero.	2	8
+716	te0463-12	Casi.	3	12
+717	te0463-10	Floro cavallero.	2	9
+718	te0463-12	Casi.	2	7
+719	te0463-12	Casi.	5	17
+720	te0463-12	Casi.	11	50
+721	te0463-10	Floro cavallero.	1	2
+722	te0463-12	Casi.	7	30
+723	te0463-10	Floro cavallero.	1	3
+724	te0463-12	Casi.	3	20
+725	te0463-10	Floro cavallero.	1	1
+726	te0463-12	Casi.	2	11
+727	te0463-00	Don Rodrigo Giron.	26	141
+728	te0463-01	Chinchilla lacayo.	2	9
+729	te0463-00	Don Rodrigo Giron.	2	3
+730	te0463-01	Chinchilla lacayo.	1	3
+731	te0463-00	Don Rodrigo Giron.	2	7
+732	te0463-01	Chinchilla lacayo.	2	8
+733	te0463-00	Don Rodrigo Giron.	2	10
+734	te0463-01	Chinchilla lacayo.	2	10
+735	te0463-03	Diana Condesa.	1	1
+736	te0463-01	Chinchilla lacayo.	1	1
+737	te0463-00	Don Rodrigo Giron.	2	10
+738	te0463-01	Chinchilla lacayo.	8	43
+739	te0463-12	Casi.	1	4
+740	te0463-10	Floro cavallero.	2	5
+741	te0463-12	Casi.	15	78
+742	te0463-10	Floro cavallero.	1	6
+743	te0463-12	Casi.	1	5
+744	te0463-10	Floro cavallero.	1	5
+745	te0463-12	Casi.	2	9
+746	te0463-10	Floro cavallero.	2	10
+747	te0463-01	Chinchilla lacayo.	1	6
+748	te0463-12	Casi.	4	17
+749	te0463-01	Chinchilla lacayo.	1	5
+750	te0463-12	Casi.	7	39
+751	te0463-01	Chinchilla lacayo.	7	31
+752	te0463-00	Don Rodrigo Giron.	12	60
+753	te0463-01	Chinchilla lacayo.	9	48
+754	te0463-03	Diana Condesa.	1	3
+755	te0463-01	Chinchilla lacayo.	1	4
+756	te0463-03	Diana Condesa.	1	3
+757	te0463-01	Chinchilla lacayo.	3	12
+758	te0463-00	Don Rodrigo Giron.	1	5
+759	te0463-01	Chinchilla lacayo.	7	38
+760	te0463-03	Diana Condesa.	1	2
+761	te0463-01	Chinchilla lacayo.	1	3
+762	te0463-03	Diana Condesa.	1	1
+763	te0463-01	Chinchilla lacayo.	7	33
+764	te0463-00	Don Rodrigo Giron.	3	11
+765	te0463-01	Chinchilla lacayo.	5	21
+766	te0463-00	Don Rodrigo Giron.	1	1
+767	te0463-01	Chinchilla lacayo.	5	24
+768	te0463-00	Don Rodrigo Giron.	1	5
+769	te0463-01	Chinchilla lacayo.	2	12
+770	te0463-00	Don Rodrigo Giron.	2	10
+771	te0463-01	Chinchilla lacayo.	3	15
+772	te0463-00	Don Rodrigo Giron.	5	26
+773	te0463-01	Chinchilla lacayo.	1	3
+774	te0463-00	Don Rodrigo Giron.	6	31
+775	te0463-01	Chinchilla lacayo.	1	3
+776	te0463-03	Diana Condesa.	17	82
+777	te0463-01	Chinchilla lacayo.	8	32
+778	te0463-00	Don Rodrigo Giron.	4	22
+779	te0463-04	Cosimiro Conde.	24	110
+780	te0463-12	Casi.	5	21
+781	te0463-04	Cosimiro Conde.	5	24
+782	te0463-03	Diana Condesa.	1	4
+783	te0463-04	Cosimiro Conde.	3	13
+784	te0463-03	Diana Condesa.	1	5
+785	te0463-04	Cosimiro Conde.	2	8
+786	te0463-00	Don Rodrigo Giron.	2	5
+787	te0463-04	Cosimiro Conde.	2	7
+788	te0463-01	Chinchilla lacayo.	2	6
+789	te0463-03	Diana Condesa.	2	5
+790	te0463-01	Chinchilla lacayo.	6	27
+791	te0463-04	Cosimiro Conde.	7	30
+792	te0463-12	Casi.	2	7
+793	te0463-04	Cosimiro Conde.	3	18
+794	te0463-09	Pinabel cavallero.	1	5
+795	te0463-04	Cosimiro Conde.	2	9
+796	te0463-06	Liberio viejo.	1	3
+797	te0463-11	Cla.	2	7
+798	te0463-04	Cosimiro Conde.	2	11
+799	te0463-07	Clavela dama.	1	1
+800	te0463-04	Cosimiro Conde.	4	19
+801	te0463-06	Liberio viejo.	3	17
+802	te0463-07	Clavela dama.	1	6
+803	te0463-00	Don Rodrigo Giron.	3	17
+804	te0463-09	Pinabel cavallero.	2	8
+805	te0463-04	Cosimiro Conde.	3	12
+806	te0463-09	Pinabel cavallero.	3	12
+807	te0463-03	Diana Condesa.	2	9
+808	te0463-04	Cosimiro Conde.	1	2
+809	te0463-00	Don Rodrigo Giron.	2	10
+810	te0463-04	Cosimiro Conde.	1	5
+811	te0463-01	Chinchilla lacayo.	1	3
+812	te0463-04	Cosimiro Conde.	1	2
+813	te0463-01	Chinchilla lacayo.	4	15
+814	te0463-12	Casi.	3	11
+815	te0463-00	Don Rodrigo Giron.	6	25

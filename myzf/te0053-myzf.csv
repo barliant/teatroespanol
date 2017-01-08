@@ -1,0 +1,675 @@
+num	id	name	numlines	numwords
+1	te0053-03	Guzmàn, criado.	4	18
+2	te0053-00	Don Luis, galàn.	2	8
+3	te0053-03	Guzmàn, criado.	1	3
+4	te0053-00	Don Luis, galàn.	7	30
+5	te0053-03	Guzmàn, criado.	9	42
+6	te0053-00	Don Luis, galàn.	2	5
+7	te0053-03	Guzmàn, criado.	1	4
+8	te0053-00	Don Luis, galàn.	1	6
+9	te0053-03	Guzmàn, criado.	3	14
+10	te0053-00	Don Luis, galàn.	1	6
+11	te0053-03	Guzmàn, criado.	1	4
+12	te0053-00	Don Luis, galàn.	1	4
+13	te0053-03	Guzmàn, criado.	1	1
+14	te0053-00	Don Luis, galàn.	3	15
+15	te0053-03	Guzmàn, criado.	2	12
+16	te0053-00	Don Luis, galàn.	1	2
+17	te0053-03	Guzmàn, criado.	1	3
+18	te0053-00	Don Luis, galàn.	1	2
+19	te0053-03	Guzmàn, criado.	2	9
+20	te0053-00	Don Luis, galàn.	8	33
+21	te0053-10	Vno.	2	5
+22	te0053-01	Don Juan de Lara, galàn.	2	8
+23	te0053-00	Don Luis, galàn.	7	32
+24	te0053-01	Don Juan de Lara, galàn.	13	65
+25	te0053-00	Don Luis, galàn.	8	36
+26	te0053-01	Don Juan de Lara, galàn.	20	98
+27	te0053-00	Don Luis, galàn.	1	2
+28	te0053-03	Guzmàn, criado.	2	4
+29	te0053-00	Don Luis, galàn.	3	11
+30	te0053-03	Guzmàn, criado.	16	74
+31	te0053-00	Don Luis, galàn.	4	16
+32	te0053-03	Guzmàn, criado.	1	5
+33	te0053-00	Don Luis, galàn.	4	24
+34	te0053-04	Espinel, criado.	4	16
+35	te0053-03	Guzmàn, criado.	2	7
+36	te0053-00	Don Luis, galàn.	1	3
+37	te0053-03	Guzmàn, criado.	1	4
+38	te0053-00	Don Luis, galàn.	3	8
+39	te0053-04	Espinel, criado.	7	36
+40	te0053-01	Don Juan de Lara, galàn.	1	3
+41	te0053-04	Espinel, criado.	4	15
+42	te0053-00	Don Luis, galàn.	1	2
+43	te0053-04	Espinel, criado.	41	195
+44	te0053-00	Don Luis, galàn.	3	12
+45	te0053-03	Guzmàn, criado.	9	35
+46	te0053-04	Espinel, criado.	4	19
+47	te0053-00	Don Luis, galàn.	2	8
+48	te0053-03	Guzmàn, criado.	5	20
+49	te0053-00	Don Luis, galàn.	2	8
+50	te0053-04	Espinel, criado.	3	13
+51	te0053-00	Don Luis, galàn.	1	3
+52	te0053-04	Espinel, criado.	5	18
+53	te0053-00	Don Luis, galàn.	1	3
+54	te0053-04	Espinel, criado.	2	10
+55	te0053-00	Don Luis, galàn.	17	81
+56	te0053-08	Inès, criada.	12	52
+57	te0053-05	Doña Ana, Dama.	1	1
+58	te0053-08	Inès, criada.	6	26
+59	te0053-05	Doña Ana, Dama.	7	29
+60	te0053-08	Inès, criada.	5	24
+61	te0053-05	Doña Ana, Dama.	3	15
+62	te0053-08	Inès, criada.	7	40
+63	te0053-05	Doña Ana, Dama.	21	110
+64	te0053-06	Doña Maria, Dama.	4	17
+65	te0053-05	Doña Ana, Dama.	4	20
+66	te0053-06	Doña Maria, Dama.	3	11
+67	te0053-05	Doña Ana, Dama.	1	3
+68	te0053-06	Doña Maria, Dama.	9	44
+69	te0053-05	Doña Ana, Dama.	10	52
+70	te0053-06	Doña Maria, Dama.	4	18
+71	te0053-05	Doña Ana, Dama.	2	6
+72	te0053-06	Doña Maria, Dama.	3	12
+73	te0053-05	Doña Ana, Dama.	2	9
+74	te0053-06	Doña Maria, Dama.	115	565
+75	te0053-05	Doña Ana, Dama.	30	149
+76	te0053-06	Doña Maria, Dama.	9	40
+77	te0053-05	Doña Ana, Dama.	7	29
+78	te0053-06	Doña Maria, Dama.	5	24
+79	te0053-05	Doña Ana, Dama.	9	47
+80	te0053-06	Doña Maria, Dama.	5	21
+81	te0053-05	Doña Ana, Dama.	5	20
+82	te0053-06	Doña Maria, Dama.	6	27
+83	te0053-05	Doña Ana, Dama.	1	1
+84	te0053-08	Inès, criada.	1	1
+85	te0053-05	Doña Ana, Dama.	2	6
+86	te0053-08	Inès, criada.	4	13
+87	te0053-05	Doña Ana, Dama.	1	2
+88	te0053-08	Inès, criada.	7	31
+89	te0053-05	Doña Ana, Dama.	5	23
+90	te0053-08	Inès, criada.	12	52
+91	te0053-05	Doña Ana, Dama.	5	22
+92	te0053-08	Inès, criada.	1	4
+93	te0053-05	Doña Ana, Dama.	1	4
+94	te0053-08	Inès, criada.	4	20
+95	te0053-05	Doña Ana, Dama.	1	4
+96	te0053-08	Inès, criada.	1	2
+97	te0053-05	Doña Ana, Dama.	1	5
+98	te0053-08	Inès, criada.	1	5
+99	te0053-05	Doña Ana, Dama.	1	6
+100	te0053-08	Inès, criada.	3	15
+101	te0053-05	Doña Ana, Dama.	2	10
+102	te0053-98	(unknown)	0	0
+103	te0053-07	Don Bernardo viejo.	13	59
+104	te0053-05	Doña Ana, Dama.	3	13
+105	te0053-07	Don Bernardo viejo.	4	17
+106	te0053-08	Inès, criada.	2	6
+107	te0053-05	Doña Ana, Dama.	4	15
+108	te0053-07	Don Bernardo viejo.	2	8
+109	te0053-04	Espinel, criado.	1	4
+110	te0053-07	Don Bernardo viejo.	3	13
+111	te0053-04	Espinel, criado.	5	21
+112	te0053-07	Don Bernardo viejo.	2	5
+113	te0053-04	Espinel, criado.	2	5
+114	te0053-07	Don Bernardo viejo.	2	5
+115	te0053-04	Espinel, criado.	2	7
+116	te0053-07	Don Bernardo viejo.	2	5
+117	te0053-04	Espinel, criado.	2	4
+118	te0053-07	Don Bernardo viejo.	1	2
+119	te0053-04	Espinel, criado.	2	12
+120	te0053-07	Don Bernardo viejo.	1	2
+121	te0053-04	Espinel, criado.	1	4
+122	te0053-07	Don Bernardo viejo.	1	4
+123	te0053-04	Espinel, criado.	1	1
+124	te0053-07	Don Bernardo viejo.	1	5
+125	te0053-04	Espinel, criado.	2	6
+126	te0053-07	Don Bernardo viejo.	1	2
+127	te0053-04	Espinel, criado.	4	21
+128	te0053-07	Don Bernardo viejo.	6	23
+129	te0053-04	Espinel, criado.	8	36
+130	te0053-07	Don Bernardo viejo.	4	16
+131	te0053-04	Espinel, criado.	3	13
+132	te0053-98	(unknown)	2	6
+133	te0053-07	Don Bernardo viejo.	2	6
+134	te0053-01	Don Juan de Lara, galàn.	3	11
+135	te0053-07	Don Bernardo viejo.	4	21
+136	te0053-01	Don Juan de Lara, galàn.	63	316
+137	te0053-07	Don Bernardo viejo.	24	118
+138	te0053-01	Don Juan de Lara, galàn.	1	5
+139	te0053-07	Don Bernardo viejo.	8	38
+140	te0053-01	Don Juan de Lara, galàn.	2	13
+141	te0053-07	Don Bernardo viejo.	2	6
+142	te0053-05	Doña Ana, Dama.	1	1
+143	te0053-07	Don Bernardo viejo.	4	15
+144	te0053-05	Doña Ana, Dama.	1	3
+145	te0053-08	Inès, criada.	1	3
+146	te0053-05	Doña Ana, Dama.	1	4
+147	te0053-08	Inès, criada.	4	14
+148	te0053-05	Doña Ana, Dama.	2	6
+149	te0053-08	Inès, criada.	3	9
+150	te0053-05	Doña Ana, Dama.	4	14
+151	te0053-08	Inès, criada.	1	2
+152	te0053-05	Doña Ana, Dama.	1	5
+153	te0053-08	Inès, criada.	1	2
+154	te0053-05	Doña Ana, Dama.	1	1
+155	te0053-08	Inès, criada.	3	13
+156	te0053-05	Doña Ana, Dama.	7	35
+157	te0053-08	Inès, criada.	2	6
+158	te0053-05	Doña Ana, Dama.	1	2
+159	te0053-08	Inès, criada.	1	4
+160	te0053-05	Doña Ana, Dama.	3	8
+161	te0053-08	Inès, criada.	1	2
+162	te0053-05	Doña Ana, Dama.	2	8
+163	te0053-08	Inès, criada.	1	5
+164	te0053-05	Doña Ana, Dama.	1	6
+165	te0053-08	Inès, criada.	1	4
+166	te0053-05	Doña Ana, Dama.	1	4
+167	te0053-98	(unknown)	16	81
+168	te0053-05	Doña Ana, Dama.	6	25
+169	te0053-02	Don Diego de Silva, galan.	5	22
+170	te0053-05	Doña Ana, Dama.	1	1
+171	te0053-02	Don Diego de Silva, galan.	1	2
+172	te0053-05	Doña Ana, Dama.	1	7
+173	te0053-02	Don Diego de Silva, galan.	3	9
+174	te0053-05	Doña Ana, Dama.	1	1
+175	te0053-02	Don Diego de Silva, galan.	7	34
+176	te0053-05	Doña Ana, Dama.	2	6
+177	te0053-02	Don Diego de Silva, galan.	5	27
+178	te0053-08	Inès, criada.	1	6
+179	te0053-05	Doña Ana, Dama.	2	9
+180	te0053-08	Inès, criada.	4	17
+181	te0053-02	Don Diego de Silva, galan.	13	59
+182	te0053-05	Doña Ana, Dama.	5	20
+183	te0053-08	Inès, criada.	1	3
+184	te0053-02	Don Diego de Silva, galan.	1	3
+185	te0053-05	Doña Ana, Dama.	7	31
+186	te0053-02	Don Diego de Silva, galan.	3	11
+187	te0053-05	Doña Ana, Dama.	13	59
+188	te0053-02	Don Diego de Silva, galan.	1	5
+189	te0053-08	Inès, criada.	10	46
+190	te0053-05	Doña Ana, Dama.	1	1
+191	te0053-08	Inès, criada.	1	2
+192	te0053-05	Doña Ana, Dama.	5	17
+193	te0053-02	Don Diego de Silva, galan.	2	7
+194	te0053-08	Inès, criada.	1	5
+195	te0053-05	Doña Ana, Dama.	2	11
+196	te0053-02	Don Diego de Silva, galan.	3	16
+197	te0053-08	Inès, criada.	1	1
+198	te0053-02	Don Diego de Silva, galan.	1	1
+199	te0053-05	Doña Ana, Dama.	2	7
+200	te0053-02	Don Diego de Silva, galan.	2	10
+201	te0053-08	Inès, criada.	1	6
+202	te0053-05	Doña Ana, Dama.	1	5
+203	te0053-08	Inès, criada.	2	9
+204	te0053-02	Don Diego de Silva, galan.	40	215
+205	te0053-05	Doña Ana, Dama.	3	10
+206	te0053-02	Don Diego de Silva, galan.	1	4
+207	te0053-05	Doña Ana, Dama.	2	6
+208	te0053-02	Don Diego de Silva, galan.	4	13
+209	te0053-05	Doña Ana, Dama.	8	37
+210	te0053-02	Don Diego de Silva, galan.	4	17
+211	te0053-05	Doña Ana, Dama.	1	2
+212	te0053-02	Don Diego de Silva, galan.	5	21
+213	te0053-05	Doña Ana, Dama.	1	5
+214	te0053-02	Don Diego de Silva, galan.	1	4
+215	te0053-05	Doña Ana, Dama.	5	19
+216	te0053-02	Don Diego de Silva, galan.	6	26
+217	te0053-05	Doña Ana, Dama.	1	5
+218	te0053-02	Don Diego de Silva, galan.	17	85
+219	te0053-05	Doña Ana, Dama.	3	10
+220	te0053-02	Don Diego de Silva, galan.	1	3
+221	te0053-05	Doña Ana, Dama.	7	39
+222	te0053-02	Don Diego de Silva, galan.	4	19
+223	te0053-05	Doña Ana, Dama.	1	4
+224	te0053-02	Don Diego de Silva, galan.	5	29
+225	te0053-05	Doña Ana, Dama.	2	11
+226	te0053-02	Don Diego de Silva, galan.	9	40
+227	te0053-05	Doña Ana, Dama.	3	17
+228	te0053-02	Don Diego de Silva, galan.	1	4
+229	te0053-05	Doña Ana, Dama.	1	5
+230	te0053-02	Don Diego de Silva, galan.	2	8
+231	te0053-05	Doña Ana, Dama.	1	2
+232	te0053-02	Don Diego de Silva, galan.	1	2
+233	te0053-05	Doña Ana, Dama.	1	3
+234	te0053-02	Don Diego de Silva, galan.	1	5
+235	te0053-05	Doña Ana, Dama.	2	6
+236	te0053-02	Don Diego de Silva, galan.	2	8
+237	te0053-05	Doña Ana, Dama.	2	6
+238	te0053-02	Don Diego de Silva, galan.	3	10
+239	te0053-05	Doña Ana, Dama.	1	3
+240	te0053-02	Don Diego de Silva, galan.	2	5
+241	te0053-05	Doña Ana, Dama.	2	6
+242	te0053-02	Don Diego de Silva, galan.	4	18
+243	te0053-05	Doña Ana, Dama.	1	2
+244	te0053-02	Don Diego de Silva, galan.	4	18
+245	te0053-05	Doña Ana, Dama.	2	9
+246	te0053-02	Don Diego de Silva, galan.	2	12
+247	te0053-05	Doña Ana, Dama.	2	12
+248	te0053-02	Don Diego de Silva, galan.	1	7
+249	te0053-05	Doña Ana, Dama.	1	1
+250	te0053-02	Don Diego de Silva, galan.	1	5
+251	te0053-05	Doña Ana, Dama.	2	10
+252	te0053-07	Don Bernardo viejo.	2	9
+253	te0053-05	Doña Ana, Dama.	4	19
+254	te0053-07	Don Bernardo viejo.	10	52
+255	te0053-98	(unknown)	28	135
+256	te0053-07	Don Bernardo viejo.	8	34
+257	te0053-05	Doña Ana, Dama.	8	42
+258	te0053-01	Don Juan de Lara, galàn.	4	19
+259	te0053-07	Don Bernardo viejo.	2	9
+260	te0053-01	Don Juan de Lara, galàn.	3	9
+261	te0053-04	Espinel, criado.	3	10
+262	te0053-01	Don Juan de Lara, galàn.	1	3
+263	te0053-04	Espinel, criado.	1	6
+264	te0053-01	Don Juan de Lara, galàn.	1	3
+265	te0053-04	Espinel, criado.	21	92
+266	te0053-07	Don Bernardo viejo.	14	68
+267	te0053-04	Espinel, criado.	1	5
+268	te0053-07	Don Bernardo viejo.	1	2
+269	te0053-04	Espinel, criado.	4	21
+270	te0053-07	Don Bernardo viejo.	1	2
+271	te0053-04	Espinel, criado.	2	7
+272	te0053-07	Don Bernardo viejo.	1	2
+273	te0053-04	Espinel, criado.	4	13
+274	te0053-07	Don Bernardo viejo.	1	1
+275	te0053-04	Espinel, criado.	3	13
+276	te0053-07	Don Bernardo viejo.	2	3
+277	te0053-04	Espinel, criado.	1	1
+278	te0053-07	Don Bernardo viejo.	1	2
+279	te0053-04	Espinel, criado.	3	14
+280	te0053-07	Don Bernardo viejo.	1	5
+281	te0053-04	Espinel, criado.	4	22
+282	te0053-01	Don Juan de Lara, galàn.	3	14
+283	te0053-04	Espinel, criado.	1	5
+284	te0053-07	Don Bernardo viejo.	3	13
+285	te0053-05	Doña Ana, Dama.	4	17
+286	te0053-01	Don Juan de Lara, galàn.	5	23
+287	te0053-05	Doña Ana, Dama.	1	2
+288	te0053-01	Don Juan de Lara, galàn.	1	3
+289	te0053-04	Espinel, criado.	1	5
+290	te0053-01	Don Juan de Lara, galàn.	1	4
+291	te0053-04	Espinel, criado.	8	30
+292	te0053-01	Don Juan de Lara, galàn.	2	12
+293	te0053-04	Espinel, criado.	4	22
+294	te0053-01	Don Juan de Lara, galàn.	13	70
+295	te0053-04	Espinel, criado.	6	30
+296	te0053-01	Don Juan de Lara, galàn.	1	2
+297	te0053-04	Espinel, criado.	1	1
+298	te0053-01	Don Juan de Lara, galàn.	4	19
+299	te0053-04	Espinel, criado.	5	17
+300	te0053-01	Don Juan de Lara, galàn.	2	4
+301	te0053-04	Espinel, criado.	2	7
+302	te0053-01	Don Juan de Lara, galàn.	3	17
+303	te0053-04	Espinel, criado.	24	104
+304	te0053-01	Don Juan de Lara, galàn.	7	38
+305	te0053-04	Espinel, criado.	1	2
+306	te0053-01	Don Juan de Lara, galàn.	1	5
+307	te0053-98	(unknown)	44	226
+308	te0053-08	Inès, criada.	2	7
+309	te0053-05	Doña Ana, Dama.	4	19
+310	te0053-08	Inès, criada.	4	19
+311	te0053-05	Doña Ana, Dama.	6	30
+312	te0053-02	Don Diego de Silva, galan.	5	26
+313	te0053-05	Doña Ana, Dama.	1	2
+314	te0053-08	Inès, criada.	1	1
+315	te0053-05	Doña Ana, Dama.	11	49
+316	te0053-02	Don Diego de Silva, galan.	5	23
+317	te0053-05	Doña Ana, Dama.	4	17
+318	te0053-02	Don Diego de Silva, galan.	3	12
+319	te0053-05	Doña Ana, Dama.	2	5
+320	te0053-02	Don Diego de Silva, galan.	1	2
+321	te0053-05	Doña Ana, Dama.	1	1
+322	te0053-02	Don Diego de Silva, galan.	1	4
+323	te0053-05	Doña Ana, Dama.	2	9
+324	te0053-02	Don Diego de Silva, galan.	4	20
+325	te0053-05	Doña Ana, Dama.	3	15
+326	te0053-02	Don Diego de Silva, galan.	3	11
+327	te0053-05	Doña Ana, Dama.	3	12
+328	te0053-02	Don Diego de Silva, galan.	48	238
+329	te0053-05	Doña Ana, Dama.	62	299
+330	te0053-02	Don Diego de Silva, galan.	2	8
+331	te0053-05	Doña Ana, Dama.	6	32
+332	te0053-02	Don Diego de Silva, galan.	2	9
+333	te0053-05	Doña Ana, Dama.	1	5
+334	te0053-02	Don Diego de Silva, galan.	12	49
+335	te0053-05	Doña Ana, Dama.	20	93
+336	te0053-02	Don Diego de Silva, galan.	4	17
+337	te0053-05	Doña Ana, Dama.	3	12
+338	te0053-02	Don Diego de Silva, galan.	1	3
+339	te0053-05	Doña Ana, Dama.	4	17
+340	te0053-02	Don Diego de Silva, galan.	2	5
+341	te0053-05	Doña Ana, Dama.	1	5
+342	te0053-02	Don Diego de Silva, galan.	2	10
+343	te0053-05	Doña Ana, Dama.	1	6
+344	te0053-02	Don Diego de Silva, galan.	4	18
+345	te0053-05	Doña Ana, Dama.	1	4
+346	te0053-02	Don Diego de Silva, galan.	1	4
+347	te0053-05	Doña Ana, Dama.	1	1
+348	te0053-02	Don Diego de Silva, galan.	1	2
+349	te0053-08	Inès, criada.	2	8
+350	te0053-02	Don Diego de Silva, galan.	1	3
+351	te0053-05	Doña Ana, Dama.	2	8
+352	te0053-02	Don Diego de Silva, galan.	5	22
+353	te0053-05	Doña Ana, Dama.	2	7
+354	te0053-02	Don Diego de Silva, galan.	1	5
+355	te0053-05	Doña Ana, Dama.	1	5
+356	te0053-02	Don Diego de Silva, galan.	3	16
+357	te0053-05	Doña Ana, Dama.	1	6
+358	te0053-08	Inès, criada.	8	40
+359	te0053-05	Doña Ana, Dama.	1	4
+360	te0053-08	Inès, criada.	1	2
+361	te0053-05	Doña Ana, Dama.	3	12
+362	te0053-08	Inès, criada.	5	22
+363	te0053-05	Doña Ana, Dama.	51	238
+364	te0053-02	Don Diego de Silva, galan.	4	18
+365	te0053-05	Doña Ana, Dama.	4	16
+366	te0053-08	Inès, criada.	2	9
+367	te0053-05	Doña Ana, Dama.	1	5
+368	te0053-08	Inès, criada.	1	4
+369	te0053-01	Don Juan de Lara, galàn.	1	6
+370	te0053-05	Doña Ana, Dama.	2	12
+371	te0053-01	Don Juan de Lara, galàn.	5	22
+372	te0053-05	Doña Ana, Dama.	6	29
+373	te0053-01	Don Juan de Lara, galàn.	9	42
+374	te0053-05	Doña Ana, Dama.	12	59
+375	te0053-01	Don Juan de Lara, galàn.	1	6
+376	te0053-05	Doña Ana, Dama.	1	5
+377	te0053-01	Don Juan de Lara, galàn.	4	18
+378	te0053-04	Espinel, criado.	2	10
+379	te0053-01	Don Juan de Lara, galàn.	3	14
+380	te0053-04	Espinel, criado.	4	20
+381	te0053-01	Don Juan de Lara, galàn.	2	9
+382	te0053-04	Espinel, criado.	18	85
+383	te0053-01	Don Juan de Lara, galàn.	1	5
+384	te0053-05	Doña Ana, Dama.	1	5
+385	te0053-01	Don Juan de Lara, galàn.	2	8
+386	te0053-08	Inès, criada.	1	3
+387	te0053-05	Doña Ana, Dama.	4	15
+388	te0053-08	Inès, criada.	2	8
+389	te0053-05	Doña Ana, Dama.	7	30
+390	te0053-08	Inès, criada.	2	11
+391	te0053-05	Doña Ana, Dama.	1	6
+392	te0053-08	Inès, criada.	3	14
+393	te0053-05	Doña Ana, Dama.	6	31
+394	te0053-06	Doña Maria, Dama.	3	12
+395	te0053-05	Doña Ana, Dama.	4	17
+396	te0053-06	Doña Maria, Dama.	2	7
+397	te0053-05	Doña Ana, Dama.	3	15
+398	te0053-06	Doña Maria, Dama.	5	22
+399	te0053-05	Doña Ana, Dama.	2	11
+400	te0053-06	Doña Maria, Dama.	6	29
+401	te0053-05	Doña Ana, Dama.	5	20
+402	te0053-06	Doña Maria, Dama.	2	8
+403	te0053-05	Doña Ana, Dama.	1	4
+404	te0053-06	Doña Maria, Dama.	5	24
+405	te0053-05	Doña Ana, Dama.	1	2
+406	te0053-06	Doña Maria, Dama.	3	13
+407	te0053-05	Doña Ana, Dama.	2	9
+408	te0053-06	Doña Maria, Dama.	1	2
+409	te0053-05	Doña Ana, Dama.	1	2
+410	te0053-06	Doña Maria, Dama.	4	15
+411	te0053-05	Doña Ana, Dama.	2	8
+412	te0053-06	Doña Maria, Dama.	7	36
+413	te0053-05	Doña Ana, Dama.	2	13
+414	te0053-08	Inès, criada.	5	28
+415	te0053-06	Doña Maria, Dama.	1	3
+416	te0053-05	Doña Ana, Dama.	2	6
+417	te0053-06	Doña Maria, Dama.	1	2
+418	te0053-05	Doña Ana, Dama.	1	1
+419	te0053-06	Doña Maria, Dama.	1	4
+420	te0053-05	Doña Ana, Dama.	3	12
+421	te0053-06	Doña Maria, Dama.	1	2
+422	te0053-05	Doña Ana, Dama.	1	4
+423	te0053-06	Doña Maria, Dama.	1	4
+424	te0053-05	Doña Ana, Dama.	1	5
+425	te0053-06	Doña Maria, Dama.	1	4
+426	te0053-05	Doña Ana, Dama.	3	13
+427	te0053-06	Doña Maria, Dama.	1	3
+428	te0053-05	Doña Ana, Dama.	1	6
+429	te0053-00	Don Luis, galàn.	11	65
+430	te0053-05	Doña Ana, Dama.	9	45
+431	te0053-00	Don Luis, galàn.	2	9
+432	te0053-05	Doña Ana, Dama.	1	3
+433	te0053-02	Don Diego de Silva, galan.	3	13
+434	te0053-05	Doña Ana, Dama.	3	13
+435	te0053-06	Doña Maria, Dama.	5	25
+436	te0053-02	Don Diego de Silva, galan.	2	6
+437	te0053-06	Doña Maria, Dama.	1	5
+438	te0053-08	Inès, criada.	2	10
+439	te0053-05	Doña Ana, Dama.	1	7
+440	te0053-02	Don Diego de Silva, galan.	4	24
+441	te0053-05	Doña Ana, Dama.	2	12
+442	te0053-02	Don Diego de Silva, galan.	9	58
+443	te0053-08	Inès, criada.	5	23
+444	te0053-05	Doña Ana, Dama.	4	21
+445	te0053-02	Don Diego de Silva, galan.	8	42
+446	te0053-05	Doña Ana, Dama.	1	7
+447	te0053-02	Don Diego de Silva, galan.	14	78
+448	te0053-05	Doña Ana, Dama.	9	49
+449	te0053-02	Don Diego de Silva, galan.	3	17
+450	te0053-06	Doña Maria, Dama.	3	15
+451	te0053-05	Doña Ana, Dama.	3	9
+452	te0053-02	Don Diego de Silva, galan.	1	6
+453	te0053-05	Doña Ana, Dama.	1	9
+454	te0053-02	Don Diego de Silva, galan.	5	36
+455	te0053-02	Don Diego de Silva, galan.	4	21
+456	te0053-01	Don Juan de Lara, galàn.	4	17
+457	te0053-06	Doña Maria, Dama.	1	2
+458	te0053-05	Doña Ana, Dama.	58	260
+459	te0053-01	Don Juan de Lara, galàn.	18	82
+460	te0053-05	Doña Ana, Dama.	4	21
+461	te0053-09	Juana, criada.	3	12
+462	te0053-02	Don Diego de Silva, galan.	1	4
+463	te0053-06	Doña Maria, Dama.	1	4
+464	te0053-02	Don Diego de Silva, galan.	2	6
+465	te0053-06	Doña Maria, Dama.	1	5
+466	te0053-09	Juana, criada.	2	4
+467	te0053-06	Doña Maria, Dama.	4	16
+468	te0053-02	Don Diego de Silva, galan.	7	37
+469	te0053-02	Don Diego de Silva, galan.	2	8
+470	te0053-02	Don Diego de Silva, galan.	1	1
+471	te0053-09	Juana, criada.	44	210
+472	te0053-01	Don Juan de Lara, galàn.	2	6
+473	te0053-06	Doña Maria, Dama.	3	13
+474	te0053-02	Don Diego de Silva, galan.	24	118
+475	te0053-01	Don Juan de Lara, galàn.	1	2
+476	te0053-02	Don Diego de Silva, galan.	2	6
+477	te0053-01	Don Juan de Lara, galàn.	2	9
+478	te0053-05	Doña Ana, Dama.	5	25
+479	te0053-02	Don Diego de Silva, galan.	10	46
+480	te0053-01	Don Juan de Lara, galàn.	12	54
+481	te0053-02	Don Diego de Silva, galan.	1	2
+482	te0053-01	Don Juan de Lara, galàn.	2	13
+483	te0053-02	Don Diego de Silva, galan.	20	93
+484	te0053-01	Don Juan de Lara, galàn.	18	87
+485	te0053-02	Don Diego de Silva, galan.	9	44
+486	te0053-01	Don Juan de Lara, galàn.	6	24
+487	te0053-02	Don Diego de Silva, galan.	5	26
+488	te0053-01	Don Juan de Lara, galàn.	2	9
+489	te0053-02	Don Diego de Silva, galan.	1	6
+490	te0053-05	Doña Ana, Dama.	4	21
+491	te0053-04	Espinel, criado.	6	31
+492	te0053-01	Don Juan de Lara, galàn.	2	7
+493	te0053-04	Espinel, criado.	2	4
+494	te0053-01	Don Juan de Lara, galàn.	6	23
+495	te0053-06	Doña Maria, Dama.	18	81
+496	te0053-04	Espinel, criado.	1	4
+497	te0053-01	Don Juan de Lara, galàn.	2	7
+498	te0053-06	Doña Maria, Dama.	1	2
+499	te0053-04	Espinel, criado.	1	3
+500	te0053-01	Don Juan de Lara, galàn.	3	14
+501	te0053-06	Doña Maria, Dama.	20	96
+502	te0053-01	Don Juan de Lara, galàn.	6	27
+503	te0053-06	Doña Maria, Dama.	3	12
+504	te0053-01	Don Juan de Lara, galàn.	1	2
+505	te0053-06	Doña Maria, Dama.	2	6
+506	te0053-01	Don Juan de Lara, galàn.	2	8
+507	te0053-98	(unknown)	3	12
+508	te0053-01	Don Juan de Lara, galàn.	8	35
+509	te0053-06	Doña Maria, Dama.	16	79
+510	te0053-05	Doña Ana, Dama.	2	6
+511	te0053-06	Doña Maria, Dama.	3	14
+512	te0053-04	Espinel, criado.	3	16
+513	te0053-05	Doña Ana, Dama.	1	6
+514	te0053-01	Don Juan de Lara, galàn.	2	8
+515	te0053-04	Espinel, criado.	1	3
+516	te0053-05	Doña Ana, Dama.	2	5
+517	te0053-04	Espinel, criado.	2	8
+518	te0053-01	Don Juan de Lara, galàn.	1	2
+519	te0053-04	Espinel, criado.	10	49
+520	te0053-01	Don Juan de Lara, galàn.	1	3
+521	te0053-05	Doña Ana, Dama.	2	7
+522	te0053-04	Espinel, criado.	1	3
+523	te0053-05	Doña Ana, Dama.	1	5
+524	te0053-01	Don Juan de Lara, galàn.	2	8
+525	te0053-04	Espinel, criado.	1	1
+526	te0053-06	Doña Maria, Dama.	1	5
+527	te0053-01	Don Juan de Lara, galàn.	1	2
+528	te0053-06	Doña Maria, Dama.	1	2
+529	te0053-01	Don Juan de Lara, galàn.	2	8
+530	te0053-06	Doña Maria, Dama.	2	9
+531	te0053-01	Don Juan de Lara, galàn.	2	9
+532	te0053-06	Doña Maria, Dama.	4	15
+533	te0053-00	Don Luis, galàn.	4	19
+534	te0053-06	Doña Maria, Dama.	2	11
+535	te0053-00	Don Luis, galàn.	5	26
+536	te0053-06	Doña Maria, Dama.	3	12
+537	te0053-01	Don Juan de Lara, galàn.	1	2
+538	te0053-00	Don Luis, galàn.	2	5
+539	te0053-06	Doña Maria, Dama.	1	1
+540	te0053-00	Don Luis, galàn.	3	12
+541	te0053-06	Doña Maria, Dama.	2	9
+542	te0053-00	Don Luis, galàn.	5	20
+543	te0053-06	Doña Maria, Dama.	2	5
+544	te0053-00	Don Luis, galàn.	4	15
+545	te0053-06	Doña Maria, Dama.	3	9
+546	te0053-00	Don Luis, galàn.	1	2
+547	te0053-06	Doña Maria, Dama.	2	10
+548	te0053-00	Don Luis, galàn.	1	5
+549	te0053-06	Doña Maria, Dama.	1	6
+550	te0053-00	Don Luis, galàn.	15	75
+551	te0053-06	Doña Maria, Dama.	2	8
+552	te0053-00	Don Luis, galàn.	1	3
+553	te0053-06	Doña Maria, Dama.	5	22
+554	te0053-00	Don Luis, galàn.	6	27
+555	te0053-06	Doña Maria, Dama.	3	11
+556	te0053-00	Don Luis, galàn.	4	17
+557	te0053-06	Doña Maria, Dama.	3	9
+558	te0053-01	Don Juan de Lara, galàn.	2	9
+559	te0053-06	Doña Maria, Dama.	2	12
+560	te0053-00	Don Luis, galàn.	1	1
+561	te0053-06	Doña Maria, Dama.	1	1
+562	te0053-00	Don Luis, galàn.	1	3
+563	te0053-06	Doña Maria, Dama.	1	7
+564	te0053-00	Don Luis, galàn.	3	17
+565	te0053-06	Doña Maria, Dama.	2	10
+566	te0053-01	Don Juan de Lara, galàn.	3	16
+567	te0053-04	Espinel, criado.	5	25
+568	te0053-09	Juana, criada.	1	5
+569	te0053-04	Espinel, criado.	2	8
+570	te0053-09	Juana, criada.	2	7
+571	te0053-04	Espinel, criado.	2	8
+572	te0053-09	Juana, criada.	5	20
+573	te0053-04	Espinel, criado.	27	123
+574	te0053-02	Don Diego de Silva, galan.	18	88
+575	te0053-04	Espinel, criado.	11	50
+576	te0053-02	Don Diego de Silva, galan.	12	57
+577	te0053-04	Espinel, criado.	7	30
+578	te0053-02	Don Diego de Silva, galan.	5	25
+579	te0053-04	Espinel, criado.	1	5
+580	te0053-02	Don Diego de Silva, galan.	7	36
+581	te0053-04	Espinel, criado.	3	13
+582	te0053-00	Don Luis, galàn.	7	38
+583	te0053-04	Espinel, criado.	3	14
+584	te0053-00	Don Luis, galàn.	1	3
+585	te0053-04	Espinel, criado.	3	13
+586	te0053-00	Don Luis, galàn.	3	16
+587	te0053-04	Espinel, criado.	3	19
+588	te0053-00	Don Luis, galàn.	3	12
+589	te0053-04	Espinel, criado.	2	9
+590	te0053-00	Don Luis, galàn.	2	9
+591	te0053-04	Espinel, criado.	1	4
+592	te0053-00	Don Luis, galàn.	10	55
+593	te0053-04	Espinel, criado.	2	10
+594	te0053-01	Don Juan de Lara, galàn.	10	52
+595	te0053-04	Espinel, criado.	1	2
+596	te0053-01	Don Juan de Lara, galàn.	1	5
+597	te0053-04	Espinel, criado.	1	1
+598	te0053-01	Don Juan de Lara, galàn.	1	3
+599	te0053-04	Espinel, criado.	1	3
+600	te0053-01	Don Juan de Lara, galàn.	2	4
+601	te0053-04	Espinel, criado.	3	12
+602	te0053-01	Don Juan de Lara, galàn.	8	36
+603	te0053-04	Espinel, criado.	5	23
+604	te0053-05	Doña Ana, Dama.	19	91
+605	te0053-06	Doña Maria, Dama.	5	20
+606	te0053-05	Doña Ana, Dama.	12	59
+607	te0053-06	Doña Maria, Dama.	1	4
+608	te0053-05	Doña Ana, Dama.	4	15
+609	te0053-08	Inès, criada.	7	30
+610	te0053-02	Don Diego de Silva, galan.	3	15
+611	te0053-05	Doña Ana, Dama.	14	65
+612	te0053-02	Don Diego de Silva, galan.	4	19
+613	te0053-05	Doña Ana, Dama.	1	5
+614	te0053-02	Don Diego de Silva, galan.	11	57
+615	te0053-05	Doña Ana, Dama.	10	48
+616	te0053-02	Don Diego de Silva, galan.	10	53
+617	te0053-05	Doña Ana, Dama.	10	56
+618	te0053-08	Inès, criada.	1	4
+619	te0053-05	Doña Ana, Dama.	1	5
+620	te0053-08	Inès, criada.	6	30
+621	te0053-05	Doña Ana, Dama.	1	4
+622	te0053-08	Inès, criada.	7	29
+623	te0053-02	Don Diego de Silva, galan.	2	5
+624	te0053-08	Inès, criada.	9	50
+625	te0053-05	Doña Ana, Dama.	6	25
+626	te0053-02	Don Diego de Silva, galan.	6	29
+627	te0053-07	Don Bernardo viejo.	1	4
+628	te0053-05	Doña Ana, Dama.	2	7
+629	te0053-07	Don Bernardo viejo.	5	22
+630	te0053-05	Doña Ana, Dama.	2	9
+631	te0053-07	Don Bernardo viejo.	1	3
+632	te0053-05	Doña Ana, Dama.	1	1
+633	te0053-07	Don Bernardo viejo.	2	12
+634	te0053-05	Doña Ana, Dama.	1	4
+635	te0053-06	Doña Maria, Dama.	1	2
+636	te0053-05	Doña Ana, Dama.	3	14
+637	te0053-00	Don Luis, galàn.	6	28
+638	te0053-02	Don Diego de Silva, galan.	18	84
+639	te0053-01	Don Juan de Lara, galàn.	10	45
+640	te0053-07	Don Bernardo viejo.	4	18
+641	te0053-01	Don Juan de Lara, galàn.	3	13
+642	te0053-07	Don Bernardo viejo.	3	14
+643	te0053-01	Don Juan de Lara, galàn.	2	10
+644	te0053-07	Don Bernardo viejo.	3	11
+645	te0053-01	Don Juan de Lara, galàn.	1	1
+646	te0053-07	Don Bernardo viejo.	6	29
+647	te0053-09	Juana, criada.	11	49
+648	te0053-07	Don Bernardo viejo.	6	32
+649	te0053-09	Juana, criada.	3	15
+650	te0053-07	Don Bernardo viejo.	4	21
+651	te0053-09	Juana, criada.	5	20
+652	te0053-07	Don Bernardo viejo.	4	15
+653	te0053-01	Don Juan de Lara, galàn.	7	36
+654	te0053-07	Don Bernardo viejo.	3	15
+655	te0053-09	Juana, criada.	3	15
+656	te0053-07	Don Bernardo viejo.	2	8
+657	te0053-05	Doña Ana, Dama.	8	33
+658	te0053-09	Juana, criada.	1	1
+659	te0053-05	Doña Ana, Dama.	9	43
+660	te0053-06	Doña Maria, Dama.	2	9
+661	te0053-00	Don Luis, galàn.	23	109
+662	te0053-07	Don Bernardo viejo.	6	29
+663	te0053-00	Don Luis, galàn.	4	16
+664	te0053-06	Doña Maria, Dama.	5	20
+665	te0053-00	Don Luis, galàn.	8	41
+666	te0053-07	Don Bernardo viejo.	2	4
+667	te0053-02	Don Diego de Silva, galan.	5	21
+668	te0053-00	Don Luis, galàn.	5	19
+669	te0053-02	Don Diego de Silva, galan.	2	10
+670	te0053-07	Don Bernardo viejo.	4	19
+671	te0053-98	(unknown)	10	51
+672	te0053-05	Doña Ana, Dama.	3	12
+673	te0053-02	Don Diego de Silva, galan.	6	30
+674	te0053-04	Espinel, criado.	7	28

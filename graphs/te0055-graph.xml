@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="Don Enrique." label="Don Enrique." />
+      <node id="Don Felix." label="Don Felix." />
+      <node id="(unknown)" label="(unknown)" />
+      <node id="Violante." label="Violante." />
+      <node id="Juana." label="Juana." />
+      <node id="Simon." label="Simon." />
+      <node id="Don Diego." label="Don Diego." />
+      <node id="Hernando." label="Hernando." />
+      <node id="Don Carlos." label="Don Carlos." />
+      <node id="Inès." label="Inès." />
+      <node id="Leonor." label="Leonor." />
+      <node id="Don Luis." label="Don Luis." />
+    </nodes>
+    <edges>
+      <edge id="0" source="Don Enrique." target="Simon." weight="51" />
+      <edge id="1" source="Don Enrique." target="Leonor." weight="157" />
+      <edge id="2" source="Don Enrique." target="Hernando." weight="102" />
+      <edge id="3" source="Don Enrique." target="Don Felix." weight="1869" />
+      <edge id="4" source="Don Enrique." target="(unknown)" weight="30" />
+      <edge id="5" source="Don Enrique." target="Don Carlos." weight="1054" />
+      <edge id="6" source="Don Enrique." target="Juana." weight="562" />
+      <edge id="7" source="Don Enrique." target="Violante." weight="33" />
+      <edge id="8" source="Don Enrique." target="Inès." weight="17" />
+      <edge id="9" source="Don Enrique." target="Don Diego." weight="69" />
+      <edge id="10" source="Don Enrique." target="Don Luis." weight="62" />
+      <edge id="11" source="Don Felix." target="Leonor." weight="1442" />
+      <edge id="12" source="Don Felix." target="Hernando." weight="1660" />
+      <edge id="13" source="Don Felix." target="Simon." weight="153" />
+      <edge id="14" source="Don Felix." target="(unknown)" weight="277" />
+      <edge id="15" source="Don Felix." target="Don Carlos." weight="1001" />
+      <edge id="16" source="Don Felix." target="Juana." weight="50" />
+      <edge id="17" source="Don Felix." target="Violante." weight="441" />
+      <edge id="18" source="Don Felix." target="Inès." weight="40" />
+      <edge id="19" source="Don Felix." target="Don Diego." weight="249" />
+      <edge id="20" source="Don Felix." target="Don Luis." weight="80" />
+      <edge id="21" source="(unknown)" target="Violante." weight="174" />
+      <edge id="22" source="(unknown)" target="Hernando." weight="108" />
+      <edge id="23" source="(unknown)" target="Simon." weight="63" />
+      <edge id="24" source="(unknown)" target="Inès." weight="2" />
+      <edge id="25" source="(unknown)" target="Juana." weight="76" />
+      <edge id="26" source="(unknown)" target="Don Carlos." weight="956" />
+      <edge id="27" source="(unknown)" target="Leonor." weight="96" />
+      <edge id="28" source="Violante." target="Leonor." weight="1046" />
+      <edge id="29" source="Violante." target="Hernando." weight="36" />
+      <edge id="30" source="Violante." target="Simon." weight="2" />
+      <edge id="31" source="Violante." target="Don Carlos." weight="925" />
+      <edge id="32" source="Violante." target="Juana." weight="5" />
+      <edge id="33" source="Violante." target="Inès." weight="81" />
+      <edge id="34" source="Violante." target="Don Diego." weight="47" />
+      <edge id="35" source="Violante." target="Don Luis." weight="167" />
+      <edge id="36" source="Juana." target="Leonor." weight="123" />
+      <edge id="37" source="Juana." target="Hernando." weight="582" />
+      <edge id="38" source="Juana." target="Inès." weight="32" />
+      <edge id="39" source="Juana." target="Simon." weight="92" />
+      <edge id="40" source="Juana." target="Don Diego." weight="10" />
+      <edge id="41" source="Simon." target="Hernando." weight="195" />
+      <edge id="42" source="Simon." target="Leonor." weight="5" />
+      <edge id="43" source="Don Diego." target="Hernando." weight="50" />
+      <edge id="44" source="Don Diego." target="Don Carlos." weight="9" />
+      <edge id="45" source="Don Diego." target="Leonor." weight="440" />
+      <edge id="46" source="Don Diego." target="Don Luis." weight="145" />
+      <edge id="47" source="Hernando." target="Leonor." weight="318" />
+      <edge id="48" source="Hernando." target="Don Carlos." weight="531" />
+      <edge id="49" source="Don Carlos." target="Leonor." weight="124" />
+      <edge id="50" source="Don Carlos." target="Don Luis." weight="21" />
+      <edge id="51" source="Inès." target="Leonor." weight="147" />
+      <edge id="52" source="Inès." target="Don Luis." weight="2" />
+      <edge id="53" source="Leonor." target="Don Luis." weight="20" />
+    </edges>
+  </graph>
+</gexf>

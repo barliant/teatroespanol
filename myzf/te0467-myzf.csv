@@ -1,0 +1,717 @@
+num	id	name	numlines	numwords
+1	te0467-02	Niso Pastor viejo.	1	2
+2	te0467-03	Corbato Pastor.	2	10
+3	te0467-10	Montano Pastor	2	10
+4	te0467-09	Ardenio Pastor.	1	2
+5	te0467-02	Niso Pastor viejo.	1	2
+6	te0467-10	Montano Pastor	3	13
+7	te0467-02	Niso Pastor viejo.	3	12
+8	te0467-12	Marbelio, y Lirano, vandoleros.	3	12
+9	te0467-02	Niso Pastor viejo.	1	5
+10	te0467-12	Marbelio, y Lirano, vandoleros.	7	29
+11	te0467-09	Ardenio Pastor.	3	11
+12	te0467-02	Niso Pastor viejo.	1	3
+13	te0467-12	Marbelio, y Lirano, vandoleros.	4	16
+14	te0467-03	Corbato Pastor.	1	5
+15	te0467-10	Montano Pastor	4	15
+16	te0467-12	Marbelio, y Lirano, vandoleros.	2	7
+17	te0467-10	Montano Pastor	5	24
+18	te0467-03	Corbato Pastor.	5	20
+19	te0467-02	Niso Pastor viejo.	3	13
+20	te0467-09	Ardenio Pastor.	6	30
+21	te0467-12	Marbelio, y Lirano, vandoleros.	2	11
+22	te0467-02	Niso Pastor viejo.	3	16
+23	te0467-12	Marbelio, y Lirano, vandoleros.	31	151
+24	te0467-10	Montano Pastor	1	4
+25	te0467-03	Corbato Pastor.	3	14
+26	te0467-12	Marbelio, y Lirano, vandoleros.	1	6
+27	te0467-09	Ardenio Pastor.	1	5
+28	te0467-02	Niso Pastor viejo.	1	5
+29	te0467-12	Marbelio, y Lirano, vandoleros.	5	23
+30	te0467-02	Niso Pastor viejo.	1	5
+31	te0467-12	Marbelio, y Lirano, vandoleros.	5	22
+32	te0467-02	Niso Pastor viejo.	4	15
+33	te0467-12	Marbelio, y Lirano, vandoleros.	1	2
+34	te0467-10	Montano Pastor	3	13
+35	te0467-12	Marbelio, y Lirano, vandoleros.	1	6
+36	te0467-02	Niso Pastor viejo.	4	21
+37	te0467-12	Marbelio, y Lirano, vandoleros.	1	3
+38	te0467-02	Niso Pastor viejo.	4	16
+39	te0467-12	Marbelio, y Lirano, vandoleros.	1	5
+40	te0467-02	Niso Pastor viejo.	1	5
+41	te0467-12	Marbelio, y Lirano, vandoleros.	12	66
+42	te0467-09	Ardenio Pastor.	1	3
+43	te0467-12	Marbelio, y Lirano, vandoleros.	4	18
+44	te0467-02	Niso Pastor viejo.	80	417
+45	te0467-12	Marbelio, y Lirano, vandoleros.	6	31
+46	te0467-02	Niso Pastor viejo.	18	87
+47	te0467-12	Marbelio, y Lirano, vandoleros.	2	10
+48	te0467-01	Don Guillen Comendador de Santiago.	4	18
+49	te0467-12	Marbelio, y Lirano, vandoleros.	3	20
+50	te0467-02	Niso Pastor viejo.	1	4
+51	te0467-03	Corbato Pastor.	2	10
+52	te0467-00	Don Gaston Cauallero.	2	7
+53	te0467-02	Niso Pastor viejo.	1	4
+54	te0467-12	Marbelio, y Lirano, vandoleros.	4	22
+55	te0467-00	Don Gaston Cauallero.	3	9
+56	te0467-02	Niso Pastor viejo.	1	3
+57	te0467-12	Marbelio, y Lirano, vandoleros.	2	7
+58	te0467-00	Don Gaston Cauallero.	2	4
+59	te0467-12	Marbelio, y Lirano, vandoleros.	2	6
+60	te0467-00	Don Gaston Cauallero.	1	7
+61	te0467-12	Marbelio, y Lirano, vandoleros.	15	70
+62	te0467-00	Don Gaston Cauallero.	1	3
+63	te0467-02	Niso Pastor viejo.	1	5
+64	te0467-00	Don Gaston Cauallero.	21	76
+65	te0467-12	Marbelio, y Lirano, vandoleros.	1	2
+66	te0467-00	Don Gaston Cauallero.	46	207
+67	te0467-12	Marbelio, y Lirano, vandoleros.	1	2
+68	te0467-00	Don Gaston Cauallero.	4	18
+69	te0467-12	Marbelio, y Lirano, vandoleros.	1	4
+70	te0467-00	Don Gaston Cauallero.	37	182
+71	te0467-12	Marbelio, y Lirano, vandoleros.	26	134
+72	te0467-00	Don Gaston Cauallero.	2	7
+73	te0467-02	Niso Pastor viejo.	3	13
+74	te0467-09	Ardenio Pastor.	2	11
+75	te0467-12	Marbelio, y Lirano, vandoleros.	2	5
+76	te0467-02	Niso Pastor viejo.	2	13
+77	te0467-00	Don Gaston Cauallero.	1	6
+78	te0467-12	Marbelio, y Lirano, vandoleros.	4	23
+79	te0467-00	Don Gaston Cauallero.	5	27
+80	te0467-11	Laurencia Pastora.	1	4
+81	te0467-01	Don Guillen Comendador de Santiago.	10	44
+82	te0467-11	Laurencia Pastora.	5	28
+83	te0467-01	Don Guillen Comendador de Santiago.	1	2
+84	te0467-11	Laurencia Pastora.	12	54
+85	te0467-01	Don Guillen Comendador de Santiago.	3	14
+86	te0467-11	Laurencia Pastora.	7	31
+87	te0467-01	Don Guillen Comendador de Santiago.	1	3
+88	te0467-11	Laurencia Pastora.	1	1
+89	te0467-01	Don Guillen Comendador de Santiago.	1	1
+90	te0467-11	Laurencia Pastora.	1	3
+91	te0467-01	Don Guillen Comendador de Santiago.	2	7
+92	te0467-11	Laurencia Pastora.	2	5
+93	te0467-01	Don Guillen Comendador de Santiago.	1	5
+94	te0467-11	Laurencia Pastora.	20	93
+95	te0467-01	Don Guillen Comendador de Santiago.	2	11
+96	te0467-11	Laurencia Pastora.	2	14
+97	te0467-01	Don Guillen Comendador de Santiago.	1	3
+98	te0467-11	Laurencia Pastora.	2	12
+99	te0467-01	Don Guillen Comendador de Santiago.	1	1
+100	te0467-11	Laurencia Pastora.	1	2
+101	te0467-01	Don Guillen Comendador de Santiago.	1	2
+102	te0467-11	Laurencia Pastora.	1	4
+103	te0467-01	Don Guillen Comendador de Santiago.	1	1
+104	te0467-11	Laurencia Pastora.	1	3
+105	te0467-01	Don Guillen Comendador de Santiago.	4	16
+106	te0467-11	Laurencia Pastora.	1	2
+107	te0467-01	Don Guillen Comendador de Santiago.	1	1
+108	te0467-11	Laurencia Pastora.	1	4
+109	te0467-01	Don Guillen Comendador de Santiago.	2	9
+110	te0467-11	Laurencia Pastora.	1	4
+111	te0467-01	Don Guillen Comendador de Santiago.	1	4
+112	te0467-11	Laurencia Pastora.	8	39
+113	te0467-01	Don Guillen Comendador de Santiago.	1	3
+114	te0467-11	Laurencia Pastora.	1	4
+115	te0467-01	Don Guillen Comendador de Santiago.	1	4
+116	te0467-11	Laurencia Pastora.	1	3
+117	te0467-01	Don Guillen Comendador de Santiago.	1	1
+118	te0467-11	Laurencia Pastora.	1	5
+119	te0467-01	Don Guillen Comendador de Santiago.	1	4
+120	te0467-11	Laurencia Pastora.	1	1
+121	te0467-01	Don Guillen Comendador de Santiago.	1	1
+122	te0467-11	Laurencia Pastora.	1	1
+123	te0467-01	Don Guillen Comendador de Santiago.	1	2
+124	te0467-11	Laurencia Pastora.	1	3
+125	te0467-01	Don Guillen Comendador de Santiago.	1	3
+126	te0467-11	Laurencia Pastora.	1	3
+127	te0467-01	Don Guillen Comendador de Santiago.	1	2
+128	te0467-11	Laurencia Pastora.	1	3
+129	te0467-01	Don Guillen Comendador de Santiago.	1	1
+130	te0467-11	Laurencia Pastora.	1	2
+131	te0467-01	Don Guillen Comendador de Santiago.	1	4
+132	te0467-11	Laurencia Pastora.	1	2
+133	te0467-01	Don Guillen Comendador de Santiago.	1	3
+134	te0467-11	Laurencia Pastora.	1	2
+135	te0467-01	Don Guillen Comendador de Santiago.	1	4
+136	te0467-11	Laurencia Pastora.	1	1
+137	te0467-01	Don Guillen Comendador de Santiago.	1	2
+138	te0467-11	Laurencia Pastora.	1	2
+139	te0467-01	Don Guillen Comendador de Santiago.	1	3
+140	te0467-11	Laurencia Pastora.	1	2
+141	te0467-01	Don Guillen Comendador de Santiago.	1	3
+142	te0467-11	Laurencia Pastora.	1	2
+143	te0467-01	Don Guillen Comendador de Santiago.	1	2
+144	te0467-11	Laurencia Pastora.	1	2
+145	te0467-01	Don Guillen Comendador de Santiago.	1	4
+146	te0467-11	Laurencia Pastora.	1	2
+147	te0467-01	Don Guillen Comendador de Santiago.	1	1
+148	te0467-11	Laurencia Pastora.	1	2
+149	te0467-01	Don Guillen Comendador de Santiago.	1	3
+150	te0467-11	Laurencia Pastora.	1	2
+151	te0467-01	Don Guillen Comendador de Santiago.	1	3
+152	te0467-11	Laurencia Pastora.	1	2
+153	te0467-01	Don Guillen Comendador de Santiago.	1	3
+154	te0467-11	Laurencia Pastora.	1	3
+155	te0467-01	Don Guillen Comendador de Santiago.	1	3
+156	te0467-11	Laurencia Pastora.	1	2
+157	te0467-01	Don Guillen Comendador de Santiago.	1	3
+158	te0467-11	Laurencia Pastora.	1	3
+159	te0467-01	Don Guillen Comendador de Santiago.	1	3
+160	te0467-11	Laurencia Pastora.	1	3
+161	te0467-01	Don Guillen Comendador de Santiago.	1	3
+162	te0467-11	Laurencia Pastora.	1	1
+163	te0467-01	Don Guillen Comendador de Santiago.	1	3
+164	te0467-11	Laurencia Pastora.	1	3
+165	te0467-01	Don Guillen Comendador de Santiago.	1	2
+166	te0467-11	Laurencia Pastora.	1	4
+167	te0467-01	Don Guillen Comendador de Santiago.	1	4
+168	te0467-11	Laurencia Pastora.	1	2
+169	te0467-01	Don Guillen Comendador de Santiago.	1	3
+170	te0467-11	Laurencia Pastora.	1	3
+171	te0467-01	Don Guillen Comendador de Santiago.	1	3
+172	te0467-11	Laurencia Pastora.	1	1
+173	te0467-01	Don Guillen Comendador de Santiago.	1	4
+174	te0467-11	Laurencia Pastora.	1	1
+175	te0467-01	Don Guillen Comendador de Santiago.	1	1
+176	te0467-11	Laurencia Pastora.	1	4
+177	te0467-01	Don Guillen Comendador de Santiago.	1	2
+178	te0467-11	Laurencia Pastora.	1	2
+179	te0467-01	Don Guillen Comendador de Santiago.	1	2
+180	te0467-11	Laurencia Pastora.	1	1
+181	te0467-01	Don Guillen Comendador de Santiago.	1	2
+182	te0467-11	Laurencia Pastora.	1	3
+183	te0467-01	Don Guillen Comendador de Santiago.	1	1
+184	te0467-11	Laurencia Pastora.	1	3
+185	te0467-01	Don Guillen Comendador de Santiago.	24	113
+186	te0467-11	Laurencia Pastora.	1	6
+187	te0467-01	Don Guillen Comendador de Santiago.	12	50
+188	te0467-11	Laurencia Pastora.	1	3
+189	te0467-01	Don Guillen Comendador de Santiago.	5	27
+190	te0467-11	Laurencia Pastora.	2	5
+191	te0467-01	Don Guillen Comendador de Santiago.	1	2
+192	te0467-11	Laurencia Pastora.	1	4
+193	te0467-00	Don Gaston Cauallero.	39	262
+194	te0467-12	Marbelio, y Lirano, vandoleros.	7	47
+195	te0467-03	Corbato Pastor.	2	8
+196	te0467-12	Marbelio, y Lirano, vandoleros.	2	11
+197	te0467-00	Don Gaston Cauallero.	3	17
+198	te0467-02	Niso Pastor viejo.	2	6
+199	te0467-03	Corbato Pastor.	2	5
+200	te0467-02	Niso Pastor viejo.	4	24
+201	te0467-11	Laurencia Pastora.	1	6
+202	te0467-02	Niso Pastor viejo.	4	20
+203	te0467-11	Laurencia Pastora.	2	7
+204	te0467-00	Don Gaston Cauallero.	4	12
+205	te0467-02	Niso Pastor viejo.	3	9
+206	te0467-00	Don Gaston Cauallero.	3	9
+207	te0467-11	Laurencia Pastora.	1	2
+208	te0467-00	Don Gaston Cauallero.	4	19
+209	te0467-11	Laurencia Pastora.	3	16
+210	te0467-00	Don Gaston Cauallero.	1	3
+211	te0467-11	Laurencia Pastora.	3	13
+212	te0467-00	Don Gaston Cauallero.	2	9
+213	te0467-11	Laurencia Pastora.	6	26
+214	te0467-00	Don Gaston Cauallero.	1	6
+215	te0467-03	Corbato Pastor.	3	16
+216	te0467-00	Don Gaston Cauallero.	6	25
+217	te0467-11	Laurencia Pastora.	1	2
+218	te0467-00	Don Gaston Cauallero.	4	13
+219	te0467-12	Marbelio, y Lirano, vandoleros.	3	15
+220	te0467-00	Don Gaston Cauallero.	1	5
+221	te0467-02	Niso Pastor viejo.	2	9
+222	te0467-03	Corbato Pastor.	2	6
+223	te0467-00	Don Gaston Cauallero.	9	36
+224	te0467-03	Corbato Pastor.	2	10
+225	te0467-09	Ardenio Pastor.	2	6
+226	te0467-12	Marbelio, y Lirano, vandoleros.	1	2
+227	te0467-11	Laurencia Pastora.	20	89
+228	te0467-12	Marbelio, y Lirano, vandoleros.	84	409
+229	te0467-01	Don Guillen Comendador de Santiago.	5	20
+230	te0467-07	Gallardo.	2	6
+231	te0467-01	Don Guillen Comendador de Santiago.	1	5
+232	te0467-07	Gallardo.	9	43
+233	te0467-01	Don Guillen Comendador de Santiago.	1	6
+234	te0467-07	Gallardo.	6	31
+235	te0467-01	Don Guillen Comendador de Santiago.	4	20
+236	te0467-07	Gallardo.	1	5
+237	te0467-01	Don Guillen Comendador de Santiago.	1	5
+238	te0467-07	Gallardo.	1	1
+239	te0467-01	Don Guillen Comendador de Santiago.	1	1
+240	te0467-07	Gallardo.	12	49
+241	te0467-01	Don Guillen Comendador de Santiago.	5	27
+242	te0467-07	Gallardo.	14	64
+243	te0467-01	Don Guillen Comendador de Santiago.	1	3
+244	te0467-07	Gallardo.	12	55
+245	te0467-01	Don Guillen Comendador de Santiago.	4	13
+246	te0467-07	Gallardo.	13	62
+247	te0467-12	Marbelio, y Lirano, vandoleros.	2	9
+248	te0467-01	Don Guillen Comendador de Santiago.	4	19
+249	te0467-12	Marbelio, y Lirano, vandoleros.	2	12
+250	te0467-01	Don Guillen Comendador de Santiago.	2	10
+251	te0467-07	Gallardo.	2	8
+252	te0467-01	Don Guillen Comendador de Santiago.	2	9
+253	te0467-12	Marbelio, y Lirano, vandoleros.	2	10
+254	te0467-11	Laurencia Pastora.	1	4
+255	te0467-12	Marbelio, y Lirano, vandoleros.	8	41
+256	te0467-01	Don Guillen Comendador de Santiago.	4	20
+257	te0467-11	Laurencia Pastora.	5	21
+258	te0467-01	Don Guillen Comendador de Santiago.	2	4
+259	te0467-11	Laurencia Pastora.	4	16
+260	te0467-12	Marbelio, y Lirano, vandoleros.	1	5
+261	te0467-01	Don Guillen Comendador de Santiago.	1	7
+262	te0467-11	Laurencia Pastora.	1	4
+263	te0467-01	Don Guillen Comendador de Santiago.	1	2
+264	te0467-11	Laurencia Pastora.	1	2
+265	te0467-01	Don Guillen Comendador de Santiago.	1	5
+266	te0467-12	Marbelio, y Lirano, vandoleros.	1	5
+267	te0467-01	Don Guillen Comendador de Santiago.	2	9
+268	te0467-11	Laurencia Pastora.	2	7
+269	te0467-01	Don Guillen Comendador de Santiago.	1	7
+270	te0467-11	Laurencia Pastora.	1	6
+271	te0467-12	Marbelio, y Lirano, vandoleros.	1	6
+272	te0467-01	Don Guillen Comendador de Santiago.	5	22
+273	te0467-12	Marbelio, y Lirano, vandoleros.	3	12
+274	te0467-11	Laurencia Pastora.	3	17
+275	te0467-01	Don Guillen Comendador de Santiago.	1	4
+276	te0467-12	Marbelio, y Lirano, vandoleros.	2	8
+277	te0467-11	Laurencia Pastora.	5	22
+278	te0467-01	Don Guillen Comendador de Santiago.	6	23
+279	te0467-07	Gallardo.	1	3
+280	te0467-01	Don Guillen Comendador de Santiago.	1	4
+281	te0467-07	Gallardo.	1	4
+282	te0467-01	Don Guillen Comendador de Santiago.	1	5
+283	te0467-07	Gallardo.	1	6
+284	te0467-12	Marbelio, y Lirano, vandoleros.	4	21
+285	te0467-07	Gallardo.	6	32
+286	te0467-12	Marbelio, y Lirano, vandoleros.	1	5
+287	te0467-07	Gallardo.	1	6
+288	te0467-01	Don Guillen Comendador de Santiago.	1	2
+289	te0467-11	Laurencia Pastora.	1	2
+290	te0467-01	Don Guillen Comendador de Santiago.	1	2
+291	te0467-11	Laurencia Pastora.	1	2
+292	te0467-01	Don Guillen Comendador de Santiago.	1	3
+293	te0467-11	Laurencia Pastora.	1	3
+294	te0467-01	Don Guillen Comendador de Santiago.	1	3
+295	te0467-11	Laurencia Pastora.	1	2
+296	te0467-01	Don Guillen Comendador de Santiago.	1	3
+297	te0467-11	Laurencia Pastora.	1	2
+298	te0467-01	Don Guillen Comendador de Santiago.	1	2
+299	te0467-11	Laurencia Pastora.	1	3
+300	te0467-01	Don Guillen Comendador de Santiago.	1	3
+301	te0467-11	Laurencia Pastora.	1	3
+302	te0467-01	Don Guillen Comendador de Santiago.	1	3
+303	te0467-11	Laurencia Pastora.	1	2
+304	te0467-01	Don Guillen Comendador de Santiago.	1	1
+305	te0467-11	Laurencia Pastora.	1	3
+306	te0467-07	Gallardo.	2	9
+307	te0467-12	Marbelio, y Lirano, vandoleros.	1	5
+308	te0467-07	Gallardo.	1	6
+309	te0467-01	Don Guillen Comendador de Santiago.	1	3
+310	te0467-07	Gallardo.	1	2
+311	te0467-01	Don Guillen Comendador de Santiago.	1	3
+312	te0467-11	Laurencia Pastora.	2	6
+313	te0467-01	Don Guillen Comendador de Santiago.	1	3
+314	te0467-12	Marbelio, y Lirano, vandoleros.	1	3
+315	te0467-07	Gallardo.	1	4
+316	te0467-01	Don Guillen Comendador de Santiago.	1	3
+317	te0467-11	Laurencia Pastora.	1	2
+318	te0467-01	Don Guillen Comendador de Santiago.	1	6
+319	te0467-11	Laurencia Pastora.	3	11
+320	te0467-12	Marbelio, y Lirano, vandoleros.	7	25
+321	te0467-11	Laurencia Pastora.	1	3
+322	te0467-01	Don Guillen Comendador de Santiago.	3	14
+323	te0467-12	Marbelio, y Lirano, vandoleros.	3	8
+324	te0467-07	Gallardo.	2	7
+325	te0467-01	Don Guillen Comendador de Santiago.	2	9
+326	te0467-07	Gallardo.	1	5
+327	te0467-01	Don Guillen Comendador de Santiago.	1	5
+328	te0467-07	Gallardo.	2	10
+329	te0467-02	Niso Pastor viejo.	2	9
+330	te0467-15	And	1	5
+331	te0467-02	Niso Pastor viejo.	1	7
+332	te0467-07	Gallardo.	4	20
+333	te0467-01	Don Guillen Comendador de Santiago.	4	19
+334	te0467-00	Don Gaston Cauallero.	1	5
+335	te0467-12	Marbelio, y Lirano, vandoleros.	3	12
+336	te0467-00	Don Gaston Cauallero.	1	1
+337	te0467-12	Marbelio, y Lirano, vandoleros.	5	22
+338	te0467-02	Niso Pastor viejo.	2	10
+339	te0467-12	Marbelio, y Lirano, vandoleros.	98	464
+340	te0467-02	Niso Pastor viejo.	1	3
+341	te0467-00	Don Gaston Cauallero.	3	11
+342	te0467-02	Niso Pastor viejo.	5	20
+343	te0467-03	Corbato Pastor.	1	1
+344	te0467-00	Don Gaston Cauallero.	3	14
+345	te0467-02	Niso Pastor viejo.	2	8
+346	te0467-03	Corbato Pastor.	1	4
+347	te0467-02	Niso Pastor viejo.	3	15
+348	te0467-03	Corbato Pastor.	4	17
+349	te0467-06	Doña Petronila.	2	8
+350	te0467-00	Don Gaston Cauallero.	23	105
+351	te0467-06	Doña Petronila.	15	67
+352	te0467-00	Don Gaston Cauallero.	15	67
+353	te0467-06	Doña Petronila.	5	26
+354	te0467-00	Don Gaston Cauallero.	10	50
+355	te0467-06	Doña Petronila.	5	24
+356	te0467-00	Don Gaston Cauallero.	15	66
+357	te0467-06	Doña Petronila.	1	6
+358	te0467-11	Laurencia Pastora.	4	20
+359	te0467-06	Doña Petronila.	1	3
+360	te0467-11	Laurencia Pastora.	2	12
+361	te0467-03	Corbato Pastor.	1	6
+362	te0467-11	Laurencia Pastora.	1	3
+363	te0467-03	Corbato Pastor.	11	49
+364	te0467-06	Doña Petronila.	1	4
+365	te0467-03	Corbato Pastor.	6	26
+366	te0467-02	Niso Pastor viejo.	4	18
+367	te0467-09	Ardenio Pastor.	6	31
+368	te0467-03	Corbato Pastor.	6	32
+369	te0467-09	Ardenio Pastor.	3	14
+370	te0467-11	Laurencia Pastora.	11	46
+371	te0467-02	Niso Pastor viejo.	6	28
+372	te0467-11	Laurencia Pastora.	1	1
+373	te0467-02	Niso Pastor viejo.	2	13
+374	te0467-10	Montano Pastor	2	6
+375	te0467-02	Niso Pastor viejo.	4	18
+376	te0467-09	Ardenio Pastor.	6	30
+377	te0467-11	Laurencia Pastora.	6	27
+378	te0467-01	Don Guillen Comendador de Santiago.	3	12
+379	te0467-02	Niso Pastor viejo.	3	15
+380	te0467-01	Don Guillen Comendador de Santiago.	7	34
+381	te0467-06	Doña Petronila.	5	21
+382	te0467-01	Don Guillen Comendador de Santiago.	12	61
+383	te0467-06	Doña Petronila.	1	3
+384	te0467-99	(unknown)	1	3
+385	te0467-01	Don Guillen Comendador de Santiago.	3	15
+386	te0467-02	Niso Pastor viejo.	1	5
+387	te0467-01	Don Guillen Comendador de Santiago.	2	5
+388	te0467-11	Laurencia Pastora.	1	3
+389	te0467-01	Don Guillen Comendador de Santiago.	1	4
+390	te0467-00	Don Gaston Cauallero.	10	53
+391	te0467-06	Doña Petronila.	3	14
+392	te0467-01	Don Guillen Comendador de Santiago.	9	46
+393	te0467-02	Niso Pastor viejo.	4	15
+394	te0467-03	Corbato Pastor.	3	10
+395	te0467-06	Doña Petronila.	4	22
+396	te0467-10	Montano Pastor	4	15
+397	te0467-02	Niso Pastor viejo.	4	13
+398	te0467-99	(unknown)	1	1
+399	te0467-06	Doña Petronila.	3	12
+400	te0467-00	Don Gaston Cauallero.	6	28
+401	te0467-06	Doña Petronila.	16	75
+402	te0467-01	Don Guillen Comendador de Santiago.	1	3
+403	te0467-06	Doña Petronila.	14	59
+404	te0467-00	Don Gaston Cauallero.	7	38
+405	te0467-06	Doña Petronila.	1	6
+406	te0467-00	Don Gaston Cauallero.	8	36
+407	te0467-06	Doña Petronila.	2	5
+408	te0467-00	Don Gaston Cauallero.	1	4
+409	te0467-06	Doña Petronila.	3	15
+410	te0467-00	Don Gaston Cauallero.	1	4
+411	te0467-06	Doña Petronila.	2	10
+412	te0467-01	Don Guillen Comendador de Santiago.	4	16
+413	te0467-11	Laurencia Pastora.	5	23
+414	te0467-01	Don Guillen Comendador de Santiago.	1	4
+415	te0467-07	Gallardo.	6	27
+416	te0467-11	Laurencia Pastora.	2	7
+417	te0467-07	Gallardo.	11	57
+418	te0467-11	Laurencia Pastora.	5	22
+419	te0467-07	Gallardo.	12	55
+420	te0467-11	Laurencia Pastora.	1	2
+421	te0467-07	Gallardo.	3	14
+422	te0467-11	Laurencia Pastora.	20	101
+423	te0467-07	Gallardo.	8	37
+424	te0467-10	Montano Pastor	14	66
+425	te0467-03	Corbato Pastor.	2	9
+426	te0467-09	Ardenio Pastor.	3	14
+427	te0467-01	Don Guillen Comendador de Santiago.	1	2
+428	te0467-09	Ardenio Pastor.	2	7
+429	te0467-10	Montano Pastor	4	21
+430	te0467-03	Corbato Pastor.	3	11
+431	te0467-09	Ardenio Pastor.	2	7
+432	te0467-10	Montano Pastor	2	6
+433	te0467-09	Ardenio Pastor.	1	3
+434	te0467-03	Corbato Pastor.	2	14
+435	te0467-10	Montano Pastor	1	4
+436	te0467-03	Corbato Pastor.	2	6
+437	te0467-09	Ardenio Pastor.	2	10
+438	te0467-03	Corbato Pastor.	3	12
+439	te0467-10	Montano Pastor	2	6
+440	te0467-09	Ardenio Pastor.	3	14
+441	te0467-10	Montano Pastor	5	27
+442	te0467-09	Ardenio Pastor.	1	2
+443	te0467-03	Corbato Pastor.	1	4
+444	te0467-11	Laurencia Pastora.	110	516
+445	te0467-03	Corbato Pastor.	1	3
+446	te0467-09	Ardenio Pastor.	2	9
+447	te0467-10	Montano Pastor	2	10
+448	te0467-03	Corbato Pastor.	8	40
+449	te0467-99	(unknown)	1	5
+450	te0467-09	Ardenio Pastor.	3	18
+451	te0467-10	Montano Pastor	3	18
+452	te0467-03	Corbato Pastor.	3	12
+453	te0467-09	Ardenio Pastor.	1	3
+454	te0467-99	(unknown)	1	1
+455	te0467-00	Don Gaston Cauallero.	60	310
+456	te0467-01	Don Guillen Comendador de Santiago.	30	148
+457	te0467-07	Gallardo.	4	17
+458	te0467-01	Don Guillen Comendador de Santiago.	10	42
+459	te0467-00	Don Gaston Cauallero.	6	30
+460	te0467-11	Laurencia Pastora.	32	140
+461	te0467-05	Roberto vandolero.	14	66
+462	te0467-00	Don Gaston Cauallero.	6	32
+463	te0467-00	Don Gaston Cauallero.	1	5
+464	te0467-05	Roberto vandolero.	1	3
+465	te0467-99	(unknown)	1	2
+466	te0467-11	Laurencia Pastora.	14	66
+467	te0467-05	Roberto vandolero.	1	7
+468	te0467-11	Laurencia Pastora.	7	33
+469	te0467-16	Pri	3	10
+470	te0467-01	Don Guillen Comendador de Santiago.	13	59
+471	te0467-00	Don Gaston Cauallero.	11	52
+472	te0467-05	Roberto vandolero.	1	5
+473	te0467-11	Laurencia Pastora.	5	26
+474	te0467-01	Don Guillen Comendador de Santiago.	1	3
+475	te0467-07	Gallardo.	3	12
+476	te0467-01	Don Guillen Comendador de Santiago.	3	13
+477	te0467-11	Laurencia Pastora.	2	3
+478	te0467-01	Don Guillen Comendador de Santiago.	3	8
+479	te0467-11	Laurencia Pastora.	1	3
+480	te0467-01	Don Guillen Comendador de Santiago.	1	6
+481	te0467-11	Laurencia Pastora.	27	126
+482	te0467-01	Don Guillen Comendador de Santiago.	6	28
+483	te0467-11	Laurencia Pastora.	12	59
+484	te0467-07	Gallardo.	2	8
+485	te0467-11	Laurencia Pastora.	10	41
+486	te0467-07	Gallardo.	4	15
+487	te0467-11	Laurencia Pastora.	1	4
+488	te0467-07	Gallardo.	4	15
+489	te0467-11	Laurencia Pastora.	1	4
+490	te0467-07	Gallardo.	2	10
+491	te0467-11	Laurencia Pastora.	1	3
+492	te0467-07	Gallardo.	52	261
+493	te0467-05	Roberto vandolero.	1	5
+494	te0467-06	Doña Petronila.	1	4
+495	te0467-11	Laurencia Pastora.	5	21
+496	te0467-05	Roberto vandolero.	6	25
+497	te0467-11	Laurencia Pastora.	3	10
+498	te0467-01	Don Guillen Comendador de Santiago.	1	2
+499	te0467-07	Gallardo.	2	8
+500	te0467-01	Don Guillen Comendador de Santiago.	1	3
+501	te0467-07	Gallardo.	2	8
+502	te0467-12	Marbelio, y Lirano, vandoleros.	42	216
+503	te0467-11	Laurencia Pastora.	12	54
+504	te0467-05	Roberto vandolero.	8	43
+505	te0467-11	Laurencia Pastora.	5	26
+506	te0467-05	Roberto vandolero.	1	5
+507	te0467-11	Laurencia Pastora.	7	31
+508	te0467-12	Marbelio, y Lirano, vandoleros.	1	5
+509	te0467-11	Laurencia Pastora.	1	3
+510	te0467-12	Marbelio, y Lirano, vandoleros.	10	60
+511	te0467-11	Laurencia Pastora.	2	10
+512	te0467-12	Marbelio, y Lirano, vandoleros.	1	6
+513	te0467-11	Laurencia Pastora.	2	3
+514	te0467-12	Marbelio, y Lirano, vandoleros.	2	5
+515	te0467-11	Laurencia Pastora.	2	7
+516	te0467-12	Marbelio, y Lirano, vandoleros.	1	5
+517	te0467-11	Laurencia Pastora.	1	4
+518	te0467-12	Marbelio, y Lirano, vandoleros.	1	6
+519	te0467-11	Laurencia Pastora.	2	7
+520	te0467-12	Marbelio, y Lirano, vandoleros.	4	17
+521	te0467-11	Laurencia Pastora.	2	9
+522	te0467-12	Marbelio, y Lirano, vandoleros.	10	51
+523	te0467-11	Laurencia Pastora.	1	2
+524	te0467-12	Marbelio, y Lirano, vandoleros.	6	25
+525	te0467-05	Roberto vandolero.	2	2
+526	te0467-12	Marbelio, y Lirano, vandoleros.	6	24
+527	te0467-06	Doña Petronila.	6	24
+528	te0467-05	Roberto vandolero.	1	2
+529	te0467-11	Laurencia Pastora.	6	23
+530	te0467-05	Roberto vandolero.	2	6
+531	te0467-11	Laurencia Pastora.	6	28
+532	te0467-14	Lir.	7	32
+533	te0467-12	Marbelio, y Lirano, vandoleros.	5	16
+534	te0467-12	Marbelio, y Lirano, vandoleros.	3	13
+535	te0467-14	Lir.	3	14
+536	te0467-12	Marbelio, y Lirano, vandoleros.	3	14
+537	te0467-14	Lir.	1	2
+538	te0467-12	Marbelio, y Lirano, vandoleros.	14	63
+539	te0467-12	Marbelio, y Lirano, vandoleros.	2	6
+540	te0467-12	Marbelio, y Lirano, vandoleros.	3	11
+541	te0467-12	Marbelio, y Lirano, vandoleros.	3	11
+542	te0467-97	(unknown)	1	6
+543	te0467-17	Otro	1	1
+544	te0467-14	Lir.	1	3
+545	te0467-12	Marbelio, y Lirano, vandoleros.	3	9
+546	te0467-14	Lir.	2	6
+547	te0467-12	Marbelio, y Lirano, vandoleros.	1	2
+548	te0467-12	Marbelio, y Lirano, vandoleros.	20	98
+549	te0467-13	Vir.	1	1
+550	te0467-12	Marbelio, y Lirano, vandoleros.	1	5
+551	te0467-13	Vir.	1	4
+552	te0467-12	Marbelio, y Lirano, vandoleros.	1	4
+553	te0467-13	Vir.	173	845
+554	te0467-12	Marbelio, y Lirano, vandoleros.	12	60
+555	te0467-02	Niso Pastor viejo.	6	21
+556	te0467-03	Corbato Pastor.	3	11
+557	te0467-00	Don Gaston Cauallero.	31	145
+558	te0467-01	Don Guillen Comendador de Santiago.	16	68
+559	te0467-00	Don Gaston Cauallero.	18	88
+560	te0467-01	Don Guillen Comendador de Santiago.	6	24
+561	te0467-06	Doña Petronila.	5	24
+562	te0467-00	Don Gaston Cauallero.	5	24
+563	te0467-02	Niso Pastor viejo.	3	13
+564	te0467-07	Gallardo.	3	8
+565	te0467-03	Corbato Pastor.	1	4
+566	te0467-09	Ardenio Pastor.	2	5
+567	te0467-02	Niso Pastor viejo.	3	17
+568	te0467-09	Ardenio Pastor.	3	12
+569	te0467-02	Niso Pastor viejo.	8	35
+570	te0467-12	Marbelio, y Lirano, vandoleros.	7	31
+571	te0467-02	Niso Pastor viejo.	1	1
+572	te0467-08	Maroto Pastor.	2	7
+573	te0467-00	Don Gaston Cauallero.	2	6
+574	te0467-08	Maroto Pastor.	2	9
+575	te0467-03	Corbato Pastor.	2	5
+576	te0467-09	Ardenio Pastor.	2	9
+577	te0467-12	Marbelio, y Lirano, vandoleros.	32	160
+578	te0467-03	Corbato Pastor.	4	21
+579	te0467-09	Ardenio Pastor.	1	3
+580	te0467-02	Niso Pastor viejo.	1	3
+581	te0467-00	Don Gaston Cauallero.	10	51
+582	te0467-12	Marbelio, y Lirano, vandoleros.	6	28
+583	te0467-00	Don Gaston Cauallero.	12	48
+584	te0467-12	Marbelio, y Lirano, vandoleros.	3	10
+585	te0467-02	Niso Pastor viejo.	1	3
+586	te0467-00	Don Gaston Cauallero.	2	11
+587	te0467-12	Marbelio, y Lirano, vandoleros.	2	11
+588	te0467-02	Niso Pastor viejo.	3	13
+589	te0467-07	Gallardo.	3	11
+590	te0467-03	Corbato Pastor.	2	5
+591	te0467-00	Don Gaston Cauallero.	1	1
+592	te0467-03	Corbato Pastor.	2	9
+593	te0467-01	Don Guillen Comendador de Santiago.	1	1
+594	te0467-02	Niso Pastor viejo.	1	5
+595	te0467-07	Gallardo.	1	6
+596	te0467-02	Niso Pastor viejo.	1	1
+597	te0467-00	Don Gaston Cauallero.	1	4
+598	te0467-03	Corbato Pastor.	2	11
+599	te0467-07	Gallardo.	1	6
+600	te0467-02	Niso Pastor viejo.	1	6
+601	te0467-00	Don Gaston Cauallero.	4	19
+602	te0467-02	Niso Pastor viejo.	1	4
+603	te0467-07	Gallardo.	2	11
+604	te0467-09	Ardenio Pastor.	1	6
+605	te0467-00	Don Gaston Cauallero.	1	3
+606	te0467-08	Maroto Pastor.	2	7
+607	te0467-00	Don Gaston Cauallero.	2	8
+608	te0467-12	Marbelio, y Lirano, vandoleros.	6	27
+609	te0467-13	Vir.	1	1
+610	te0467-12	Marbelio, y Lirano, vandoleros.	2	8
+611	te0467-13	Vir.	6	31
+612	te0467-12	Marbelio, y Lirano, vandoleros.	3	17
+613	te0467-13	Vir.	2	6
+614	te0467-08	Maroto Pastor.	33	173
+615	te0467-06	Doña Petronila.	16	114
+616	te0467-01	Don Guillen Comendador de Santiago.	16	101
+617	te0467-06	Doña Petronila.	4	27
+618	te0467-01	Don Guillen Comendador de Santiago.	3	21
+619	te0467-06	Doña Petronila.	1	8
+620	te0467-07	Gallardo.	4	17
+621	te0467-01	Don Guillen Comendador de Santiago.	2	7
+622	te0467-07	Gallardo.	1	1
+623	te0467-01	Don Guillen Comendador de Santiago.	1	3
+624	te0467-07	Gallardo.	1	3
+625	te0467-01	Don Guillen Comendador de Santiago.	1	3
+626	te0467-07	Gallardo.	4	16
+627	te0467-01	Don Guillen Comendador de Santiago.	1	2
+628	te0467-07	Gallardo.	4	18
+629	te0467-01	Don Guillen Comendador de Santiago.	1	4
+630	te0467-07	Gallardo.	2	8
+631	te0467-06	Doña Petronila.	1	5
+632	te0467-01	Don Guillen Comendador de Santiago.	1	5
+633	te0467-07	Gallardo.	7	33
+634	te0467-01	Don Guillen Comendador de Santiago.	2	10
+635	te0467-06	Doña Petronila.	2	9
+636	te0467-01	Don Guillen Comendador de Santiago.	2	10
+637	te0467-07	Gallardo.	12	53
+638	te0467-01	Don Guillen Comendador de Santiago.	2	9
+639	te0467-06	Doña Petronila.	5	23
+640	te0467-07	Gallardo.	6	27
+641	te0467-00	Don Gaston Cauallero.	6	31
+642	te0467-06	Doña Petronila.	6	32
+643	te0467-01	Don Guillen Comendador de Santiago.	8	37
+644	te0467-00	Don Gaston Cauallero.	3	17
+645	te0467-12	Marbelio, y Lirano, vandoleros.	3	14
+646	te0467-01	Don Guillen Comendador de Santiago.	1	3
+647	te0467-08	Maroto Pastor.	38	185
+648	te0467-00	Don Gaston Cauallero.	1	2
+649	te0467-06	Doña Petronila.	1	2
+650	te0467-00	Don Gaston Cauallero.	11	53
+651	te0467-01	Don Guillen Comendador de Santiago.	1	4
+652	te0467-00	Don Gaston Cauallero.	1	6
+653	te0467-01	Don Guillen Comendador de Santiago.	5	21
+654	te0467-06	Doña Petronila.	1	5
+655	te0467-07	Gallardo.	2	11
+656	te0467-00	Don Gaston Cauallero.	1	3
+657	te0467-07	Gallardo.	2	6
+658	te0467-00	Don Gaston Cauallero.	3	7
+659	te0467-07	Gallardo.	2	6
+660	te0467-00	Don Gaston Cauallero.	1	3
+661	te0467-07	Gallardo.	2	8
+662	te0467-00	Don Gaston Cauallero.	1	3
+663	te0467-07	Gallardo.	10	46
+664	te0467-00	Don Gaston Cauallero.	1	2
+665	te0467-07	Gallardo.	2	8
+666	te0467-01	Don Guillen Comendador de Santiago.	1	4
+667	te0467-07	Gallardo.	7	40
+668	te0467-12	Marbelio, y Lirano, vandoleros.	2	11
+669	te0467-07	Gallardo.	4	18
+670	te0467-00	Don Gaston Cauallero.	3	18
+671	te0467-01	Don Guillen Comendador de Santiago.	5	21
+672	te0467-07	Gallardo.	4	20
+673	te0467-02	Niso Pastor viejo.	9	44
+674	te0467-09	Ardenio Pastor.	5	24
+675	te0467-02	Niso Pastor viejo.	5	26
+676	te0467-03	Corbato Pastor.	3	7
+677	te0467-02	Niso Pastor viejo.	1	3
+678	te0467-10	Montano Pastor	2	7
+679	te0467-03	Corbato Pastor.	1	3
+680	te0467-09	Ardenio Pastor.	2	9
+681	te0467-02	Niso Pastor viejo.	3	15
+682	te0467-12	Marbelio, y Lirano, vandoleros.	5	26
+683	te0467-00	Don Gaston Cauallero.	7	25
+684	te0467-06	Doña Petronila.	4	18
+685	te0467-00	Don Gaston Cauallero.	4	14
+686	te0467-01	Don Guillen Comendador de Santiago.	4	17
+687	te0467-12	Marbelio, y Lirano, vandoleros.	4	19
+688	te0467-06	Doña Petronila.	4	13
+689	te0467-00	Don Gaston Cauallero.	4	16
+690	te0467-01	Don Guillen Comendador de Santiago.	4	17
+691	te0467-12	Marbelio, y Lirano, vandoleros.	8	33
+692	te0467-00	Don Gaston Cauallero.	4	17
+693	te0467-01	Don Guillen Comendador de Santiago.	3	15
+694	te0467-12	Marbelio, y Lirano, vandoleros.	3	14
+695	te0467-06	Doña Petronila.	3	14
+696	te0467-00	Don Gaston Cauallero.	7	29
+697	te0467-12	Marbelio, y Lirano, vandoleros.	4	13
+698	te0467-06	Doña Petronila.	3	13
+699	te0467-00	Don Gaston Cauallero.	3	13
+700	te0467-01	Don Guillen Comendador de Santiago.	3	10
+701	te0467-12	Marbelio, y Lirano, vandoleros.	4	23
+702	te0467-13	Vir.	40	179
+703	te0467-00	Don Gaston Cauallero.	1	4
+704	te0467-06	Doña Petronila.	1	5
+705	te0467-01	Don Guillen Comendador de Santiago.	1	5
+706	te0467-12	Marbelio, y Lirano, vandoleros.	1	7
+707	te0467-00	Don Gaston Cauallero.	4	20
+708	te0467-12	Marbelio, y Lirano, vandoleros.	4	23
+709	te0467-11	Laurencia Pastora.	3	16
+710	te0467-00	Don Gaston Cauallero.	1	3
+711	te0467-02	Niso Pastor viejo.	1	2
+712	te0467-11	Laurencia Pastora.	12	56
+713	te0467-07	Gallardo.	8	39
+714	te0467-00	Don Gaston Cauallero.	13	53
+715	te0467-01	Don Guillen Comendador de Santiago.	4	16
+716	te0467-00	Don Gaston Cauallero.	3	13
