@@ -1,6 +1,6 @@
 # teatroespanol: Spanish Golden Age Drama Analysis
 
-This repository contains experimental, derivative data from some initial analyses into the network structure of Spanish Golden Age drama.
+This repository contains experimental, derivative data from some initial analyses into the network structure of Spanish Golden Age drama. Specifically, some data about 10 plays by Tirso de Molina and 10 plays by Calderón de la Barca. 
 
 * "myzf" = Data abstracted from the full plays as data about each speech, in the form of a csv file
 * "matrices" = Further abstraction as an adjacency matrix (speaker x speaker) as a csv file
